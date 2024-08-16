@@ -61,6 +61,59 @@ He tore from himself a handful of hairs that he chewed to pieces in his mouth. S
 
 They changed at once into more than a hundred Pilgrims: all having the same appearnce and all holding an iron rod, they surrounded the monster in midair.
 
+Somewhat alarmed, the monster also resorted to his speacial talent. He turned to face the ground to the southwest and opened his mouth thre times to blow out some air. Suddenly a mighty yellow wind arose in the sky. Dear wind! It was indeed powerful.
+```
+Cold and whistling, it changed Heaven and Earth,
+As yellow sand whirled without form or shape.
+It cut through woods and hills to break pines and plums;
+It tossed up dirt and dust, cracking crags and cliffs.
+Waves churned in Yellow River to cloud its floor;
+Tide and current swelled up at River Xiang.
+The Polestar Palace in the blue sky shook;
+The Hall of Darkness was almost blown down;
+The Five Hundred Arhats all yelled and screamed;
+The Eight Guards of Akṣobhya all cried and shrieked.
+Mañjuśrī‟s green-haired lion ran away;
+Viśvabhadra lost his white elephant.
+Snake and turtle of Zhenwu left their fold;
+Aflutter were the saddle-flaps of Zitong‟s mule.
+Traveling merchants sent their cries to Heaven,
+And boatmen bowed to make their many vows—
+Their mistlike lives awash in rolling waves;
+Their names, their fortunes, adrift in the tide!
+Caves on genie mountains were black as pitch;
+The isle of Penglai was gloomy and dark.
+Laozi could not tend his elixir oven;
+Age Star folded his fan of grapevine leaves.
+As Queen Mother went to the Peaches Feast,
+The wind blew her skirt and pins awry.
+Erlang lost his way to the Guanzhou town;
+Naṭa found it hard to pull out his sword.
+Li Jing missed the pagoda in his hand;
+Lu Ban dropped his golden-headed drill.
+While three stories of Thunderclap fell down,
+The stone bridge at Zhaozhou broke in twain.
+The orb of the red sun had little light;
+The stars of all Heaven grew obscure and faint.
+Birds of south mountains flew to northern hills;
+Water of east lakes spilled over to the west.
+Fowls with mates broke up, they ceased their calls;
+Mothers and sons parted, their cries turned mute.
+Dragon Kings sought yakṣas all over the sea;
+Thunder gods hunted lightnings every where.
+Ten Kings of Yama tried to find their judge;
+In Hell, Bull- Head ran after Horse- Face.
+This wind blew down the Potalaka Mount
+And whipped up one scroll of Guanyin‟s verse.
+White lotus-blooms, cut down, flew beside the sea;
+Twelve halls of the Bodhisattva were blown down.
+From Pan Gu till this time since wind was known,
+There never was wind with such ferocity.
+Hu-la-la!
+The universe did almost split apart!
+The whole world was one mighty trembling mass!
+```
+282
 # Vobs
 
 1. chase (v): đuổi bắt.
@@ -87,4 +140,6 @@ They changed at once into more than a hundred Pilgrims: all having the same appe
 22. as the saying goes: tục ngữ nói rằng, người ta nói rằng.
 23. parry (v): đỡ đòn, đỡ kiếm, trả miếng.
 24. Press (v): ép, nỗ lực để làm điều gì đó
+25. restore to (v): cuoi cung cung dung den mot thu gi do lau roi chua su dung
+26. 
 
