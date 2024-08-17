@@ -113,6 +113,12 @@ Hu-la-la!
 The universe did almost split apart!
 The whole world was one mighty trembling mass!
 ```
+This violent wind called up by the monster blew away all those little Pilgrims formed by the Great Sage's hairs and send them reeling through the air like so many spining wheels. unable even to wield their rods, how could they possibly hope to draw near to fight? Pilgrim was so alarmed that he shooke his body and retrived his hairs. He then lifted the iron rod and tried to attack the monster all by himself, only to be met by a mouthful of yellow wind right on his face. Those two fiery eyes with diamond pupils of his were so blasted that they shut tightly and could not be opened. No longer able to use his rod, he fled in defeat while the monster retrived the wind, which we shall mention no further.
+
+We tell you now about Zhu Eight Rules, who, when he saw the violent yellow windstom arriving and the whole of Heaven and Eath growing dim, led the horse and took the luggage to the fold of the mountain. There he crouched on the ground and refused to open his eyes or raise his head, his mouth incessantly calling on the name of Buddha and making vows. As he was wondering how Pilgrim was faring in his battle and where his master was dead or alive, the wind stopped and the sky brightened again, He looked up and peered toward the entrance of the cave, but he could neither see any movement of weapons nor hear the sound of gongs and drums.
+
+
+
 282
 # Vobs
 
