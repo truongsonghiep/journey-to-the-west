@@ -117,7 +117,19 @@ This violent wind called up by the monster blew away all those little Pilgrims f
 
 We tell you now about Zhu Eight Rules, who, when he saw the violent yellow windstom arriving and the whole of Heaven and Eath growing dim, led the horse and took the luggage to the fold of the mountain. There he crouched on the ground and refused to open his eyes or raise his head, his mouth incessantly calling on the name of Buddha and making vows. As he was wondering how Pilgrim was faring in his battle and where his master was dead or alive, the wind stopped and the sky brightened again, He looked up and peered toward the entrance of the cave, but he could neither see any movement of weapons nor hear the sound of gongs and drums.
 
+Idiot dare not approach the cave. since there was no one else to guard the horse and the luggage. Deeply distressed and not knowing what to do, he suddently hear the Great Sage approaching from the west, grunting and snorting as he came. Bowing to meet his companion, he said, "Elder brother, what a mighty wind, Where did you come from, with a wave of his hand, Pilgrim said: "Formidable! It's truly formidable! Since I, old monkey was born, I have never witnessed such a violent wind! that old monkey fought me with a steel trident, and we battled for over thirty rounds, It was then that I used the magic of the body beyond the body and had him surrounded. He panicked and called up this wind, which was ferocious indeed. Its force was so overwhelming that I had to suspend my operation and flee instead. Whew! What a wind! Whew! What a wind! Old Monkey also knows how to call up the wind and how to summon the rain, but it's hardly as vicious as the wind of this monster-spirit!" 
 
+*"Elder Brother,"* said Eight Rules, "how is the martial technique of that monster?"
+
+"It's presentable," said Pilgrim, "and he knows how to use the trident! He is, in fact, just about the equal of old Monkey. But that wind of his is vicious, and that makes it difficult to defeat him."
+
+*"In that case,"* said Eight Rules, *"how are we going to rescue Master?” Pilgrim said, “We‟ll have to wait to rescue Master. I wonder if there is any eye doctor around here who can take a look at my eyes."
+
+“What's the matter with your eyes?” asked Eight Rules. Pilgrim replied, “That monster blew a mouthful of wind on my face, and my eyes were so sorely blasted that they are now watering constantly.”
+
+"Elder Brother," said Eight Rules, “we are in the middle of a mountain, and it‟s getting late. Let's not talk about eye doctors; we don't even have a place to stay."
+ 
+*"It won't be difficut to find lodging"*, said Pilgrim, "I boubt that that monster has the gall to harm our master"
 
 282
 # Vobs
