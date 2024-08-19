@@ -129,7 +129,49 @@ Idiot dare not approach the cave. since there was no one else to guard the horse
 
 "Elder Brother," said Eight Rules, “we are in the middle of a mountain, and it‟s getting late. Let's not talk about eye doctors; we don't even have a place to stay."
  
-*"It won't be difficut to find lodging"*, said Pilgrim, "I boubt that that monster has the gall to harm our master"
+*"It won't be difficut to find lodging"*, said Pilgrim, "I boubt that that monster has the gall to harm our master, Let's find our way back to the main road and see wheter we can stay in a family. After spend a night, we can return to subdue the monster tomorow when it's light"
+
+"Exactly! exactly" agree Eight Rules.
+
+Leading the horse and carrying up the luggage, they left the fold of the mountain and went up the road. Dusk was setting in, and as they walked, they heard some sound of barking dogs toward the south of the mountain slope. Stopping to look, they saw a samll cottage with flickering plamlight. Not bothering to look for a path, the two of them walked throught the grass and arrived at the door of that household. They saw.
+
+*Dark clumps of purplish fungi;*<br>
+*Greyish piles of white stones;*<br>
+*Dark clumps of purplish fungi with much green grass*<br>
+Greyish piles of white stones half grown with moss:
+few specks of fireflies, their faint light aglow;
+A forest of wild woods stand in dense rows;
+Orchids ever fragrant;
+Bamboos newly planted;
+A clear stream flows a winding course;
+Old cedars lean o‟er a deep cliff.
+A secluded place where no travelers come:
+Only wild flowers bloom before the door.
+
+Not daring to enter without permission, they both called out;
+
+"Open the door! Open the door!"
+
+An old man inside appreared with several farmers, all holding rakes, pitchfork, and brooms.
+
+"How are you! who are you!" they asked, with a bow, Pilgrim said, We are disciples and a holy monk in the Great Tang in the land of the East. We are on our way to seek the scripture from the Buddha in the Westen Heaven, when we passed throught this mountain, and our master was captured by the Yellow Wind Great King. We have yet to rescue him. Since it getting late, we have come to ask for lobging for one night at your house. We begs you for this means of conveniens, Returning the bow, the old man said: Pardon me for not coming to greet you, “Pardon me for not coming to greet you. This is a
+place where clouds are more numerous than people, and when we heard you calling at
+the door just now, we were afraid that it might be someone like a wily fox, a tiger, or a
+bandit from the mountain. That‟s why my little ones might have offended you by their
+rather brusque manner. Please come in. Please come in.”
+The two brothers led the horse and hauled the luggage inside; after tying up the
+animal and putting down the load, they exchanged greetings again with the old man of
+the cottage before taking their seats. An old manservant then came forward to present
+tea, after which several bowls of sesame seed rice were brought out.
+After they had finished the rice, the old man asked for bedding to be laid out for
+them to sleep. Pilgrim said, “We don‟t need to sleep just yet. May I ask the good man
+whether there is in your region someone who sells eye medicine?”
+“Which one of you elders has eye disease?” asked the old man. Pilgrim said, “To
+tell you the truth, Venerable Sir, we who have left the family rarely become ill. In fact, I
+have never known any disease of the eye.” 
+
+
+
 
 282
 # Vobs
