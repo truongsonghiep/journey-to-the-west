@@ -102,11 +102,87 @@ Pilgrim said, *"To tell all of you the truth, old Monkey has run into a little o
 
 *"Spiritual root! Spiritual root!"* said Pilgrim. *"I have already uprooted it!"
 
-*"What do you mean by uprooted it?"* asked the three old men, greatly alarmed.
+*"What do you mean by uprooted it?"* asked the three old men, greatly alarmed. Pilgrim said:
 
-Pilgrim said, *"When we went to the Abbey the other day, the Great Immortal was not home, and only two lads received my master. They served him two ginseng fruits, but my master did not realize that they were fruits. Thinking that they were infants not yet three days old, he absolutely refused to eat them. The lads took them away and ate them without bothering even to share them with us. So, old Monkey went and stole three of the fruits for us three brothers to eat, but those two lads, without any sense of propriety, kept on calling us thieves. Old Monkey got mad and gave the tree a blow with his rod. When it fell to the ground, the fruits on it disappeared, the branches snapped, the leaves dropped, and it died with all its roots exposed. The lads tried to imprison us, but old Monkey broke their lock and left. Early next morning, their master came back and gave chase; we had a few rough exchanges with him which led eventually to a fight. In a flash, he flipped open that sleeve of his and bagged all of us. We were bound and shackled, interrogated and whipped for a whole day, but we managed to escape again that night. He caught up with us once more and took us captive. Mind you, there was not an inch of steel on him! He had only that yak"s tail to parry our blows, but none of the three weapons of us brothers could even touch him. And so he gave us more of the same treatment, wrapping my master and my two younger brothers in cloth coated with varnish but putting me in a pan of boiling oil. I then showed him my special talent for escape, but not before I had punctured his pan. When he saw that he could not hold me captive, he became somewhat intimidated, and that was when I sweet-talked him into freeing my master and my brothers with the promise that I would revive his tree for him. That"s how we came to a temporary truce. When I remembered the saying, The cure comes from the seas," I decided to pay you three old Brothers a visit in this lovely place. If you have any formula to cure the tree, please pass it on to me at once so that I can rescue the Tang Monk from his ordeal." When the Three Stars heard these words, they became distressed also. One of them said, "Monkey, you"re completely ignorant of people! That Master Zhenyuan is the patriarch of earthbound immortals, while we belong to the lineage of divine immortals. You may have some sort of position in Heaven, but you are only an irregular number in the Great Monad clan, and you have yet to attain an authentic rank. How could you possibly expect to escape from him? If you had killed some beast or bird, some insect or scaly creature, all you would need is one grain of my millet-elixir and it would be revived. The ginseng fruit, however, is the very root of all divine trees. How could it be healed? There"s no cure for it!" When Pilgrim heard that there was no cure available, his brow became completely furrowed.*
+*"When we went to the Abbey the other day, the Great Immortal was not home, and only two lads received my master. They served him two ginseng fruits, but my master did not realize that they were fruits. Thinking that they were infants not yet three days old, he absolutely refused to eat them.<br>
+The lads took them away and ate them without bothering even to share them with us. So, old Monkey went and stole three of the fruits for us three brothers to eat, but those two lads, without any sense of propriety, kept on calling us thieves. Old Monkey got mad and gave the tree a blow with his rod. When it fell to the ground, the fruits on it disappeared, the branches snapped, the leaves dropped, and it died with all its roots exposed. The lads tried to imprison us, but old Monkey broke their lock and left. Early next morning, their master came back and gave chase; we had a few rough exchanges with him which led eventually to a fight. In a flash, he flipped open that sleeve of his and bagged all of us. We were bound and shackled, interrogated and whipped for a whole day, but we managed to escape again that night. He caught up with us once more and took us captive. Mind you, there was not an inch of steel on him! He had only that yak"s tail to parry our blows, but none of the three weapons of us brothers could even touch him. And so he gave us more of the same treatment, wrapping my master and my two younger brothers in cloth coated with varnish but putting me in a pan of boiling oil. I then showed him my special talent for escape, but not before I had punctured his pan. When he saw that he could not hold me captive, he became somewhat intimidated, and that was when I sweet-talked him into freeing my master and my brothers with the promise that I would revive his tree for him. That"s how we came to a temporary truce. When I remembered the saying, The cure comes from the seas," I decided to pay you three old Brothers a visit in this lovely place. If you have any formula to cure the tree, please pass it on to me at once so that I can rescue the Tang Monk from his ordeal."*
 
+When the Three Stars heard these words, they became distressed also. One of them said:
 
+*"Monkey, you're completely ignorant of people! That Master Zhenyuan is the patriarch of earthbound immortals, while we belong to the lineage of divine immortals. You may have some sort of position in Heaven, but you are only an irregular number in the Great Monad clan, and you have yet to attain an authentic rank. How could you possibly expect to escape from him?<br>
+If you had killed some beast or bird, some insect or scaly creature, all you would need is one grain of my millet-elixir and it would be revived. The ginseng fruit, however, is the very root of all divine trees. How could it be healed? There's no cure for it!"*
+
+When Pilgrim heard that there was no cure available, his brow became completely furrowed.
+
+*"Great Sage,"* said the Star of Blessing, *"though there is no cure here, there may be one in another place. Why are you so dejected?"*
+
+*"Of course, I don't mind going to another place to seek a cure. It would have been a small matter indeed, even if I had to journey to the edge of the seas or make a complete tour of the thirty-six Heavens. But that Elder Tang of mine, who is neither tolerant nor magnanimous, has given me a limit of three days. If I don't return with something after three days, he'll start re citing the Tight- Fillet Spell."*
+
+*"Good! Good! Good!"* said the Three Stars, laughing. *"Had it not been for this little means of control, you would be crawling all over Heaven again!"*
+
+Then the Star of Longevity said, "Relax, Great Sage. Don't worry. Though that Great Immortal is our senior, he does know us. As we have not visited him for a long time, and as it is for the sake of the Great Sage, we three shall go and call on him right now. We‟ll express your concern to the Tang Monk and tell him not to recite the TightFillet Spell. Three days, four days—what‟s the difference? We won‟t leave them until you come back with the cure.
+
+*"Thank you! Thank you!"* said Pilgrim. *"Please get on with your journey, old Brothers. I'm off."* So the Great Sage took leave of them, and we shall say no more of that.
+
+We tell you now about the Stars, who mounted the auspicious luminosity and went straight to the Abbey of Five Villages. The crowd at the Abbey was milling about when suddenly the cries of cranes could be heard in the sky to announce the arrival of the three elders. You could see:
+
+*A sky lit up by sheens of auspicious light,<br>
+As sweet, unending fragrance filled the air.<br>
+Colored mist—a thousand strands—veiled the feathered gowns;<br>
+Fleecy clouds in petals held up the Immortals‟ feet<br>
+As green phoenixes flew<br>
+And red phoenixes soared.<br>
+Their sleeves sent a scented breeze to sweep the earth;<br>
+Their staffs, like hanging dragons, brought laughter gay;<br>
+Their beards swayed before them like medals of jade.<br>
+Their blithe, youthful features showed no grief or care;<br>
+Their strong, healthy frames were those of the blessed.<br>
+They held tallies of stars<br>
+To fill up the sea-mansions;<br>
+From their waists hung the gourds and precious scrolls.<br>
+Ten thousand decades—so grand was their age.<br>
+On the Three Islands and Ten Islets they freely lived.<br>
+They came to this world often to grant their boons<br>
+And increase man‟s blessings a hundredfold.<br>
+The whole, wide world<br>
+Bright with glory and wealth!<br>
+To have now endless blessing and endless life!<br>
+Three elders riding on halos saw the Immortal Great:<br>
+What boundless peace and blessing filled the hall!*
+
+When an immortal lad saw this, he ran to make the report:
+
+*"Master, the Three Stars from the sea have arrived."*
+
+Master Zhenyuan was just chatting with the Tang Monk and his disciples. Hearing the announcement, he went down the steps into the courtyard to receive the visitors. When Eight Rules saw the Star of Longevity, he grabbed him and said with a laugh:
+
+"You blubbery old codger! I haven't seen you for a long time, and you still look so dashing! Why, you didn't even bring along a hat!"
+
+Taking off his own monk's cap, he plopped it on the head of the Star, clapped his hands, and roared with laughter. "Fine! Fine! Fine!" he cried. "As the saying goes, „Put on the cap to increase riches!‟"
+
+Throwing away the cap, the Star of Longevity snapped back, *"You stupid coolie! You have absolutely no manners!"*
+
+*"I'm no coolie,"* said Eight Rules, *"but you are all knaves."*
+
+*"You are indeed a stupid coolie,"* said the Star of Blessing, *"and you even dare to call people knaves?"*
+
+*"If you are not the knaves of some household,"* said Eight Rules again, laughing, *"how is it that you come bearing the names: Increase Age, Increase Blessing, and Increase Wealth?"*
+
+At that moment, Tripitaka ordered Eight Rules to step back while he straightened his clothes quickly to greet the Three Stars, who in turn saluted the Great Immortal as a senior colleague before they dared take a seat. After they were seated, the Star of Wealth said:
+
+*"We apologize for not coming to pay our respects for such a long time. We came now especially to see you since we learned that the Great Sage Sun had caused some disturbance here."*
+
+"Has Pilgrim Sun been to Penglai already?" asked the Great Immortal.
+
+"Yes,"said the Star of Longevity. "As he had damaged the cinnabar tree of the Great Immortal, he came to our place to seek a cure. When he found out that we didn't have any, he went elsewhere in search of it. He was afraid, however, that he would exceed the time limit of three days set by the holy monk and provoke him to recite the Tight-Fillet Spell. That is the reason why we came to see you and to ask you for an extension of the limit."
+
+When Tripitaka heard this, he said repeatedly, *"I won't recite it! I won't recite it!"*
+
+As they talked, Eight Rules came running in again to tug at the Star of Blessing. Demanding that he be given some fruits to eat, he began to give the Star a complete search, poking into his sleeves, frisking his waist, and even lifting up the hem of his robe. 
+
+*"What sort of bad manners is that, Eight Rules?"* asked Tripitaka with a laugh.
+
+*"I'm not ill-mannered,"* said Eight Rules. *"This is called Every Turn's a Blessing."*
 
 # Vobs
 1. cure (n)    sự chữa bệnh
