@@ -182,7 +182,167 @@ As they talked, Eight Rules came running in again to tug at the Star of Blessing
 
 *"What sort of bad manners is that, Eight Rules?"* asked Tripitaka with a laugh.
 
-*"I'm not ill-mannered,"* said Eight Rules. *"This is called Every Turn's a Blessing."*
+*"I'm not ill-mannered,"* said Eight Rules. *"This is called `Every Turn's a Blessing`."*
+
+Tripitaka again ordered him to leave. As he slogged toward the door, Idiot turned and stared fiercely at the Star of Blessing.
+
+"Stupid coolie!" said the Star. "How have I offended you that you should be so mad at me?"
+
+"I‟m not mad at you," said Eight Rules. "I‟m just doing what they call `Turning Your Head to Look for Blessing`!"
+
+When Idiot went out of the door, he ran into a little lad holding four teaspoons while searching in the hall for the cups with which he could present tea. Eight Rules grabbed the spoons and ran into the main hall; picking up a sonorous stone, he began to strike it wildly with the spoons as he pranced about.
+
+"This monk," said the Great Immortal, "is becoming more and more undignified!" 
+
+"I‟m not undignified," said Eight Rules, laughing. "This is called the „Joyful
+Festivities of Four Seasons.‟"
+We shall now stop telling you about the pranks of Eight Rules and turn instead
+to Pilgrim, who mounted the auspicious clouds to leave Penglai and soon arrived at the
+Fangzhang Mountain. It was a lovely mountain indeed, for which we have the following
+testimonial poem.
+
+*The soaring Fangzhang, a Heaven itself,
+The primal palace where immortals meet:
+Purple towers light up the three pure paths;
+Floral scent floats up with five-colored mists.
+Gold phoenixes oft pause on the pearly arch.
+Who floods with jade cream the agaric fields?
+Pink peaches and purple plums newly ripened
+Announce an aeon‟s change among the gods.*
+
+
+Pilgrim lowered his cloud, but he was in no mood to enjoy the scenery. As he proceeded, he was met by a gentle scented breeze and by the sounds of black cranes. Then he saw in the distance an immortal, from whom
+
+*Ten thousand motley beams lit up the sky;<br>
+Colored mists soared in endless shafts of light.<br>
+His red phoenix‟s mouth held flowers fresh;<br>
+His green phoenix flew with canorous cries.<br>
+With luck like the sea and age like a mount,<br>
+He looked like a boy of sound, healthy frame.<br>
+His vase kept the cave-heaven‟s ageless drug;<br>
+A seal old as the sun hung from his waist.<br>
+He brought blessings to mankind severally<br>
+And saved the world a few times from distress.<br>
+King Wu summoned him to add to his age.<br>
+He always attended the Festival of Peach.<br>
+He taught the monks to break their worldly ties,<br>
+Revealing like lightning a great way to them.<br>
+He crossed the seas to wish a man long life,<br>
+And saw Buddha often at Spirit Mount.<br>
+His holy title: Grand Thearch of the East,<br>
+First of the immortals midst smoke and mist.*
+
+Somewhat shamefacedly, Pilgrim Sun met him and said, "Grand Thearch, I'm raising my hands!"
+
+The Grand Thearch hastened to return the salutation, saying, "Great Sage, forgive me for not going to meet you. Please come to my place and let me serve you tea."
+
+He then took the hands of Pilgrim and led him inside. It was truly a divine palace, where there were countless arches studded with pearloyster shells, jasper pools, and jade terraces. As they sat down to wait for their tea, a little lad stepped out from behind the jade screen. "How was he dressed?" you ask:
+
+*His body wore a Daoist robe of lustrous hues;<br>
+A bright silk sash was tied around his waist;<br>
+He trod the Dipper wearing a silk head wrap;<br>
+His feet shod straw sandals to tour fairy haunts.<br>
+Refining the pristinely real<br>
+He shed his original shell.<br>
+Merit achieved, he could do as he pleased.<br>
+He learned the source of spirit, sperm, and breath<br>
+As a master would know without mistake.<br>
+He fled from fame, now owning ageless life—<br>
+The months, the seasons had no hold on him.<br>
+Passing winding corridors<br>
+To ascend royal towers,<br>
+He palmed from Heaven gods‟ peaches three times.<br>
+In colored mist he left the kingfisher screens,<br>
+This lowly immortal named Dongfang Shuo.*
+
+When Pilgrim saw him, he laughed and said, "So, this little crook is here! But there's no peach at the Grand Thearch's place for you to steal and eat."
+
+Dongfang Shuo bowed to him and replied, "Old burglar! Why did you come? There's no divine elixir at my master's place for you to steal and eat."
+
+"Stop blabbering, Manqian," cried the Grand Thearch. "Bring us some tea."
+
+Manqian, you see, was the religious name of Dongfang Shuo. He hurried inside to fetch two cups of tea. After they had finished drinking, Pilgrim said:
+
+"Old Monkey came here to ask of you a favor. Will you grant me that?"
+
+"What favor?" said the Grand Thearch. "Please tell me."
+
+*"I recently became guardian of the Tang Monk on his westward journey,"* said Pilgrim. *"We were passing by the Abbey of Five Villages at the Long Life Mountain, where we were insulted by two young lads. My anger of the moment made me topple their Ginseng Fruit Tree, which led to the Tang Monk being detained for the time being.
+That's why I came to ask you for a cure. I hope you'll be generous about the matter."*
+
+*"You ape,"* said the Grand Thearch. *"You have no care for anything except to cause trouble everywhere. Master Zhenyuan of the Abbey of Five Villages, with the holy title of Lord, Equal to Earth,‟ happens to be the patriarch of earthbound immortals. How did you manage to offend someone like him? That Ginseng Fruit Tree of his, you know, is the grass of the reverted cinnabar. If you had stolen it and eaten it, you would be guilty already. Now you have gone so far as to knock the tree down. You think he'll let you get away with that?"*
+
+*"Exactly,"* said Pilgrim. *"We did escape, but he caught up with us and scooped us up in his sleeve as if we were handkerchiefs. It's a troublesome affair: since I could not prevail, I had to promise him that the tree would be cured. That's why I came to beg you."*
+
+The Grand Thearch said, *"I have one grain of the Great Monad Elixir of Nine Reversions. It can cure all the sentient creatures in the world, but it cannot cure trees. For trees are the spirits of earth and wood, nourished by Heaven and Earth. Moreover, the Ginseng Fruit Tree is no tree of the mortal world; if it were, you might find a cure for it. But the Long Life Mountain happens to be a Heavenly region, and the Abbey of Five Villages is a cave-heaven of the West Aparagodānīya Continent. And the Ginseng Fruit Tree produced there is a spiritual root that came into existence at the time of creation. How could it be healed? I have no cure, none whatever!"*
+
+*"If you have no cure, old Monkey will take his leave,"* said Pilgrim. The Grand Thearch would have liked to offer him a cup of jade nectar, but Pilgrim said, *"This is emergency business; I dare not linger."*
+
+He then mounted the clouds to proceed to the island of Yingzhou. This, too, was a lovely place, for which we have a testimonial poem. The poem says:
+
+*The elegant pearl tree aglow in purple mists;<br>
+Yingzhou‟s arches and towers touching the sky;<br>
+Green hills, blue waters, and fair coralline blooms;<br>
+Jade nectar, red steel, and the hard iron stone.<br>
+The five-colored cock crows at the sea‟s sunrise;<br>
+The red phoenix, ageless, breathes in scarlet mists.<br>
+In vain mortals would seek this gourd-held scene,<br>
+An endless spring beyond the world of forms.*
+
+Our Great Sage arrived at Yingzhou, where before the red cliffs and beneath the pearl trees sat several figures with luminous white hair and beards, immortals of youthful complexion. They were playing chess and drinking wine, telling jokes and singing songs. Truly there were
+
+*Hallowed clouds all filled with light;<br>
+Auspicious mists with fragrance afloat;<br>
+Colorful phoenixes calling at the cave‟s entrance;<br>
+Dark cranes dancing on top of the mountain.<br>
+Jadelike lotus roots and peaches went well with wine;<br>
+Magic pears and fire dates prolonged the years.<br>
+None of them had need to heed a royal summons,<br>
+Though the divine record had each of their names.<br>
+Wholly at ease, they could wander and play;<br>
+With no work or care, they could do as they please.<br>
+The months, the years had no hold on their lives;<br>
+Throughout the great world they were completely free.<br>
+How lovely were the black apes<br>
+Who came in pairs, bowing, to present the fruits!<br>
+How friendly are the white deer<br>
+Who lay down two by two with flowers in their mouths!*
+
+Those old men were enjoying themselves when our Pilgrim walked up to them and cried, *"How about letting me have some fun too?"* When the immortals saw him, they quickly rose to greet him. We have a poem as a testimony, and the poem says:
+
+*The spirit roots of the Ginseng Fruit Tree snapped;<br>
+The Great Sage called on the gods for a wondrous cure.<br>
+As scarlet light poured from the divine grove,<br>
+He was met by the Nine Elders of Yingzhou.*
+
+Recognizing the Nine Elders, Pilgrim said, laughing, *"Old Brothers, how content you are!"*
+
+*"If the Great Sage in years past had persevered in the truth,"* said the Nine Elders, *"and had not disrupted Heaven, he would be even more content than we are. But you are all right now. We heard that you had returned to the truth to seek Buddha in the West. Where do you find such leisure to come here?"*
+
+Pilgrim then gave a thorough account of his efforts to find a cure for the tree. Astounded, the Nine Elders said, *"You cause too much trouble! Just too much trouble. Honestly, we don't have any cure."*
+
+*"If you don't,"* said Pilgrim, *"I shall take leave of you."*
+
+The Nine Elders asked him to stay and drink some jade nectar and eat some lotus root. Pilgrim would not sit down but, standing, drank a glass of nectar and ate a piece of lotus. He then left Yingzhou swiftly and headed straight for the Great Eastern Ocean. Soon the Potalaka Mountain came in sight. Dropping down from the clouds, he went straight to the top of the mountain, where he saw the Bodhisattva Guanyin giving a lecture to the various celestial guardians, dragon-ladies, and Mokṣa in the purple bamboo grove. As a testimony, we have a poem which says:
+
+*The sea-mistress city‟s tall with thick hallowed air.,<br>
+Here you see countless marvelous things.<br>
+Know that the thousand vague and varied forms<br>
+Are all found in a book‟s one soundless leaf.<br>
+Four Noble Truths conferred will bear right fruit:<br>
+Six Stages, when listened to, will set you free.<br>
+This young grove has pleasures special and true:<br>
+Trees full of reddened fruits and fragrant flowers.*
+
+The Bodhisattva was the first to notice Pilgrim's arrival, and she asked the Great Mountain Guardian to go meet him. As he came out of the grove, the guardian shouted, *"Sun Wukong, where are you going?"*
+
+Raising his head, Pilgrim cried, *"Bear rascal! Is Wukong the name for you to take in vain? If old Monkey hadn't spared you back then, you would have been a corpse on the Black Wind Mountain. Today you are a follower of the Bodhisattva, for you have received the virtuous fruit and you have been made a resident of this immortal mountain so that you can listen frequently to the dharma teachings. Now, with all these benefits, can't you address me as Venerable Father?"*
+
+That Black Bear, you see, had indeed attained the right fruit, but the fact that he was made a guardian of the Potalaka and given the title "Great Guardian" was something that he owed to Pilgrim. So he really could not do anything but smile and say:
+
+*"Great Sage*, the ancients said, *The princely man does not dwell on old faults. Why mention my past? The Bodhisattva asked me to come meet you."*
+
+Our Pilgrim at once became solemn and earnest as he followed the Great Guardian to bow down to the Bodhisattva in the purple bamboo grove.
 
 # Vobs
 1. cure (n)    sự chữa bệnh
