@@ -344,6 +344,64 @@ That Black Bear, you see, had indeed attained the right fruit, but the fact that
 
 Our Pilgrim at once became solemn and earnest as he followed the Great Guardian to bow down to the Bodhisattva in the purple bamboo grove.
 
+*"Wukong,"* said the Bodhisattva, *"where has the Tang Monk reached in his journey?"*
+
+*"The Long Life Mountain, in the West Aparagodānīya Continent,"* said Pilgrim.
+
+*"In that Long Life Mountain,"* said the Bodhisattva, *"there is an Abbey of Five Villages, which is the home of the Zhenyuan Great Immortal. Did you come across him?"*
+
+Banging his head on the ground, Pilgrim said, *"It was all because of your disciple, who did not know the Zhenyuan Great Immortal at that Abbey of Five Villages. I offended him by damaging his tree, and he in turn held up my master, preventing him from making any progress in his journey."*
+
+*"You mischievous monkey!"* scolded the Bodhisattva, who already had knowledge of the whole affair. *"You don't know any better! That Ginseng Fruit Tree of
+his is the spiritual root planted by Heaven and nourished by Earth. Master Zhenyuan himself is also the patriarch of earthbound immortals, and even I must be somewhat
+deferential to him. Why did you damage his tree?"*
+
+Bowing low again, Pilgrim said, *"Your disciple was truly ignorant. The day when we arrived at the Abbey, Master Zhenyuan was not home, and only two immortal lads were there to receive us. It was Zhu Wuneng who discovered that they had these fruits, and he wanted to try one. Your disciple stole three such fruits, which we three
+brothers divided up among ourselves. When the lads found out, they kept on chiding us until I became so angry that I pushed down the tree. Their master returned the following day and caught up with us; after he had scooped us up with his sleeve, he had us bound and whipped, interrogating and torturing us for a whole day. We escaped that night, but he caught up with us again and took us captive as before. Two or three times it went on like this, and when I became convinced that it was impossible for us to flee, I promised him that I would heal the tree. I have just made a complete tour of the Three Islands seeking a cure from the sea, but none of the immortals was able to give me one. That's why your disciple has come to bow before you in all sincerity. I beg the Bodhisattva in her compassion to grant me a cure, so that the Tang Monk can soon journey toward the West."*
+
+*"Why didn't you come see me earlier?"* asked the Bodhisattva. *"Why did you go looking instead on the islands?"*
+
+When Pilgrim heard these words, he was secretly pleased and said to himself, *"What luck! What luck! The Bodhisattva must have a cure!"*
+
+He went forward again to beg some more, and the Bodhisattva said, *"The sweet dew in my immaculate vase can heal divine trees or spirit roots."*
+
+*"Have you tried this before?"* asked Pilgrim. "Indeed," said the Bodhisattva. *"When?"* asked Pilgrim.
+
+The Bodhisattva said, *"Some years ago Laozi had a wager with me: he took my willow twig and placed it in his elixir-refining brazier until it was completely dried and charred. Then he gave it back to me, and I stuck it in my vase. After one day and one night, I had my green twig and leaves again, as lovely as before."* 
+
+Laughing, Pilgrim said, *"I'm lucky! Truly lucky! If a scorched willow could be revived, what's so difficult about a tree that has been knocked over?"*
+
+The Bodhisattva then gave this order to the rest of her followers: *"Maintain your vigilance in the grove. I'll be back soon."*
+
+She left, balancing the immaculate vase in her hand; the white parrot flew ahead of her, while the Great Sage Sun followed from behind. We have a testimonial poem, and the poem says:
+
+*The world can't limn this jade-browed golden form:
+A God who pities and saves us from woes.
+As stainless Buddha she met kalpas past.
+A self which can do she has now attained.
+She calms passion‟s billows in many lives;
+Her moral nature is wholly unsoiled.
+The sweet dew, long charged with true wondrous might,
+Will bring the precious tree eternal life.*
+
+We now tell you about the Great Immortal, who was just having lofty conversations with the Three Elders when all at once they saw the Great Sage Sun drop down from the clouds and shout, *"The Bodhisattva has arrived. Come meet her quickly! Come meet her quickly!"*
+
+The Three Stars, Master Zhenyuan, Tripitaka, and his disciples all hurried out of the main hall. Stopping her sacred cloud, the Bodhisattva first exchanged greetings with Master Zhenyuan before bowing to the Three Stars. After the ceremony, she took the seat of honor as Pilgrim led the Tang monk, Eight Rules, and Sha Monk to bow to her. After that, the various immortals in the Abbey also came to greet her. *"Great Immortal,"* said Pilgrim, *"there's no need for further delay. You may as well prepare the table of incense at once and ask the Bodhisattva to heal that fruit tree of yours."*
+
+Bowing low to thank the Bodhisattva, the Great Immortal said, *"Why should the trivial affair of this plebeian be such a concern to the Bodhisattva that she would take the trouble of coming here?"*
+
+*"The Tang Monk is my disciple,"* said the Bodhisattva. *"If Sun Wukong has wronged you, it's only reasonable that he should make recompense and return your
+precious tree."*
+
+*"In that case,"* said the Three Stars, *"there's no further need for polite talk. May we ask the Bodhisattva to go to the garden and see what can be done?"*
+
+The Great Immortal gave the order to prepare an incense table and to sweep the grounds in the rear garden. The Bodhisattva was asked to lead the way, followed by the
+Three Elders, Tripitaka, his disciples, and the various immortals of the Abbey. When they arrived at the garden, they saw the tree lying on the ground—with the soil around it turned up, its roots exposed, its leaves fallen, and its branches dried up.
+
+*"Wukong,"* cried the Bodhisattva, *"stretch out your hand."* Pilgrim stretched out his left hand. Dipping the willow twig into the sweet dew of her vase, the Bodhisattva then used it as a brush and drew on the palm of Pilgrim a charm that had revivifying power. She told him to place his hand at the base of the tree and watch for the sign of water spurting out. His hand closed tightly, Pilgrim went to the base of the tree and placed his fist on the roots. In a little while, a clear spring welled up from the ground.
+
+The Bodhisattva said, *"That water cannot be touched by any instrument containing any one of the Five Phases. It must be scooped up by a jade ladle. Push the tree back up into an upright position; pour the water over it from the top down. The bark and the roots will grow back together again; the leaves will come out, the branches will turn green, and the fruits will appear."*
+
 # Vobs
 1. cure (n)    sự chữa bệnh
 2. Zhenyuan Great Immortal (n): Trấn Nguyên Đại Tiên
