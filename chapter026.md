@@ -402,6 +402,43 @@ Three Elders, Tripitaka, his disciples, and the various immortals of the Abbey. 
 
 The Bodhisattva said, *"That water cannot be touched by any instrument containing any one of the Five Phases. It must be scooped up by a jade ladle. Push the tree back up into an upright position; pour the water over it from the top down. The bark and the roots will grow back together again; the leaves will come out, the branches will turn green, and the fruits will appear."*
 
+*"Little Daoists,"* said Pilgrim, *"bring me a jade ladle, quickly."*
+
+*"Your humble Daoist lives in a rural area,"* said Master Zhenyuan, *"and there is no jade ladle available. We have only jade tea cups and jade wine goblets. Can they be used?"*
+
+*"As long as they are made of jade,"* said the Bodhisattva, *"and capable of bailing water, they will be all right. Bring them here."*
+
+The Great Immortal asked the little lads to take out some thirty jade tea cups and some fifty wine goblets with which they scooped up the clear water. Pilgrim, Eight Rules, and Sha Monk raised the tree into an upright position and covered its base with topsoil. They then handed the jade cups one by one to the Bodhisattva, who sprinkled the sweet liquid onto the tree with her willow branch as she recited a spell. Before long, she stopped sprinkling, and the tree turned green all at once with thick leaves and branches. Twenty-three ginseng fruits could be seen on top. Clear Breeze and Bright Moon, the two lads, said:
+
+*"When we discovered our loss the day before, we came up with only twenty-two fruits even after we had counted them over and over. Why is there an extra one today after it has been revived?"*
+
+*"Time will disclose the true intent of man,"* said Pilgrim. *"Old Monkey took only three the other day; the fourth one dropped to the ground and disappeared, for as
+the local spirit told me, this treasure would become assimilated once it touched earth. Eight Rules kept hollering about my skimming something off the top, and that was how my act was discovered. Only today is this whole mess cleared up."*
+
+The Bodhisattva said, *"That's why I didn't use any instrument containing the Five Phases just now, for I know that this thing and the Five Phases are mutually
+resistant."*
+
+Highly pleased, the Great Immortal asked for the gold mallet at once and had ten of the fruits knocked down. He then invited the Bodhisattva and the Three Elders to go back to the main hall, where a Festival of Ginseng Fruits would be given in their honor. The little immortals duly set the tables and took out the cinnabar trays, while the Bodhisattva was asked to take the seat of honor in the center. The Three Elders were seated at the table to the left, the Tank Monk was placed at the right, and Master Zhenyuan as the host took up the seat down below. We have a testimonial poem that says:
+
+
+*At Long Life Mountain's cave-heaven of old,
+Ginseng fruits ripen every nine thousand years.
+The spirit root exposed, hurting twigs and shoots;
+The sweet dew revives, fruits and leaves made whole.
+Three Elders gladly meet all these old chums;
+The four monks find by luck friends foreordained.
+Now they have learned to eat the ginseng fruits;
+They'll all be immortals who never age.*
+
+Presently the Bodhisattva and the Three Elders each ate a fruit. Finally convinced that this was a treasure of the immortals, the Tang Monk also ate one. Each of the three disciples also ate one, and Master Zhenyuan himself took one to keep his guests company. The last one of the fruits was divided among the other residents of the
+Abbey. Pilgrim thanked the Bodhisattva and the Three Stars, who went back to the Potalaka Mountain and Penglai Island, respectively. Master Zhenyuan also prepared
+some vegetarian wine for a banquet, during which he and Pilgrim became bondbrothers. As the proverb says, Without fighting they would not know each other; But now the two parties have become one household. Happily, master and disciples spent a restful night there. Thus it was with that Elder, who was
+
+*Lucky to have tasted the grass of reverted cinnabar;<br>
+His long life would endure the ordeals of ogres.*
+
+We do not know how they will part the following day; let's listen to the explanation in the next chapter.
+
 # Vobs
 1. cure (n)    sự chữa bệnh
 2. Zhenyuan Great Immortal (n): Trấn Nguyên Đại Tiên
