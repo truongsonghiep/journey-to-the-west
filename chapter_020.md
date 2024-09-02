@@ -1,4 +1,4 @@
-NINETEEN<br>
+NINETEEN
 # At Cloudy Paths Cave, Wukong takes in Eight Rules <br> At Pagoda Mountain, Tripitaka receives the Heart Sūtra
 We were telling you about the flaming light of the monster, who was fleeing, while the Great Sage riding the rosy clouds followed right behind. As they were thus proceeding, they came upon a tall mountain, where the monster gathered together the fiery shafts of light and resumed his original form. Racing into a cave, he took out a nine-pronged muckrake to fight.
 
