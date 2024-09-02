@@ -285,70 +285,50 @@ Alarmed, Wuneng said, *"Master, though I kept a vegetarian diet, I didn't cut ou
 
 *"In that case,"* said Tripitaka, *"you two brothers may take some of this pure wine. But you are not permitted to get drunk and cause trouble."* So the two of them
 took the first round before taking their seats again to enjoy the feast. We cannot tell you in full what a richly laden table that was, and what varieties of delicacies were presented.
-After master and disciples had been feted, old Mr. Gao took out a red lacquered
-tray bearing some two hundred taels of gold and silver in small pieces, which were to be
-presented to the three priests for travel expenses. There were, moreover, three outer
-garments made of fine silk. Tripitaka said, "We are mendicants who beg for food and
-drink from village to village. How could we accept gold, silver, and precious clothing?"
-Coming forward and stretching out his hand, Pilgrim took a handful of the
-money, saying, "Gao Cai, yesterday you took the trouble to bring my master here, with
-the result that we made a disciple today. We have nothing to thank you with. Take this
-as remuneration for being a guide; perhaps you can use it to buy a few pairs of straw
-sandals. If there are any more monsters, turn them over to me and I'll truly be grateful
-to you."
-Gao Cai took the money and kowtowed to thank Pilgrim for his reward. Old Mr.
-Gao then said, "If the masters do not want the silver and gold, please accept at least
-these three simple garments, which are but small tokens of our goodwill."
-"If those of us who have left the family," said Tripitaka again, "accept the bribe
-of a single strand of silk, we may fall into ten thousand kalpas from which we may
-never recover. It is quite sufficient that we take along the leftovers from the table as
-provisions on our way."
-Eight Rules spoke up from the side:
-"Master, Elder Brother, you may not want these things. But I was a sonin- law in
-this household for several years, and the payment for my services should be worth more
-than three stones of rice! Father, my shirt was torn by Elder Brother last night; please
-give me a cassock of blue silk. My shoes are worn also, so please give me a good pair of
-new shoes." When old Mr. Gao heard that, he dared not refuse; a new pair of shoes and
-a cassock were purchased at once so that Eight Rules could dispose of the old attire.
-Swaggering around, our Eight Rules spoke amiably to old Mr. Gao, saying,
-"Please convey my humble sentiments to my mother-inlaw, my great-aunt, my second
-aunt, and my uncle-in-law, and all my other relatives. Today I am going away as a
-monk, and please do not blame me if I cannot take leave of them in person. Father, do
-take care of my better half. If we fail in our quest for scriptures, I'll return to secular life
-and live with you again as your son-in-law."
-"Coolie!" shouted Pilgrim. "Stop babbling nonsense!"
-258
-258
-"It's not nonsense," said Eight Rules. "Sometimes I fear that things may go
-wrong, and then I could end up unable either to be a monk or to take a wife, losing out
-on both counts."
-"Less of this idle conversation!" said Tripitaka. "We must hurry up and leave."
-They packed their luggage, and Eight Rules was told to carry the load with a
-pole. Tripitaka rode on the white horse, while Pilgrim led the way with the iron rod
-across his shoulders. The three of them took leave of old Mr. Gao and his relatives and
-headed toward the West. We have a poem as testimony:
-The earth's mist-shrouded, the trees appear tall.
+
+After master and disciples had been feted, old Mr. Gao took out a red lacquered tray bearing some two hundred taels of gold and silver in small pieces, which were to be presented to the three priests for travel expenses. There were, moreover, three outer garments made of fine silk. Tripitaka said, *"We are mendicants who beg for food and drink from village to village. How could we accept gold, silver, and precious clothing?"*
+
+Coming forward and stretching out his hand, Pilgrim took a handful of the money, saying, *"Gao Cai, yesterday you took the trouble to bring my master here, with
+the result that we made a disciple today. We have nothing to thank you with. Take this as remuneration for being a guide; perhaps you can use it to buy a few pairs of straw sandals. If there are any more monsters, turn them over to me and I'll truly be grateful to you."*
+
+Gao Cai took the money and kowtowed to thank Pilgrim for his reward. Old Mr.Gao then said, *"If the masters do not want the silver and gold, please accept at least
+these three simple garments, which are but small tokens of our goodwill."*
+
+*"If those of us who have left the family,"* said Tripitaka again, *"accept the bribe of a single strand of silk, we may fall into ten thousand kalpas from which we may never recover. It is quite sufficient that we take along the leftovers from the table as provisions on our way."*
+
+Eight Rules spoke up from the side: *"Master, Elder Brother, you may not want these things. But I was a sonin- law in this household for several years, and the payment for my services should be worth more than three stones of rice! Father, my shirt was torn by Elder Brother last night; please give me a cassock of blue silk. My shoes are worn also, so please give me a good pair of new shoes."*
+
+When old Mr. Gao heard that, he dared not refuse; a new pair of shoes and a cassock were purchased at once so that Eight Rules could dispose of the old attire.
+Swaggering around, our Eight Rules spoke amiably to old Mr. Gao, saying, *"Please convey my humble sentiments to my mother-inlaw, my great-aunt, my second
+aunt, and my uncle-in-law, and all my other relatives. Today I am going away as a monk, and please do not blame me if I cannot take leave of them in person. Father, do take care of my better half. If we fail in our quest for scriptures, I'll return to secular life and live with you again as your son-in-law."*
+
+*"Coolie!"* shouted Pilgrim. *"Stop babbling nonsense!"*
+
+*"It's not nonsense,"* said Eight Rules. *"Sometimes I fear that things may go wrong, and then I could end up unable either to be a monk or to take a wife, losing out
+on both counts."*
+
+*"Less of this idle conversation!"* said Tripitaka. *"We must hurry up and leave."* They packed their luggage, and Eight Rules was told to carry the load with a
+pole. Tripitaka rode on the white horse, while Pilgrim led the way with the iron rod across his shoulders. The three of them took leave of old Mr. Gao and his relatives and headed toward the West. We have a poem as testimony:
+
+*The earth's mist-shrouded, the trees appear tall.
 The Buddha-son of Tang court ever toils.
 He eats in need rice begged from many homes;
 He wears when cold a robe patched a thousandfold.
 Holdfast at the breast the Horse of the Will!
 The Mind- Monkey is sly—let him not wail!
 Nature one with feelings, causes all joined —
-The moon's full of gold light when hair is shorn.
-The three of them proceeded toward the West, and for about a month it was an
-uneventful journey. When they crossed the boundary of Qoco, they looked up and saw a
-tall mountain. Tripitaka reined in his horse and said, "Wukong, Wuneng, there's a tall
-mountain ahead.
+The moon's full of gold light when hair is shorn.*
+
+The three of them proceeded toward the West, and for about a month it was an uneventful journey. When they crossed the boundary of Qoco, they looked up and saw a
+tall mountain. Tripitaka reined in his horse and said, "Wukong, Wuneng, there's a tall mountain ahead.
 We must approach it with care."
-"It's nothing!" said Eight Rules. "This mountain is called the Pagoda Mountain
-and a Crow's Nest Chan Master lives there, practicing austerities. Old Hog has met him
-before."
-"What's his business?" said Tripitaka. "He's fairly accomplished in the Way,"
-said Eight Rules, "and he once asked me to practice austerities with him. But I didn't
-go, and that was the end of the matter."
-As master and disciple conversed, they soon arrived at the mountain. What a
-splendid mountain! You see
-South of it, blue pines, jade-green junipers;
+*"It's nothing!"* said Eight Rules. *"This mountain is called the Pagoda Mountain and a Crow's Nest Chan Master lives there, practicing austerities. Old Hog has met him before."*
+
+*"What's his business?"* said Tripitaka. *"He's fairly accomplished in the Way,"* said Eight Rules, *"and he once asked me to practice austerities with him. But I didn't go, and that was the end of the matter."*
+
+As master and disciple conversed, they soon arrived at the mountain. What a splendid mountain! You see
+
+*South of it, blue pines, jade-green junipers;
 North of it, green willows, red peach trees.
 A clamorous din:
 The mountain fowls are conversing.
@@ -361,73 +341,43 @@ Diverse plants in forms exotic.
 In the stream green water flows bubbling;
 Before the cliff float petals of hallowed cloud.
 Truly a place of rare beauty, a well-secluded spot;
-Silence is all, not a man to be seen.
-As the master sat on his horse, peering into the distance, he saw on top of the
-fragrant juniper tree a nest made of dried wood and grass. To the left, musk deer carried
-259
-259
-flowers in their mouths; to the right, mountain monkeys were presenting fruits. At the
-top of the tree, blue and pink phoenixes sang together, soon to be joined by a
-congregation of black cranes and brightly colored pheasants. "Isn't that the Crow's Nest
-Chan Master?" asked Eight Rules, pointing. Tripitaka urged on his horse and rode up to
-the tree.
-We now tell you about that Chan Master, who, seeing the three of them
-approach, left his nest and jumped down from the tree.
-Tripitaka dismounted and prostrated himself. Raising him up with his hand, the
-Chan Master said, "Holy Monk, please arise! Pardon me for not coming to meet you."
-"Old Chan Master," said Eight Rules, "please receive my bow!"
-"Aren't you the Zhu Ganglie of the Fuling Mountain?" asked the Chan Master,
-startled. "How did you have the good fortune to journey with the holy monk?"
-"A few years back," said Eight Rules, "I was beholden to the Bodhisattva
-Guanyin for persuading me to follow him as a disciple."
-"Good! Good! Good!" said the Chan Master, greatly pleased. Then he pointed to
-Pilgrim and asked, "Who is this person?"
-"How is it that the old Chan recognizes him," said Pilgrim, laughing, "and not
-me?"
-"Because I haven't had the pleasure of meeting you," said the Chan Master.
-Tripitaka said, "He is my eldest disciple, Sun Wukong." Smiling amiably, the Chan
-Master said, "How impolite of me!"
-Tripitaka bowed again and asked about the distance to the Great Thunderclap
-Temple of the Western Heaven. "It's very far away! Very far away!" said the Chan
-Master. "What's more, the road is a difficult one, filled with tigers and leopards." With
-great earnestness, Tripitaka asked again, "Just how far is it?"
-"Though it may be very far," answered the Chan Master, "you will arrive there
-one day. But all those māra hindrances along the way are hard to dispel. I have a Heart
-Sūtra here in this scroll; it has fifty-four sentences containing two hundred and seventy
-characters. When you meet these māra hindrances, recite the sūtra and you will not
-suffer any injury or harm."
-Tripitaka prostrated himself on the ground and begged to receive it, whereupon
-the Chan Master imparted the sūtra by reciting it orally. The sūtra said:
-HEART SŪTRA OF THE GREAT PERFECTION OF WISDOM When the Bodhisattva Guanzizai was
-moving in the deep course of the Perfection of Wisdom, she saw that the five heaps were but emptiness,
-and she transcended all sufferings. Śārīputra, form is no different from emptiness, emptiness no different
-from form; form is emptiness, and emptiness is form. Of sensations, perceptions, volition, and
-consciousness, the same is also true. Śārīputra, it is thus that all dharmas are but empty appearances,
-neither produced nor destroyed, neither defiled nor pure, neither increasing nor decreasing. This is why in
-emptiness there are no forms and no sensations, perceptions, volition, or consciousness; no eye, ear, nose,
-tongue, body, or mind; no form, sound, smell, taste, touch, or object of mind. There is no realm of sight;
-[and so forth], until we reach the realm of no mind-consciousness; there is no ignorance, nor is there
-extinction of ignorance; [and so forth], until we reach the stage where there is no old age and death, nor is
-there the extinction of old age and death; there is no suffering, annihilation, or way; there is no cognition
-or attainment. Because there is nothing to be attained, the mind of the Bodhisattva, by virtue of reliance
-upon the Perfection of Wisdom, has no hindrances: no hindrances, and therefore, no terror or fear; he is
-far removed from error and delusion, and finally reaches Nirvāṇa. All the Buddhas of the three worlds
-rely on the Perfection of Wisdom, and that is why they attain the ultimate and complete enlightenment.
-Know, therefore, that the Perfection of Wisdom is a great divine spell, a spell of great illumination, a spell
-260
-260
-without superior, and a spell without equal. It can do away with all sufferings—such is the unvarnished
-truth. Therefore, when the Spell of the Perfection of Wisdom is to be spoken, say this spell: "Gate! Gate!
-Pāragate! Pārasaṃgate! Bodhisvāhā!"
-Now because that master of the law from the Tang court was spiritually
-prepared, he could remember the Heart Sūtra after hearing it only once. Through him, it
-has come down to us this day. It is the comprehensive classic for the cultivation of
-Perfection, the very gateway to becoming a Buddha.
-After the transmission of the sūtra, the Chan Master trod on the cloudy
-luminosity and was about to return to his crow's nest.
-Tripitaka, however, held him back and earnestly questioned him again about the
-condition of the road to the West. The Chan Master laughed and said:
-"The way is not too hard to walk;
+Silence is all, not a man to be seen.*
+
+As the master sat on his horse, peering into the distance, he saw on top of the fragrant juniper tree a nest made of dried wood and grass. To the left, musk deer carried flowers in their mouths; to the right, mountain monkeys were presenting fruits. At the top of the tree, blue and pink phoenixes sang together, soon to be joined by a congregation of black cranes and brightly colored pheasants. *"Isn't that the Crow's Nest Chan Master?"* asked Eight Rules, pointing. Tripitaka urged on his horse and rode up to the tree.
+
+We now tell you about that Chan Master, who, seeing the three of them approach, left his nest and jumped down from the tree. Tripitaka dismounted and prostrated himself. Raising him up with his hand, the Chan Master said, *"Holy Monk, please arise! Pardon me for not coming to meet you."*
+
+*"Old Chan Master,"* said Eight Rules, *"please receive my bow!"
+
+*"Aren't you the Zhu Ganglie of the Fuling Mountain?"* asked the Chan Master, startled. *"How did you have the good fortune to journey with the holy monk?"*
+
+*"A few years back,"* said Eight Rules, *"I was beholden to the Bodhisattva Guanyin for persuading me to follow him as a disciple."*
+
+*"Good! Good! Good!"* said the Chan Master, greatly pleased. Then he pointed to Pilgrim and asked, *"Who is this person?"*
+
+*"How is it that the old Chan recognizes him,"* said Pilgrim, laughing, *"and not me?"*
+
+*"Because I haven't had the pleasure of meeting you,"* said the Chan Master. Tripitaka said, *"He is my eldest disciple, Sun Wukong."* Smiling amiably, the Chan
+
+Master said, *"How impolite of me!"*
+
+Tripitaka bowed again and asked about the distance to the Great Thunderclap Temple of the Western Heaven. *"It's very far away! Very far away!"* said the Chan Master. *"What's more, the road is a difficult one, filled with tigers and leopards."* With great earnestness, Tripitaka asked again, *"Just how far is it?"*
+
+*"Though it may be very far,"* answered the Chan Master, *"you will arrive there one day. But all those māra hindrances along the way are hard to dispel. I have a Heart Sūtra here in this scroll; it has fifty-four sentences containing two hundred and seventy characters. When you meet these māra hindrances, recite the sūtra and you will not suffer any injury or harm."*
+
+Tripitaka prostrated himself on the ground and begged to receive it, whereupon the Chan Master imparted the sūtra by reciting it orally. The sūtra said:
+
+*HEART SŪTRA OF THE GREAT PERFECTION OF WISDOM When the Bodhisattva Guanzizai was moving in the deep course of the Perfection of Wisdom, she saw that the five heaps were but emptiness, and she transcended all sufferings. Śārīputra, form is no different from emptiness, emptiness no different from form; form is emptiness, and emptiness is form. Of sensations, perceptions, volition, and consciousness, the same is also true. Śārīputra, it is thus that all dharmas are but empty appearances,
+neither produced nor destroyed, neither defiled nor pure, neither increasing nor decreasing. This is why in emptiness there are no forms and no sensations, perceptions, volition, or consciousness; no eye, ear, nose, tongue, body, or mind; no form, sound, smell, taste, touch, or object of mind. There is no realm of sight;
+[and so forth], until we reach the realm of no mind-consciousness; there is no ignorance, nor is there extinction of ignorance; [and so forth], until we reach the stage where there is no old age and death, nor is there the extinction of old age and death; there is no suffering, annihilation, or way; there is no cognition
+or attainment. Because there is nothing to be attained, the mind of the Bodhisattva, by virtue of reliance upon the Perfection of Wisdom, has no hindrances: no hindrances, and therefore, no terror or fear; he is far removed from error and delusion, and finally reaches Nirvāṇa. All the Buddhas of the three worlds rely on the Perfection of Wisdom, and that is why they attain the ultimate and complete enlightenment.
+Know, therefore, that the Perfection of Wisdom is a great divine spell, a spell of great illumination, a spell without superior, and a spell without equal. It can do away with all sufferings—such is the unvarnished truth. Therefore, when the Spell of the Perfection of Wisdom is to be spoken, say this spell: "Gate! Gate!
+Pāragate! Pārasaṃgate! Bodhisvāhā!"*
+
+Now because that master of the law from the Tang court was spiritually prepared, he could remember the Heart Sūtra after hearing it only once. Through him, it
+has come down to us this day. It is the comprehensive classic for the cultivation of Perfection, the very gateway to becoming a Buddha. After the transmission of the sūtra, the Chan Master trod on the cloudy luminosity and was about to return to his crow's nest. Tripitaka, however, held him back and earnestly questioned him again about the condition of the road to the West. The Chan Master laughed and said:
+
+*"The way is not too hard to walk;
 Try listening to what I say.
 thousand hills and waters deep;
 Places full of goblins and snags;
@@ -448,21 +398,18 @@ You'll meet ahead a water sprite.
 An old stone ape of many years
 Now nurses over there his spite!
 Just ask that acquaintance of yours:
-Well he knows the way to the West."
-Hearing this, Pilgrim laughed with scorn and said, "Let's go. Don't ask him, ask
-me! That's enough!"
-Tripitaka did not perceive what he meant. The Chan Master, changing into a
-beam of golden light, went straight up to his crow's nest, while the priest bowed toward
-him to express his gratitude. Enraged, Pilgrim lifted his iron rod and thrust it upward
-violently, but garlands of blooming lotus flowers were seen together with a thousandlayered shield of auspicious clouds. Though Pilgrim might have the strength to overturn
-rivers and seas, he could not catch hold of even one strand of the crow's nest. When
-Tripitaka saw this, he pulled Pilgrim back, saying, "Wukong, why are you jabbing at the
-nest of a bodhisattva like him?"
-"For leaving like that after abusing both my brother and me," said Pilgrim. "He
-was speaking of the way to the Western Heaven," said Tripitaka. "Since when did he
-abuse you?"
+Well he knows the way to the West."*
 
-*"Didn't you get it?"* asked Pilgrim. "He said, A wild pig totes a hauling pole, and insulted Eight Rules. „An old stone ape of many years ridiculed old Monkey. How
+Hearing this, Pilgrim laughed with scorn and said, *"Let's go. Don't ask him, ask me! That's enough!"*
+
+Tripitaka did not perceive what he meant. The Chan Master, changing into a beam of golden light, went straight up to his crow's nest, while the priest bowed toward
+him to express his gratitude. Enraged, Pilgrim lifted his iron rod and thrust it upward violently, but garlands of blooming lotus flowers were seen together with a thousandlayered shield of auspicious clouds. Though Pilgrim might have the strength to overturn rivers and seas, he could not catch hold of even one strand of the crow's nest.
+
+When Tripitaka saw this, he pulled Pilgrim back, saying, *"Wukong, why are you jabbing at the nest of a bodhisattva like him?"*
+
+*"For leaving like that after abusing both my brother and me,"* said Pilgrim. *"He was speaking of the way to the Western Heaven,"* said Tripitaka. *"Since when did he abuse you?"*
+
+*"Didn't you get it?"* asked Pilgrim. *"He said, A wild pig totes a hauling pole, and insulted Eight Rules. An old stone ape of many years ridiculed old Monkey. How
 else would you explain that?"*
 
 *"Elder Brother,"* said Eight Rules, *"don't be angry. This Chan Master does know the events of past and future. Let's see if his statement, You'll meet ahead a water
