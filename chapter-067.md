@@ -303,173 +303,92 @@ Eight Rules indeed let go and the fiend slithered inside the hole. *"Before I le
 
 Pilgrim said, *"This fellow has quite a hefty body. The hole is so small that he can never turn around inside. He has to move in a straightforward manner, and there has to be also a rear entrance. Go find it quickly and bar the hole. I'll attack him from the front entrance here."*
 
-Idiot dashed past the mountain, where he indeed discovered another hole. He paused, but he had hardly stood still when Pilgrim at the front entrance sent a terrific jab with his rod into the hole. In great pain, the fiendish creature darted out of the rear entrance. Caught off guard, Eight Rules was struck down by his tail and, unable to get up again, he lay on the ground to nurse his pain.
+Idiot dashed past the mountain, where he indeed discovered another hole. He paused, but he had hardly stood still when Pilgrim at the front entrance sent a terrific jab with his rod into the hole. In great pain, the fiendish creature darted out of the rear entrance. Caught off guard, Eight Rules was struck down by his tail and, unable to get up again, he lay on the ground to nurse his pain. When Pilgrim saw that the hole was empty, he picked up his rod and ran over to the rear, shouting for Eight Rules to chase the fiend. On hearing Pilgrim's voice, Eight Rules became so embarrassed that, regardless of his pain, he scrambled up and began to beat the ground madly with his rake. When he saw him, Pilgrim laughed and said, *"The fiend's gone! What are you doing that for?"*
 
+Eight Rules said, *"Old Hog's here Beating the Bush to Stir the Snake."* *"What a living Idiot!"* said Pilgrim. *"Let's chase him!"*
 
+The two of them ran past a brook, when they found the fiend had coiled himself into a mound on the ground. Rearing his head, he opened wide his huge mouth and
+wanted to devour Eight Rules. Terrified, Eight Rules turned and fled, but our Pilgrim went forward to meet him and was swallowed by the fiend in one gulp. Pounding his chest and stamping his feet, Eight Rules screamed, *"Alas, Elder Brother! You're dead!"*
 
+Inside the stomach of the monster-spirit, Pilgrim held up his iron rod and said, *"Don't worry, Eight Rules. Let me ask him to build a bridge for you to see!"*
 
+He stuck his rod up a bit more, and the fiendish creature had to raise his torso until he resembled a bow-shaped bridge. *"He looks like a bridge, alright,"* said Eight Rules, *"but no one would dare walk on it."
 
+*"Let me ask him again to change into a boat for you to see,"* said Pilgrim. He plunged the iron rod downward; with the stomach hugging the ground and the head
+upraised, the fiendish creature looked like a sloop from the Kan River district. *"He may look like a boat,"* said Eight Rules, *"but there is no top mast for him to
+use the wind."*
 
+*"Get out of the way,"* said Pilgrim, *"and I'll make him use the wind for you to see."* Using all his strength, Pilgrim pushed his iron rod upward from the spine of the fiendish creature until it reached a height of some seventy feet and the shape of a mast.
 
+In desperate pain and struggling for his life, the fiend shot forward, faster than any windblown vessel, and made for the road on which he came. Some twenty miles down the mountain, he finally fell motionless to the dust and expired. Eight Rules caught up with him from behind and attacked him madly once more with his rake. Meanwhile, Pilgrim ripped a big hole in the creature's body and crawled out, saying, *"Idiot, he's dead already. Why use your rake on him?"*
 
+*"Oh, Elder Brother,"* said Eight Rules, *"don't you know that old Hog all his life has loved to strike at dead snakes?"*
 
+They thus put away their weapons and dragged the creature back by his tail. We tell you now about the Old Li in the Tuoluo Village; he and the rest of the
+people said to the Tang Monk, *"For a whole night your two disciples have not returned. They must have lost their lives."*
 
-When Pilgrim saw that the hole was empty, he picked up his rod and ran over to
-the rear, shouting for Eight Rules to chase the fiend.
-On hearing Pilgrim's voice, Eight Rules became so embarrassed that, regardless
-of his pain, he scrambled up and began to beat the ground madly with his rake. When he
-saw him, Pilgrim laughed and said, *"The fiend's gone! What are you doing that for?"
-Eight Rules said, *"Old Hog's here Beating the Bush to Stir the Snake.‟"* *"What
-a living Idiot!"* said Pilgrim. *"Let's chase him!"
-The two of them ran past a brook, when they found the fiend had coiled himself
-into a mound on the ground. Rearing his head, he opened wide his huge mouth and
-wanted to devour Eight Rules. Terrified, Eight Rules turned and fled, but our Pilgrim
-went forward to meet him and was swallowed by the fiend in one gulp. Pounding his
-chest and stamping his feet, Eight Rules screamed, *"Alas, Elder Brother! You're dead!"
-Inside the stomach of the monster-spirit, Pilgrim held up his iron rod and said, *"Don't
-worry, Eight Rules. Let me ask him to build a bridge for you to see!"
-He stuck his rod up a bit more, and the fiendish creature had to raise his torso
-until he resembled a bow-shaped bridge. *"He looks like a bridge, alright,"* said Eight
-Rules, *"but no one would dare walk on it."
-"Let me ask him again to change into a boat for you to see,"* said Pilgrim. He
-plunged the iron rod downward; with the stomach hugging the ground and the head
-upraised, the fiendish creature looked like a sloop from the Kan River district.
-"He may look like a boat,"* said Eight Rules, *"but there is no top mast for him to
-use the wind."
-"Get out of the way,"* said Pilgrim, *"and I'll make him use the wind for you to
-see."* Using all his strength, Pilgrim pushed his iron rod upward from the spine of the
-fiendish creature until it reached a height of some seventy feet and the shape of a mast.
-In desperate pain and struggling for his life, the fiend shot forward, faster than any
-windblown vessel, and made for the road on which he came. Some twenty miles down
-the mountain, he finally fell motionless to the dust and expired. Eight Rules caught up
-with him from behind and attacked him madly once more with his rake. Meanwhile,
-Pilgrim ripped a big hole in the creature's body and crawled out, saying, *"Idiot, he's
-dead already.
-Why use your rake on him?"
-"Oh, Elder Brother,"* said Eight Rules, *"don't you know that old Hog all his life
-has loved to strike at dead snakes?"
-They thus put away their weapons and dragged the creature back by his tail.
-We tell you now about the Old Li in the Tuoluo Village; he and the rest of the
-people said to the Tang Monk, *"For a whole night your two disciples have not returned.
-They must have lost their lives."
-"I don't think it's that serious,"* said Tripitaka. *"Let us go out to have a look
-first."* Soon they caught sight of Pilgrim and Eight Rules approaching, dragging a huge
-python behind them and shouting to clear the way. Only then did the people become
-delighted; the old and young, the men and women of the entire village all came to
-kowtow and say, *"Holy Fathers, this is the very monster-spirit that has taken many lives
-883
-883
-here. We are fortunate to have you exercise your power today and extirpate the fiendish
-deviate, for now our lives are secure."
-All the households were filled with gratitude, so much so that each one of them
-insisted on thanking the pilgrims with gifts and feasting. Master and disciples were
-detained for nearly a week, and only after much pleading on their part were they
-permitted to leave.
-When the people saw that the pilgrims refused to accept any kind of monetary
-rewards, they all prepared some dried goods and fruits.
-With laden horses and mules, colored banners and red ribbons, they came to say
-farewell. There were only five hundred families in the region, but those who came to
-send them off numbered more than seven hundred.
-They journeyed amiably, and in a little while they arrived at the entrance of the
-Pulpy Persimmon Alley in the Mountain of Seven Extremes. When Tripitaka smelled
-the wretched odor and saw how clogged the road was, he said, *"Wukong, how could we
-pass through?"
-Clamping his hand over his nose, Pilgrim said, *"This is rather difficult!"* When
-Tripitaka heard him say *"difficult,"* tears dropped from his eyes. Old Li and others went
-forward and said, *"Father, please do not be anxious. When we accompanied you here,
-we had already made up our minds. Since your noble disciples subdued the monsterspirit for us and delivered the entire village from such calamity, we are all determined to
-open up a road for you to pass through."
-"Oldie,"* said Pilgrim, smiling, *"your words aren't very reasonable! You told us
-earlier that the distance across this mountain is some eight hundred miles. You are no
-celestial engineers under the command of the Great Yu, Conqueror of the Flood. How
-could you blast open mountains and build roads? If you want my master to get across
-the ridge, it's up to us again to exert ourselves. None of you can do something like this."
-As he dismounted, Tripitaka said, *"Wukong, how are you going to exert
-yourself?"
-"If you want to cross this mountain in the twinkling of an eye,"* said Pilgrim,
-smiling, *"that's difficult. If you want to build another road, that's difficult, too. We have
-to push through, using the old alley, but right now, I fear that no one will take care of
-our meals."
-"Don't talk like that, Elder!"* said Old Li. *"No matter how long you four are
-delayed here, we can support you. How could you say that no one would take care of
-your meals!"
-"In that case,"* said Pilgrim, *"go and prepare two piculs of dried rice, and make
-some steamed buns and breads also. Let that priest of ours with a long snout eat to his
-fill. He'll then change into a huge hog to shovel out the old road. Our master will ride
-the horse and we'll accompany him. We'll get across."* On hearing this, Eight Rules
-said, *"Elder Brother, all of you want to be clean. How could you ask old Hog alone to
-become stinky?"
-"Wuneng,"* said Tripitaka, *"if you truly have the ability to shovel out the alley
-and lead me across the mountain, I'll have it recorded that you are ranked first in merit
-on this occasion."* With a laugh, Eight Rules said, *"Master, you and the rest of our
-venerable patrons here should not tease me. I, old Hog, after all, am capable of thirty-six
-884
-884
-kinds of transformation. If you want me to change into something delicate, elegant, and
-agile, I simply can't do it. But if it's a mountain, a tree, a boulder, an earth mound, a
-scabby elephant, a graded hog, a water buffalo, or a camel, I can change into all these
-things. The only thing is that if I change into something big, my appetite is going to be
-even bigger. I must be satisfactorily fed before I can work."
-"We have the stuff! We have the stuff!"* cried the people. *"We have all brought
-along dried goods, fruits, baked biscuits, and assorted pastries. We were planning to
-present them to you after you had crossed the mountain. We'll take them out now for
-you to enjoy. When you have assumed your transformation and begun your work, we'll
-send people back to the village to prepare more rice for you."
-Filled with delight, Eight Rules took off his black cloth shirt and dropped his
-nine-pronged rake. *"Don't tease me!"* he said to the people. *"Watch old Hog achieve
-this stinky merit!"
-Dear Idiot! Making the magic sign with his fingers, he shook his body once and
-changed indeed into a huge hog. Truly he had
-A long snout and short hair—all rather plump.
-He fed on herbs of the mountain since his youth.
-A black face with round eyes like the sun and moon;
-A round head with huge ears like plantain leaves.
-His bones were made lasting as Heaven's age;
-Tougher than iron was his thick skin refined.
-In deep nasal tones he made his oink-oink cry.
-What gutteral grunts when he puffed and huffed!
-Four white hoofs standing a thousand feet tall;
-Swordlike bristles topped a hundred-yard frame.
-Mankind had long seen fatted pigs and swine,
-But never till today this old hog elf.
-The Tang Monk and the people all gave praise;
-At such high magic pow‟r they were amazed.
-When Pilgrim Sun saw this transformation of Eight Rules, he ordered those
-people who accompanied them to put their dried goods into a huge pile so that Eight
-Rules could enjoy the foodstuff. Without regard for whether it was cooked or raw, Eight
-Rules went forward and gulped down all of it. Then he proceeded to shovel out a path.
-Pilgrim asked Sha Monk to take off his shoes and to pole the luggage with care. He told
-his master to sit firmly on the carved saddle, while he himself also took off his boots.
-Then he gave this instruction to the people:
-"If you are grateful, go and prepare some rice quickly for my brother's
-sustenance."* Over half of those seven hundred people who accompanied the pilgrims to
-send them off came along with horses and mules; they, therefore, dashed back to the
-village like shooting stars to prepare the rice. The rest of the people, some three hundred
-of them, had come on foot, and these stood below the mountain and watched the
-pilgrims depart. The distance between the village and the mountain, you see, was some
-thirty miles. By the time the people went back to the village and returned with the rice,
-master and disciples were almost a hundred miles away. Not willing to let them go,
-however, the people urged their horses and mules into the alley and spent the night
-traveling. Only by morning did they succeed in catching up with the pilgrims. *"Holy
-Fathers who are going to acquire scriptures,"* they cried, *"please slow down! Please
-885
-885
-slow down! We are bringing you rice!"* On hearing these words, the elder was filled
-with gratitude. *"Truly they are kind and faithful people!"* he said. Then he asked Eight
-Rules to stop so that he could take some rice for strength. Our Idiot had been shoveling
-for one whole day and night, and he was beginning to feel keenly his hunger. Though
-there were more than seven or eight piculs of rice brought by those people, he gulped it
-all down, regardless of whether it was rice or other types of grain. After a hearty meal,
-he proceeded again to shovel out the road.
-Tripitaka, Pilgrim, and Sha Monk thanked the people and took leave of them. So
-it is that
-The Tuoluo villagers return to their homes,
-While Eight Rules opens up a mountain path.
-Divine might upholds devout Tripitaka;
-Wukong shows magic and the demon fails.
-An aeon's Pulp Persimmons this day are cleansed;
-Henceforth the Seven Extremes‟ Alley is unclogged.
-Six forms of desires having all been purged.
-In peace, unhindered, they'll bow to lotus seats.
-We do not know how great a distance they still must travel or what sort of fiends
-they may encounter; let's listen to the explanation in the next chapter.
+*"I don't think it's that serious,"* said Tripitaka. *"Let us go out to have a look first."* Soon they caught sight of Pilgrim and Eight Rules approaching, dragging a huge python behind them and shouting to clear the way. Only then did the people become delighted; the old and young, the men and women of the entire village all came to kowtow and say, *"Holy Fathers, this is the very monster-spirit that has taken many lives here. We are fortunate to have you exercise your power today and extirpate the fiendish deviate, for now our lives are secure."*
+
+All the households were filled with gratitude, so much so that each one of them insisted on thanking the pilgrims with gifts and feasting. Master and disciples were
+detained for nearly a week, and only after much pleading on their part were they permitted to leave. When the people saw that the pilgrims refused to accept any kind of monetary rewards, they all prepared some dried goods and fruits. With laden horses and mules, colored banners and red ribbons, they came to say farewell. There were only five hundred families in the region, but those who came to send them off numbered more than seven hundred.
+
+They journeyed amiably, and in a little while they arrived at the entrance of the Pulpy Persimmon Alley in the Mountain of Seven Extremes. When Tripitaka smelled
+the wretched odor and saw how clogged the road was, he said, *"Wukong, how could we pass through?"*
+
+Clamping his hand over his nose, Pilgrim said, *"This is rather difficult!"* When Tripitaka heard him say *"difficult,"* tears dropped from his eyes. Old Li and others went forward and said, *"Father, please do not be anxious. When we accompanied you here, we had already made up our minds. Since your noble disciples subdued the monsterspirit for us and delivered the entire village from such calamity, we are all determined to open up a road for you to pass through."*
+
+*"Oldie,"* said Pilgrim, smiling, *"your words aren't very reasonable! You told us earlier that the distance across this mountain is some eight hundred miles. You are no celestial engineers under the command of the Great Yu, Conqueror of the Flood. How could you blast open mountains and build roads? If you want my master to get across the ridge, it's up to us again to exert ourselves. None of you can do something like this."*
+
+As he dismounted, Tripitaka said, *"Wukong, how are you going to exert yourself?"*
+
+*"If you want to cross this mountain in the twinkling of an eye,"* said Pilgrim, smiling, *"that's difficult. If you want to build another road, that's difficult, too. We have to push through, using the old alley, but right now, I fear that no one will take care of our meals."*
+
+*"Don't talk like that, Elder!"* said Old Li. *"No matter how long you four are delayed here, we can support you. How could you say that no one would take care of
+your meals!"*
+
+*"In that case,"* said Pilgrim, *"go and prepare two piculs of dried rice, and make some steamed buns and breads also. Let that priest of ours with a long snout eat to his fill. He'll then change into a huge hog to shovel out the old road. Our master will ride the horse and we'll accompany him. We'll get across."*
+
+On hearing this, Eight Rules said, *"Elder Brother, all of you want to be clean. How could you ask old Hog alone to become stinky?"*
+
+*"Wuneng,"* said Tripitaka, *"if you truly have the ability to shovel out the alley and lead me across the mountain, I'll have it recorded that you are ranked first in merit on this occasion."*
+
+With a laugh, Eight Rules said, *"Master, you and the rest of our venerable patrons here should not tease me. I, old Hog, after all, am capable of thirty-six kinds of transformation. If you want me to change into something delicate, elegant, and agile, I simply can't do it. But if it's a mountain, a tree, a boulder, an earth mound, a scabby elephant, a graded hog, a water buffalo, or a camel, I can change into all these things. The only thing is that if I change into something big, my appetite is going to be even bigger. I must be satisfactorily fed before I can work."*
+
+*"We have the stuff! We have the stuff!"* cried the people. *"We have all brought along dried goods, fruits, baked biscuits, and assorted pastries. We were planning to present them to you after you had crossed the mountain. We'll take them out now for you to enjoy. When you have assumed your transformation and begun your work, we'll send people back to the village to prepare more rice for you."*
+
+Filled with delight, Eight Rules took off his black cloth shirt and dropped his nine-pronged rake. *"Don't tease me!"* he said to the people. *"Watch old Hog achieve
+this stinky merit!"*
+
+Dear Idiot! Making the magic sign with his fingers, he shook his body once and changed indeed into a huge hog. Truly he had
+
+*A long snout and short hair—all rather plump.<br>
+He fed on herbs of the mountain since his youth.<br>
+A black face with round eyes like the sun and moon;<br>
+A round head with huge ears like plantain leaves.<br>
+His bones were made lasting as Heaven's age;<br>
+Tougher than iron was his thick skin refined.<br>
+In deep nasal tones he made his oink-oink cry.<br>
+What gutteral grunts when he puffed and huffed!<br>
+Four white hoofs standing a thousand feet tall;<br>
+Swordlike bristles topped a hundred-yard frame.<br>
+Mankind had long seen fatted pigs and swine,<br>
+But never till today this old hog elf.<br>
+The Tang Monk and the people all gave praise;<br>
+At such high magic pow‟r they were amazed.*
+
+When Pilgrim Sun saw this transformation of Eight Rules, he ordered those people who accompanied them to put their dried goods into a huge pile so that Eight Rules could enjoy the foodstuff. Without regard for whether it was cooked or raw, Eight Rules went forward and gulped down all of it. Then he proceeded to shovel out a path. Pilgrim asked Sha Monk to take off his shoes and to pole the luggage with care. He told his master to sit firmly on the carved saddle, while he himself also took off his boots.
+
+Then he gave this instruction to the people: *"If you are grateful, go and prepare some rice quickly for my brother's sustenance."* Over half of those seven hundred people who accompanied the pilgrims to send them off came along with horses and mules; they, therefore, dashed back to the village like shooting stars to prepare the rice. The rest of the people, some three hundred of them, had come on foot, and these stood below the mountain and watched the pilgrims depart. The distance between the village and the mountain, you see, was some thirty miles. By the time the people went back to the village and returned with the rice, master and disciples were almost a hundred miles away. Not willing to let them go, however, the people urged their horses and mules into the alley and spent the night traveling. Only by morning did they succeed in catching up with the pilgrims. *"Holy Fathers who are going to acquire scriptures,"* they cried, *"please slow down! Please slow down! We are bringing you rice!"*
+
+On hearing these words, the elder was filled with gratitude.*"Truly they are kind and faithful people!"* he said. Then he asked Eight Rules to stop so that he could take some rice for strength. Our Idiot had been shoveling for one whole day and night, and he was beginning to feel keenly his hunger. Though there were more than seven or eight piculs of rice brought by those people, he gulped it all down, regardless of whether it was rice or other types of grain. After a hearty meal, he proceeded again to shovel out the road. Tripitaka, Pilgrim, and Sha Monk thanked the people and took leave of them. So it is that
+
+*The Tuoluo villagers return to their homes,<br>
+While Eight Rules opens up a mountain path.<br>
+Divine might upholds devout Tripitaka;<br>
+Wukong shows magic and the demon fails.<br>
+An aeon's Pulp Persimmons this day are cleansed;<br>
+Henceforth the Seven Extremes‟ Alley is unclogged.<br>
+Six forms of desires having all been purged.<br>
+In peace, unhindered, they'll bow to lotus seats.*
+
+We do not know how great a distance they still must travel or what sort of fiends they may encounter; let's listen to the explanation in the next chapter.
