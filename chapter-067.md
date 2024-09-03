@@ -392,3 +392,65 @@ Six forms of desires having all been purged.<br>
 In peace, unhindered, they'll bow to lotus seats.*
 
 We do not know how great a distance they still must travel or what sort of fiends they may encounter; let's listen to the explanation in the next chapter.
+
+# Vobs
+Tuoluo: đà la
+Chan Nature: Chân Thiên Nhiên
+
+filthiness: sự bẩn thỉu
+
+
+Little Western Heaven: tiểu tây thiên
+
+fade/fading: phai dần, tàn úa
+
+squall: cơn giông
+
+rein: kiềm lại
+
+
+thatched hut: túp lều lợp mái tranh
+
+tent: túp lều bằng vải dù
+
+anxious: lo lắng
+
+collapse: sụp đổ
+
+staff: cây gậy
+
+Pulpy Persimmon Alley: hẻm hồng giòn
+
+Seven Extremes: thất tuyệt (7 điều không lành)
+
+fragrant: thơm
+
+tug: kéo/dựt nhẹ (áo)
+
+Gonggong: ông ngoại
+
+Tuoluo Village: đà la trang
+
+menace: de dọa/hăm dọa/dọa nạt
+
+
+coffin: quan tai
+
+yank: giựt lại một cái
+
+lance: ngọn giáo
+
+
+linger: nán lại
+
+privy: nhà xí
+
+rear: ở phía sau
+
+
+chase: dduoir theo
+
+
+flood : lũ lụt
+
+snout: mõm
