@@ -445,3 +445,60 @@ We do not know how they will part the following day; let's listen to the explana
 3. reputation: danh tiếng
 4. indulge: lam dung
 5. wizardry: phap thuat
+obstacle halway: chướng ngại trên đường
+
+plaintly (adv): một cách rõ ràng
+
+
+The Abbey of Five Villages: Ngũ Trang quán
+
+whiff: mùi tỏa ra
+
+cultivation: sự tu luyện
+
+cultivate: tu luyện/trao dồi
+
+nourish: nuôi dưỡng
+
+uproot: bứng gốc
+
+
+dejected (adj): chan nan
+
+tolerant (adj): khoan dung
+
+magnanimous (rộng luọng): 
+
+
+crawl (bò)
+
+Had it not been for
+
+the sake of
+
+
+get on with : bắt đầu/tiếp tục việc gì đso
+
+
+auspicious: điềm lành/phước lành
+
+luminosity: ánh sáng
+
+
+crowd: đám đông
+
+lad: nguoi trai trang/tre tuoi
+
+grab: vo lay, xo den
+
+
+blubbery: beo
+
+dashing (adj): hang ho hoat bat
+
+
+plop: nem xuong
+
+knave: nguoi day to
+
+manners: cach cu xu, phong tuc/tap quan
