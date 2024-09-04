@@ -479,9 +479,38 @@ I doubt that he'll ever dare do this again."* Sha Monk thereupon rolled up the b
 and put the luggage in order, after which Great Sage Sun untied the horse to lead the
 Tang Monk into the woods to see what had happened. Ah! So it is that
 You must take care in the pursuit of truth
-To purge desires, and you'll enter the Real.
-We do not know what sort of good or evil was in store for the Idiot; let's listen
-to the explanation in the next chapter.
-311
-311
-TWE
+
+To purge desires, and you'll enter the Real. We do not know what sort of good or evil was in store for the Idiot; let's listen to the explanation in the next chapter.
+
+# Vobs
+the priestly mind: tâm tu hành
+
+decree:	sắc lệnh
+
+sly: gian xảo, ranh mãnh
+
+mean: hèn hạ, hèn mọn
+
+whip (n/v): cây roi da/đánh bằng roi
+
+kick up: nổi lên/tung ra
+
+swiftly: nhanh chóng
+
+restrain: kiềm chế
+
+saddle: yên ngựa
+
+brazen: trơ tráo
+
+scold: mắng
+
+shelter: nơi trú ẩn
+
+the furtive: kẻ lén lút
+
+amiable: dễ mến, thiện cảm
+
+mute: người câm
+
+isolent: sấc xược
