@@ -175,7 +175,79 @@ have never known any disease of the eye.”
 
 282
 # Vobs
+violent: hung bao, du doi
 
+call up : trieu hoi, goi
+
+reel: cuon, quay cuong
+
+spinning wheel: vong quay
+
+wield: su dung
+
+retrieve: lay lai
+
+lift: nang len
+
+only to be met by: chi de gap phai, vap phai (dieu khong mong muon)
+
+pupils: dong tu
+
+blast: no tung
+
+shut tightly: dong chat
+
+flee/fled: chay tron, chuon, tau thoat
+
+fold mountain: hem nui
+
+
+crouch: cui minh, co rum, khum num
+
+incessantly: không ngừng
+
+
+vows: loi the
+
+peered toward: nhin cham cham ve phia truoc
+ 
+gongs : cong chien
+ 
+ 
+distressed: dau kho, buon rau
+ 
+witness/witnessed: chung kien
+ 
+formidable: ghie gom, dang gom
+ 
+vicious: hung ac, tan bao
+ 
+boubt: nghi ngo
+ 
+the gall: co gan
+ 
+subdue: khuat phuc, che ngu
+ 
+mountain slope: suon nui
+ 
+cottage: ngoi nha tranh
+
+lamplight: anh den (ban)
+
+flickering: nhap nhay
+
+clump of: dam, cum
+
+purplish: mau tia
+
+fungi: nam
+ 
+ 
+
+
+
+
+ 
 1. chase (v): đuổi bắt.
 2. slope (n): sườn dốc.
 3. deliberation (n): sự cân nhắc, suy xét.
