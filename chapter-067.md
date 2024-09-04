@@ -446,6 +446,77 @@ linger: nán lại
 privy: nhà xí
 
 rear: ở phía sau
+slog (v): bước đi nhọc nhằn
+
+mad (v): giận
+
+offend (v): xúc phạm
+
+
+strike (v): đánh 
+
+
+prank (n): trò đùa
+
+
+Fangzhang Mountain
+
+
+
+breeze: làng gió nhẹ
+
+shamefacedly một cách ngượngn ngung/xấu hổ
+
+
+hasten (v): vội vã
+
+crook <n>: kẻ gian/kẻ lừa đảo
+
+Dongfang Shuo
+
+grain: ngũ cốc
+
+linger (v): nán lại, trì hoãn
+
+
+content (adj): hài lòng/vui thích
+
+
+grove (n): rừng cây
+
+
+banging: dập đầu mạnh
+
+held: 
+
+mischievous: tinh nghich/ngich ngom
+
+
+scold: mắng
+
+a wager: một vụ các cược
+
+
+charred: cháy xém
+
+
+dip: nhúng
+
+twig: cành nhỏ
+
+scoop: múc
+
+
+ladle: môi
+
+rural: nông thôn
+
+huble: khiem ton
+
+disclose: tiết lộ
+
+
+
 
 
 chase: dduoir theo
