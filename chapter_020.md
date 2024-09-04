@@ -417,3 +417,32 @@ sprite, will be fulfilled or not. Let's spare him and leave."*
 
 Pilgrim saw the lotus flowers and auspicious fog near the nest, and he had little alternative than to ask his master to mount so that they could descend from the mountain and proceed toward the West. Lo, their journey Thus shows that in man's world pure leisure is rare, But evils and ogres are rife in the hills!
 We really do not know what took place in the journey ahead; let's listen to the explanation in the next chapter.
+
+# Vobs
+Cloudy Paths Cave (n): động Vân Sạn
+
+Pagoda Mountain (n): Phù Đồ Sơn
+
+Heart Sutra (n): Bát nhã tâm kinh
+
+flee: bỏ chạy, tẩu thoát
+
+rosy (adj): sắc hồng
+
+resume (v): hồi phục lại/khôi phục lại/khôi
+
+brace yourself: hãy chuẩn bị tinh thần
+
+dim (adj): mờ nhạt
+
+small wonder...: chẳng ngạc nhiên khi...
+
+don't give me any lip: đừng có hỗn láo với ta
+
+toleran (adj) một cách khoan dung
+
+gut: cơn gió ngắn nhưng mạnh
+
+like it or not: dù muốn hay không
+
+mumble: lẩm bẩm
