@@ -194,79 +194,43 @@ stoves?"*
 
 Eight Rules said, *"Brother, don't play tricks on people. Let's discuss the matter further."*
 
+*"What's there to discuss?"* said Pilgrim. *"If you are willing, Master and that woman will become in-laws, and you will be the son-in-law who lives in the girl's home. With such riches and such treasures in this family, you will no doubt be given a huge dowry and a nice banquet to greet the kinsfolk, which all of us can also enjoy. Your return to secular life here will in fact benefit both parties concerned."*
+
+*"You can say that all right,"* said Eight Rules, *"but for me it's a matter of fleeing the secular life only to return to secular life, of leaving my wife only to take another wife."*
+
+*"So, Second Brother already has a wife?"* said Sha Monk.
+
+*"You didn't realize,"* Pilgrim said, *"that originally he was the son-in-law of Mr. Gao of the Old Gao Village, in the Kingdom of Qoco. Since I defeated him, and since he had earlier received the commandments from the Bodhisattva, he had little choice but to follow the priestly vocation.<br>
+That's the reason he abandoned his former wife to follow Master and to go worship Buddha in the Western Heaven. I suppose he has felt the separation keenly and has been brooding on it for some time.<br>
+Just now, when marriage was mentioned, he must have been sorely tempted. Idiot, why don't you become the son-in-law of this household? Just make sure that you make a few extra bows to old Monkey, and you won't be reprimanded!"*
 
 
+*"Nonsense! Nonsense!"* said Idiot. *"Each one of us is tempted, but you only want old Hog to be embarrassed. The proverb says, **A monk is the preta of sensuality,** and which one of us can truly say that he doesn't want this? But you have to put on a show, and your histrionics have ruined a good thing. Now we can't even get a drop of tea or water, and no one is tending the lamps or fires. We may last through the night, but I doubt that the horse can: he has to carry someone tomorrow and walk again, you know. If he goes hungry for a night, he might be reduced to a skeleton. You people sit here, while old Hog goes to graze the horse."*
 
+Hastily, Idiot untied the reins and pulled the horse outside.
 
+*"Sha Monk,"* said Pilgrim, *"you stay here and keep Master company. I'll follow him and see where he is going to graze the horse."*
 
+*"Wukong,"* said Tripitaka, *"you may go and see where he's going, but don't ridicule him."*
 
+*"I know,"* said Pilgrim. The Great Sage walked out of the main hall, and with one shake of his body he changed into a red dragonfly. He flew out of the front gate and caught up with Eight Rules.
 
+Idiot pulled the horse out to where there was grass, but he did not graze him there. Shouting and whooping, he chased the horse instead to the rear of the house, where he found the woman standing outside the door with three girls, enjoying the sight of some chrysanthemums. When mother and daughters saw Eight Rules approaching, the three girls slipped inside the house at once, but the woman stood still beside the door and said, *"little elder, where are you going?"*
 
-----------------------------------------
+Our Idiot threw away the reins and went up to greet her with a most friendly *"Hello!"* Then he said, *"Mama, I came to graze the horse."*
 
-*"What's there to discuss?"* said Pilgrim. *"If you are willing, Master and that
-woman will become in-laws, and you will be the son-in-law who lives in the girl's
-home. With such riches and such treasures in this family, you will no doubt be given a
-huge dowry and a nice banquet to greet the kinsfolk, which all of us can also enjoy.
-Your return to secular life here will in fact benefit both parties concerned."*
-*"You can say that all right,"* said Eight Rules, *"but for me it's a matter of fleeing
-the secular life only to return to secular life, of leaving my wife only to take another
-wife."*
-*"So, Second Brother already has a wife?"* said Sha Monk. *"You didn't realize,”
-Pilgrim said, *"that originally he was the son-in-law of Mr. Gao of the Old Gao Village,
-in the Kingdom of Qoco. Since I defeated him, and since he had earlier received the
-commandments from the Bodhisattva, he had little choice but to follow the priestly
-vocation. That's the reason he abandoned his former wife to follow Master and to go
-worship Buddha in the Western Heaven. I suppose he has felt the separation keenly and
-has been brooding on it for some time. Just now, when marriage was mentioned, he
-must have been sorely tempted. Idiot, why don't you become the son-in-law of this
-household? Just make sure that you make a few extra bows to old Monkey, and you
-won't be reprimanded!"*
-“Nonsense! Nonsense!"* said Idiot. *"Each one of us is tempted, but you only
-want old Hog to be embarrassed. The proverb says, „A monk is the preta of sensuality,‟
-and which one of us can truly say that he doesn't want this? But you have to put on a
-show, and your histrionics have ruined a good thing. Now we can't even get a drop of
-tea or water, and no one is tending the lamps or fires. We may last through the night, but
-I doubt that the horse can: he has to carry someone tomorrow and walk again, you
-know. If he goes hungry for a night, he might be reduced to a skeleton. You people sit
-here, while old Hog goes to graze the horse."*
-Hastily, Idiot untied the reins and pulled the horse outside. *"Sha Monk,"* said
-Pilgrim, *"you stay here and keep Master company. I'll follow him and see where he is
-going to graze the horse."*
-305
-305
-“Wukong,"* said Tripitaka, *"you may go and see where he's going, but don't
-ridicule him."*
-“I know,"* said Pilgrim. The Great Sage walked out of the main hall, and with
-one shake of his body he changed into a red dragonfly. He flew out of the front gate and
-caught up with Eight Rules.
-Idiot pulled the horse out to where there was grass, but he did not graze him
-there. Shouting and whooping, he chased the horse instead to the rear of the house,
-where he found the woman standing outside the door with three girls, enjoying the sight
-of some chrysanthemums. When mother and daughters saw Eight Rules approaching,
-the three girls slipped inside the house at once, but the woman stood still beside the door
-and said, *"little elder, where are you going?"* Our Idiot threw away the reins and went
-up to greet her with a most friendly *"Hello!"*
-Then he said, *"Mama, I came to graze the horse."*
-*"Your master is much too squeamish,"* said the woman. *"If he took a wife in our
-family, he would be much better off, wouldn't he, than being a mendicant trudging to
-the West?"*
-“Well, they all have received the command of the Tang emperor,"* said Eight
-Rules, with a laugh, *"and they haven't the courage to disobey the ruler's decree. That's
-why they are unwilling to do this thing. Just now they were all trying to play tricks on
-me in the front hall, and I was somewhat embarrassed because I was afraid that Mama
-would find my long snout and large ears too offensive."*
-“I don't, really."* said the woman. *"And since we have no master of the house,
-it's better to take one than none at all. But I do fear that my daughters may find you
-somewhat unattractive."*
-“Mama,"* said Eight Rules, *"please instruct your noble daughters not to choose
-their men that way. Others may be more handsome, but they usually turn out to be quite
-useless. Though I may be ugly, I do live by certain principles."*
-“And what are they?"* asked the woman. Eight Rules replied,
-“Though I may be somewhat ugly,
-I can work quite diligently.
-A thousand acres of land, you say?
-No need for oxen to plow it.
+*"Your master is much too squeamish,"* said the woman. *"If he took a wife in our family, he would be much better off, wouldn't he, than being a mendicant trudging to the West?"*
+
+*"Well, they all have received the command of the Tang emperor,"* said Eight Rules, with a laugh, *"and they haven't the courage to disobey the ruler's decree. That's why they are unwilling to do this thing. Just now they were all trying to play tricks on
+me in the front hall, and I was somewhat embarrassed because I was afraid that Mama would find my long snout and large ears too offensive."*
+
+*"I don't, really."* said the woman. *"And since we have no master of the house, it's better to take one than none at all. But I do fear that my daughters may find you somewhat unattractive."*
+
+*"Mama,"* said Eight Rules, *"please instruct your noble daughters not to choose their men that way. Others may be more handsome, but they usually turn out to be quite useless. Though I may be ugly, I do live by certain principles."*
+
+*"And what are they?"* asked the woman. Eight Rules replied, *"Though I may be somewhat ugly, I can work quite diligently. A thousand acres of land, you say?*"
+
+*No need for oxen to plow it.
 I'll go over it once with my rake,
 And the seeds will grow in season.
 When there's no rain I can make rain.
@@ -277,36 +241,29 @@ If the grounds are not swept I'll give them a sweep.
 If the gutter's not drained I'll draw it for you.
 All things both great and small around the house
 I am able to do most readily."*
-“If you can work around the house,"* said the woman, *"you should discuss the
-matter again with your master. If there's no great inconvenience, we'll take you."*
-“No need for further discussion,"* said Eight Rules, *"for he's no genuine parent
-of mine. Whether I want to do this or not is for me to decide."*
-306
-306
-“All right, all right,"* said the woman. *"Let me talk to my girls first."* She slipped
-back inside immediately and slammed the rear door shut. Eight Rules did not graze the
-horse there either, but led it back to the front. Little did he realize, however, that Great
-Sage Sun had heard everything. With wings outstretched, the Great Sage flew back to
-see the Tang Monk, changing back into his original form. *"Master,"* he said, *"Wuneng
-is leading the horse back here."*
-“Of course he's leading the horse,"* said the Tang Monk, *"for if he doesn't, it
-may run away in a fit of mischief."* Pilgrim started to laugh and gave a thorough account
-of what the woman and Eight Rules had said, but Tripitaka did not know whether to
-believe him or not.
-In a little while Idiot arrived and tied up the horse. *"Have you grazed him?"*
-asked the elder. *"There's not much good grass around here,"* said Eight Rules, *"so it's
-really no place to graze a horse."*
-“It may not be a place to graze the horse,"* said Pilgrim, *"but is it a place to lead
-a horse?"*
-When Idiot heard this question, he knew that his secret was known. He lowered
-his head and turned it to one side; with pouting lips and wrinkled brows, he remained
-silent for a long time. Just then, they heard the side door open with a creak, and out
-came a pair of red lanterns and a pair of portable incense burners. There were swirling
-clouds of fragrance and the sounds of tinkling girdle-jade when the woman walked out
-leading her three daughters. Zhenzhen, Aiai, and Lianlian were told to bow to the
-scripture pilgrims, and as they did so, standing in a row at the main hall, they appeared
-to be most beautiful indeed. Look at them!
-Each mothlike eyebrow painted halcyon-blue:
+
+*"If you can work around the house,"* said the woman, *"you should discuss the matter again with your master. If there's no great inconvenience, we'll take you."*
+
+*"No need for further discussion,"* said Eight Rules, *"for he's no genuine parent of mine. Whether I want to do this or not is for me to decide."*
+
+*"All right, all right,"* said the woman. *"Let me talk to my girls first."*
+
+She slipped back inside immediately and slammed the rear door shut. Eight Rules did not graze the horse there either, but led it back to the front. Little did he realize, however, that Great Sage Sun had heard everything. With wings outstretched, the Great Sage flew back to see the Tang Monk, changing back into his original form.
+
+*"Master,"* he said, *"Wuneng is leading the horse back here."*
+
+*"Of course he's leading the horse,"* said the Tang Monk, *"for if he doesn't, it may run away in a fit of mischief."*
+
+Pilgrim started to laugh and gave a thorough account of what the woman and Eight Rules had said, but Tripitaka did not know whether to
+believe him or not. In a little while Idiot arrived and tied up the horse.
+
+*"Have you grazed him?"* asked the elder. *"There's not much good grass around here,"* said Eight Rules, *"so it's really no place to graze a horse."*
+
+*"It may not be a place to graze the horse,"* said Pilgrim, *"but is it a place to lead a horse?"*
+
+When Idiot heard this question, he knew that his secret was known. He lowered his head and turned it to one side; with pouting lips and wrinkled brows, he remained silent for a long time. Just then, they heard the side door open with a creak, and out came a pair of red lanterns and a pair of portable incense burners. There were swirling clouds of fragrance and the sounds of tinkling girdle-jade when the woman walked out leading her three daughters. Zhenzhen, Aiai, and Lianlian were told to bow to the scripture pilgrims, and as they did so, standing in a row at the main hall, they appeared to be most beautiful indeed. Look at them!
+
+*Each mothlike eyebrow painted halcyon-blue:
 Each pretty face aglow with springlike hues.
 What beguiling, empire-shaking beauty!
 What ravishing, heart-jolting charm!
@@ -321,196 +278,133 @@ Shrouded by exquisite robes of fine golden thread.
 Why speak of lovely ladies of the South,
 Or the good looks of Xizi?
 They look like the fairy ladies descending from the Ninefold Heaven,
-Or the Princess Change leaving her Vast Cold Palace.
-When he saw them, Tripitaka lowered his head and folded his hands in front of
-him, while the Great Sage became mute and Sha Monk turned away completely. But
-look at that Zhu Eight Rules! With eyes unblinking, a mind filled with lust, and passion
-fast rising, he murmured huskily, *"What an honor it is to have the presence of you
-immortal ladies! Mama, please ask these dear sisters to leave."*
-The three girls went behind the screen, leaving the pair of lanterns behind.
-307
-307
-The woman said, *"Have you four elders made up your mind which one of you
-shall be betrothed to my daughters?"*
-“We have discussed the matter,"* said Wujing, *"and we have decided that the one
-whose surname is Zhu shall enter your family."*
-“Brother,"* said Eight Rules, *"please don't play any tricks on me. Let's discuss
-the matter further."*
-“What's there to discuss?"* said Pilgrim. *"You have already made all the
-arrangements with her at the back door, and even call her „Mama.‟ What's there to
-discuss anymore? Master can be the in-law for the groom while this woman here will
-give away the bride; old Monkey will be the witness, and Sha Monk the go-between.
-There's no need even to consult the almanac, for today happens to be the most
-auspicious and lucky day. You come here and bow to Master, and then you can go
-inside and become her son-in-law."*
-“Nothing doing! Nothing doing!"* said Eight Rules. *"How can I engage in this
-kind of business?"*
-“Idiot!"* said Pilgrim. *"Stop this fakery! You have addressed her as „Mama‟ for
-countless times already! What do you mean by „nothing doing‟? Agree to this at once,
-so that we may have the pleasure of enjoying some wine at the wedding."*
-He caught hold of Eight Rules with one hand and pulled at the woman with the
-other, saying, *"Mother-in-law, take your son-in-law inside."* Somewhat hesitantly, Idiot
-started to shuffle inside, while the woman gave instructions to a houseboy, saying,
-“Take out some tables and chairs and wipe them clean. Prepare a vegetarian dinner to
-serve these three relatives of ours. I'm leading our new master inside."* She further gave
-instructions for the cook to begin preparation for a wedding banquet to be held the next
-morning. The houseboys then left to tell the cook. After the three pilgrims had eaten
-their meal, they retired to the guest rooms, and we shall say no more of them for the
-moment.
-We now tell you about Eight Rules, who followed his mother-in-law and walked
-inside. There were row upon row of doorways and chambers with tall thresholds,
-causing him constantly to stumble and fall. *"Mama,"* said Idiot, *"please walk more
-slowly. I'm not familiar with the way here, so you must guide me a little."*
-The woman said, *"These are all the storerooms, the treasuries, the rooms where
-the flour is ground. We have yet to reach the kitchen."*
-“What a huge house!"* said Eight Rules. Stumbling along a winding course, he
-walked for a long time before finally reaching the inner chamber of the house. *"Son-inlaw,"* said the woman, *"since your brother said that today is a most auspicious and lucky
-day, I have taken you in. In all this hurry, we have not had the chance of consulting an
-astrologer, nor have we been prepared for the proper wedding ceremony of worshiping
-Heaven and Earth and of spreading grains and fruits on the bridal bed. Right now, why
+Or the Princess Change leaving her Vast Cold Palace.*
+
+When he saw them, Tripitaka lowered his head and folded his hands in front of him, while the Great Sage became mute and Sha Monk turned away completely. But look at that Zhu Eight Rules! With eyes unblinking, a mind filled with lust, and passion fast rising, he murmured huskily, *"What an honor it is to have the presence of you immortal ladies! Mama, please ask these dear sisters to leave."*
+
+The three girls went behind the screen, leaving the pair of lanterns behind. The woman said, *"Have you four elders made up your mind which one of you shall be betrothed to my daughters?"*
+
+*"We have discussed the matter,"* said Wujing, *"and we have decided that the one whose surname is Zhu shall enter your family."*
+
+*"Brother,"* said Eight Rules, *"please don't play any tricks on me. Let's discuss the matter further."*
+
+*"What's there to discuss?"* said Pilgrim. *"You have already made all the arrangements with her at the back door, and even call her **Mama.** What's there to discuss anymore? Master can be the in-law for the groom while this woman here will give away the bride; old Monkey will be the witness, and Sha Monk the go-between. There's no need even to consult the almanac, for today happens to be the most
+auspicious and lucky day. You come here and bow to Master, and then you can go inside and become her son-in-law."*
+
+*"Nothing doing! Nothing doing!"* said Eight Rules. *"How can I engage in this kind of business?"*
+
+*"Idiot!"* said Pilgrim. *"Stop this fakery! You have addressed her as „Mama‟ for countless times already! What do you mean by „nothing doing‟? Agree to this at once, so that we may have the pleasure of enjoying some wine at the wedding."*
+
+He caught hold of Eight Rules with one hand and pulled at the woman with the other, saying, *"Mother-in-law, take your son-in-law inside."*
+
+Somewhat hesitantly, Idiot started to shuffle inside, while the woman gave instructions to a houseboy, saying, *"Take out some tables and chairs and wipe them clean. Prepare a vegetarian dinner to serve these three relatives of ours. I'm leading our new master inside."* She further gave instructions for the cook to begin preparation for a wedding banquet to be held the next morning. The houseboys then left to tell the cook. After the three pilgrims had eaten their meal, they retired to the guest rooms, and we shall say no more of them for the moment.
+
+We now tell you about Eight Rules, who followed his mother-in-law and walked inside. There were row upon row of doorways and chambers with tall thresholds, causing him constantly to stumble and fall. *"Mama,"* said Idiot, *"please walk more slowly. I'm not familiar with the way here, so you must guide me a little."*
+
+The woman said, *"These are all the storerooms, the treasuries, the rooms where the flour is ground. We have yet to reach the kitchen."*
+“What a huge house!"* said Eight Rules. Stumbling along a winding course, he walked for a long time before finally reaching the inner chamber of the house. *"Son-inlaw,"* said the woman, *"since your brother said that today is a most auspicious and lucky
+day, I have taken you in. In all this hurry, we have not had the chance of consulting an astrologer, nor have we been prepared for the proper wedding ceremony of worshiping Heaven and Earth and of spreading grains and fruits on the bridal bed. Right now, why
 don't you kowtow eight times toward the sky?"*
-*"You are right, Mama,"* said Eight Rules. *"You take the upper seat also, and let
-me bow to you a few times. We'll consider that my worship of Heaven and Earth as
-well as my gesture of gratitude to you. Doing these two things at once will save me
-some trouble."*
-308
-308
-“All right, all right,"* said his mother-in-law, laughing. *"You are indeed a son-inlaw who knows how to fulfill your household duties with the least effort. I'll sit down,
-and you can make your bows."*
-The candles on silver candlesticks were shining brightly throughout the hall as
-Idiot made his bows. Afterwards he said, *"Mama, which one of the dear sisters do you
-plan to give me?"*
-“That's my dilemma,"* said his mother-in-law. *"I was going to give you my
-eldest daughter, but I was afraid of offending my second daughter. I was going to give
-you my second daughter, but I was afraid then of offending my third daughter. And if I
-were to give you my third daughter, I fear that my eldest daughter may be offended.
-That's why I cannot make up my mind."*
+
+*"You are right, Mama,"* said Eight Rules. *"You take the upper seat also, and let me bow to you a few times. We'll consider that my worship of Heaven and Earth as well as my gesture of gratitude to you. Doing these two things at once will save me some trouble."*
+
+*"All right, all right,"* said his mother-in-law, laughing. *"You are indeed a son-inlaw who knows how to fulfill your household duties with the least effort. I'll sit down, and you can make your bows."*
+
+The candles on silver candlesticks were shining brightly throughout the hall as Idiot made his bows. Afterwards he said, *"Mama, which one of the dear sisters do you plan to give me?"*
+
+*"That's my dilemma,"* said his mother-in-law. *"I was going to give you my eldest daughter, but I was afraid of offending my second daughter. I was going to give you my second daughter, but I was afraid then of offending my third daughter. And if I were to give you my third daughter, I fear that my eldest daughter may be offended. That's why I cannot make up my mind."*
 “Mama,"* said Eight Rules, *"if you want to prevent strife, why not give them all
 to me? That way, you will spare yourself a lot of bickering that can destroy the harmony
 of the family."*
-“Nonsense!"* said his mother-in-law. *"You mean you alone want to take all three
-of my daughters?"*
-“Listen to what you're saying, Mama!"* said Eight Rules. *"Who doesn't have
-three or four concubines nowadays? Even if you have a few more daughters, I'll gladly
-take them all. When I was young, I learned how to be long-lasting in the arts of love.
-You can be assured that I'll render satisfactory service to every one of them."*
-“That's no good! That's no good!"* said the woman. *"I have a large handkerchief
-here, with which you can cover your head, blindfold yourself, and determine your fated
-marriage that way. I'm going to ask my daughters to walk past you, and the one you can
-catch with your hands will be betrothed to you."* Idiot accepted her suggestion and
-covered his head with his handkerchief. We have a testimonial poem that says:
-The fool knows not the true causes of things;
+
+*"Nonsense!"* said his mother-in-law. *"You mean you alone want to take all three of my daughters?"*
+
+*"Listen to what you're saying, Mama!"* said Eight Rules. *"Who doesn't have three or four concubines nowadays? Even if you have a few more daughters, I'll gladly take them all. When I was young, I learned how to be long-lasting in the arts of love. You can be assured that I'll render satisfactory service to every one of them."*
+
+*"That's no good! That's no good!"* said the woman. *"I have a large handkerchief here, with which you can cover your head, blindfold yourself, and determine your fated marriage that way. I'm going to ask my daughters to walk past you, and the one you can catch with your hands will be betrothed to you."*
+
+Idiot accepted her suggestion and covered his head with his handkerchief. We have a testimonial poem that says:
+
+*The fool knows not the true causes of things;
 Beauty's sword can in secret wound the self.
 The Duke of Zhou of old had fixed the rites.
-But a bridegroom today still veils his head!
-After Idiot had tied himself up properly, he said, *"Mama, ask the dear sisters to
-come out."*
-“Zhenzhen, Aiai, Lianlian,"* cried his mother-in-law, *"you all come out and
-determine your fated marriage, so that one of you may be given to this man."* With the
-sounds of girdle-jade and the fragrance of orchids, it seemed that some immortal ladies
-had suddenly appeared. Idiot indeed stretched forth his hands to try to catch hold of one
-of the girls, but though he darted about madly this way and that, he could not lay hands
-on anyone on either side of him. It seemed to him, to be sure, that the girls were making
-all kinds of movement around him, but he could not grab a single one of them. He
-lunged toward the east and wrapped his arms around a pillar; he made a dive toward the
-west and slammed into a wooden partition. Growing faint from rushing about like that,
-he began to stumble and fall all over the place —tripping on the threshold in front of
-him, smashing into the brick wall behind him! Fumbling and tumbling around, he ended
-up sitting on the floor with a bruised head and a swollen mouth.
-“Mama,"* he cried, panting heavily, *"you have a bunch of slippery daughters! I
-can't catch a single one of them! What am I to do? What am I to do?"*
-309
-309
-Taking off his blindfold, the woman said, *"Son-in-law, it's not that my
-daughters are slippery; it's just that they are all very modest. Each defers to the other so
-that she may take you."*
-“If they are unwilling to take me, Mama,"* said Eight Rules, *"why don't you take
-me instead?"*
-“Dear son-in-law,"* said the woman, *"you really have no regard for age or youth,
-when you even want your mother-in-law! My three daughters are really quite talented,
-for each one of them has woven a silk undershirt studded with pearls. Try them on, and
+But a bridegroom today still veils his head!*
+
+After Idiot had tied himself up properly, he said, *"Mama, ask the dear sisters to come out."*
+
+*"Zhenzhen, Aiai, Lianlian,"* cried his mother-in-law, *"you all come out and determine your fated marriage, so that one of you may be given to this man."*
+
+With the sounds of girdle-jade and the fragrance of orchids, it seemed that some immortal ladies had suddenly appeared. Idiot indeed stretched forth his hands to try to catch hold of one of the girls, but though he darted about madly this way and that, he could not lay hands on anyone on either side of him. It seemed to him, to be sure, that the girls were making all kinds of movement around him, but he could not grab a single one of them. He lunged toward the east and wrapped his arms around a pillar; he made a dive toward the
+west and slammed into a wooden partition. Growing faint from rushing about like that, he began to stumble and fall all over the place —tripping on the threshold in front of him, smashing into the brick wall behind him! Fumbling and tumbling around, he ended up sitting on the floor with a bruised head and a swollen mouth.
+
+*"Mama,"* he cried, panting heavily, *"you have a bunch of slippery daughters! I can't catch a single one of them! What am I to do? What am I to do?"*
+
+Taking off his blindfold, the woman said, *"Son-in-law, it's not that my daughters are slippery; it's just that they are all very modest. Each defers to the other so that she may take you."*
+
+*"If they are unwilling to take me, Mama,"* said Eight Rules, *"why don't you take me instead?"*
+
+*"Dear son-in-law,"* said the woman, *"you really have no regard for age or youth, when you even want your mother-in-law! My three daughters are really quite talented, for each one of them has woven a silk undershirt studded with pearls. Try them on, and
 the one whose shirt fits you will take you in."*
-“Fine! Fine! Fine!"* said Eight Rules. *"Bring out all three undershirts and let me
-try them on. If all fit me, they can all have me."*
-The woman went inside and took out one undershirt, which she handed over to
-Eight Rules. Taking off his blue silk shirt, Idiot took up the undergarment and draped it
-over his body at once. Before he had managed to tie the strings, however, he suddenly
-fell to the floor. The undershirt, you see, had changed into several pieces of rope which
-had him tightly bound. As he lay there in unbearable pain, the women vanished.
-We now tell you about Tripitaka, Pilgrim, and Sha Monk, who woke up when it
-began to grow light in the East. As they opened their eyes, they discovered that all the
-noble halls and buildings had vanished. There were neither carved beams nor gilded
-pillars, for the truth of the matter was that they had all been sleeping in a forest of pines
-and cedars. In a panic, the elder began to shout for Pilgrim, and Sha Monk also cried,
-*"Elder Brother, we are finished! We have met some ghosts!"*
-The Great Sage Sun, however, realized fully what had happened. Smiling gently,
-he said, *"What are you talking about?"*
-“Look where we've been sleeping!"* cried the elder.
-“It's pleasant enough in this pine forest,"* said Pilgrim, *"but I wonder where that
-Idiot is going through his ordeal."*
-“Who is going through an ordeal?"* asked the elder.
-Pilgrim answered with a laugh. *"The women of that household happened to be
-some bodhisattvas from somewhere, who had waited for us to teach us a lesson. They
-must have left during the night, but unfortunately Zhu Eight Rules has to suffer."* When
-Tripitaka heard this, he quickly folded his hands to make a bow. Then they saw a slip of
-paper hanging on an old cedar tree, fluttering in the wind. Sha Monk quickly took it
-down for his master to read. On it was written the following eight-line poem:
-Though the old Dame of Li Shan had no desire,
+
+*"Fine! Fine! Fine!"* said Eight Rules. *"Bring out all three undershirts and let me try them on. If all fit me, they can all have me."*
+
+The woman went inside and took out one undershirt, which she handed over to Eight Rules. Taking off his blue silk shirt, Idiot took up the undergarment and draped it over his body at once. Before he had managed to tie the strings, however, he suddenly fell to the floor. The undershirt, you see, had changed into several pieces of rope which had him tightly bound. As he lay there in unbearable pain, the women vanished. We now tell you about Tripitaka, Pilgrim, and Sha Monk, who woke up when it began to grow light in the East. As they opened their eyes, they discovered that all the noble halls and buildings had vanished. There were neither carved beams nor gilded pillars, for the truth of the matter was that they had all been sleeping in a forest of pines and cedars. In a panic, the elder began to shout for Pilgrim, and Sha Monk also cried, *"Elder Brother, we are finished! We have met some ghosts!"*
+
+The Great Sage Sun, however, realized fully what had happened. Smiling gently, he said, *"What are you talking about?"*
+
+*"Look where we've been sleeping!"* cried the elder. *"It's pleasant enough in this pine forest,"* said Pilgrim, *"but I wonder where that Idiot is going through his ordeal."*
+
+*"Who is going through an ordeal?"* asked the elder.
+
+Pilgrim answered with a laugh. *"The women of that household happened to be some bodhisattvas from somewhere, who had waited for us to teach us a lesson. They must have left during the night, but unfortunately Zhu Eight Rules has to suffer."*
+
+When Tripitaka heard this, he quickly folded his hands to make a bow. Then they saw a slip of paper hanging on an old cedar tree, fluttering in the wind. Sha Monk quickly took it down for his master to read. On it was written the following eight-line poem:
+
+*Though the old Dame of Li Shan had no desire,
 Guanyin invited her to leave the mount.
 Mañjuśri and Viśvabhadra, too, were guests
 Who took in the woods the form of maidens fair.
 The holy monk's virtuous and truly chaste,
 But Eight Rules's profane, loving things mundane.
 Henceforth he must repent with quiet heart,
-For if he's slothful, the way will be hard.
-As the elder, Pilgrim, and Sha Monk recited this poem aloud, they heard a loud
-call from deep in the woods:
-310
-310
-“Master, the ropes are killing me! Save me, please! I'll never dare do this
-again!"*
-“Wukong,"* said Tripitaka, *"is it Wuneng who is calling us?"*
-*"Yes,"* said Sha Monk. *"Brother,"* said Pilgrim, *"don't bother about him. Let us
-leave now."*
-“Though Idiot is stupid and mischievous,"* said Tripitaka, *"he is at least fairly
-honest, and he has arms strong enough to carry the luggage. Let's have some regard for
-the Bodhisattva's earlier intention, let's rescue him so that he may continue to follow us.
-I doubt that he'll ever dare do this again."* Sha Monk thereupon rolled up the bedding
-and put the luggage in order, after which Great Sage Sun untied the horse to lead the
-Tang Monk into the woods to see what had happened. Ah! So it is that
-You must take care in the pursuit of truth
+For if he's slothful, the way will be hard.*
 
-To purge desires, and you'll enter the Real. We do not know what sort of good or evil was in store for the Idiot; let's listen to the explanation in the next chapter.
+As the elder, Pilgrim, and Sha Monk recited this poem aloud, they heard a loud call from deep in the woods: *"Master, the ropes are killing me! Save me, please! I'll never dare do this again!"*
+
+*"Wukong,"* said Tripitaka, *"is it Wuneng who is calling us?"*
+
+*"Yes,"* said Sha Monk. *"Brother,"* said Pilgrim, *"don't bother about him. Let us leave now."*
+
+*"Though Idiot is stupid and mischievous,"* said Tripitaka, *"he is at least fairly honest, and he has arms strong enough to carry the luggage. Let's have some regard for the Bodhisattva's earlier intention, let's rescue him so that he may continue to follow us.
+I doubt that he'll ever dare do this again."*
+
+Sha Monk thereupon rolled up the bedding and put the luggage in order, after which Great Sage Sun untied the horse to lead the Tang Monk into the woods to see what had happened.
+
+Ah! So it is that You must take care in the pursuit of truth to purge desires, and you'll enter the Real. We do not know what sort of good or evil was in store for the Idiot; let's listen to the explanation in the next chapter.
 
 # Vobs
-the priestly mind: tâm tu hành
-
-decree:	sắc lệnh
-
-sly: gian xảo, ranh mãnh
-
-mean: hèn hạ, hèn mọn
-
-whip (n/v): cây roi da/đánh bằng roi
-
-kick up: nổi lên/tung ra
-
-swiftly: nhanh chóng
-
-restrain: kiềm chế
-
-saddle: yên ngựa
-
-brazen: trơ tráo
-
-scold: mắng
-
-shelter: nơi trú ẩn
-
-the furtive: kẻ lén lút
-
-amiable: dễ mến, thiện cảm
-
-mute: người câm
-
-isolent: sấc xược
+1. the priestly mind: tâm tu hành
+2. decree:	sắc lệnh
+3. sly: gian xảo, ranh mãnh
+4. mean: hèn hạ, hèn mọn
+5. whip (n/v): cây roi da/đánh bằng roi
+6. kick up: nổi lên/tung ra
+7. swiftly: nhanh chóng
+8. restrain: kiềm chế
+9. saddle: yên ngựa
+10. brazen: trơ tráo
+11. scold: mắng
+12. shelter: nơi trú ẩn
+13. the furtive: kẻ lén lút
+14. amiable: dễ mến, thiện cảm
+15. mute: người câm
+16. dowry: của hồi môn
+17. kinfolks: họ hàng
+18. secular: thê tục
+19. Nonsense: vô lý
+20. tempt: cám dỗ/dụ dỗ
+21. hastily: vội vã
+22. ridicule: chế nhạo
+23. graze: chăn(gia súc)
+24. Dame: phu nhân/ người đàn bà lớn tuổi cao quý
+25. isolent: sấc xược
