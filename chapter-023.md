@@ -360,13 +360,13 @@ Pilgrim answered with a laugh. *"The women of that household happened to be some
 
 When Tripitaka heard this, he quickly folded his hands to make a bow. Then they saw a slip of paper hanging on an old cedar tree, fluttering in the wind. Sha Monk quickly took it down for his master to read. On it was written the following eight-line poem:
 
-*Though the old Dame of Li Shan had no desire,
-Guanyin invited her to leave the mount.
-Mañjuśri and Viśvabhadra, too, were guests
-Who took in the woods the form of maidens fair.
-The holy monk's virtuous and truly chaste,
-But Eight Rules's profane, loving things mundane.
-Henceforth he must repent with quiet heart,
+*Though the old Dame of Li Shan had no desire,<br>
+Guanyin invited her to leave the mount.<br>
+Mañjuśri and Viśvabhadra, too, were guests<br>
+Who took in the woods the form of maidens fair.<br>
+The holy monk's virtuous and truly chaste,<br>
+But Eight Rules's profane, loving things mundane.<br>
+Henceforth he must repent with quiet heart,<br>
 For if he's slothful, the way will be hard.*
 
 As the elder, Pilgrim, and Sha Monk recited this poem aloud, they heard a loud call from deep in the woods: *"Master, the ropes are killing me! Save me, please! I'll never dare do this again!"*
