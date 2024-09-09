@@ -393,3 +393,27 @@ We tell you now about all those officials, high and low, in the Five Commissions
 The cause of their shorn hair they would make known.*
 
 We do not know what has happened to the stolen goods recovered by the commander of the government troops; let's listen to the explanation in the next chapter.
+
+# Vobs
+1. ordeal <n>: phép thử, thử thách
+2. the fair sex <n>: phái đẹp
+3. lush <adj>: tươi tốt
+4. giggle <v>: cười khúc khích
+5. discern <v>: nhận rõ, phân biệt
+6. pental <adj>: ngũ sắc
+7. revelation <n>: mặc khải, sự tiết lộ
+8. tiger lairs and dragon lagoons <n>: Đầm rồng hang cọp
+9. moth <n>: bướm đêm
+10. Lantern Feast <n>: Tết Nguyên Tiêu
+11. chuckle <v>: cười khúc khích, tỏ vẻ vui mừng.
+12. widow <n>: người quá phụ
+13. haggle <v>: mặc cả, trả giá
+14. slaughter <v>: giết mổ
+15. geese <n>: con ngỗng
+16. tap <v>: vỗ nhẹ, gõ nhẹ
+17. wood ear <n>: mộc nhĩ :v
+18. bamboo shoot <n>: măng
+19. lean <n>: dựa mình vào
+20. sigh <v>: thở dài
+21. pinch <v>: véo, nhéo
+22. haul <v>: lôi, kéo
