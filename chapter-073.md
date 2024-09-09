@@ -561,3 +561,30 @@ On hearing this, Tripitaka kowtowed some more before saying, *"Disciples, let's 
 Enlightened nature destroyed the Many-Eyed Fiend.*
 
 We do not know what will happen to them as they proceed; let's listen to the explanation in the next chapter.
+
+# Vobs
+1. emnity: sự thù địch, sự ác cảm
+2. duke (n): công tước
+3. abbey (n): tu viện
+4. whip (v): quất ngựa bằng roi, đánh bằng roi
+5. pinch (v): véo, nhéo
+6. grief (n): sự đau buồn, sầu não
+7. weep (v): khóc lóc, đau đớn > cry
+8. wipe (v): lau đi
+9. sob/sobbing (v): khóc nức nở
+10. blinking  <v>: chớp mắt
+11. dispute <v>: cãi nhau, xung đột
+12. cheek (n): má
+13. senseless <adj>: vô tri
+14. nevertheless <adv>: tuy nhiên
+15. potent <adj>: mạnh
+16. Purple Cloud Mountain <n>: Tử Vân Sơn
+17. fiend <n>: yêu quái
+18. The Old Dame of Li Mountain: Thánh Mẫu của Linh Sơn
+19. salute <v>: chào theo kiểu lễ nghi, bái kiến
+20. embroidery needle <n>: kim thêu
+21. Mão Nhật Tinh Quân
+22. underneath <v>: bên dưới
+23. retch <n>: sự buồn ói
+24. dizzy <adj>: choáng váng
+25. hen <n>: con gà mái
