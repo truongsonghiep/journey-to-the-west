@@ -218,166 +218,101 @@ All at once that Idiot raised his head and stuck out his snout, so frightening t
 
 More and more flustered, our Idiot said, *"Your son is the one who peeled off the royal proclamation! Your grandson is the one who knows anything about healing!"*
 
-One of the palace guards spoke up: *"What's that you have in your bosom?"* Only then did Idiot lower his head and
-find that there was indeed a piece of paper there. When he spread it open and took one look, he clenched his teeth and cried, *"That wretched ape has killed me!"*
-He became so furious that he would have ripped up the document if the people
-had not stopped him.
-“You are dead!"* they shouted. *"This is a proclamation of our reigning monarch.
-Who dares to tear it up? If you have taken it down and stuffed it into your bosom, you
+One of the palace guards spoke up: *"What's that you have in your bosom?"*
+
+Only then did Idiot lower his head and find that there was indeed a piece of paper there. When he spread it open and took one look, he clenched his teeth and cried, *"That wretched ape has killed me!"*
+
+He became so furious that he would have ripped up the document if the people had not stopped him. *"You are dead!"* they shouted. *"This is a proclamation of our reigning monarch. Who dares to tear it up? If you have taken it down and stuffed it into your bosom, you
 must be a physician able to heal him. Go with us, quickly!"*
-“You have no idea,"* shouted Eight Rules, *"that I did not take down this
-proclamation. It was taken down by my elder brother, Sun Wukong. After he stuck it
-secretly in my bosom, he abandoned me and left. If you want to get to the bottom of this
-matter, I have to go find him for you."*
-“What sort of wild talk is that?"* said the people. *"You think „We‟d forsake a
-ready-made bell to strike one about to be forged‟? You took down the proclamation!
-And you tell us now to find someone else! Never mind you! We'll haul you back to see
-our lord!"* Without further investigation of the matter, that group of people began to
-push and shove Idiot. Our Idiot, however, stood perfectly still, and he seemed to have
-taken root in the earth. Not even a dozen people could budge him. *"All of you don‟t
-know any better!"* said Eight Rules. *"If you pull at me some more, you will pull out my
-idiotic ire! don't blame me then!"* Soon the entire neighborhood was aroused by all that
-hubbub to come and have Eight Rules surrounded. Among the people were two elderly
-eunuchs, who said to him, *"Your looks are strange and your voice sounds unfamiliar.
-Where have you come from, and why are you so headstrong?"*
-“We are those from the Land of the East sent to seek scriptures in the Western
-Heaven,"* replied Eight Rules. *"My master is a Master of the Law and the bond-brother
-of the Tang emperor. Just now he has gone into court to have his travel rescript
-certified. My elder brother and I came here to buy seasoning. When I saw the crowd
-beneath the watchtower, I dared not go forward, and my elder brother told me to wait
-for him here. When he saw the proclamation, he called up a whirlwind and had it taken
-off and stuck secretly in my bosom. Then he left me."*
-“Just now,"* said one of the eunuchs, *"I saw a stoutish priest with a white face
-heading straight for the gate of the court. He, I suppose, must be your master."*
-“He is indeed,"* said Eight Rules.
-894
-894
-“Where has your elder brother gone to?"* asked the eunuch. Eight Rules said,
-“There are altogether four of us. Our master has gone to have our travel rescript
-certified, but the rest of us—three disciples, a horse, and our luggage—are all resting at
-the College of Interpreters. After my elder brother had played this trick on me, he must
-have returned to the college."*
-“Palace guards,"* said the eunuch, *"stop tugging at this man. Let us go with him
-to the college, and we'll know the whole truth of the matter."*
-“These two mamas are far more sensible!"* said Eight Rules.
-“This priest is truly uninformed!"* said one of the palace guards. *"How could you
-address the papas as mamas?"*
-“Aren't you ashamed of yourself?"* said Eight Rules, laughing. *"You are the one
-who's switching the sexes! These two old mamas should be addressed as popos or
-madams. And you want to call them papas?"*
-“Stop your saucy tongue!"* the people said. *"Go find your elder brother quickly."*
-By that time the noisy crowd had grown to over five hundred people, all surging
-up to the entrance of the college. *"Stop here, all of you,"* said Eight Rules. *"My elder
-brother is not like me, who allows you this spoofing. He is rather hot-tempered, and
-terribly serious.
-When you meet him, you must extend to him a grand salutation and address him
-as Venerable Father Sun. Then he'll do business with you. Otherwise, he may change
-his colors and you won't succeed with your enterprise."*
-*"If your elder brother truly has the ability to heal our king,"* said the eunuchs and
-the palace guards, *"he will inherit half the kingdom. He certainly deserves our bow."*
-While the idlers milled about noisily before the college, Eight Rules led the troop of
-eunuchs and palace guards inside, where they heard Pilgrim laughing and telling Sha
-Monk the trick he had played on Eight Rules. Eight Rules dashed forward and grabbed
-him, screaming, *"Some person you are! You tricked me out there and promised to buy
-vegetarian noodles, biscuits, and buns for me to eat.
-They're all fibs! Then you brought on the whirlwind and took down this socalled royal proclamation to have it stuck secretly in my bosom. You are playing me for
-a fatso! Is that how you treat your brother?"* Laughing, Pilgrim said, *"Idiot, you must
-have taken the wrong road and gone off to someplace else! I passed the watchtower,
-bought the seasoning, and came back quickly to where you were, but I couldn't find
-you. So, I returned here first. Where did I peel off any royal proclamation?"*
-“The officials guarding the proclamation are right here,"* said Eight Rules.
-Hardly had he finished speaking when those several eunuchs and palace guards went
-forward to bow deeply to Pilgrim. *"Venerable Father Sun,"* they said, *"today our king
-must be exceedingly fortunate, for Heaven has sent you to descend to us. We beseech
-you to exercise your great talents in healing and your profound knowledge in the
-therapeutic arts. If you succeed in curing our king, you will have claim to half the
-kingdom."* On hearing these words, Pilgrim became more sober. He took the
-proclamation and asked the people, *"Are you the officials guarding the proclamation?"*
-Kowtowing, the eunuchs said, *"Your slaves are palace officials belonging to the
-Directorate of Ceremonials. These are the Embroidered-Uniform Guards."*
-895
-895
-“This proclamation for recruitment of physicians,"* said Pilgrim, *"was indeed
-taken down by me. I purposely arranged for my brother to lead you to see me. Your lord
-is indisposed, but as the proverb says,
+
+*"You have no idea,"* shouted Eight Rules, *"that I did not take down this proclamation. It was taken down by my elder brother, Sun Wukong. After he stuck it secretly in my bosom, he abandoned me and left. If you want to get to the bottom of this matter, I have to go find him for you."*
+
+*"What sort of wild talk is that?"* said the people. *"You think We'd forsake a ready-made bell to strike one about to be forged? You took down the proclamation! And you tell us now to find someone else! Never mind you! We'll haul you back to see our lord!"*
+
+Without further investigation of the matter, that group of people began to push and shove Idiot. Our Idiot, however, stood perfectly still, and he seemed to have taken root in the earth. Not even a dozen people could budge him.
+
+*"All of you don't know any better!"* said Eight Rules. *"If you pull at me some more, you will pull out my idiotic ire! don't blame me then!"* Soon the entire neighborhood was aroused by all that hubbub to come and have Eight Rules surrounded. Among the people were two elderly eunuchs, who said to him, *"Your looks are strange and your voice sounds unfamiliar. Where have you come from, and why are you so headstrong?"*
+
+*"We are those from the Land of the East sent to seek scriptures in the Western Heaven,"* replied Eight Rules. *"My master is a Master of the Law and the bond-brother of the Tang emperor. Just now he has gone into court to have his travel rescript certified. My elder brother and I came here to buy seasoning. When I saw the crowd beneath the watchtower, I dared not go forward, and my elder brother told me to wait for him here. When he saw the proclamation, he called up a whirlwind and had it taken off and stuck secretly in my bosom. Then he left me."*
+
+*"Just now,"* said one of the eunuchs, *"I saw a stoutish priest with a white face heading straight for the gate of the court. He, I suppose, must be your master."*
+
+*"He is indeed,"* said Eight Rules.
+
+*"Where has your elder brother gone to?"* asked the eunuch. Eight Rules said, *"There are altogether four of us. Our master has gone to have our travel rescript certified, but the rest of us—three disciples, a horse, and our luggage are all resting at the College of Interpreters. After my elder brother had played this trick on me, he must have returned to the college."*
+
+*"Palace guards,"* said the eunuch, *"stop tugging at this man. Let us go with him to the college, and we'll know the whole truth of the matter."*
+
+*"These two mamas are far more sensible!"* said Eight Rules.
+
+*"This priest is truly uninformed!"* said one of the palace guards. *"How could you address the papas as mamas?"*
+
+*"Aren't you ashamed of yourself?"* said Eight Rules, laughing. *"You are the one who's switching the sexes! These two old mamas should be addressed as popos or madams. And you want to call them papas?"*
+
+*"Stop your saucy tongue!"* the people said. *"Go find your elder brother quickly."*
+
+By that time the noisy crowd had grown to over five hundred people, all surging up to the entrance of the college. *"Stop here, all of you,"* said Eight Rules. *"My elder brother is not like me, who allows you this spoofing. He is rather hot-tempered, and terribly serious. When you meet him, you must extend to him a grand salutation and address him as Venerable Father Sun. Then he'll do business with you. Otherwise, he may change his colors and you won't succeed with your enterprise."*
+
+
+*"If your elder brother truly has the ability to heal our king,"* said the eunuchs and the palace guards, *"he will inherit half the kingdom. He certainly deserves our bow."*
+
+While the idlers milled about noisily before the college, Eight Rules led the troop of eunuchs and palace guards inside, where they heard Pilgrim laughing and telling Sha Monk the trick he had played on Eight Rules. Eight Rules dashed forward and grabbed him, screaming, *"Some person you are! You tricked me out there and promised to buy vegetarian noodles, biscuits, and buns for me to eat.
+They're all fibs! Then you brought on the whirlwind and took down this socalled royal proclamation to have it stuck secretly in my bosom. You are playing me for a fatso! Is that how you treat your brother?"*
+
+Laughing, Pilgrim said, *"Idiot, you must have taken the wrong road and gone off to someplace else! I passed the watchtower, bought the seasoning, and came back quickly to where you were, but I couldn't find you. So, I returned here first. Where did I peel off any royal proclamation?"*
+
+*"The officials guarding the proclamation are right here,"* said Eight Rules. Hardly had he finished speaking when those several eunuchs and palace guards went forward to bow deeply to Pilgrim. *"Venerable Father Sun,"* they said, *"today our king
+must be exceedingly fortunate, for Heaven has sent you to descend to us. We beseech you to exercise your great talents in healing and your profound knowledge in the therapeutic arts. If you succeed in curing our king, you will have claim to half the kingdom."*
+
+On hearing these words, Pilgrim became more sober. He took the proclamation and asked the people, *"Are you the officials guarding the proclamation?"*
+
+Kowtowing, the eunuchs said, *"Your slaves are palace officials belonging to the Directorate of Ceremonials. These are the Embroidered-Uniform Guards."*
+
+*"This proclamation for recruitment of physicians,"* said Pilgrim, *"was indeed taken down by me. I purposely arranged for my brother to lead you to see me. Your lord is indisposed, but as the proverb says,<br>
 Medicines are not lightly bought;
-A doctor's not casually sought.
-You go back and ask the king to come here in person to invite me. I guarantee
-that when I stretch forth my hand, his illness will at once disappear."* When they heard
-these words, all of the eunuchs were astonished. *"A stupendous claim like this can be
-made only by someone in the know,"* said one of the palace guards. *"Half of us will
-remain here to continue our silent entreaty. Half of us will return to memorialize to the
-throne."* Whereupon four eunuchs and six palace guards, without waiting for any
-summons, went inside the court and memorialized before the steps, saying, *"My lord,
-ten thousand happinesses have come upon you!"*
-Having finished his meal, the king was just having a quiet chat with Tripitaka.
-When he heard this, he asked, *"Where has this happiness come from?"* One of the
-eunuchs said, *"This morning your slaves took the royal proclamation for the recruitment
-of physicians to have it mounted beneath the watchtower. It was taken down by Elder
-Sun, a sage monk sent from the distant Land of the East to acquire scriptures. He is now
-residing in the College of Interpreters and desires the personal appearance of the king to
-invite him. He has promised us that when he stretches forth his hand, the illness will
-disappear. That is why we have come to memorialize to you."* On hearing this, the king
-was filled with delight. He turned to ask the Tang Monk, *"Master of the Law, how
-many noble disciples do you have?"*
-“This humble cleric,"* replied Tripitaka with hands folded before him, *"has three
-mischievous disciples."*
-“Which of them is conversant with the therapeutic arts?"* asked the king.
-“To tell you the truth, Your Majesty,"* said Tripitaka, *"my mischievous disciples
-are all ordinary men of the wilds. Their knowledge is confined to pulling the horse and
-toting the luggage, to fording streams and leading your poor monk across the
-mountains. When we pass through the more dangerous regions, they may even be able
-to subjugate demons and fiends, to tame tigers and dragons. But that's all! None of them
-knows anything about the nature of medicine."*
-“Why must you be so modest, Master of the Law?"* said the king. *"It is truly a
-Heavenly affinity that you should arrive on this very day when we ascend the main hall.
-If your noble disciple were not an able physician, how would he be willing to take down
-our proclamation and demand our going there in person to invite him? He must have the
-ability to heal the highest ruler of the state."*
+A doctor's not casually sought.<br>
+You go back and ask the king to come here in person to invite me. I guarantee that when I stretch forth my hand, his illness will at once disappear."*
+
+When they heard these words, all of the eunuchs were astonished. *"A stupendous claim like this can be made only by someone in the know,"* said one of the palace guards. *"Half of us will remain here to continue our silent entreaty. Half of us will return to memorialize to the throne."*
+
+Whereupon four eunuchs and six palace guards, without waiting for any summons, went inside the court and memorialized before the steps, saying, *"My lord, ten thousand happinesses have come upon you!"*
+
+Having finished his meal, the king was just having a quiet chat with Tripitaka. When he heard this, he asked, *"Where has this happiness come from?"*
+
+One of the eunuchs said, *"This morning your slaves took the royal proclamation for the recruitment of physicians to have it mounted beneath the watchtower. It was taken down by Elder Sun, a sage monk sent from the distant Land of the East to acquire scriptures. He is now residing in the College of Interpreters and desires the personal appearance of the king to invite him. He has promised us that when he stretches forth his hand, the illness will disappear. That is why we have come to memorialize to you."*
+
+On hearing this, the king was filled with delight. He turned to ask the Tang Monk, *"Master of the Law, how many noble disciples do you have?"*
+
+*"This humble cleric,"* replied Tripitaka with hands folded before him, *"has three mischievous disciples."*
+
+*"Which of them is conversant with the therapeutic arts?"* asked the king.
+
+*To tell you the truth, Your Majesty,"* said Tripitaka, *"my mischievous disciples are all ordinary men of the wilds. Their knowledge is confined to pulling the horse and toting the luggage, to fording streams and leading your poor monk across the mountains. When we pass through the more dangerous regions, they may even be able to subjugate demons and fiends, to tame tigers and dragons. But that's all! None of them knows anything about the nature of medicine."*
+
+*"Why must you be so modest, Master of the Law?"* said the king. *"It is truly a Heavenly affinity that you should arrive on this very day when we ascend the main hall. If your noble disciple were not an able physician, how would he be willing to take down our proclamation and demand our going there in person to invite him? He must have the ability to heal the highest ruler of the state."*
+
 Then the king gave this order:
-“Let our civil and military subjects represent us, for our body is weakened and
-our strength depleted, and we dare not ride the imperial chariot. You must therefore
-proceed beyond the court to extend our most earnest invitation to Elder Sun to come and
-examine our illness. When you see him, you must be careful not to treat him
-discourteously. You must address him as Elder Sun, the divine monk, and you must
-greet him as if he were your ruler."*
-Having received this decree, the various officials went with the eunuchs and the
-palace guards to the College of Interpreters.
-896
-896
-Standing in rows according to their ranks, they paid homage to Pilgrim. Eight
-Rules was so taken aback that he dashed inside a side room while Sha Monk ran out to
-stand beneath the wall. Look at our Great Sage! He sat firmly in the middle of the room
-and remained unmoved. *"This wretched ape,"* grumbled Eight Rules to himself, *"is
-hanging himself alive with all these undeserved honors! How could he not return the
-bow of these many officials? Why, he won't even stand up!"* Soon the ceremony was
-over, and the officials separated into two files before they presented this memorial,
-saying, *"Let us inform Elder Sun, the divine monk, that we are the subjects of the king
-of the Scarlet-Purple Kingdom. By royal decree, we come to honor the divine monk
-with due reverence and ceremony. We beseech you to enter the court and examine a
-patient."* Only then did Pilgrim stand up and say to them, *"Why didn't your king come
-here?"*
-“Because his body is weakened and his strength depleted,"* replied the officials,
-“our king dares not ride the chariot. He has commanded us subjects to observe this
-ceremony on his behalf and invite you, the divine monk."*
+*"Let our civil and military subjects represent us, for our body is weakened and our strength depleted, and we dare not ride the imperial chariot. You must therefore proceed beyond the court to extend our most earnest invitation to Elder Sun to come and
+examine our illness. When you see him, you must be careful not to treat him discourteously. You must address him as Elder Sun, the divine monk, and you must greet him as if he were your ruler."*
+
+Having received this decree, the various officials went with the eunuchs and the palace guards to the College of Interpreters. Standing in rows according to their ranks, they paid homage to Pilgrim. Eight Rules was so taken aback that he dashed inside a side room while Sha Monk ran out to stand beneath the wall. Look at our Great Sage! He sat firmly in the middle of the room and remained unmoved. 
+
+*"This wretched ape,"* grumbled Eight Rules to himself, *"is hanging himself alive with all these undeserved honors! How could he not return the bow of these many officials? Why, he won't even stand up!"*
+
+Soon the ceremony was over, and the officials separated into two files before they presented this memorial, saying, *"Let us inform Elder Sun, the divine monk, that we are the subjects of the king of the Scarlet-Purple Kingdom. By royal decree, we come to honor the divine monk with due reverence and ceremony. We beseech you to enter the court and examine a patient."* Only then did Pilgrim stand up and say to them, *"Why didn't your king come here?"*
+*"Because his body is weakened and his strength depleted,"* replied the officials, our king dares not ride the chariot. He has commanded us subjects to observe this ceremony on his behalf and invite you, the divine monk."*
+
 *"In that case,"* said Pilgrim, *"please lead the way, all of you, and I'll follow."*
-The various officials departed in groups, in accordance with their ranks, while
-Pilgrim walked behind them after having tidied his clothes. *"Elder Brother,"* said Eight
-Rules, *"don't you put us up to anything now!"*
+
+The various officials departed in groups, in accordance with their ranks, while Pilgrim walked behind them after having tidied his clothes. *"Elder Brother,"* said Eight Rules, *"don't you put us up to anything now!"*
+
 *"I won't,"* said Pilgrim, *"but I want you two to accept the medicines for me."*
-“What medicines?"* asked Sha Monk. *"There will be some medicines sent to us,"*
-said Pilgrim. *"Accept them in the quantities that they are delivered. I'll make use of
-them when I return."*
-The two of them agreed, and we shall leave them for the moment.
-Our Pilgrim soon arrived at court with the many officials, who walked ahead to
-report to the king. As the pearly screen was rolled up, the king opened his phoenix eyes
-and dragon pupils to look at his visitor and his golden mouth to say, *"Who is the divine
-monk, Elder Sun?"*
-Taking a big step forward, Pilgrim said in a loud voice, *"Old Monkey's the
-one!"* When the king heard this savage voice and encountered the bizarre countenance,
-he shook so violently that he fell back onto the dragon couch. Those harem girls and
-palace attendants hurriedly had him borne inside the palace, and all the king could say
-was, *"We are scared to death!"*
+
+*"What medicines?"* asked Sha Monk. *"There will be some medicines sent to us,"* said Pilgrim. *"Accept them in the quantities that they are delivered. I'll make use of them when I return."*
+
+The two of them agreed, and we shall leave them for the moment. Our Pilgrim soon arrived at court with the many officials, who walked ahead to report to the king. As the pearly screen was rolled up, the king opened his phoenix eyes and dragon pupils to look at his visitor and his golden mouth to say, *"Who is the divine monk, Elder Sun?"*
+
+Taking a big step forward, Pilgrim said in a loud voice, *"Old Monkey's the one!"* When the king heard this savage voice and encountered the bizarre countenance, he shook so violently that he fell back onto the dragon couch. Those harem girls and palace attendants hurriedly had him borne inside the palace, and all the king could say was, *"We are scared to death!"*
 
 All the officials began to chide Pilgrim, saying, *"How could this monk be so rude and impetuous? How could you be so audacious as to take down the proclamation?"*
 
@@ -445,3 +380,50 @@ They changed at once into three threads, each twenty-four feet long and thus cor
 The attending eunuch spoke up from the side, *"Let the elders refrain from further conversation. Please enter the palace to examine the patient."*
 
 Taking leave of the Tang Monk, Pilgrim followed the attendant to walk inside the palace. Truly it was that The mind's secret prescription can heal a state; Its wondrous formula will assure long life. After he had gone inside, we do not know what sort of illness he was able to discern or what kind of medicines he prescribed. If you want to know the result, let's listen to the explanation in the next chapter.
+
+# Vobs
+1. Scarlet-Purple Kingdom: Nước Chu Tử
+2. era: thời đại, kỷ nguyên
+3. rein: gò cương ngựa
+4. illiterate: mù chữ
+5. literate: biết chữ
+6. decree: sắc lệnh
+7. brazen: trơ tráo, vô liêm sỉ
+8. bellow: gầm lên
+9. goes without saying: hiển nhiên, không cần phải nói
+10. stroll: đi dạo
+11. birdbrain: kẻ óc chim, kẻ ngu
+12. minister: bộ trưởng
+13. vice-minister: thứ trưởng
+14. wheat: lúa mỳ
+15. attire: trang phục
+16. desire (n): mong muốn
+17. desirous of (adj): mong muốn
+18. await (something): chờ đợi
+19. prostrate: lạy
+20. homage: sự thành kính
+21. groan: rên rỉ
+22. At once turning lazy: lập tức trở nên lười biếng
+23. saliva: nước miếng, nước dãi
+24. seasoning <n>: gia vị
+25. choosy (adj): kén chọn
+26. mod: đám đông
+27. a pinch of: một nhúm
+28. peel off: bóc ra
+29. bozom: ngực
+30. get to the bottom of: tìm ra nguyên nhân
+31. proclamation: tuyên cáo
+32. wild talk: nói điên nói khùng
+33. shove <v>: xô đẩy
+34. headstrong (adj): cung dau
+35. eunuch (n): thái giám, hoạn quan
+36. stoutish (adj): mập mạp, béo tốt
+37. surge up: tăng lên
+38. inherit: kế thừa, thừa hưởng
+39. the troop <v>: đoàn quân, đoàn người
+40. sober: điềm tĩnh
+41. whereupon: sau đó
+42. your slaver: nô tài (xưng hô)
+43. modest: khiêm nhượng, khiêm tốn
+44. gasp: hổn hển
+45. pulse: mạch
