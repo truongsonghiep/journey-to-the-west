@@ -1,4 +1,5 @@
 # Journey To The West
+<p class="custom-text">Đây là văn bản với kiểu chữ tùy chỉnh.</p>
 1. The divine root conceives, its source revealed; <br> Mind and nature nurtured, the Great Dao is born.
 2. Fully awoke to Bodhi’s wondrous truths; He cuts off Māra, returns to the root, and joins Primal Spirit.
 3. Four Seas and a Thousand Mountains all bow to submit;
