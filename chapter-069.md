@@ -1,11 +1,7 @@
 SIXTY-NINE
-At night the Lord of the Mind refines medicines
-At a banquet the king speaks of the perverse fiend
-We were telling you about the Great Sage Sun, who went with the palace
-attendant to the interior division of the royal palace. He stood still only after he had
-reached the door of the royal bedchamber. Then he told the attendant to take the three
-golden threads inside along with the instruction:
-“Ask one of the palace ladies or eunuchs to tie these three threads to the inch,
+# At night the Lord of the Mind refines medicines <br> At a banquet the king speaks of the perverse fiend
+
+We were telling you about the Great Sage Sun, who went with the palace attendant to the interior division of the royal palace. He stood still only after he had reached the door of the royal bedchamber. Then he told the attendant to take the three golden threads inside along with the instruction: “Ask one of the palace ladies or eunuchs to tie these three threads to the inch,
 the pass, and the foot sections of His Majesty‟s left hand where the radial pulse are felt.
 Then pass the other ends of the threads out to me through the window shutters.”
 The attendant followed his instruction. The king was asked to sit up on the
@@ -156,6 +152,17 @@ congealed in one‟s stomach. Don‟t mind me. You go also and fetch me an ounce
 badou.
 Shell it and strip away the membranes. Pound away also the oil, and then grind it
 to powder.”
+
+
+
+
+
+
+
+
+
+
+
 “The flavour of badou,” said Eight Rules, “is slightly acrid; its nature is hot and
 poisonous. Able to pare down the hard and the accumulated, it will therefore sweep out
 the submerged chills of one‟s internal cavities. Able to bore through clottings and
