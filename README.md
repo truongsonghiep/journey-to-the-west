@@ -137,9 +137,8 @@ Maitreya binds a fiend.
 67. Having rescued Tuoluo, Chan Nature is secure;
 Escaping filthiness, the Mind of Dao is pure.
 
-**68. [At Scarlet-Purple Kingdom the Tang Monk speaks of past eras; <br> Pilgrim Sun performs on an arm broken in three places.](chapter-068.md)**
-70. At night the Lord of the Mind refines medicines;
-At a banquet the king speaks of the perverse fiend.
+68. **[At Scarlet-Purple Kingdom the Tang Monk speaks of past eras; <br> Pilgrim Sun performs on an arm broken in three places.](chapter-068.md)**
+69. **[At night the Lord of the Mind refines medicines; <br> At a banquet the king speaks of the perverse fiend.](chapter-069.md)**
 71. The monstrous demon’s treasures release smoke, sand, and fire;
 Wukong by stratagem steals the purple-gold bells.
 72. By a false name Pilgrim defeats the fiendish wolf;
