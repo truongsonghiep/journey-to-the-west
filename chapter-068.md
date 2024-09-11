@@ -1,6 +1,6 @@
 SIXTY-EIGHT
 # At Scarlet-Purple Kingdom the Tang Monk speaks of past eras <br> Pilgrim Sun performs on an arm broken in three places
-
+<span style="color: red;">Đây là văn bản màu đỏ</span>
 *Virtue attained, all causations dead,
 Your fame through four great continents will spread.
 Wise and enlightened you ascend yonder shore.
