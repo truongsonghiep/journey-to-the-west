@@ -140,7 +140,7 @@ Maitreya binds a fiend.
 67. Having rescued Tuoluo, Chan Nature is secure;
 Escaping filthiness, the Mind of Dao is pure.
 
-**68. [At Scarlet-Purple Kingdom the Tang Monk speaks of past eras; <br> Pilgrim Sun performs on an arm broken in three places.](/truongsonghiep/journey-to-the-west/chapter-068.md)**
+**68. [At Scarlet-Purple Kingdom the Tang Monk speaks of past eras; <br> Pilgrim Sun performs on an arm broken in three places.](/truongsonghiep/journey-to-the-west/blob/main/chapter-068.md)**
 70. At night the Lord of the Mind refines medicines;
 At a banquet the king speaks of the perverse fiend.
 71. The monstrous demon’s treasures release smoke, sand, and fire;
