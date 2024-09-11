@@ -1,23 +1,23 @@
 SIXTY-EIGHT
 # At Scarlet-Purple Kingdom the Tang Monk speaks of past eras <br> Pilgrim Sun performs on an arm broken in three places
-<span style="color: red;">Đây là văn bản màu đỏ</span>
-*Virtue attained, all causations dead,
-Your fame through four great continents will spread.
-Wise and enlightened you ascend yonder shore.
-The wind will sigh
-As hazy cirrus rises in the sky.
-Those Buddhas will all greet you;
-Forever at Jade Terrace you'll live thereto.
-Break up the human dream of butterfly.
-Let it all end!
-Where dust is cleansed no worries attend.
-We we telling you about Tripitaka and his disciples who,
-Having washed out an alley of sullage,
-Now walked on the path of freedom.
-Time went by swiftly and again it was torrid summer, when
-Pomegranates spread ornate fruits,
-And lotus leaves split like green pans.
-In two rows of willow young swallows hide,
+
+*Virtue attained, all causations dead,<br>
+Your fame through four great continents will spread.<br>
+Wise and enlightened you ascend yonder shore.<br>
+The wind will sigh<br>
+As hazy cirrus rises in the sky.<br>
+Those Buddhas will all greet you;<br>
+Forever at Jade Terrace you'll live thereto.<br>
+Break up the human dream of butterfly.<br>
+Let it all end!<br>
+Where dust is cleansed no worries attend.<br>
+We we telling you about Tripitaka and his disciples who,<br>
+Having washed out an alley of sullage,<br>
+Now walked on the path of freedom.<br>
+Time went by swiftly and again it was torrid summer, when<br>
+Pomegranates spread ornate fruits,<br>
+And lotus leaves split like green pans.<br>
+In two rows of willow young swallows hide,<br>
 To flee the heat the travellers wave their fans.*
 
 As they proceeded, they suddenly saw a moated city looming up. Reining in his horse, Tripitaka called out, *"Disciples, take a look. What kind of a place is that?"*
