@@ -43,8 +43,7 @@ In mid-mountain, Eight Rules strives to be first.
 Lingji of Sumeru crushes the wind demon.
 22. Eight Rules fights fiercely at the Flowing-Sand River;
 Mokṣa by order receives Wujing’s submission.
-23. Tripitaka does not forget his origin;
-The Four Sages test the priestly mind.
+**23. [Tripitaka does not forget his origin; <br>The Four Sages test the priestly mind.](chapter-023.md)**
 24. At Long Life Mountain the Great Immortal detains his old friend;
 At Five Villages Abbey, Pilgrim steals the ginseng fruit.
 25. The Zhenyuan Immortal gives chase to catch the scripture monk;
@@ -57,8 +56,6 @@ The holy monk in spite banishes Handsome Monkey King.
 At the Black Pine Forest Tripitaka meets demons.
 29. Free of his peril, River Float arrives at the kingdom;
 Receiving favor, Eight Rules invades the forest.
-2
-3
 30. A deviant demon attacks the true Dharma;
 The Horse of the Will recalls Mind Monkey.
 31. Zhu Eight Rules provokes the Monkey King to chivalry;
