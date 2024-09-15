@@ -1,7 +1,5 @@
 FIFTY-FIVE
-FIFTY-FIVE
-Deviant form makes lustful play for Tripitaka Tang
-Upright nature safeguards the untainted self
+# Deviant form makes lustful play for Tripitaka Tang <br> Upright nature safeguards the untainted self
 We were just telling you of the Great Sage Sun and Zhu Eight Rules, who were
 about to use magic to render those women immobile when they heard the shouts of Sha
 Monk and the howl of the wind. They turned quickly to look, only to discover that the
