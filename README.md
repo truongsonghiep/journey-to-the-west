@@ -43,7 +43,9 @@ In mid-mountain, Eight Rules strives to be first.
 Lingji of Sumeru crushes the wind demon.
 22. Eight Rules fights fiercely at the Flowing-Sand River;
 Mokṣa by order receives Wujing’s submission.
-**23. [Tripitaka does not forget his origin; <br>The Four Sages test the priestly mind.](chapter-023.md)**
+
+23. **[Tripitaka does not forget his origin; <br>The Four Sages test the priestly mind.](chapter-023.md)**
+
 24. At Long Life Mountain the Great Immortal detains his old friend;
 At Five Villages Abbey, Pilgrim steals the ginseng fruit.
 25. The Zhenyuan Immortal gives chase to catch the scripture monk;
@@ -108,8 +110,8 @@ Tathāgata reveals in secret the true master.
 Yellow Dame brings water to end the weird fetus.
 54. Dharma-nature, going west, reaches the Women State;
 Mind Monkey makes a plan to flee the fair sex.
-55. Deviant form makes lustful play for Tripitaka Tang;
-Upright nature safeguards the untainted self.
+
+55. **[Deviant form makes lustful play for Tripitaka Tang; Upright nature safeguards the untainted self.](chapter-055.md)**
 56. Wild Spirit slays brutish bandits;
 Wayward Way sets loose Mind Monkey.
 57. True Pilgrim lays bare his woes at Mount Potalaka;
