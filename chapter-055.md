@@ -125,47 +125,30 @@ but the pain is unbearable. That was why I fled."*
 
 *"Stop joking, Second Elder Brother,"* said Sha Monk. *"It's getting late! Big Brother's head has been hurt and we don't know whether Master is dead or alive. What shall we do?"*
 
-*"Master's all right,"* said Pilgrim with a groan. *"I changed into a bee to fly inside, and I found that woman sitting inside a flower arbor. In a little while, two maids brought out two plates of buns: one had human flesh for stuffing and the other, red bean paste. Then she asked two other maids to help Master out to eat, just to calm his fear. She also said something about her desire to be Master's companion on the Way. At first, Master did not say anything to the woman, nor did he eat the buns. Later, perhaps it was
-because of all her sweet talk or some other odd reason, he began to speak with her and told her that he kept a vegetarian diet. The woman broke one of those vegetarian buns into halves to hand to Master, and he presented her with a meat one whole. „Why didn't
-you break it?‟ the woman asked, and Master said, „Those who have left the family dare not break into something made with meat.‟ „In that case,‟ asked the woman, „how was it that you were willing to eat water pudding the other day? And you still insist on eating
-stuffing made of red bean paste?‟ Master didn't quite understand her puns, and he replied:
+*"Master's all right,"* said Pilgrim with a groan. *"I changed into a bee to fly inside, and I found that woman sitting inside a flower arbor. In a little while, two maids brought out two plates of buns: one had human flesh for stuffing and the other, red bean paste. Then she asked two other maids to help Master out to eat, just to calm his fear. She also said something about her desire to be Master's companion on the Way. At first, Master did not say anything to the woman, nor did he eat the buns. Later, perhaps it was because of all her sweet talk or some other odd reason, he began to speak with her and told her that he kept a vegetarian diet. The woman broke one of those vegetarian buns into halves to hand to Master, and he presented her with a meat one whole. Why didn't you break it? the woman asked, and Master said, Those who have left the family dare not break into something made with meat.‟ „In that case,‟ asked the woman, „how was it that you were willing to eat water pudding the other day? And you still insist on eating stuffing made of red bean paste? Master didn't quite understand her puns, and he replied:
 At high tide a boat leaves quickly;
 In sand traps a horse trots slowly.
 I heard everything on the trellis, and I was afraid that Master's nature might be confounded. That was when I revealed my true form and attacked her with my iron rod. She, too, used her magic power; blowing out some mist or fog to cover the arbor, she shouted for the girls to take away the „royal brother‟ before she picked up her steel trident and fought her way out of the cave with old Monkey."* 
 
 When Sha Monk heard this, he bit his finger and said, *"We've been picked up and followed by this bitch from who knows where, but she certainly has knowledge of what has happened to us recently."*
 
-“If you put it that way,"* said Eight Rules, *"it looks as if we wouldn't be able to
-rest, doesn't it? Let's not worry if It's dusk or midnight. Let's go up to her door and provoke battle. At least our hubbub will prevent them from sleeping, so that she can‟t
-pull a fast one on our master."*
-“My head hurts,"* said Pilgrim. *"I can't go!"* Sha Monk said, *"No need to
-provoke battle. In the first place, Elder Brother has a headache, and in the second, our
-master is a true monk. He won't allow either form or emptiness to confound his nature.
-Let us sit here for the night beneath the mountain slope where there's no draft
+*"If you put it that way,"* said Eight Rules, *"it looks as if we wouldn't be able to rest, doesn't it? Let's not worry if It's dusk or midnight. Let's go up to her door and provoke battle. At least our hubbub will prevent them from sleeping, so that she can't pull a fast one on our master."*
+
+*"My head hurts,"* said Pilgrim. *"I can't go!"* Sha Monk said, *"No need to provoke battle. In the first place, Elder Brother has a headache, and in the second, our
+master is a true monk. He won't allow either form or emptiness to confound his nature. Let us sit here for the night beneath the mountain slope where there's no draft
 and regain our energy. Then we can decide what to do by morning."*
-And so, the three brothers, after having tied up the white horse firmly, rested
-beneath the mountain slope, guarding the luggage.
-We now tell you about that female fiend, who banished violence from her mind
-and once again took on a pleasant appearance.
-“Little ones,"* she said, *"shut the front and back doors tightly."*
-Two little fiends were instructed to stand watch against the intrusion of Pilgrim.
-If there were any sound at all at the door, they were told to report at once. Then she
-gave this order also:
-“Maids, fix up the bedroom nicely. After you have lit the candles and the
-incense, go and invite royal brother Tang to come here. I want to make love with him."*
-They therefore brought out the elder from the rear. Putting on her most seductive
-charms, she caught hold of the Tang Monk and said, *"As the proverb says,
+
+And so, the three brothers, after having tied up the white horse firmly, rested beneath the mountain slope, guarding the luggage. We now tell you about that female fiend, who banished violence from her mind and once again took on a pleasant appearance.
+
+*"Little ones,"* she said, *"shut the front and back doors tightly."* Two little fiends were instructed to stand watch against the intrusion of Pilgrim. If there were any sound at all at the door, they were told to report at once. Then she gave this order also: *"Maids, fix up the bedroom nicely. After you have lit the candles and the incense, go and invite royal brother Tang to come here. I want to make love with him."*
+
+They therefore brought out the elder from the rear. Putting on her most seductive charms, she caught hold of the Tang Monk and said, *"As the proverb says,
 Though gold may have its price,
 Our pleasure's more worthwhile.
 Let's you and I play husband and wife and have some fun!"*
-Gritting his teeth, our elder would not permit even a sound to escape from his
-mouth. He was about to refuse her invitation, but he was afraid that she might decide to
-take his life. He had no alternative but to follow her into the perfumed room, trembling
-all the while. Completely in a stupor, he raised neither his eyes nor his head; he did not
-see what sort of coverlets or bedding there was in the room, nor was he eager to find out
-what kinds of furniture or dresser were placed therein. As for all the amorous
-declaration and sultry speech of the female fiend, he did not hear a word. Marvelous
-monk! Truly
+
+Gritting his teeth, our elder would not permit even a sound to escape from his mouth. He was about to refuse her invitation, but he was afraid that she might decide to take his life. He had no alternative but to follow her into the perfumed room, trembling all the while. Completely in a stupor, he raised neither his eyes nor his head; he did not see what sort of coverlets or bedding there was in the room, nor was he eager to find out what kinds of furniture or dresser were placed therein. As for all the amorous declaration and sultry speech of the female fiend, he did not hear a word. Marvelous monk! Truly
+
 His eyes saw no evil form;
 His ears heard no lustful sound;
 He regarded as dirt and dung this coy, silken face,
@@ -181,8 +164,6 @@ And filled with Buddhist zeal.
 One was like soft jade and warm perfume;
 One seemed like cold ashes or dried wood.
 That person undid her collar,
-723
-723
 Her passion overflowing;
 This person tied up his robe,
 His resolve unswerving.
@@ -192,185 +173,133 @@ The fiend loosened her clothes
 To display her fine, scented flesh;
 The Tang Monk bundled up his cloak
 To hide his coarse and thickset skin.
+
 The fiend said, *"My sheets and pillows are ready, why don't you sleep!"*
-The Tang Monk said, *"How could my bald head and strange clothes join you
-there!"*
-That one said, *"I‟m willing to be the former period's Liu Cuicui."*
+
+The Tang Monk said, *"How could my bald head and strange clothes join you there!"*
+
+That one said, *"I'm willing to be the former period's Liu Cuicui."*
+
 This one said, *"This humble monk is not a lovesick priest!"*
-The fiend said, *"I‟m pretty as Xi Shi and e‟en more lissome."*
+
+The fiend said, *"I'm pretty as Xi Shi and even more lissome."*
+
 The Tang Monk said, *"Like King Yue I have long been mortified!"*
+
 The fiend said, *"Royal brother, remember
 He who dies beneath the flowers;
-E‟ven his ghost's a happy lover."*
-The Tang Monk said, *"My true yang is treasure most precious.
-How could I give it to a powdered cadaver?"*
-The two of them prattled on like that deep into the night, but the elder Tang
-showed no sign whatever that he had been aroused.
-Though the female fiend tugged and pulled at him and refused to let go, our
-master doggedly rejected her advances. By midnight, all this hassle made the fiend mad,
-and she shouted, *"Little ones, bring me a rope!"*
-Alas! The dearly beloved was at once trussed up until he looked like a shaggy
-ape! After telling her subordinates to drag the monk back to the corridor, she blew out
-the lamps and all of them retired.
-Soon the cock crowed three times, and beneath the mountain slope our Great
-Sage Sun rose up, saying, *"I had a headache for quite awhile, but now my head feels
-neither painful nor numb. In fact, I have a little itch."*
-“If you have an itch,"* chuckled Eight Rules, *"how about asking her to give you
-another stab?"* Pilgrim spat at him and said, *"Go! Go! Go!"*
-Eight Rules laughed again and replied, *"Go! Go! Go! But it was Master last
-night who went wild! Wild! Wild!"*
-“Stop gabbing, the two of you,"* said Sha Monk. *"It's light. Go quickly to catch
-the monster."*
-“Brother,"* said Pilgrim, *"stay here to guard the horse and don't move. Zhu Eight
-Rules will go with me."*
-Arousing himself, our Idiot straightened out his black silk shirt and followed
-Pilgrim; they took their weapons and leaped up to the mountain ledge to go before the
-stone screen. *"Stand here,"* said Pilgrim to Eight Rules, *"for I fear that the fiend might
-have harmed Master during the night. Let me go inside to snoop around a bit. If Master
-truly had lost his primal yang and his virtue because of her deception, then all of us
-could scatter. If he has not been confounded and if his Chan mind has remained
-724
-724
-unmoved, then we could in all diligence fight to the end, slaughter the monster-spirit,
-and rescue Master to go to the West."*
-“You are quite numbskulled!"* said Eight Rules. *"As the proverb says, „Could
+Even his ghost's a happy lover."*
+
+The Tang Monk said, *"My true yang is treasure most precious. How could I give it to a powdered cadaver?"*
+
+The two of them prattled on like that deep into the night, but the elder Tang showed no sign whatever that he had been aroused. Though the female fiend tugged and pulled at him and refused to let go, our master doggedly rejected her advances. By midnight, all this hassle made the fiend mad, and she shouted, *"Little ones, bring me a rope!"*
+
+Alas! The dearly beloved was at once trussed up until he looked like a shaggy ape! After telling her subordinates to drag the monk back to the corridor, she blew out the lamps and all of them retired. Soon the cock crowed three times, and beneath the mountain slope our Great Sage Sun rose up, saying, *"I had a headache for quite awhile, but now my head feels neither painful nor numb. In fact, I have a little itch."*
+
+*"If you have an itch,"* chuckled Eight Rules, *"how about asking her to give you another stab?"* Pilgrim spat at him and said, *"Go! Go! Go!"*
+
+Eight Rules laughed again and replied, *"Go! Go! Go! But it was Master last night who went wild! Wild! Wild!"*
+
+*"Stop gabbing, the two of you,"* said Sha Monk. *"It's light. Go quickly to catch the monster."*
+
+*"Brother,"* said Pilgrim, *"stay here to guard the horse and don't move. Zhu Eight Rules will go with me."*
+
+Arousing himself, our Idiot straightened out his black silk shirt and followed Pilgrim; they took their weapons and leaped up to the mountain ledge to go before the
+stone screen.
+
+*"Stand here,"* said Pilgrim to Eight Rules, *"for I fear that the fiend might have harmed Master during the night. Let me go inside to snoop around a bit. If Master
+truly had lost his primal yang and his virtue because of her deception, then all of us could scatter. If he has not been confounded and if his Chan mind has remained unmoved, then we could in all diligence fight to the end, slaughter the monster-spirit, and rescue Master to go to the West."*
+
+*"You are quite numbskulled!"* said Eight Rules. *"As the proverb says, „Could
 dried fish be used for a cat's pillows?‟ Like it or not, it would receive a few scratches!"*
+
 Pilgrim said, *"Stop babbling! I'll go and see."*
-Dear Great Sage! He left Eight Rules in front of the stone screen and shook his
-body again to change into a bee. After he flew inside, he found two maids sleeping,
-their heads resting on the watch-rattles. He went up to the flower arbor to look around.
-The monsterspirit, you see, had struggled for half the night; she and her attendants were
-all very tired. Everyone was still fast asleep, not knowing that it was dawn already.
-Flying to the rear, Pilgrim began to hear the faint moans of the Tang Monk, and then he
-saw that the priest was left, hogtied, in the corridor. Pilgrim gently alighted on his head
-and whispered, *"Master."* Recognizing the voice, the Tang Monk said, *"Have you come,
-Wukong? Save my life, quick!"*
-“How were the night's activities?"* asked Pilgrim. Tripitaka, clenching his teeth,
-replied, *"I would rather die than do anything of that sort!"*
-“I thought,"* said Pilgrim, *"I saw her showing you a good deal of tenderness
-yesterday. How is it that she is putting you through such torment today?"*
-“She pestered me for half the night,"* answered Tripitaka, *"but I did not even
-loosen my clothes or touch her bed. When she saw that I refused to yield to her, she had
-me tied up like this. Please rescue me, so that I can go acquire the scriptures."*
+
+Dear Great Sage! He left Eight Rules in front of the stone screen and shook his body again to change into a bee. After he flew inside, he found two maids sleeping,
+their heads resting on the watch-rattles. He went up to the flower arbor to look around. The monsterspirit, you see, had struggled for half the night; she and her attendants were all very tired. Everyone was still fast asleep, not knowing that it was dawn already. Flying to the rear, Pilgrim began to hear the faint moans of the Tang Monk, and then he saw that the priest was left, hogtied, in the corridor. Pilgrim gently alighted on his head and whispered, *"Master."* Recognizing the voice, the Tang Monk said, *"Have you come, Wukong? Save my life, quick!"*
+
+*"How were the night's activities?"* asked Pilgrim. Tripitaka, clenching his teeth, replied, *"I would rather die than do anything of that sort!"*
+
+*"I thought,"* said Pilgrim, *"I saw her showing you a good deal of tendernes yesterday. How is it that she is putting you through such torment today?"*
+
+*"She pestered me for half the night,"* answered Tripitaka, *"but I did not even loosen my clothes or touch her bed. When she saw that I refused to yield to her, she had me tied up like this. Please rescue me, so that I can go acquire the scriptures."*
+
 As master and disciples spoke to each other like that, they woke up the monsterspirit. Though she was furious at the Tang Monk, she was still very fond of him. When
-she stirred and heard something about going to acquire scriptures, she rolled off the bed
-at once and shouted:
-“You mean to tell me that you don't want to get married and still want to go and
-seek scriptures?"* Pilgrim was so startled that he abandoned his master, spread his
-wings, and flew out of the cave. *"Eight Rules,"* he cried, and our Idiot came around the
+she stirred and heard something about going to acquire scriptures, she rolled off the bed at once and shouted: *"You mean to tell me that you don't want to get married and still want to go and seek scriptures?"*
+
+Pilgrim was so startled that he abandoned his master, spread his wings, and flew out of the cave. *"Eight Rules,"* he cried, and our Idiot came around the
 stone screen, saying, *"Has that thing been concluded?"*
-“Not yet! Not yet!"* said Pilgrim, laughing. *"She worked on the old master for
-quite some time, but he refused. She got mad and had him hogtied. He was just telling
+
+*"Not yet! Not yet!"* said Pilgrim, laughing. *"She worked on the old master for quite some time, but he refused. She got mad and had him hogtied. He was just telling
 me all this when the fiend woke up, and I became so startled that I came back out here."*
+
 Eight Rules asked, *"What did Master actually say?"*
-“He said,"* replied Pilgrim, *"that he did not even loosen his clothes nor did he
-touch her bed."*
-“Good! Very good!"* chuckled Eight Rules. *"He's still a true monk! Let's go
-rescue him!"*
-As he had always been a roughneck, our Idiot did not wait for further discussion.
-Lifting high his muckrake, he brought it down on the stone doors with all his might, and
-with a loud crash they broke into many pieces. The two maids sleeping on the watchrattles were so terrified that they ran back to the second-level door and screamed:
-“Open up! Those two ugly men of yesterday have come again and smashed our
-doors!"*
-725
-725
-The female fiend was just leaving her room. *"Little ones,"* she cried, *"bring
-some hot water for me to wash my face. Carry the royal brother, all tied up like that, and
-hide him in the rear room. I‟m going out to fight them."*
-Dear monster-spirit! She ran out with her trident uplifted and shouted:
-“Brazen ape! Wild boar! You don't know when to stop, do you? How dare you
-break my doors?"*
-“You filthy bitch!"* scolded Eight Rules. *"You have our master imprisoned, and
-you still dare to talk with such insolence? Our master was only your kidnapped
-husband! Send him out quickly, and I'll spare you. If you dare but utter half a no, the
-blows of old Hog's rake will level even your mountain."*
-The monster-spirit, of course, did not permit such words to intimidate her. With
-enormous energy and using magic as before, she attacked with her steel trident while
-her nose and mouth belched fire and smoke. Eight Rules leaped aside to dodge her blow
-before striking back with his rake, helped by the Great Sage Sun and his iron rod on the
-other side. The power of that fiend was tremendous indeed! All at once she seemed to
-have acquired who knows how many hands, waving and parrying left and right. After
-they fought for several rounds, she again used some kind of weapon and gave the lip of
-Eight Rules a stab. His rake trailing behind him and his lips pouting, our Idiot fled in
-pain for his life. Pilgrim also became somewhat envious of him; making one false blow
-with the rod, he, too, fled in defeat. After the fiend returned in triumph, she told her
-little ones to place rock piles in front of the door.
-We now tell you about Sha Monk, who was grazing the horse before the
-mountain slope when he heard some hog-grunting. As he raised his head, he saw Eight
-Rules dashing back, lips pouted and grunting as he ran. *"What in the world . . .?"* asked
-Sha Monk, and our Idiot blurted out:
-“It's awful! It's awful! This pain! This pain!"*
-Hardly had he finished speaking when Pilgrim also arrived. *"Dear Idiot!"* he
-chuckled. *"Yesterday you said I had a brain tumor, but now you are suffering from the
+
+*"He said,"* replied Pilgrim, *"that he did not even loosen his clothes nor did he touch her bed."*
+
+*"Good! Very good!"* chuckled Eight Rules. *"He's still a true monk! Let's go rescue him!"*
+
+As he had always been a roughneck, our Idiot did not wait for further discussion. Lifting high his muckrake, he brought it down on the stone doors with all his might, and with a loud crash they broke into many pieces. The two maids sleeping on the watchrattles were so terrified that they ran back to the second-level door and screamed: *"Open up! Those two ugly men of yesterday have come again and smashed our doors!"*
+
+The female fiend was just leaving her room. *"Little ones,"* she cried, *"bring some hot water for me to wash my face. Carry the royal brother, all tied up like that, and hide him in the rear room. I'm going out to fight them."*
+
+Dear monster-spirit! She ran out with her trident uplifted and shouted: *"Brazen ape! Wild boar! You don't know when to stop, do you? How dare you break my doors?"*
+
+*"You filthy bitch!"* scolded Eight Rules. *"You have our master imprisoned, and you still dare to talk with such insolence? Our master was only your kidnapped
+husband! Send him out quickly, and I'll spare you. If you dare but utter half a no, the blows of old Hog's rake will level even your mountain."*
+
+The monster-spirit, of course, did not permit such words to intimidate her. With enormous energy and using magic as before, she attacked with her steel trident while
+her nose and mouth belched fire and smoke. Eight Rules leaped aside to dodge her blow before striking back with his rake, helped by the Great Sage Sun and his iron rod on the other side. The power of that fiend was tremendous indeed! All at once she seemed to have acquired who knows how many hands, waving and parrying left and right. After they fought for several rounds, she again used some kind of weapon and gave the lip of Eight Rules a stab. His rake trailing behind him and his lips pouting, our Idiot fled in pain for his life. Pilgrim also became somewhat envious of him; making one false blow with the rod, he, too, fled in defeat. After the fiend returned in triumph, she told her little ones to place rock piles in front of the door.
+
+We now tell you about Sha Monk, who was grazing the horse before the mountain slope when he heard some hog-grunting. As he raised his head, he saw Eight Rules dashing back, lips pouted and grunting as he ran. *"What in the world . . .?"* asked Sha Monk, and our Idiot blurted out: “It's awful! It's awful! This pain! This pain!"*
+
+Hardly had he finished speaking when Pilgrim also arrived. *"Dear Idiot!"* he chuckled. *"Yesterday you said I had a brain tumor, but now you are suffering from the
 plague of the swollen lip!"*
-“I can't bear it!"* cried Eight Rules. *"The pain's acute! It's terrible! It's terrible!"*
-The three of them were thus in sad straits when they saw an old woman
-approaching from the south on the mountain road, her left hand carrying a little bamboo
-basket with vegetables in it. *"Big Brother,"* said Sha Monk, *"look at that old lady
-approaching. Let me find out from her what sort of a monster-spirit this is and what
-kind of weapon she has that can inflict a wound like this."*
-“You stay where you are,"* said Pilgrim, *"and let old Monkey question her."*
-When Pilgrim stared at the old woman carefully, he saw that there were auspicious
-clouds covering her head and fragrant mists encircling her body. Recognizing all at once
-who she was, Pilgrim shouted, *"Brothers, kowtow quickly! The lady is Bodhisattva!"*
-Ignoring his pain, Eight Rules hurriedly went to his knees while Sha Monk bent low,
-still holding the reins of the horse. The Great Sage Sun, too, pressed his palms together
-and knelt down, all crying, *"We submit to the great and compassionate, the efficacious
-savior, Bodhisattva Guanshiyin."* When the Bodhisattva saw that they recognized her
-original light, she at once trod on the auspicious clouds and rose to midair to reveal her
-true form, the one which carried the fish basket. Pilgrim rushed up there also to say to
-her, bowing, *"Bodhisattva, pardon us for not receiving you properly. We were
-726
-726
-desperately trying to rescue our master and we had no idea that the Bodhisattva was
-descending to earth. Our present demonic ordeal is hard to overcome indeed, and we
-beg the Bodhisattva to help us."*
-“This monsterspirit,"* said the Bodhisattva, *"is most formidable. Those tridents
-of hers happen to be two front claws, and what gave you such a painful stab is actually a
-stinger on her tail. It's called the Horse-Felling Poison, for she herself is a scorpion
-spirit. Once upon a time she happened to be listening to a lecture in the Thunderclap
-Monastery. When Tathāgata saw her, he wanted to push her away with his hand, but she
-turned around and gave the left thumb of the Buddha a stab. Even Tathāgata found the
-pain unbearable! When he ordered the arhats to seize her, she fled here. If you want to
-rescue the Tang Monk, you must find a special friend of mine, for even I cannot go near
-her."*
-Bowing again, Pilgrim said, *"I beg the Bodhisattva to reveal to whom it is that
-your disciple should go to ask for assistance."*
-“Go to the East Heaven Gate,"* replied the Bodhisattva, *"and ask for help from
-the Star Lord Orionis in the Luminescent Palace. He is the one to subdue this monsterspirit."* When she finished speaking, she changed into a beam of golden light to return to
-South Sea.
-Dropping down from the clouds, the Great Sage Sun said to Eight Rules and Sha
-Monk, *"Relax, Brothers, we've found someone to rescue Master."*
-“From where?"* asked Sha Monk. Pilgrim replied, *"Just now the Bodhisattva told
-me to seek the assistance of the Star Lord Orionis. Old Monkey will go immediately."*
-With swollen lips, Eight Rules grunted, *"Elder Brother, please ask the god for some
-medicine for the pain."*
-“No need for medicine,"* said Pilgrim with a laugh. *"After one night, the pain
-will go away like mine."*
-“Stop talking,"* said Sha Monk. *"Go quickly!"*
-Dear Pilgrim! Mounting his cloud somersault, he arrived instantly at the East
-Heaven Gate, where he was met by the Devarāja Virūḍhaka. *"Great Sage,"* said the
+
+*"I can't bear it!"* cried Eight Rules. *"The pain's acute! It's terrible! It's terrible!"*
+
+The three of them were thus in sad straits when they saw an old woman approaching from the south on the mountain road, her left hand carrying a little bamboo
+basket with vegetables in it. *"Big Brother,"* said Sha Monk, *"look at that old lady approaching. Let me find out from her what sort of a monster-spirit this is and what kind of weapon she has that can inflict a wound like this."*
+
+*"You stay where you are,"* said Pilgrim, *"and let old Monkey question her."* When Pilgrim stared at the old woman carefully, he saw that there were auspicious
+clouds covering her head and fragrant mists encircling her body. Recognizing all at once who she was, Pilgrim shouted, *"Brothers, kowtow quickly! The lady is Bodhisattva!"*
+
+Ignoring his pain, Eight Rules hurriedly went to his knees while Sha Monk bent low, still holding the reins of the horse. The Great Sage Sun, too, pressed his palms together and knelt down, all crying, *"We submit to the great and compassionate, the efficacious savior, Bodhisattva Guanshiyin."*
+
+When the Bodhisattva saw that they recognized her original light, she at once trod on the auspicious clouds and rose to midair to reveal her true form, the one which carried the fish basket. Pilgrim rushed up there also to say to her, bowing, *"Bodhisattva, pardon us for not receiving you properly. We were desperately trying to rescue our master and we had no idea that the Bodhisattva was descending to earth. Our present demonic ordeal is hard to overcome indeed, and we beg the Bodhisattva to help us."*
+
+*"This monsterspirit,"* said the Bodhisattva, *"is most formidable. Those tridents of hers happen to be two front claws, and what gave you such a painful stab is actually a stinger on her tail. It's called the Horse-Felling Poison, for she herself is a scorpion spirit. Once upon a time she happened to be listening to a lecture in the Thunderclap Monastery. When Tathāgata saw her, he wanted to push her away with his hand, but she turned around and gave the left thumb of the Buddha a stab. Even Tathāgata found the pain unbearable! When he ordered the arhats to seize her, she fled here. If you want to rescue the Tang Monk, you must find a special friend of mine, for even I cannot go near her."*
+
+Bowing again, Pilgrim said, *"I beg the Bodhisattva to reveal to whom it is that your disciple should go to ask for assistance."*
+
+*"Go to the East Heaven Gate,"* replied the Bodhisattva, *"and ask for help from the Star Lord Orionis in the Luminescent Palace. He is the one to subdue this monsterspirit."*
+
+When she finished speaking, she changed into a beam of golden light to return to South Sea. Dropping down from the clouds, the Great Sage Sun said to Eight Rules and Sha Monk, *"Relax, Brothers, we've found someone to rescue Master."*
+
+*"From where?"* asked Sha Monk. Pilgrim replied, *"Just now the Bodhisattva told me to seek the assistance of the Star Lord Orionis. Old Monkey will go immediately."*
+
+With swollen lips, Eight Rules grunted, *"Elder Brother, please ask the god for some medicine for the pain."*
+
+*"No need for medicine,"* said Pilgrim with a laugh. *"After one night, the pain will go away like mine."*
+
+*"Stop talking,"* said Sha Monk. *"Go quickly!"*
+
+Dear Pilgrim! Mounting his cloud somersault, he arrived instantly at the East Heaven Gate, where he was met by the Devarāja Virūḍhaka. *"Great Sage,"* said the
 devarāja, bowing, *"where are you going?"*
-“On our way to acquire scriptures in the West,"* replied Pilgrim, *"the Tang Monk
-ran into another demonic obstacle. I must go to the Luminescent Palace to find the Star
-God of the Rising Sun."*
-As he spoke, Tao, Zhang, Xin, and Deng, the four Grand Marshals, also
-approached him to ask where he was going. *"I have to find the Star Lord Orionis,"* said
-Pilgrim, *"and ask him to rescue my master from a monster-spirit."* One of the grand
-marshals said, *"By the decree of the Jade Emperor this morning, the god went to patrol
-the Star-Gazing Terrace."*
-“Is that true?"* asked Pilgrim. *"All of us humble warriors,"* replied Grand
-Marshal Xin, *"left the Dipper Palace with him at the same time. Would we dare speak
+
+*"On our way to acquire scriptures in the West,"* replied Pilgrim, *"the Tang Monk ran into another demonic obstacle. I must go to the Luminescent Palace to find the Star God of the Rising Sun."*
+
+As he spoke, Tao, Zhang, Xin, and Deng, the four Grand Marshals, also approached him to ask where he was going. *"I have to find the Star Lord Orionis,"* said
+Pilgrim, *"and ask him to rescue my master from a monster-spirit."* One of the grand marshals said, *"By the decree of the Jade Emperor this morning, the god went to patrol the Star-Gazing Terrace."*
+
+*"Is that true?"* asked Pilgrim. *"All of us humble warriors,"* replied Grand Marshal Xin, *"left the Dipper Palace with him at the same time. Would we dare speak
 falsehood?"*
-“It has been a long time,"* said Grand Marshal Tao, *"and he might be back
-already. The Great Sage should go to the Luminescent Palace first, and if he's not there,
+
+*"It has been a long time,"* said Grand Marshal Tao, *"and he might be back already. The Great Sage should go to the Luminescent Palace first, and if he's not there,
 then you can go to the Star-Gazing Terrace."*
-727
-727
-Delighted, the Great Sage took leave of them and arrived at the gate of the
-Luminescent Palace. Indeed, there was no one in sight, and as he turned to leave, he saw
-a troop of soldiers approaching, followed by the god, who still had on his court regalia
-made of golden threads. Look at
+
+Delighted, the Great Sage took leave of them and arrived at the gate of the Luminescent Palace. Indeed, there was no one in sight, and as he turned to leave, he saw a troop of soldiers approaching, followed by the god, who still had on his court regalia made of golden threads. Look at
+
 His cap of five folds ablaze with gold;
 His court tablet of most lustrous jade.
 A seven-star sword, cloud patterned, hung from his robe;
@@ -379,36 +308,31 @@ His pendant jangled as if striking a tune;
 It rang like a bell in a strong gust of wind.
 Kingfisher fans parted and Orionis came
 As celestial fragrance the courtyard filled.
-Those soldiers walking in front saw Pilgrim standing outside the Luminescent
-Palace, and they turned quickly to report:
-“My lord, the Great Sage Sun is here."* Stopping his cloud and straightening his
-court attire, the god ordered the soldiers to stand on both sides in two rows while he
-went forward to salute his visitor, saying, *"Why has the Great Sage come here?"*
-“I have come here,"* replied Pilgrim, *"especially to ask you to save my master
-from an ordeal."*
-“Which ordeal,"* asked the god, *"and where?"*
-“In the Cave of the Lute at the Toxic Foe Mountain,"* Pilgrim answered, *"which
-is located in the State of Western Liang."*
-“What sort of monster is there in the cave,"* asked the god again, *"that has made
-it necessary for you to call on this humble deity?"* Pilgrim said, *"Just now the
-Bodhisattva Guanyin, in her epiphany, revealed to us that it was a scorpion spirit. She
-told us further that only you, sir, could overcome it. That is why I have come to call on
-you."*
-“I should first go back and report to the Jade Emperor,"* said the god, *"but the
-Great Sage is already here, and you have, moreover, the Bodhisattva's recommendation.
-Since I don't want to cause you delay, I dare not ask you for tea. I shall go with you to
-subdue the monster-spirit first before I report to the throne."* When the Great Sage heard
-this, he at once went out of the East Heaven Gate with the god and sped to the State of
-Western Liang.
-Seeing the mountain ahead, Pilgrim pointed at it and said, *"This is it."*
-The god lowered his cloud and walked with Pilgrim up to the stone screen
-beneath the mountain slope. When Sha Monk saw them, he said, *"Second Elder
-Brother, please rise. Big Brother has brought back the star god."*
-His lips still pouting, Idiot said, *"Pardon! Pardon! I‟m ill, and I cannot salute
-you."*
-“You are a man who practices self-cultivation,"* said the star god. *"What kind of
-sickness do you have?"*
-“Earlier in the morning,"* replied Eight Rules, *"we fought with the monsterspirit, who gave me a stab on my lip. It still hurts."*
+
+Those soldiers walking in front saw Pilgrim standing outside the Luminescent Palace, and they turned quickly to report: *"My lord, the Great Sage Sun is here."* 
+
+Stopping his cloud and straightening his court attire, the god ordered the soldiers to stand on both sides in two rows while he went forward to salute his visitor, saying, *"Why has the Great Sage come here?"*
+
+*"I have come here,"* replied Pilgrim, *"especially to ask you to save my master from an ordeal."*
+
+*"Which ordeal,"* asked the god, *"and where?"*
+
+*"In the Cave of the Lute at the Toxic Foe Mountain,"* Pilgrim answered, *"which is located in the State of Western Liang."*
+
+*"What sort of monster is there in the cave,"* asked the god again, *"that has made it necessary for you to call on this humble deity?"* Pilgrim said, *"Just now the Bodhisattva Guanyin, in her epiphany, revealed to us that it was a scorpion spirit. She told us further that only you, sir, could overcome it. That is why I have come to call on you."*
+
+*"I should first go back and report to the Jade Emperor,"* said the god, *"but the Great Sage is already here, and you have, moreover, the Bodhisattva's recommendation. Since I don't want to cause you delay, I dare not ask you for tea. I shall go with you to subdue the monster-spirit first before I report to the throne."*
+
+When the Great Sage heard this, he at once went out of the East Heaven Gate with the god and sped to the State of Western Liang. Seeing the mountain ahead, Pilgrim pointed at it and said, *"This is it."*
+
+The god lowered his cloud and walked with Pilgrim up to the stone screen beneath the mountain slope. When Sha Monk saw them, he said, *"Second Elder Brother, please rise. Big Brother has brought back the star god."*
+
+His lips still pouting, Idiot said, *"Pardon! Pardon! I'm ill, and I cannot salute you."*
+
+*"You are a man who practices self-cultivation,"* said the star god. *"What kind of sickness do you have?"*
+
+*"Earlier in the morning,"* replied Eight Rules, *"we fought with the monsterspirit, who gave me a stab on my lip. It still hurts."*
+
 The star god said, *"Come up here, and I'll cure it for you."*
 
 Taking his hand away from his snout, Idiot said, *"I beg you to cure it, and I'll thank you most heartily."*
@@ -425,11 +349,14 @@ The star god indeed touched the top of his head and blew a mouthful of breath on
 
 *"Exactly!"* said the star god. *"You provoke her to come out, the two of you, and I'll subdue her."*
 
-Leaping up the mountain slope, Pilgrim and Eight Rules again went behind the stone screen. With his mouth spewing abuses and his hands working like a pair of fuel-gatherer hooks, our Idiot used his rake to remove the rocks piled up in front of the cave in no time at all. He then dashed up to the second-level door, and one blow of his rake reduced it to powder. The little fiends inside were so terrified that they fled inside to report: “Madam, those two ugly men have destroyed even our second-level door!"*
+Leaping up the mountain slope, Pilgrim and Eight Rules again went behind the stone screen. With his mouth spewing abuses and his hands working like a pair of fuel-gatherer hooks, our Idiot used his rake to remove the rocks piled up in front of the cave in no time at all. He then dashed up to the second-level door, and one blow of his rake reduced it to powder. The little fiends inside were so terrified that they fled inside to report: *"Madam, those two ugly men have destroyed even our second-level door!"*
 
 The fiend was just about to untie the Tang Monk so that he could be fed some tea and rice. When she heard that the door had been broken down, she jumped out of the flower arbor and stabbed Eight Rules with the trident. Eight Rules met her with the rake, while Pilgrim assisted him with his iron rod. Rushing at her opponents, the fiend wanted to use her poisonous trick again, but Pilgrim and Eight Rules perceived her intentions and retreated immediately.
 
-The fiend chased them beyond the stone screen, and Pilgrim shouted, *"Orionis, where are you?"* Standing erect on the mountain slope, the star god revealed his true form. He was, you see, actually a huge, double-combed rooster, about seven feet tall when he held up his head. He faced the fiend and crowed once: immediately the fiend revealed her true form, which was that of a scorpion about the size of a lute. The star god crowed again, and the fiend, whose whole body became paralyzed, died before the slope. We have a testimonial poem for you, and the poem says:
+The fiend chased them beyond the stone screen, and Pilgrim shouted, *"Orionis, where are you?"*
+
+Standing erect on the mountain slope, the star god revealed his true form. He was, you see, actually a huge, double-combed rooster, about seven feet tall when he held up his head. He faced the fiend and crowed once: immediately the fiend revealed her true form, which was that of a scorpion about the size of a lute. The star god crowed again, and the fiend, whose whole body became paralyzed, died before the slope. We have a testimonial poem for you, and the poem says:
+
 Like tasseled balls his embroidered neck and comb,
 With long, hard claws and angry, bulging eyes,
 He perfects the Five Virtues forcefully;
@@ -449,7 +376,7 @@ After the three of them gave thanks, they took the luggage and the horse into th
 
 On hearing this, Pilgrim stared at them and saw that there was indeed no demonic aura about them. He therefore went to the rear, crying, *"Master!"* When the Tang Monk saw them, he was very pleased. *"Worthy disciples,"* he said, *"I have caused you a lot of trouble. What happened to that woman?"*
 
-“She was a huge female scorpion,"* replied Eight Rules. *"We are fortunate to have received the revelation from the Bodhisattva Guanyin, whereupon Big Brother went to Heaven to acquire the assistance of the Star Lord Orionis. He came here and subdued her, and she has been reduced to mud by old Hog. Only then did we dare walk in here to see your face."*
+*"She was a huge female scorpion,"* replied Eight Rules. *"We are fortunate to have received the revelation from the Bodhisattva Guanyin, whereupon Big Brother went to Heaven to acquire the assistance of the Star Lord Orionis. He came here and subdued her, and she has been reduced to mud by old Hog. Only then did we dare walk in here to see your face."*
 
 The Tang Monk could not end his thanks to them. Then they found some rice and noodles with which they prepared a meal, after which they showed the way home to those girls who had been taken captive. Lighting up a fire, they burned out the entire cave-dwelling before they found the main road to the West once more. Thus it was that
 
