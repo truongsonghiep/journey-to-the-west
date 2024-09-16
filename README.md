@@ -50,8 +50,8 @@ Mokṣa by order receives Wujing’s submission.
 At Five Villages Abbey, Pilgrim steals the ginseng fruit.
 25. The Zhenyuan Immortal gives chase to catch the scripture monk;
 Pilgrim Sun greatly disturbs Five Villages Abbey.
-26. Amid the Three Islands Sun Wukong seeks a cure;
-With sweet dew Guanshiyin revives a tree.
+
+26. **[Amid the Three Islands Sun Wukong seeks a cure; <br> With sweet dew Guanshiyin revives a tree.](chapter-026.md)**
 27. The cadaver demon three times mocks Tripitaka Tang;
 The holy monk in spite banishes Handsome Monkey King.
 28. At Flower-Fruit Mountain a pack of fiends hold assembly;
