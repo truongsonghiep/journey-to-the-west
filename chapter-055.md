@@ -384,3 +384,50 @@ They cut worldly ties to leave beauty and form;
 They drained the gold sea to know the mind of Chan.
 
 We do not know how many more years they still need in order to perfect the art of realized immortality; let's listen to the explanation in the next chapter.
+
+# Vobs
+1. deviant: lầm đường lạc lối/lệch lạc
+2. lust(n)/lustful(adj): dâm đãng/dâm dục
+3. the self: cái tôi
+4. untainted: không bị ô nhiễm, ô uế
+5. safeguard: bảo vệ
+6. howl: tiếng hú
+7. cyclone: bão xoáy
+8. peer: nhìn một cách tập trung
+9. hurtle: lao (kèm theo sự nguy hiểm)
+10. tread/trod: bước đi
+11. shiny: sáng bóng
+12. Toxic Foe Mountain
+13. Cave of the Lute: động tỳ bà
+14. cock: vảnh lên
+15. bun: bánh bao
+16. stuffed (adj): nhồi
+17. flesh : da thịt người (tăng độ kinh dị)
+18. "Little ones": các con
+19. arbor: khung vườn treo
+20. peeping Tom: nhìn trộm người khác khóa thân
+21. parry: đỡ đòn/đỡ kiếm
+22. blows: những cú đánh
+23. clumsy: vụng về
+24. oafs: ngu ngốc
+25. Horse-Felling Poisoned Stake
+26. unseen: vô hình
+27. stab <v>: đâm
+28. goan: lời than
+29. grin: cười toe toét
+30. get anywhere: đi được tới đâu/làm được gì.
+31. put it on that way: nói như vậy/làm theo cách đó
+32. hubbub: huyên náo
+33. provoke: khiêu khích/chọc giận
+34. banish: trục xuất
+35. rear: từ phía sau
+36. seductive: quyến rũ/cám dỗ
+37. grit teeth: nghiếng răng
+38. sheet: ra/ga trải giường
+39. crow: gáy
+40. itch: ngứa
+41. chuckle: cười hớn hở.
+42. formidable: ghê gớm
+43. sting/stinger: vết chích
+44. Star Lord Orionis: nhật mão tinh quân
+45. ordeal: thử thách
