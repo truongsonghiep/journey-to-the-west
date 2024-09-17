@@ -41,8 +41,7 @@ At Pagoda Mountain, Tripitaka receives the Heart Sūtra.
 In mid-mountain, Eight Rules strives to be first.
 
 21. **[The Vihārapālas prepare lodging for the Great Sage; <br> Lingji of Sumeru crushes the wind demon.](chapter-021.md)**
-22. Eight Rules fights fiercely at the Flowing-Sand River;
-Mokṣa by order receives Wujing’s submission.
+22. **[Eight Rules fights fiercely at the Flowing-Sand River; <br> Mokṣa by order receives Wujing’s submission.](chapter-022)**
 
 23. **[Tripitaka does not forget his origin; <br>The Four Sages test the priestly mind.](chapter-023.md)**
 
