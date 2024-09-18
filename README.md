@@ -79,8 +79,8 @@ Metal and Wood, reaching the deep, see the false and the real.
 A king, dead three years, lives again on Earth.
 40. The child’s playful transformations confuse the Chan Mind;
 Ape, Horse, Spatula gone, Wood Mother, too, is lost.
-41. Mind Monkey is defeated by fire;
-Wood Mother is captured by demons.
+
+41. [**Mind Monkey is defeated by fire; <br> Wood Mother is captured by demons.**](chapter-041.md)
 42. The Great Sage diligently calls at South Sea;
 Guanyin with compassion binds the Red Boy.
 43. An evil demon at Black River captures the monk;
