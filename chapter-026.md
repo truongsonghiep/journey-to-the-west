@@ -49,22 +49,15 @@ will revive the tree for him."
 "How long do you need to be away before returning?" said Tripitaka. "Only
 three days."
 
-"All right," said Tripitaka. "As you said, I"ll give you three days. If you return
-by that time, everything will be fine. If you don"t come back after three days, I"ll begin
+"All right," said Tripitaka. "As you said, I'll give you three days. If you return
+by that time, everything will be fine. If you don"t come back after three days, I'll begin
 reciting that „Old-Time Sūtra"!"
 
 "I hear you! I hear you!" said Pilgrim
 
-Look how he quickly straightened his tiger-skin kilt. As he walked out the door,
-he said to the Great Immortal, "You need not worry, sir. I leave now, but I"ll be back
-very soon. But you must take good care of my master; see that he lacks none of the
-three meals and the six teas of the day. If my master"s clothes become soiled or
-wrinkled, wash and starch them. Should he want anything, old Monkey will settle the
-account with you when he returns. I"ll finish puncturing all the pans for you! If my
-master"s face pales even a little, I won"t take him back; and if he becomes a trifle thin,
-I"ll not leave this place."
+Look how he quickly straightened his tiger-skin kilt. As he walked out the door, he said to the Great Immortal, "You need not worry, sir. I leave now, but I'll be back very soon. But you must take good care of my master; see that he lacks none of the three meals and the six teas of the day. If my master"s clothes become soiled or wrinkled, wash and starch them. Should he want anything, old Monkey will settle the account with you when he returns. I'll finish puncturing all the pans for you! If my master"s face pales even a little, I won"t take him back; and if he becomes a trifle thin, I'll not leave this place."
 
-"Go, go," said the Great Immortal. "I"ll see to it that he doesn"t starve!"
+"Go, go," said the Great Immortal. "I'll see to it that he doesn"t starve!"
 
 Dear Monkey King! He mounted his cloud somersault quickly and left the
 Abbey of Five Villages, heading straight for the Great Eastern Ocean. Moving through
