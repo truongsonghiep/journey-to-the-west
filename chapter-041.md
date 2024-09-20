@@ -181,66 +181,33 @@ wouldn't run but still wanted to tangle with him."*
 Pilgrim said, *"Indeed you shouldn't have stepped forward. I was about to find a way to give him a blow with my rod after a few more rounds. Wouldn‟t
 that have been better?"*
 
-The two gave themselves entirely to discussing the ability of the monster-spirit
-and the viciousness of his fire, but Sha Monk, leaning on the trunk of a pine tree, was
-laughing so hard that he could barely stand up.
-*"Brother,"* said Pilgrim, after he noticed him, *"why are you laughing? If you had
-the ability to capture that demon and destroy his fire defense, that would be a benefit to
-all of us. As the proverb says, a few feathers will make a ball. If you could seize the
-demon and rescue our master, it would be your great merit."*
-*"I don't have that kind of ability,"* said Sha Monk, *"nor can I subdue the fiend.
-But I am laughing because both of you are so absentminded."*
-533
-533
-*"What do you mean?"* asked Pilgrim. Sha Monk said, *"Neither the ability of that
-monster-spirit nor his skill with the lance can be a match for you, but the only reason
-why you two cannot prevail against him is because of his fire. If I have anything to say
-about this, I'll say that you should overcome him by mutual production and mutual
-conquest.
-What's so difficult about that?"* When Pilgrim heard these words, he roared with
-laughter and said, *"Brother, you are right! Indeed, we are absentminded, and we have
-forgotten about the whole matter. If we consider the principles of mutual production and
-mutual conquest, then it is water that can overcome fire. We must find water somewhere
-to put out this demonic fire. We would be able to rescue Master then, wouldn't we?"*
-*"Exactly,"* said Sha Monk. *"No need for further delay."* Pilgrim said, *"Stay here,
-the two of you, but don't fight with him. Let old Monkey go to the Great Eastern Ocean
-and request some dragon soldiers to come with water. After we have put out the
-demonic fire, we will rescue Master."*
-*"Elder Brother,"* said Eight Rules, *"feel free to go. We can look after ourselves
-here."*
-Dear Great Sage! Mounting the clouds to leave that place, he arrived at the
-Eastern Ocean in a moment. He was too busy, however, to linger and enjoy the scenery;
-using the water-division magic, he opened up a pathway for himself through the waves.
-As he proceeded, he ran into a yakṣa on patrol. When the yakṣa saw that it was the
-Great Sage Sun, he went quickly back to the Water- Crystal Palace to report to the old
-Dragon King. Aoguang immediately led the dragon sons and grandsons together with
-shrimp soldiers and crab lieutenants to meet his visitor outside the gate. Pilgrim was
-invited to take a seat inside and also tea. *"No need for tea,"* said Pilgrim, *"but I do have
-a matter that will cause you some trouble. My master, who's on his way to the Western
-Heaven to seek scriptures from Buddha, happens to be passing through the Fiery Cloud
-Cave at the Dried Pine Stream of the Roaring Mountain.
-A Red Boy monster-spirit, with the fancy title of the Great King, Holy Child,
-has captured my master. When old Monkey made his search up to his door and fought
-with him, he let out some fire which we couldn't put out. Since we thought of the fact
-that water could prevail over fire, I came especially to ask you for some water. You can
-start a big rainstorm for me to put out that fire so that the Tang Monk will be delivered
-from this ordeal."*
-*"You are mistaken, Great Sage,"* said the Dragon King, *"for if you want
-rainwater, you shouldn't have come to ask me."*
-*"You are the Dragon King of Four Oceans, the principal superintendent of rain
-and dew. If I don't ask you, whom should I ask?"*
-The Dragon King said, *"Though I‟m in charge of rain, I can't dispense it as I
-will. We must have the decree of the Jade Emperor, specifying where and when, the
-number of feet and inches, and the hour when the rain is to begin. Moreover, three
-officials have to raise their brushes to draft the document, which then must be
-dispatched by the North Star. Thereafter, we must also assemble the Thunder God, the
-Lightning Mother, the Wind Uncle, and the Cloud Boy, for as the proverb says, „The
-dragon can't move without clouds.‟” *"I have no need for wind, cloud, thunder, or
-lightning,"* said Pilgrim, *"only some rainwater to put out a fire."*
-534
-534
-*"In that case,"* said the Dragon King, *"I still would not be able to help you all by
-myself. Let my brothers give you a hand to achieve this merit for you. How about that?"*
+The two gave themselves entirely to discussing the ability of the monster-spirit and the viciousness of his fire, but Sha Monk, leaning on the trunk of a pine tree, was laughing so hard that he could barely stand up.
+
+*"Brother,"* said Pilgrim, after he noticed him, *"why are you laughing? If you had the ability to capture that demon and destroy his fire defense, that would be a benefit to all of us. As the proverb says, a few feathers will make a ball. If you could seize the demon and rescue our master, it would be your great merit."*
+
+*"I don't have that kind of ability,"* said Sha Monk, *"nor can I subdue the fiend. But I am laughing because both of you are so absentminded."*
+
+*"What do you mean?"* asked Pilgrim. Sha Monk said, *"Neither the ability of that monster-spirit nor his skill with the lance can be a match for you, but the only reason why you two cannot prevail against him is because of his fire. If I have anything to say about this, I'll say that you should overcome him by mutual production and mutual conquest. What's so difficult about that?"*
+
+When Pilgrim heard these words, he roared with laughter and said, *"Brother, you are right! Indeed, we are absentminded, and we have forgotten about the whole matter. If we consider the principles of mutual production and mutual conquest, then it is water that can overcome fire. We must find water somewhere to put out this demonic fire. We would be able to rescue Master then, wouldn't we?"*
+
+*"Exactly,"* said Sha Monk. *"No need for further delay."* Pilgrim said, *"Stay here, the two of you, but don't fight with him. Let old Monkey go to the Great Eastern Ocean and request some dragon soldiers to come with water. After we have put out the demonic fire, we will rescue Master."*
+
+*"Elder Brother,"* said Eight Rules, *"feel free to go. We can look after ourselves here."*
+
+Dear Great Sage! Mounting the clouds to leave that place, he arrived at the Eastern Ocean in a moment. He was too busy, however, to linger and enjoy the scenery;
+using the water-division magic, he opened up a pathway for himself through the waves. As he proceeded, he ran into a yakṣa on patrol. When the yakṣa saw that it was the Great Sage Sun, he went quickly back to the Water- Crystal Palace to report to the old Dragon King. Aoguang immediately led the dragon sons and grandsons together with shrimp soldiers and crab lieutenants to meet his visitor outside the gate. Pilgrim was invited to take a seat inside and also tea. *"No need for tea,"* said Pilgrim, *"but I do have a matter that will cause you some trouble. My master, who's on his way to the Western Heaven to seek scriptures from Buddha, happens to be passing through the Fiery Cloud Cave at the Dried Pine Stream of the Roaring Mountain. A Red Boy monster-spirit, with the fancy title of the Great King, Holy Child, has captured my master. When old Monkey made his search up to his door and fought with him, he let out some fire which we couldn't put out. Since we thought of the fact that water could prevail over fire, I came especially to ask you for some water. You can start a big rainstorm for me to put out that fire so that the Tang Monk will be delivered from this ordeal."*
+
+*"You are mistaken, Great Sage,"* said the Dragon King, *"for if you want rainwater, you shouldn't have come to ask me."*
+
+*"You are the Dragon King of Four Oceans, the principal superintendent of rain and dew. If I don't ask you, whom should I ask?"*
+
+The Dragon King said, *"Though I'm in charge of rain, I can't dispense it as I will. We must have the decree of the Jade Emperor, specifying where and when, the
+number of feet and inches, and the hour when the rain is to begin. Moreover, three officials have to raise their brushes to draft the document, which then must be
+dispatched by the North Star. Thereafter, we must also assemble the Thunder God, the Lightning Mother, the Wind Uncle, and the Cloud Boy, for as the proverb says, „The dragon can't move without clouds.‟” *"I have no need for wind, cloud, thunder, or lightning,"* said Pilgrim, *"only some rainwater to put out a fire."*
+
+*"In that case,"* said the Dragon King, *"I still would not be able to help you all by myself. Let my brothers give you a hand to achieve this merit for you. How about that?"*
+
 *"Where are your brothers?"* asked Pilgrim. The Dragon King said, *"They are
 Aoqin, Dragon King of the Southern Ocean; Aorun, Dragon King of the Western
 Ocean; and Aoshun, Dragon King of the Northern Ocean."* Laughing, Pilgrim said, *"If I
@@ -280,7 +247,7 @@ At the Great Sage, Equal to Heaven's request;
 When Tripitaka meets an ordeal on the way,
 Water is sought to put out the fiery red.
 Leading those dragon troops, Pilgrim soon arrived at the Dried Pine Stream on
-the Roaring Mountain. *"Worthy Ao Brothers,"* said Pilgrim, *"I‟m sorry for asking you
+the Roaring Mountain. *"Worthy Ao Brothers,"* said Pilgrim, *"I'm sorry for asking you
 to traverse such a distance. This is the habitat of the demon. Please remain for the
 moment in the air and do not reveal yourselves. Let old Monkey go fight with him; if I
 win, there's no need for you to catch him, and even if I lose, there's no need for all of
@@ -571,7 +538,7 @@ Uses his boundless power, equal to Heav‟n,
 All monsters of this mountain will then be caught.
 541
 541
-When I‟m freed after this leather bag's untied,
+When I'm freed after this leather bag's untied,
 I'll rake you a thousand times before I stop!"*
 When Pilgrim heard these words, he laughed silently, saying to himself,
 *"Though the idiot must be suffocating in there, he hasn't dropped his banner or spear
