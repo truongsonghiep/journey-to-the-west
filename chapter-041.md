@@ -269,12 +269,14 @@ been burned by the fire and that's why he has returned. Well, I'll not spare him
 time, for I won't stop until his skin is charred and his flesh is seared."*
 As he leaped up to take hold of his lance, he gave the order:
 *"Little ones, push out the carts!"*
+
 After he rushed out the door, he said to Pilgrim, *"Why are you here again?"*
-*"Return my master,"* said Pilgrim. *"Monkey head,"* said the fiend, *"you are
-indeed obtuse! If the Tang Monk can be your master, can't he also be our hors d‟oeuvre
-for wine? Forget him! Forget him!"* When Pilgrim heard these words, he was infuriated;
-pulling out his golden-hooped rod, he struck at the fiend's head. The monster-spirit
-quickly raised his fire-tipped lance to parry the blow, and their battle this time was not
+
+*"Return my master,"* said Pilgrim. *"Monkey head,"* said the fiend, *"you are indeed obtuse! If the Tang Monk can be your master, can't he also be our hors d‟oeuvre
+for wine? Forget him! Forget him!"*
+
+When Pilgrim heard these words, he was infuriated; pulling out his golden-hooped rod, he struck at the fiend's head. The monster-spirit quickly raised his fire-tipped lance to parry the blow, and their battle this time was not
+
 the same as theirs last time. Marvelous battle!
 The wild demon, greatly enraged;
 The Monkey King, highly incensed.
@@ -290,16 +292,13 @@ The rod blocked by the lance, thus the contest raged;
 The lance met by the rod, each strove to win.
 They raised their hands to fight for twenty rounds,
 Both persons‟ abilities were just the same.
-The demon king fought Pilgrim for some twenty rounds, and when he saw that
-he could not prevail, he made a fake thrust with his lance and turned quickly to give his
-own nose two punches with his fist. Fire and smoke poured out at once from his eyes
-and mouth as a huge blaze leaped up from the carts set before the cave's entrance.
-Turning his head skyward, the Great Sage Sun shouted, *"Dragon Kings, where are
-you?"* Leading their aquatic kin, the Dragon King brothers sent a torrential downpour of
-rain toward the fire of the monster-spirit. Marvelous rain! Truly
-Drizzling and sprinkling—
-536
-536
+
+The demon king fought Pilgrim for some twenty rounds, and when he saw that he could not prevail, he made a fake thrust with his lance and turned quickly to give his
+own nose two punches with his fist. Fire and smoke poured out at once from his eyes and mouth as a huge blaze leaped up from the carts set before the cave's entrance.
+
+Turning his head skyward, the Great Sage Sun shouted, *"Dragon Kings, where are you?"* Leading their aquatic kin, the Dragon King brothers sent a torrential downpour of rain toward the fire of the monster-spirit. Marvelous rain!
+
+Truly Drizzling and sprinkling—
 Pouring and showering—
 Drizzling and sprinkling,
 It's like the meteors falling from the sky;
@@ -315,101 +314,65 @@ Roads forked three ways are all filled up;
 So is a river which has nine bends.
 The Tang Monk facing an ordeal is helped by dragons divine
 Who o‟erturn Heaven's river and pour it down.
-The rain descended in torrents but it could not extinguish the fiend's fire at all.
-The fact of the matter was that what the Dragon Kings let loose happened to be
-unauthorized rain, capable of putting out worldly fires. How could it extinguish the true
-fire of samādhi cultivated by that monster-spirit? It was, in fact, like adding oil to the
-fire, making the blaze all the more intense. *"Let me make the magic sign,"* said the
-Great Sage, *"and penetrate the flames."* Wielding the iron rod, he searched for the fiend.
-When the fiend saw him approaching, he blew a mouthful of smoke right at his face.
-Pilgrim tried to turn away swiftly, but he was so dazed by the smoke that tears fell from
-his eyes like rain. This Great Sage, you see, could not be hurt by fire but he was afraid
-of smoke. For during that year when he greatly disturbed the Heavenly Palace, he was
-placed in the eight-trigram brazier of Laozi, where he had been smelted for a long time.
-He managed to crawl into the space beneath the compartment which
-corresponded to the Sun trigram and was not burned.
-The smoke whipped up by the wind, however, gave him a pair of fiery eyes and
-diamond pupils, and that was the reason why even now he was afraid of smoke. Once
-more, the fiend spat out a mouthful of smoke and the Great Sage could no longer
-withstand it.
-Mounting the clouds, he fled hurriedly while the demon retrieved his fire
-equipment and returned to his cave.
-His whole body covered by flame and smoke, the Great Sage found the intense
-heat unbearable and he dove straight into the mountain stream to try to put out the fire.
-Little did he anticipate that the shock of the cold water was so great that the heat caused
-by the fire was forced inward into his body and he fainted immediately. Alas!
-His breath caught in his chest, his tongue and throat grew cold;
-His spirit fled, his soul left, and his life was gone!
-Those Dragon Kings of the Four Oceans were so terrified that they put a stop to
-the rain and yelled loudly, *"Marshal Heavenly Reeds and Curtain-Raising Captain! Stop
-hiding in the forest! Start looking for your elder brother!"* When Eight Rules and Sha
-Monk heard that they were addressed by their holy titles, they quickly untied the horse
-and poled the luggage to dash out of the forest. With no regard for the mud and slush,
-they began searching along the banks of the stream when the bubbling currents swept
-down from above the body of a person. When Sha Monk saw it, he leaped into the water
-537
-537
-fully clothed and hauled the body back to shore. It was the body of the Great Sage Sun.
+
+The rain descended in torrents but it could not extinguish the fiend's fire at all. The fact of the matter was that what the Dragon Kings let loose happened to be
+unauthorized rain, capable of putting out worldly fires. How could it extinguish the true fire of samādhi cultivated by that monster-spirit? It was, in fact, like adding oil to the fire, making the blaze all the more intense. *"Let me make the magic sign,"* said the Great Sage, *"and penetrate the flames."*
+
+Wielding the iron rod, he searched for the fiend. When the fiend saw him approaching, he blew a mouthful of smoke right at his face. Pilgrim tried to turn away swiftly, but he was so dazed by the smoke that tears fell from his eyes like rain. This Great Sage, you see, could not be hurt by fire but he was afraid of smoke. For during that year when he greatly disturbed the Heavenly Palace, he was placed in the eight-trigram brazier of Laozi, where he had been smelted for a long time.
+
+He managed to crawl into the space beneath the compartment which corresponded to the Sun trigram and was not burned. The smoke whipped up by the wind, however, gave him a pair of fiery eyes and diamond pupils, and that was the reason why even now he was afraid of smoke. Once more, the fiend spat out a mouthful of smoke and the Great Sage could no longer withstand it. Mounting the clouds, he fled hurriedly while the demon retrieved his fire equipment and returned to his cave.
+
+His whole body covered by flame and smoke, the Great Sage found the intense heat unbearable and he dove straight into the mountain stream to try to put out the fire.
+Little did he anticipate that the shock of the cold water was so great that the heat caused by the fire was forced inward into his body and he fainted immediately. Alas! His breath caught in his chest, his tongue and throat grew cold; His spirit fled, his soul left, and his life was gone!
+
+Those Dragon Kings of the Four Oceans were so terrified that they put a stop to the rain and yelled loudly, *"Marshal Heavenly Reeds and Curtain-Raising Captain! Stop
+hiding in the forest! Start looking for your elder brother!"*
+
+When Eight Rules and Sha Monk heard that they were addressed by their holy titles, they quickly untied the horse and poled the luggage to dash out of the forest. With no regard for the mud and slush, they began searching along the banks of the stream when the bubbling currents swept down from above the body of a person. When Sha Monk saw it, he leaped into the water fully clothed and hauled the body back to shore. It was the body of the Great Sage Sun.
+
 Alas, look at him!
 His four limbs were bent and they could not be stretched;
 His whole body up and down was cold as ice.
-*"Elder Brother,"* said Sha Monk, as tears filled his eyes, *"what a pity you have to
-go like that! You were
-Someone who never aged through countless years.
-Now you have died young in the middle of the way."*
-With a chuckle, Eight Rules said, *"Brother, stop crying. This ape is pretending
-to be dead, just to scare us. Feel him a little and see if there's any warmth left in his
-breast."*
-*"The whole body has turned cold,"* said Sha Monk. *"Even if there were a little
-warmth left, how could you revive him?"*
-Eight Rules said, *"If he is capable of seventy-two transformations, he has
-seventy-two lives. Listen, you stretch out his legs while I take care of him."* Sha Monk
-indeed straightened Pilgrim's legs while Eight Rules lifted his head and straightened his
-upper torso. They then pushed his legs up and folded them around the knees before
-raising him into a sitting position. Rubbing his hands together until they were warm,
-Eight Rules covered Pilgrim's seven apertures and began to apply a Chan method of
-massage on him. The cold water, you see, had had such a traumatic effect on Pilgrim
-that his breath was caught in his cinnabar field and he could not utter a sound. He was
-lucky, therefore, to have all that rubbing, squeezing, and kneading by Eight Rules, for in
-a moment his breath went through the three passes, invaded the bright hall, and burst
-through his apertures. *"O Master,"* he began to say.
-Sha Monk said, *"Elder Brother, when you were alive, you lived for Master, and
-his name's on your lips even when you are dead! Wake up first. We are all here."*
-Opening his eyes, Pilgrim said, *"Are you here, Brothers? Old Monkey's a loser this
-time!"*
-*"You fainted,"* said Eight Rules Zhu, chuckling, *"and if old Hog hadn't saved
-you, you would have been finished. Aren't you going to thank me?"* Pilgrim got up
+
+*"Elder Brother,"* said Sha Monk, as tears filled his eyes, *"what a pity you have to go like that! You were someone who never aged through countless years. Now you have died young in the middle of the way."*
+
+With a chuckle, Eight Rules said, *"Brother, stop crying. This ape is pretending to be dead, just to scare us. Feel him a little and see if there's any warmth left in his breast."*
+
+*"The whole body has turned cold,"* said Sha Monk. *"Even if there were a little warmth left, how could you revive him?"*
+
+Eight Rules said, *"If he is capable of seventy-two transformations, he has seventy-two lives. Listen, you stretch out his legs while I take care of him."* Sha Monk indeed straightened Pilgrim's legs while Eight Rules lifted his head and straightened his upper torso. They then pushed his legs up and folded them around the knees before raising him into a sitting position. Rubbing his hands together until they were warm, Eight Rules covered Pilgrim's seven apertures and began to apply a Chan method of massage on him.
+
+The cold water, you see, had had such a traumatic effect on Pilgrim that his breath was caught in his cinnabar field and he could not utter a sound. He was lucky, therefore, to have all that rubbing, squeezing, and kneading by Eight Rules, for in a moment his breath went through the three passes, invaded the bright hall, and burst through his apertures. 
+
+*"O Master,"* he began to say. Sha Monk said, *"Elder Brother, when you were alive, you lived for Master, and his name's on your lips even when you are dead! Wake up first. We are all here."*
+
+Opening his eyes, Pilgrim said, *"Are you here, Brothers? Old Monkey's a loser this time!"*
+
+*"You fainted,"* said Eight Rules Zhu, chuckling, *"and if old Hog hadn't saved you, you would have been finished. Aren't you going to thank me?"* Pilgrim got up
 slowly and raised his head, saying, *"The Ao Brothers, where are you?"*
-The Dragon Kings of Four Oceans replied in midair, *"Your little dragons wait
-upon you here."*
-*"I am sorry to have caused you to travel all this distance,"* said Pilgrim, *"but we
-have not accomplished our merit. Please go back first and I shall thank you again in
-another day."*
-The Dragon Kings led their large group of followers to return to their residences,
-which need not concern us here.
-Sha Monk then supported Pilgrim and led him back into the pine forest to sit
-down. In a little while, Pilgrim felt more collected and his breathing became more even,
-but he could not restrain the tears from rolling down his cheeks. Again he cried out, *"O
-Master!
+
+The Dragon Kings of Four Oceans replied in midair, *"Your little dragons wait upon you here."*
+
+*"I am sorry to have caused you to travel all this distance,"* said Pilgrim, *"but we have not accomplished our merit. Please go back first and I shall thank you again in another day."*
+
+The Dragon Kings led their large group of followers to return to their residences, which need not concern us here. Sha Monk then supported Pilgrim and led him back into the pine forest to sit down. In a little while, Pilgrim felt more collected and his breathing became more even, but he could not restrain the tears from rolling down his cheeks. Again he cried out, *"O Master!
+
 Think of your leaving the Great Tang that year,
 When you saved me from woe beneath that mount.
 On waters and hills we face demonic foes;
-538
-538
 Our bowels are torn by ten thousand pains.
 We eat with an alms bowl, whether bare or filled;
 In houses or woods we meditate at night.
 Our hearts are set on achieving the right fruit.
 How could I know I would be hurt this day?"*
-Sha Monk said, *"Elder Brother, please do not worry. Let us devise a plan soon
-and see where we can go to ask for help to rescue Master."*
-*"Where shall we go to seek help?"* asked Pilgrim. Sha Monk said, *"I remember
-when the Bodhisattva first gave us the instruction that we should accompany the Tang
-Monk, she also gave us the promise that when we called on Heaven, Heaven would
-respond, or when we called on Earth, Earth would reply. We just have to decide where
+
+Sha Monk said, *"Elder Brother, please do not worry. Let us devise a plan soon and see where we can go to ask for help to rescue Master."*
+
+*"Where shall we go to seek help?"* asked Pilgrim. Sha Monk said, *"I remember when the Bodhisattva first gave us the instruction that we should accompany the Tang
+Monk, she also gave us the promise that when we called on Heaven, Heaven would respond, or when we called on Earth, Earth would reply. We just have to decide where
 we should go to seek help."*
-*"When I caused great disturbance in the Heavenly Palace,"* said Pilgrim, *"all
-those divine soldiers were no match for old Monkey. This monster-spirit, however, has
+
+*"When I caused great disturbance in the Heavenly Palace,"* said Pilgrim, *"all those divine soldiers were no match for old Monkey. This monster-spirit, however, has
 considerable magic powers, and so our helper must be someone stronger than even old
 Monkey. Neither the gods in Heaven nor those deities on Earth will be adequate. If we
 want to catch this demon, we must go to ask the Bodhisattva Guanyin. But
