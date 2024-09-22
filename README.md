@@ -81,8 +81,8 @@ A king, dead three years, lives again on Earth.
 Ape, Horse, Spatula gone, Wood Mother, too, is lost.
 
 41. [**Mind Monkey is defeated by fire; <br> Wood Mother is captured by demons.**](chapter-041.md)
-42. The Great Sage diligently calls at South Sea;
-Guanyin with compassion binds the Red Boy.
+
+42. [**The Great Sage diligently calls at South Sea;<br>Guanyin with compassion binds the Red Boy.**](chapter-042.md)
 43. An evil demon at Black River captures the monk;
 The Western Ocean’s dragon prince catches the iguana.
 44. The dharma-body in primal cycle meets the force of the cart;
