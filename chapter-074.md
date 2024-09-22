@@ -1,8 +1,8 @@
 SEVENTY-FOUR
-Long Life reports how vicious the demons are
-Pilgrim displays his transformation power
+# Long Life reports how vicious the demons are <br> Pilgrim displays his transformation power
+
 Desires and feelings come from the same cause;
-It‟s natural to have feelings and desires.
+It's natural to have feelings and desires.
 For all ascetics in the Gate of Sand,
 Chan is desires gone and feelings severed.
 You must take care
@@ -10,29 +10,31 @@ To persevere,
 Like the bright moon, spotless, high in the sky.
 Make no mistake as work and merit advance;
 Perfection yields a great enlightened god.
-We were telling you about Tripitaka and his disciples, who broke through the
-web of desires and leaped clear of the stronghold of passions. Urging the horse, they
+
+We were telling you about Tripitaka and his disciples, who broke through the web of desires and leaped clear of the stronghold of passions. Urging the horse, they
 journeyed to the West, and soon it was the end of summer and the beginning of autumn,
 when the fresh cool permeated their bodies. You see
 The rains the waning heat assail
 As one Paulownia leaf turns pale.
 Fireflies dot the sedged path at night;
-Crickets chirp in the moon‟s bright light.
+Crickets chirp in the
+ moon's bright light.
 The mallows unfurl in the dew;
 Red smartweeds the sandbars endue.
 Rushes are first to decline
 When cicadas sadly repine.
 As they walked along, Tripitaka suddenly saw a tall mountain whose summit
 pierced the green void, truly touching the stars and blocking the sun. Alarmed, the elder
-called out to Wukong, “Look at the mountain ahead of us! It‟s so tall, I wonder if
-there‟s a road to take us through it.”
+called out to Wukong, “Look at the mountain ahead of us! It's so tall, I wonder if
+there's a road to take us through it.”
 “What are you talking about, Master?” asked Pilgrim, chuckling. “As the
 proverb says,
 The tall mountains will have their passageways;
 The deep waters will have their ferry boats.
 How could there be no road to take us through! You may proceed without
-worry.” On hearing this, the elder smiled in delight and urged his horse to go straight up
-the tall ridge.
+worry.”
+
+On hearing this, the elder smiled in delight and urged his horse to go straight up the tall ridge.
 They had not traveled more than a few miles when they came upon an old man
 with flowing white hair all tousled and sparse whiskers like swaying silver threads. He
 had a string of beads around his neck and held a dragon-headed staff. Standing far up
@@ -76,7 +78,7 @@ our way specially to the Western Heaven to seek scriptures from Buddha. When we
 arrived here, we heard your announcement about the fiends. My master was quite
 frightened, and he asked me to come question you to learn exactly who these monsterspirits are who dare cut short our way. May I trouble you to tell me in detail, so that I
 can send them into exile.” With a laugh, the old man said, “You are so young a priest
-that you don‟t know any better. That‟s why you mouth these inappropriate words. The
+that you don‟t know any better. That's why you mouth these inappropriate words. The
 magic powers of those demons are enormous. How dare you say that you would send
 them into exile?”
 “The way you put the matter,” said Pilgrim, laughing also, “seems to indicate
@@ -101,7 +103,7 @@ servants and houseboys, the brothers and friends of mine, then what they are abo
 would not be so significant. Let me tell you this: when they see this young priest
 coming, they‟ll move to someplace else this very night. They won‟t even wait for the
 morning!”
-“Little priest, you‟re babbling!” said the old man. “That‟s blasphemy! Which
+“Little priest, you‟re babbling!” said the old man. “That's blasphemy! Which
 gods or sages are your servants and houseboys?” Laughing, Pilgrim said, “To tell you
 the truth, the ancestral home of this young priest used to be the Water-Curtain Cave of
 the Flower- Fruit Mountain, located in the Aolai Country. My surname is Sun, and my
@@ -139,9 +141,9 @@ Trembling all over, the old man could not utter a word; pretending also to be
 deaf, he refused to reply.
 When Pilgrim saw that he would not talk, he turned and went back down the
 slope. “Wukong,” said the elder, “have you returned? Did you find out anything?”
-“It‟s nothing! It‟s nothing!” answered Pilgrim, laughing. “There is, to be sure, a
+“It's nothing! It's nothing!” answered Pilgrim, laughing. “There is, to be sure, a
 handful of monster-spirits near the Western Heaven. The people here, however, are
-quite timid, and they worry about them. It‟s nothing! It‟s nothing. I am here!”
+quite timid, and they worry about them. It's nothing! It's nothing. I am here!”
 “Have you asked him,” said the elder, “what mountain this is, what kind of a
 cave there is in it, how many fiends there are, and which road can take us to
 Thunderclap?”
@@ -173,7 +175,7 @@ Eight Rules said, “I‟m the second disciple of the Tang Monk, and my religiou
 name is Wuneng Eight Rules. Just now the priest who questioned you was called
 Wukong Pilgrim, my Elder Brother. Because my master blamed him for offending you
 and for not being able to obtain the truth, he sent me specially to question you again.
-We would like to know what mountain this is, what‟s the name of the cave in the
+We would like to know what mountain this is, what's the name of the cave in the
 mountain, how many fiends there are in the cave, and which is the main road to the
 West. May we trouble you to point these out to us?”
 “Are you being truthful with me?” asked the old man. Eight Rules said, “There
@@ -189,10 +191,10 @@ where you will find three archdemons.”
 “Pshaw!” cried Eight Rules. “You‟re too fussy an old man! Only three demons,
 and you have to take all that trouble to announce them to us!”
 “Aren‟t you afraid?” asked the old man. “To tell you the truth,” replied Eight
-Rules, “one blow of my Elder Brother‟s rod will kill one of them, and one blow of my
+Rules, “one blow of my Elder Brother's rod will kill one of them, and one blow of my
 rake will kill another; I have a younger brother, too, and one blow of his fiend-routing
 staff will kill the third one. When all three of the demons are slain, my master will cross
-this ridge. What‟s so difficult about that?” Smiling, the old man said, “This monk is
+this ridge. What's so difficult about that?” Smiling, the old man said, “This monk is
 completely ignorant! The magic powers of those three archdemons are vast indeed!
 Moreover, those small fiends under their command number five thousand on the south
 summit, and five thousand also on the north summit. Those stationed to guard the road
@@ -206,7 +208,7 @@ over. As he approached the Tang Monk, he dropped his rake and, instead of giving
 report, began to evacuate his bowels. “Why aren‟t you giving us a report?” snapped
 Pilgrim. “Why are you squatting there?”
 “I‟m so scared,” replied Eight Rules, “that even my shit has come out! There‟s
-no further need for me to talk. Let‟s scatter while there‟s still time to save our lives!”
+no further need for me to talk. Let's scatter while there's still time to save our lives!”
 “This root of idiocy!” said Pilgrim. “I never was frightened when I asked the
 questions. How is it that when you go, you lose your mind?”
 “What is in fact the matter?” asked the elder.
@@ -214,12 +216,12 @@ Eight Rules replied, “The old man told me that this mountain is named the Lion
 moment we put one step on the side of their mountain, we‟ll become food in their
 mouths. We can‟t ever proceed!” On hearing this, Tripitaka began to shake all over as
 his hairs stood on end, saying, “Wukong, what shall we do?”
-“Master, relax,” said Pilgrim, laughing. “It‟s no big thing! There may be a few
+“Master, relax,” said Pilgrim, laughing. “It's no big thing! There may be a few
 monster-spirits here, I suppose, but the people of this region are very timid. They
 frighten themselves with all this rumor about how many fiends there are and how big
 they are. Look, you have me!”
 “Elder Brother,” said Eight Rules, “you shouldn‟t talk that way! I‟m not like
-you, and what I learn is the truth. It‟s not a rumor. The whole mountain and the whole
+you, and what I learn is the truth. It's not a rumor. The whole mountain and the whole
 valley are filled with fiendish demons. How could we go forward?”
 “The mouth and face of an idiot!” said Pilgrim, chuckling. “Allow nothing to
 scare you! If the whole mountain and the whole valley are full of fiendish demons, old
@@ -273,10 +275,10 @@ Folding his hands before him, the elder said, “Disciple, catch up with him
 quickly, and ask him whether there is another road we can take.”
 974
 974
-“There‟s no detour,” said Pilgrim, “for this mountain as it is is eight hundred
+“There's no detour,” said Pilgrim, “for this mountain as it is is eight hundred
 miles across. I don‟t even know how wide it is on both sides. How could we take a
 detour?” On hearing this, Tripitaka could not restrain the tears flowing from his eyes.
-“Disciple,” he said, “if it‟s so difficult, how could I ever hope to worship Buddha?”
+“Disciple,” he said, “if it's so difficult, how could I ever hope to worship Buddha?”
 “Stop crying! Stop crying!” Pilgrim said, “Once you cry, you become
 completely feeble. This information of his can‟t be all true, for his main purpose is to
 arouse our vigilance. As the saying goes, „To tell is to exaggerate.‟ Please dismount and
@@ -293,13 +295,13 @@ then will you perceive the ability of old Monkey!”
 All Sha Monk could say to him, however, was, “Be careful! Be careful!”
 “No need for all your instructions!” said Pilgrim with a laugh. “Once I get up
 there,
-I‟ll open a pathway even if it‟s the Great Eastern Sea;
-I‟ll punch an opening if it‟s an ironclad mountain.”
+I‟ll open a pathway even if it's the Great Eastern Sea;
+I‟ll punch an opening if it's an ironclad mountain.”
 Dear Great Sage! Whistling, he mounted the cloud somersault to leap up to the
 tall summit, where he pushed aside the creepers and vines to look all around. There was,
 however, not a sound or a trace of human beings. He spoke aloud to himself, “I‟ve made
 a mistake! I‟ve made a mistake! I should never have let the oldie Gold Star go. He was
-actually trying to frighten me. If there‟s any monster-spirit around here, he would have
+actually trying to frighten me. If there's any monster-spirit around here, he would have
 jumped out and played in the wind, or he would fool with his lance or rod to practice his
 martial art. How is it that there is no one . . .”
 As he was thus talking to himself, he heard the loud bangs of a rattle behind the
@@ -343,14 +345,14 @@ Pilgrim. “Take a good look.”
 recognize you!”
 “I know I look unfamiliar,” replied Pilgrim. “I‟m one of those who tend the
 fires, and you‟ve seldom met me.” Shaking his head, the little fiend said, “Never!
-Never! Even among those brothers in our cave who tend the fires, there‟s no one with a
+Never! Even among those brothers in our cave who tend the fires, there's no one with a
 pointed mouth like yours.” Pilgrim thought to himself, “I‟ve made my mouth a little too
 pointed.”
-He lowered his head at once and gave his mouth a rub, saying, “My mouth‟s not
+He lowered his head at once and gave his mouth a rub, saying, “My mouth's not
 pointed!” Immediately, his mouth was not pointed anymore.
 “Just now,” said the little fiend, “your mouth was pointed. How could it change
 like that after you gave it a rub? How baffling! You can‟t very well belong to our
-family! I have never seen you before! It‟s too suspicious! Moreover, the domestic laws
+family! I have never seen you before! It's too suspicious! Moreover, the domestic laws
 of our great kings are very strict: those who tend the fires always tend the fires, and
 those who patrol the mountain will patrol the mountain. They couldn‟t have asked you
 to tend the fires, and then asked you also to patrol the mountain, could they?”
@@ -388,7 +390,7 @@ shrewdness, Pilgrim immediately said, “You really have no idea that our great 
 promoted me to be a patrol commander when they saw how well I tended the fires.
 They also gave me a new plate with the name, Chief Wind Cutter, and the charge that I
 would lead the forty of you in this platoon.” On hearing this, the fiend bowed hurriedly,
-saying, “Captain, Captain, you‟ve just been commissioned, and that‟s why you look
+saying, “Captain, Captain, you‟ve just been commissioned, and that's why you look
 unfamiliar. Please forgive me for offending you with my words.”
 “I won‟t blame you,” chuckled Pilgrim as he returned his bow. “But I do have a
 request: an introductory gift of five ounces of silver per person.”
@@ -434,14 +436,14 @@ did not send an invitation to our great great king, he wanted to strive with Hea
 Jade Emperor sent one hundred thousand celestial warriors to bring him to submission,
 but our great king exercised his magic body of transformation and opened his mouth big
 and wide as a city gate. He charged at the celestial warriors, so terrifying them that they
-dared not do battle and closed up the South Heaven Gate instead. That‟s what I meant
+dared not do battle and closed up the South Heaven Gate instead. That's what I meant
 when I said that he once swallowed one hundred thousand celestial warriors with one
-gulp.” On hearing this, Pilgrim smiled silently to himself, saying, “If it‟s this kind of
+gulp.” On hearing this, Pilgrim smiled silently to himself, saying, “If it's this kind of
 ability, old Monkey is quite capable of it.”
 He spoke out loud again, saying, “What sort of abilities does second great king
 possess?”
 Another Little Wind Cutter replied, “Our second great king is about thirty feet
-tall; he has silkworm-like eyebrows, phoenix eyes, a lovely lady‟s voice, and teeth like
+tall; he has silkworm-like eyebrows, phoenix eyes, a lovely lady's voice, and teeth like
 long flat poles. His nose, moreover, resembles a dragon. When he fights with someone,
 all he needs to do is to wrap his nose around his enemy. Though that person may have
 an iron back and a bronze body, his spirit will expire and his soul will perish!”
@@ -463,7 +465,7 @@ the abilities of our three great kings, as accurately as I have known them to be
 you know which of the great kings would like to devour the Tang Monk?”
 “Captain,” said another Little Wind Cutter, “do you mean that you don‟t know?”
 “Don‟t I know more than you?” snapped Pilgrim. “You are the ones who may
-not know the truth of the matter, and that‟s why I was sent to give you a thorough
+not know the truth of the matter, and that's why I was sent to give you a thorough
 interrogation.”
 The Little Wind Cutter said, “Our great great king and the second great king
 have long resided in the Lion-Camel Cave of the Lion- Camel Ridge. Our third great
@@ -487,8 +489,8 @@ down from the tall peak. All he had to do was to slam the rod down on the heads 
 little fiends, and they were immediately reduced to meat patties! When he saw them like
 that, however, he was moved somewhat to pity. “Alas,” he said to himself, “they were
 kind enough after all to have spilled everything about their family to me. How could I
-finish them off just like that? All right! All right! What‟s done is done!”
-Dear Great Sage! Because of the impediment in his master‟s way, he had no
+finish them off just like that? All right! All right! What's done is done!”
+Dear Great Sage! Because of the impediment in his master's way, he had no
 choice but to do something like this. He took down one of the nameplates and tied it to
 his own waist. The banner with the word, “command,” he hauled on his shoulder, the
 bell he hung on his belt, and he took up the rattle. Facing the wind, he made the magic
@@ -496,14 +498,14 @@ sign and recited a spell to change with one shake of his body into the appearanc
 Little Wind Cutter whom he first met on the road. In big strides, he followed the road
 back to search for the cave and to do some more detection on those three old fiendish
 demons. Truly, these were
-The Handsome Monkey King‟s ten thousand ways to change!
+The Handsome Monkey King's ten thousand ways to change!
 Ten thousand permutations, what real abilities!
 He dashed deeply into the mountain, following the path on which he came. As
 he ran along, he suddenly heard people shouting and horses neighing. When he raised
 his eyes to look, he saw that the noise was coming from a huge mob of little fiends in
 front of the Lion-Camel Cave, all equipped with columns of scimitars, lances, spears,
 and halberds, with flags and banners. Delighted, our Great Sage said to himself, “Long
-Life Li‟s words are not far off the mark!”
+Life Li's words are not far off the mark!”
 979
 979
 The way that those little fiends were arrayed, you see, had an order to it: two
@@ -536,7 +538,7 @@ At the second-level camp, he was stopped again by some more little fiends who
 said, “Little Wind Cutter, have you returned?”
 “I have,” replied Pilgrim. “When you went on patrol this morning,” said the
 fiends, “did you run into Pilgrim Sun?”
-“I have,” replied Pilgrim, “he‟s polishing his pole at the moment.”
+“I have,” replied Pilgrim, “he's polishing his pole at the moment.”
 A little frightened, those little fiends said, “What does he look like? What sort of
 a pole is he polishing?” Pilgrim said, “He was squatting there by the side of a brook,
 and he still seemed like a trailblazing deity. If he stood up, he would have to be over a
@@ -555,7 +557,7 @@ souls melted and their spirits dispersed. “Think on this, all of you,” said 
 980
 if we‟ll ever get to receive our portions even if he were divided up. Why should we
 withstand that pole for them? Why don‟t we ourselves just scatter?”
-“You are right,” said the various fiends. “Let‟s look after our own lives and
+“You are right,” said the various fiends. “Let's look after our own lives and
 leave.”
 All of these fiends, you see, were no more than wolves, tigers, leopards, and the
 like. With a roar, all these beasts and fowl simply dispersed in every direction. And so,
@@ -569,4 +571,4 @@ secret.” Look at him!
 He was set to approach the ancient cave;
 With boldness he walked deep inside the door.
 We do not know whether good or evil would befall him when he saw the old
-demons; let‟s listen to the explanation in the next chapter.
+demons; let's listen to the explanation in the next chapter.
