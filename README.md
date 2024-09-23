@@ -147,9 +147,8 @@ In epiphany Guanyin subdues the monster-king.
 73. At Cobweb Cave Seven Passions delude the Origin;
 At Purgation Spring Eight Rules forgets all manners.
 
-74. **[Passions, because of old enmity, beget calamity;<br>Demon-trapped, the Mind Lord with luck breaks the light.](chapter-074.md)**
-75. Long Life reports how vicious the demons are;
-Pilgrim displays his transformation power.
+74. **[Passions, because of old enmity, beget calamity;<br>Demon-trapped, the Mind Lord with luck breaks the light.](chapter-073.md)**
+75. **[Long Life reports how vicious the demons are;<br>Pilgrim displays his transformation power.](chapter-074.md)**
 
 76. Mind Monkey drills through the yin-yang body;
 Demon lords return to the true great Way.
