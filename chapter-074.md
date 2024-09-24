@@ -111,130 +111,82 @@ Eight Rules spoke up, saying, *"Master, don't be offended by what I have to say.
 
 Dear Idiot! He stuffed the muckrake into his belt and tidied his shirt before swaggering up the mountain slope and calling out to the old man, *"Gonggong, I'm bowing to you."*
 
-After the old man had seen Pilgrim walking off, he managed to struggle up with the help of his staff and, still trembling all over, was about to leave. When he caught
-sight of Eight Rules, however, he became more terrified than ever. *"Holy Father!"* he
-cried. *"What sort of nightmare is this, that I have to meet up with this bunch of nasty
-people? That monk who left just now was hideous all right, but he had at least three
-percent human looks. But just look at the pestle mouth, the rush-leaf fan ears, the sheet
-iron face, and the bristled neck of this monk! He doesn't even look one percent human!"*
-*"This old Gonggong,"* said Eight Rules, chuckling, *"is not too pleasant, for he
-loves to criticize people. How do you regard me, really? I may be ugly, but I can stand
-scrutiny. Just wait a moment, and I'll look more attractive."* When the old man heard
-him speaking at least in a human fashion, he had no choice but to ask him, *"Where did
-you come from?"*
-Eight Rules said, *"I'm the second disciple of the Tang Monk, and my religious
-name is Wuneng Eight Rules. Just now the priest who questioned you was called
-Wukong Pilgrim, my Elder Brother. Because my master blamed him for offending you
-and for not being able to obtain the truth, he sent me specially to question you again.
-We would like to know what mountain this is, what's the name of the cave in the
-mountain, how many fiends there are in the cave, and which is the main road to the
-West. May we trouble you to point these out to us?"*
-*"Are you being truthful with me?"* asked the old man. Eight Rules said, *"There
-has never been the teeniest fakery in my whole life."*
-*"You are not,"* said the old man, *"putting on a highfalutin show like the priest
-before."*
-972
-972
+After the old man had seen Pilgrim walking off, he managed to struggle up with the help of his staff and, still trembling all over, was about to leave. When he caught sight of Eight Rules, however, he became more terrified than ever. *"Holy Father!"* he cried. *"What sort of nightmare is this, that I have to meet up with this bunch of nasty people? That monk who left just now was hideous all right, but he had at least three percent human looks. But just look at the pestle mouth, the rush-leaf fan ears, the sheet iron face, and the bristled neck of this monk! He doesn't even look one percent human!"*
+
+*"This old Gonggong,"* said Eight Rules, chuckling, *"is not too pleasant, for he loves to criticize people. How do you regard me, really? I may be ugly, but I can stand scrutiny. Just wait a moment, and I'll look more attractive."*
+
+When the old man heard him speaking at least in a human fashion, he had no choice but to ask him, *"Where did you come from?"*
+
+Eight Rules said, *"I'm the second disciple of the Tang Monk, and my religious name is Wuneng Eight Rules. Just now the priest who questioned you was called Wukong Pilgrim, my Elder Brother. Because my master blamed him for offending you and for not being able to obtain the truth, he sent me specially to question you again. We would like to know what mountain this is, what's the name of the cave in the mountain, how many fiends there are in the cave, and which is the main road to the West. May we trouble you to point these out to us?"*
+
+*"Are you being truthful with me?"* asked the old man. 
+
+Eight Rules said, *"There has never been the teeniest fakery in my whole life."*
+
+*"You are not,"* said the old man, *"putting on a highfalutin show like the priest before."*
+
 *"No, I'm not like him,"* said Eight Rules.
-Leaning on his staff, the old man said to Eight Rules, *"The mountain is called
-the Lion-Camel Ridge of eight hundred miles, and in it there is a Lion-Camel Cave
-where you will find three archdemons."*
-*"Pshaw!"* cried Eight Rules. *"You're too fussy an old man! Only three demons,
-and you have to take all that trouble to announce them to us!"*
-*"Aren't you afraid?"* asked the old man. *"To tell you the truth,"* replied Eight
-Rules, *"one blow of my Elder Brother's rod will kill one of them, and one blow of my
-rake will kill another; I have a younger brother, too, and one blow of his fiend-routing
-staff will kill the third one. When all three of the demons are slain, my master will cross
-this ridge. What's so difficult about that?"* Smiling, the old man said, *"This monk is
-completely ignorant! The magic powers of those three archdemons are vast indeed!
-Moreover, those small fiends under their command number five thousand on the south
-summit, and five thousand also on the north summit. Those stationed to guard the road
-leading east number ten thousand, and another ten thousand are guarding the road
-leading west. There must be five thousand on the patrol teams, and those guarding the
-cave entrance must run to another ten thousand. There are countless fiends tending the
-fires and gathering firewood. All in all, they must have some forty-seven or forty-eight
-thousand troops, each equipped with a nameplate. They devote themselves to devouring
-humans in this place."* When our Idiot heard these words, he ran back, trembling all
-over. As he approached the Tang Monk, he dropped his rake and, instead of giving his
-report, began to evacuate his bowels. *"Why aren't you giving us a report?"* snapped
-Pilgrim. *"Why are you squatting there?"*
-*"I'm so scared,"* replied Eight Rules, *"that even my shit has come out! There‟s
-no further need for me to talk. Let's scatter while there's still time to save our lives!"*
-*"This root of idiocy!"* said Pilgrim. *"I never was frightened when I asked the
-questions. How is it that when you go, you lose your mind?"*
-*"What is in fact the matter?"* asked the elder.
-Eight Rules replied, *"The old man told me that this mountain is named the LionCamel Mountain. In it there is a Lion-Camel Cave, where three old fiends and fortyeight thousand little fiends reside and devote themselves to devouring humans. The
-moment we put one step on the side of their mountain, we'll become food in their
-mouths. We can't ever proceed!"* On hearing this, Tripitaka began to shake all over as
-his hairs stood on end, saying, *"Wukong, what shall we do?"*
-*"Master, relax,"* said Pilgrim, laughing. *"It's no big thing! There may be a few
-monster-spirits here, I suppose, but the people of this region are very timid. They
-frighten themselves with all this rumor about how many fiends there are and how big
-they are. Look, you have me!"*
-*"Elder Brother,"* said Eight Rules, *"you shouldn't talk that way! I'm not like
-you, and what I learn is the truth. It's not a rumor. The whole mountain and the whole
-valley are filled with fiendish demons. How could we go forward?"*
-*"The mouth and face of an idiot!"* said Pilgrim, chuckling. *"Allow nothing to
-scare you! If the whole mountain and the whole valley are full of fiendish demons, old
-Monkey will use his rod. Half a night and they'll all be exterminated!"*
-973
-973
-*"Shame on you! Shame on you!"* said Eight Rules. *"Stop the big talk! It'll take
-seven or eight days for those monster-spirits just to take their roll call. How could you
-exterminate them so readily?"*
-*"How do you think I'm going to slay them?"* asked Pilgrim. *"Suppose they let
-you grab them,"* replied Eight Rules, *"bind them, or stop them dead with the Magic of
-Immobilization. Even then, you can't kill all of them so quickly."* With a laugh, Pilgrim
-said, *"No need for grabbing or binding. I give this rod of mine a yank on both ends,
-crying, „Grow!‟, and it'll be four hundred feet long. Next, I wave it once, crying,
-„Thicken!‟ and it'll have an eighty-foot circumference. I roll it toward the south of the
-mountain once, and five thousand fiends will be crushed to death; I roll it toward the
-north of the mountain once, and another five thousand will be crushed to death. Then I
-roll it once from east to west, and forty or fifty thousand, who cares how many, will be
+
+Leaning on his staff, the old man said to Eight Rules, *"The mountain is called the Lion-Camel Ridge of eight hundred miles, and in it there is a Lion-Camel Cave where you will find three archdemons."*
+
+*"Pshaw!"* cried Eight Rules. *"You're too fussy an old man! Only three demons, and you have to take all that trouble to announce them to us!"*
+
+*"Aren't you afraid?"* asked the old man. *"To tell you the truth,"* replied Eight Rules, *"one blow of my Elder Brother's rod will kill one of them, and one blow of my rake will kill another; I have a younger brother, too, and one blow of his fiend-routing staff will kill the third one. When all three of the demons are slain, my master will cross this ridge. What's so difficult about that?"* 
+
+Smiling, the old man said, *"This monk is completely ignorant! The magic powers of those three archdemons are vast indeed! Moreover, those small fiends under their command number five thousand on the southsummit, and five thousand also on the north summit. Those stationed to guard the road leading east number ten thousand, and another ten thousand are guarding the road leading west. There must be five thousand on the patrol teams, and those guarding the cave entrance must run to another ten thousand. There are countless fiends tending the fires and gathering firewood. All in all, they must have some forty-seven or forty-eight thousand troops, each equipped with a nameplate. They devote themselves to devouring humans in this place."*
+
+When our Idiot heard these words, he ran back, trembling all over. As he approached the Tang Monk, he dropped his rake and, instead of giving his report, began to evacuate his bowels. *"Why aren't you giving us a report?"* snapped Pilgrim. *"Why are you squatting there?"*
+
+*"I'm so scared,"* replied Eight Rules, *"that even my shit has come out! There's no further need for me to talk. Let's scatter while there's still time to save our lives!"*
+
+*"This root of idiocy!"* said Pilgrim. *"I never was frightened when I asked the questions. How is it that when you go, you lose your mind?"*
+
+*"What is in fact the matter?"* asked the elder. Eight Rules replied, *"The old man told me that this mountain is named the LionCamel Mountain. In it there is a Lion-Camel Cave, where three old fiends and fortyeight thousand little fiends reside and devote themselves to devouring humans. The moment we put one step on the side of their mountain, we'll become food in their mouths. We can't ever proceed!"*
+
+On hearing this, Tripitaka began to shake all over as his hairs stood on end, saying, *"Wukong, what shall we do?"*
+
+*"Master, relax,"* said Pilgrim, laughing. *"It's no big thing! There may be a few monster-spirits here, I suppose, but the people of this region are very timid. They frighten themselves with all this rumor about how many fiends there are and how big they are. Look, you have me!"*
+
+*"Elder Brother,"* said Eight Rules, *"you shouldn't talk that way! I'm not like you, and what I learn is the truth. It's not a rumor. The whole mountain and the whole valley are filled with fiendish demons. How could we go forward?"*
+
+*"The mouth and face of an idiot!"* said Pilgrim, chuckling. *"Allow nothing to scare you! If the whole mountain and the whole valley are full of fiendish demons, old Monkey will use his rod. Half a night and they'll all be exterminated!"*
+
+*"Shame on you! Shame on you!"* said Eight Rules. *"Stop the big talk! It'll take seven or eight days for those monster-spirits just to take their roll call. How could you exterminate them so readily?"*
+
+*"How do you think I'm going to slay them?"* asked Pilgrim. *"Suppose they let you grab them,"* replied Eight Rules, *"bind them, or stop them dead with the Magic of Immobilization. Even then, you can't kill all of them so quickly."*
+
+With a laugh, Pilgrim said, *"No need for grabbing or binding. I give this rod of mine a yank on both ends, crying, Grow!, and it'll be four hundred feet long. Next, I wave it once, crying, Thicken! and it'll have an eighty-foot circumference. I roll it toward the south of the mountain once, and five thousand fiends will be crushed to death; I roll it toward the north of the mountain once, and another five thousand will be crushed to death. Then I roll it once from east to west, and forty or fifty thousand, who cares how many, will be
 reduced to meat patties."*
-*"Elder Brother,"* said Eight Rules, *"if you roll them down like you roll out
-dough for noodles, you might finish them off by the second watch."*
-*"Master,"* said Sha Monk, laughing on one side, *"what are you afraid of when
-Big Brother has such vast magic powers? Mount up and get going!"* When the Tang
-Monk heard them debating about their abilities, he had no choice but to calm himself
-and climb up on the horse.
-As they proceeded, they discovered that the old man who came to inform them
-had vanished. *"He must be a fiend,"* said Sha Monk, *"who exploited deliberately the
-reputation and power of the demons to come and frighten us."*
+
+*"Elder Brother,"* said Eight Rules, *"if you roll them down like you roll out dough for noodles, you might finish them off by the second watch."*
+
+*"Master,"* said Sha Monk, laughing on one side, *"what are you afraid of when Big Brother has such vast magic powers? Mount up and get going!"*
+
+When the Tang Monk heard them debating about their abilities, he had no choice but to calm himself and climb up on the horse. As they proceeded, they discovered that the old man who came to inform them had vanished. *"He must be a fiend,"* said Sha Monk, *"who exploited deliberately the reputation and power of the demons to come and frighten us."*
+
 *"Don't jump to any conclusion,"* said Pilgrim. *"Let me go have a look."*
-Dear Great Sage! Leaping up to the peak, he looked all around without spotting
-anyone. As he turned his face, however, he saw colored mists flickering in the air. He
-immediately leaped upon the clouds to give chase and soon he caught sight of the Gold
-Star Venus. Rushing up to the god, Pilgrim tugged at him with his hands and used his
-vernacular name to address him, saying, *"Long Life Li! Long Life Li! You're such a
-rogue! If you have anything to say, you should have said it to my face. Why did you
-assume the appearance of an old country bumpkin to beguile me?"*
-The Gold Star saluted him hurriedly and said, *"Great Sage, I'm sorry for not
-informing you sooner. Please forgive me! Please forgive me! These archdemons,
-possessive of vast magic powers, indeed make for a rugged hurdle. If you exercise all
-your powers in transformation and all your cleverness, you may pass through. If you but
-slacken a little, it'll be difficult for you to proceed."*
-Thanking him, Pilgrim said, *"I'm grateful! If this is such a difficult place to
-traverse, please go to the Region Above and request from the Jade Emperor some
-celestial soldiers to assist old Monkey."*
-*"We have plenty of those for you,"* replied the Gold Star. *"Once I bring your
-message up there, we can round up even one hundred thousand celestial soldiers if you
-need them."* Pilgrim took leave of the Gold Star and dropped from the clouds to face
-Tripitaka. *"That old man,"* he said, *"who came to bring us the information happened to
-be the Star Venus."*
-Folding his hands before him, the elder said, *"Disciple, catch up with him
-quickly, and ask him whether there is another road we can take."*
-974
-974
-*"There's no detour,"* said Pilgrim, *"for this mountain as it is is eight hundred
-miles across. I don't even know how wide it is on both sides. How could we take a
-detour?"* On hearing this, Tripitaka could not restrain the tears flowing from his eyes.
-*"Disciple,"* he said, *"if it's so difficult, how could I ever hope to worship Buddha?"*
-*"Stop crying! Stop crying!"* Pilgrim said, *"Once you cry, you become
-completely feeble. This information of his can't be all true, for his main purpose is to
-arouse our vigilance. As the saying goes, „To tell is to exaggerate.‟ Please dismount and
+
+Dear Great Sage! Leaping up to the peak, he looked all around without spotting anyone. As he turned his face, however, he saw colored mists flickering in the air. He immediately leaped upon the clouds to give chase and soon he caught sight of the Gold Star Venus. Rushing up to the god, Pilgrim tugged at him with his hands and used his vernacular name to address him, saying, *"Long Life Li! Long Life Li! You're such a rogue! If you have anything to say, you should have said it to my face. Why did you assume the appearance of an old country bumpkin to beguile me?"*
+
+The Gold Star saluted him hurriedly and said, *"Great Sage, I'm sorry for not informing you sooner. Please forgive me! Please forgive me! These archdemons, possessive of vast magic powers, indeed make for a rugged hurdle. If you exercise all your powers in transformation and all your cleverness, you may pass through. If you but slacken a little, it'll be difficult for you to proceed."*
+
+Thanking him, Pilgrim said, *"I'm grateful! If this is such a difficult place to traverse, please go to the Region Above and request from the Jade Emperor some celestial soldiers to assist old Monkey."*
+
+*"We have plenty of those for you,"* replied the Gold Star. *"Once I bring your message up there, we can round up even one hundred thousand celestial soldiers if you need them."*
+
+Pilgrim took leave of the Gold Star and dropped from the clouds to face Tripitaka. *"That old man,"* he said, *"who came to bring us the information happened to be the Star Venus."*
+
+Folding his hands before him, the elder said, *"Disciple, catch up with him quickly, and ask him whether there is another road we can take."*
+
+*"There's no detour,"* said Pilgrim, *"for this mountain as it is is eight hundred miles across. I don't even know how wide it is on both sides. How could we take a detour?"*
+
+On hearing this, Tripitaka could not restrain the tears flowing from his eyes. *"Disciple,"* he said, *"if it's so difficult, how could I ever hope to worship Buddha?"*
+
+*"Stop crying! Stop crying!"* Pilgrim said, *"Once you cry, you become completely feeble. This information of his can't be all true, for his main purpose is to arouse our vigilance. As the saying goes, „To tell is to exaggerate.‟ Please dismount and
 sit here for the moment."*
+
 *"What sort of discussion are we having now?"* asked Eight Rules.
+
 *"No discussion,"* replied Pilgrim. *"You just stand here and guard Master with all
 diligence, while Sha Monk can watch the horse and the luggage. Let old Monkey go up
 the ridge to do a little detection to see just how many fiends there are. I'll catch one of
