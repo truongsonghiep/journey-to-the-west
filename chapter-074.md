@@ -11,8 +11,7 @@ Like the bright moon, spotless, high in the sky.<br>
 Make no mistake as work and merit advance;<br>
 Perfection yields a great enlightened god.
 
-We were telling you about Tripitaka and his disciples, who broke through the web of desires and leaped clear of the stronghold of passions. Urging the horse, they
-journeyed to the West, and soon it was the end of summer and the beginning of autumn, when the fresh cool permeated their bodies. You see
+We were telling you about Tripitaka and his disciples, who broke through the web of desires and leaped clear of the stronghold of passions. Urging the horse, they journeyed to the West, and soon it was the end of summer and the beginning of autumn, when the fresh cool permeated their bodies. You see
 
 The rains the waning heat assail<br>
 As one Paulownia leaf turns pale.<br>
@@ -187,211 +186,125 @@ sit here for the moment."*
 
 *"What sort of discussion are we having now?"* asked Eight Rules.
 
-*"No discussion,"* replied Pilgrim. *"You just stand here and guard Master with all
-diligence, while Sha Monk can watch the horse and the luggage. Let old Monkey go up
-the ridge to do a little detection to see just how many fiends there are. I'll catch one of
-them and question him thoroughly; if need be, I'll even make him write up a confession
-and list in detail the names of all their old and young.
-Then I'll order them to close up their cave and forbid them from barring our
-way, so that Master will be able to go through this place peacefully and quietly. Only
-then will you perceive the ability of old Monkey!"*
+*"No discussion,"* replied Pilgrim. *"You just stand here and guard Master with all diligence, while Sha Monk can watch the horse and the luggage. Let old Monkey go up the ridge to do a little detection to see just how many fiends there are. I'll catch one of them and question him thoroughly; if need be, I'll even make him write up a confession and list in detail the names of all their old and young. Then I'll order them to close up their cave and forbid them from barring our way, so that Master will be able to go through this place peacefully and quietly. Only then will you perceive the ability of old Monkey!"*
+
 All Sha Monk could say to him, however, was, *"Be careful! Be careful!"*
-*"No need for all your instructions!"* said Pilgrim with a laugh. *"Once I get up
-there,
-I'll open a pathway even if it's the Great Eastern Sea;
-I'll punch an opening if it's an ironclad mountain."*
-Dear Great Sage! Whistling, he mounted the cloud somersault to leap up to the
-tall summit, where he pushed aside the creepers and vines to look all around. There was,
-however, not a sound or a trace of human beings. He spoke aloud to himself, *"I‟ve made
-a mistake! I‟ve made a mistake! I should never have let the oldie Gold Star go. He was
-actually trying to frighten me. If there's any monster-spirit around here, he would have
-jumped out and played in the wind, or he would fool with his lance or rod to practice his
-martial art. How is it that there is no one . . ."*
-As he was thus talking to himself, he heard the loud bangs of a rattle behind the
-mountain. Turning hurriedly to look, he discovered a little fiend, hauling a banner on his
-shoulder which had on it the inscribed word, command. He had a bell tied to his waist,
-and he was beating a rattle with his hand as he walked from north to south. Pilgrim
-stared at him and thought that he was about twelve feet in height. Smiling to himself,
-Pilgrim said, *"He must be a postal soldier on his way to deliver a document. Let me
-eavesdrop on him to see what he has to say."*
-Dear Great Sage! Making the magic sign with his fingers, he recited a spell and
-changed, with one shake of his body, into a fly. He flew up to his cap and alighted
-gently on it to eavesdrop on the fiend. After he had turned onto the main road, the little
-fiend kept beating his rattle and shaking his bell, while he mumbled to himself, *"Those
-of us patrolling the mountain should all be on guard against that Pilgrim Sun. He knows
-how to change into a fly."*
-Astounded by what he heard, Pilgrim said to himself, *"He must have seen me!
-How could he know my name and how could he know I might change into a fly, if he
-hadn‟t?"*
-975
-975
-But that little fiend, you see, had not seen him. It was actually those archdemons
-who somehow managed to give this instruction to the little fiends, and this one was just
-repeating what he heard. Pilgrim, of course, did not know this; suspecting that he had
-been seen, he was about to slay the fiend with the rod when he thought to himself, *"I
-recall that the Gold Star told Eight Rules that there were three old fiends and some
-forty-seven or forty-eight thousand little fiends. If those little fiends are like this one,
-another forty thousand won't make a bit of difference. But I wonder how powerful are
-those three old demons. Let me go question him, then I can raise my hands."*
-Dear Great Sage! How is he going to question him, you ask? He leaped down
-from his cap and alighted instead on a tree to allow the little fiend to walk a few steps
-ahead. Quickly he changed into another little fiend, having, in fact, the same clothes and
-like him, beating the rattle, shaking the bell, hauling the banner, and mumbling the same
-words. The only difference was that he was several inches taller than the other fiend. He
-ran up to the other little fiend and called out, *"You on the road, wait for me."*
+
+*"No need for all your instructions!"* said Pilgrim with a laugh. *"Once I get up there, I'll open a pathway even if it's the Great Eastern Sea; I'll punch an opening if it's an ironclad mountain."*
+
+Dear Great Sage! Whistling, he mounted the cloud somersault to leap up to the tall summit, where he pushed aside the creepers and vines to look all around. There was,
+however, not a sound or a trace of human beings. He spoke aloud to himself, *"I've made a mistake! I've made a mistake! I should never have let the oldie Gold Star go. He was actually trying to frighten me. If there's any monster-spirit around here, he would have jumped out and played in the wind, or he would fool with his lance or rod to practice his martial art. How is it that there is no one . . ."*
+
+As he was thus talking to himself, he heard the loud bangs of a rattle behind the mountain. Turning hurriedly to look, he discovered a little fiend, hauling a banner on his shoulder which had on it the inscribed word, command. He had a bell tied to his waist, and he was beating a rattle with his hand as he walked from north to south. Pilgrim stared at him and thought that he was about twelve feet in height. Smiling to himself, Pilgrim said, *"He must be a postal soldier on his way to deliver a document. Let me eavesdrop on him to see what he has to say."*
+
+Dear Great Sage! Making the magic sign with his fingers, he recited a spell and changed, with one shake of his body, into a fly. He flew up to his cap and alighted
+gently on it to eavesdrop on the fiend. After he had turned onto the main road, the little fiend kept beating his rattle and shaking his bell, while he mumbled to himself, *"Those of us patrolling the mountain should all be on guard against that Pilgrim Sun. He knows how to change into a fly."*
+
+Astounded by what he heard, Pilgrim said to himself, *"He must have seen me! How could he know my name and how could he know I might change into a fly, if he hadn't?"*
+
+But that little fiend, you see, had not seen him. It was actually those archdemons who somehow managed to give this instruction to the little fiends, and this one was just repeating what he heard. Pilgrim, of course, did not know this; suspecting that he had been seen, he was about to slay the fiend with the rod when he thought to himself, *"I recall that the Gold Star told Eight Rules that there were three old fiends and some forty-seven or forty-eight thousand little fiends. If those little fiends are like this one, another forty thousand won't make a bit of difference. But I wonder how powerful are those three old demons. Let me go question him, then I can raise my hands."*
+
+Dear Great Sage! How is he going to question him, you ask? He leaped down from his cap and alighted instead on a tree to allow the little fiend to walk a few steps
+ahead. Quickly he changed into another little fiend, having, in fact, the same clothes and like him, beating the rattle, shaking the bell, hauling the banner, and mumbling the same words. The only difference was that he was several inches taller than the other fiend. He ran up to the other little fiend and called out, *"You on the road, wait for me."*
+
 Turning around, the little fiend said, *"Where did you come from?"*
-*"My good man!"* said Pilgrim with a giggle. *"Can't you recognize someone
-from the same family?"*
-*"You're not in our family,"* said the little fiend. *"What do you mean?"* said
-Pilgrim. *"Take a good look."*
-*"But you look unfamiliar,"* said the little fiend. *"I don't recognize you! I don‟t
-recognize you!"*
-*"I know I look unfamiliar,"* replied Pilgrim. *"I'm one of those who tend the
-fires, and you‟ve seldom met me."* Shaking his head, the little fiend said, *"Never!
-Never! Even among those brothers in our cave who tend the fires, there's no one with a
-pointed mouth like yours."* Pilgrim thought to himself, *"I‟ve made my mouth a little too
-pointed."*
-He lowered his head at once and gave his mouth a rub, saying, *"My mouth's not
-pointed!"* Immediately, his mouth was not pointed anymore.
-*"Just now,"* said the little fiend, *"your mouth was pointed. How could it change
-like that after you gave it a rub? How baffling! You can't very well belong to our
-family! I have never seen you before! It's too suspicious! Moreover, the domestic laws
-of our great kings are very strict: those who tend the fires always tend the fires, and
-those who patrol the mountain will patrol the mountain. They couldn't have asked you
-to tend the fires, and then asked you also to patrol the mountain, could they?"*
-Exceedingly clever with his mouth, Pilgrim at once replied, *"You have no idea
-that our great kings had promoted me, when they saw how good I was at tending the
+
+*"My good man!"* said Pilgrim with a giggle. *"Can't you recognize someone from the same family?"*
+
+*"You're not in our family,"* said the little fiend.
+
+*"What do you mean?"* said Pilgrim. *"Take a good look."*
+
+*"But you look unfamiliar,"* said the little fiend. *"I don't recognize you! I don't recognize you!"*
+
+*"I know I look unfamiliar,"* replied Pilgrim. *"I'm one of those who tend the fires, and you've seldom met me."* Shaking his head, the little fiend said, *"Never!
+Never! Even among those brothers in our cave who tend the fires, there's no one with a pointed mouth like yours."*
+
+Pilgrim thought to himself, *"I've made my mouth a little too pointed."*
+
+He lowered his head at once and gave his mouth a rub, saying, *"My mouth's not pointed!"* Immediately, his mouth was not pointed anymore.
+
+*"Just now,"* said the little fiend, *"your mouth was pointed. How could it change like that after you gave it a rub? How baffling! You can't very well belong to our
+family! I have never seen you before! It's too suspicious! Moreover, the domestic laws of our great kings are very strict: those who tend the fires always tend the fires, and those who patrol the mountain will patrol the mountain. They couldn't have asked you to tend the fires, and then asked you also to patrol the mountain, could they?"*
+
+Exceedingly clever with his mouth, Pilgrim at once replied, *"You have no idea that our great kings had promoted me, when they saw how good I was at tending the
 fires, and asked me to patrol the mountain."*
-The little fiend said, *"All right. There are forty of us who patrol the mountain to
-one platoon, and we have altogether ten platoons.
-Each of us is different in age, and each has a different name. To prevent
-confusion among the ranks and to facilitate taking the roll, our great kings gave us each
-a nameplate. Do you have one?"* Now Pilgrim had changed into a semblance of only
-what he could see of the little fiend; namely, how he was dressed and what he was
-doing. Since he had not seen the plate, he, of course, did not have it on him. Dear Great
-Sage! Refusing to admit that he had none, he followed the drift of the question instead
-976
-976
-and said, *"How could I not have a plate? I just received a brand new one. But you take
-out yours first for me to have a look."*
-Completely unaware that this was a trick, that little fiend hitched up his clothes
-and pulled out for Pilgrim to see a gold-lacquered plate, which was tied to his body with
-a small cotton thread. On the back of the plate Pilgrim saw the inscription, In Command
-of All Demons. In front there were three printed words:
-Little Wind Cutter. He thought to himself, *"It goes without saying that those
-who patrol the mountain will be named some sort of Wind Cutters."*
-He therefore said to the little fiend, *"Lower your clothes now, and let me show
-you my plate."*
-Turning to one side, Pilgrim yanked off a small piece of hair from the tip of his
-tail and gave it a pinch, whispering, *"Change!"* It changed at once into another goldlacquered plate that had a small cotton thread attached to it. On it were the three printed
-words:
-Chief Wind Cutter. When he took it out and showed it to him, the little fiend
-was greatly taken aback. *"We are all named Little Wind Cutters,"* he cried, *"but how
-could you have the name of Chief Wind Cutter?"*
-As he had always acted with the greatest calculation and spoken with the utmost
-shrewdness, Pilgrim immediately said, *"You really have no idea that our great kings
-promoted me to be a patrol commander when they saw how well I tended the fires.
-They also gave me a new plate with the name, Chief Wind Cutter, and the charge that I
-would lead the forty of you in this platoon."* On hearing this, the fiend bowed hurriedly,
-saying, *"Captain, Captain, you‟ve just been commissioned, and that's why you look
-unfamiliar. Please forgive me for offending you with my words."*
-*"I won't blame you,"* chuckled Pilgrim as he returned his bow. *"But I do have a
-request: an introductory gift of five ounces of silver per person."*
-*"Don't be too impatient, Captain,"* said the little fiend. *"Let me join up with my
-platoon at the south of the ridge, and we'll all chip in."*
-*"In that case,"* said Pilgrim, *"I'll go with you."* Indeed, the little fiend walked
-ahead, while the Great Sage followed him.
-In less than a few miles, they came upon a pen peak. Why was it called a pen
-peak, you ask? On that mountain the peak rose straight up for some forty or fifty feet, as
-a pen sticking up from its rack. Hence the name. After Pilgrim went up there, he gave
-his tail a wag and leaped to the tallest point to sit down. *"Wind Cutters,"* he cried,
-*"gather around!"*
-All those Little Wind Cutters bowed to him down below, saying, *"Captain, we
-wait on you."*
+
+The little fiend said, *"All right. There are forty of us who patrol the mountain to one platoon, and we have altogether ten platoons. Each of us is different in age, and each has a different name. To prevent confusion among the ranks and to facilitate taking the roll, our great kings gave us each a nameplate. Do you have one?"*
+
+Now Pilgrim had changed into a semblance of only what he could see of the little fiend; namely, how he was dressed and what he was doing. Since he had not seen the plate, he, of course, did not have it on him. Dear Great Sage! Refusing to admit that he had none, he followed the drift of the question instead and said, *"How could I not have a plate? I just received a brand new one. But you take out yours first for me to have a look."*
+
+Completely unaware that this was a trick, that little fiend hitched up his clothes and pulled out for Pilgrim to see a gold-lacquered plate, which was tied to his body with a small cotton thread. On the back of the plate Pilgrim saw the inscription, In Command of All Demons. In front there were three printed words:
+
+Little Wind Cutter. He thought to himself, *"It goes without saying that those who patrol the mountain will be named some sort of Wind Cutters."* He therefore said to the little fiend, *"Lower your clothes now, and let me show you my plate."*
+
+Turning to one side, Pilgrim yanked off a small piece of hair from the tip of his tail and gave it a pinch, whispering, *"Change!"* It changed at once into another goldlacquered plate that had a small cotton thread attached to it. On it were the three printed words: Chief Wind Cutter. When he took it out and showed it to him, the little fiend was greatly taken aback. *"We are all named Little Wind Cutters,"* he cried, *"but how could you have the name of Chief Wind Cutter?"*
+
+As he had always acted with the greatest calculation and spoken with the utmost shrewdness, Pilgrim immediately said, *"You really have no idea that our great kings
+promoted me to be a patrol commander when they saw how well I tended the fires. They also gave me a new plate with the name, Chief Wind Cutter, and the charge that I
+would lead the forty of you in this platoon."* On hearing this, the fiend bowed hurriedly, saying, *"Captain, Captain, you've just been commissioned, and that's why you look unfamiliar. Please forgive me for offending you with my words."*
+
+*"I won't blame you,"* chuckled Pilgrim as he returned his bow. *"But I do have a request: an introductory gift of five ounces of silver per person."* *"Don't be too impatient, Captain,"* said the little fiend. *"Let me join up with my platoon at the south of the ridge, and we'll all chip in."* *"In that case,"* said Pilgrim, *"I'll go with you."*
+
+Indeed, the little fiend walked ahead, while the Great Sage followed him. In less than a few miles, they came upon a pen peak. Why was it called a pen peak, you ask? On that mountain the peak rose straight up for some forty or fifty feet, as a pen sticking up from its rack. Hence the name. After Pilgrim went up there, he gave his tail a wag and leaped to the tallest point to sit down. *"Wind Cutters,"* he cried, *"gather around!"*
+
+All those Little Wind Cutters bowed to him down below, saying, *"Captain, we wait on you."*
+
 *"Do you know,"* asked Pilgrim, *"why the great kings sent me out here?"*
-*"No, we don‟t,"* replied the little fiends.
-Pilgrim said, *"The great kings want to devour the Tang Monk, but their only fear
-is that Pilgrim Sun has vast magic powers. He is capable of many transformations, they
-claim, and they are afraid that he may change into a Little Wind Cutter to walk on this
-road to spy on us. They therefore have promoted me to Chief Wind Cutter and asked me
-to make an investigation, to see whether there is any specious one among your platoon."*
-977
-977
+
+*"No, we don't,"* replied the little fiends.
+
+Pilgrim said, *"The great kings want to devour the Tang Monk, but their only fear is that Pilgrim Sun has vast magic powers. He is capable of many transformations, they claim, and they are afraid that he may change into a Little Wind Cutter to walk on this road to spy on us. They therefore have promoted me to Chief Wind Cutter and asked me to make an investigation, to see whether there is any specious one among your platoon."*
+
 *"Captain,"* all those Little Wind Cutters said in unison, *"we are all genuine."*
-*"If you are,"* said Pilgrim, *"do you happen to know what sort of abilities our
-great kings possess?"* One of the Little Wind Cutters said, *"I do."*
-*"If you do,"* said Pilgrim, *"tell me quickly. If I agree with you, you are genuine,
-but if you make the slightest error, you are a specious one. I'll certainly arrest you and
-take you to see the great kings."* When that Little Wind Cutter saw him sitting loftily on
-the peak and wielding his authority left and right, he had little choice but to speak the
-truth, saying, *"Our great great king has vast magic powers and enormous abilities. With
-one gulp, he once swallowed one hundred thousand celestial warriors."* On hearing this,
-Pilgrim bellowed, *"You're false!"*
-Horrified, the Little Wind Cutter said, *"Father Captain, I'm real. How could you
-say that I'm false?"*
-*"If you are,"* said Pilgrim, *"why did you babble? How big is the great great king
-that he can swallow with one gulp one hundred thousand celestial warriors?"*
-The Little Wind Cutter said, *"Perhaps the captain does not know that our great
-great king is capable of such transformation that he can be big enough to reach the
-celestial hall when he wants to, or he can become as small as a vegetable seed. When
-the Lady Queen Mother convened the Festival of Immortal Peaches in a former year and
-did not send an invitation to our great great king, he wanted to strive with Heaven. The
-Jade Emperor sent one hundred thousand celestial warriors to bring him to submission,
-but our great king exercised his magic body of transformation and opened his mouth big
-and wide as a city gate. He charged at the celestial warriors, so terrifying them that they
-dared not do battle and closed up the South Heaven Gate instead. That's what I meant
-when I said that he once swallowed one hundred thousand celestial warriors with one
-gulp."* On hearing this, Pilgrim smiled silently to himself, saying, *"If it's this kind of
-ability, old Monkey is quite capable of it."*
-He spoke out loud again, saying, *"What sort of abilities does second great king
-possess?"*
-Another Little Wind Cutter replied, *"Our second great king is about thirty feet
-tall; he has silkworm-like eyebrows, phoenix eyes, a lovely lady's voice, and teeth like
-long flat poles. His nose, moreover, resembles a dragon. When he fights with someone,
-all he needs to do is to wrap his nose around his enemy. Though that person may have
-an iron back and a bronze body, his spirit will expire and his soul will perish!"*
-*"A monster-spirit,"* said Pilgrim to himself, *"with a trunk like that is not difficult
-to catch."*
-He spoke out loud once more, saying, *"What sort of abilities does the third great
-king possess?"*
-Another Little Wind Cutter said, *"Our third great king is no fiendish creature of
-the mortal world, for he has the name of the Roc of Ten Thousand Cloudy Miles. When
-he moves, he whips up the wind and transports the seas; he reaches the north and rules
-the south. On his person he also carries a treasure, called the yin-yang double-force
-vase. If a person is placed inside it, he will turn to liquid within one and three-quarter
-hours."* When he heard this, Pilgrim became alarmed, saying to himself, *"I'm not scared
-of the demon, but I‟d better be careful about his vase."*
-978
-978
-He spoke out loud again, saying, *"You have all spoken quite accurately about
-the abilities of our three great kings, as accurately as I have known them to be. But do
+
+*"If you are,"* said Pilgrim, *"do you happen to know what sort of abilities our great kings possess?"*
+
+One of the Little Wind Cutters said, *"I do."*
+
+*"If you do,"* said Pilgrim, *"tell me quickly. If I agree with you, you are genuine, but if you make the slightest error, you are a specious one. I'll certainly arrest you and take you to see the great kings."*
+
+When that Little Wind Cutter saw him sitting loftily on the peak and wielding his authority left and right, he had little choice but to speak the truth, saying, *"Our great great king has vast magic powers and enormous abilities. With one gulp, he once swallowed one hundred thousand celestial warriors."*
+
+On hearing this, Pilgrim bellowed, *"You're false!"*
+
+Horrified, the Little Wind Cutter said, *"Father Captain, I'm real. How could you say that I'm false?"*
+
+*"If you are,"* said Pilgrim, *"why did you babble? How big is the great great king that he can swallow with one gulp one hundred thousand celestial warriors?"*
+
+The Little Wind Cutter said, *"Perhaps the captain does not know that our great great king is capable of such transformation that he can be big enough to reach the
+celestial hall when he wants to, or he can become as small as a vegetable seed. When the Lady Queen Mother convened the Festival of Immortal Peaches in a former year and did not send an invitation to our great great king, he wanted to strive with Heaven. The Jade Emperor sent one hundred thousand celestial warriors to bring him to submission, but our great king exercised his magic body of transformation and opened his mouth big and wide as a city gate. He charged at the celestial warriors, so terrifying them that they dared not do battle and closed up the South Heaven Gate instead. That's what I meant when I said that he once swallowed one hundred thousand celestial warriors with one gulp."*
+
+On hearing this, Pilgrim smiled silently to himself, saying, *"If it's this kind of ability, old Monkey is quite capable of it."*
+
+He spoke out loud again, saying, *"What sort of abilities does second great king possess?"*
+
+Another Little Wind Cutter replied, *"Our second great king is about thirty feet tall; he has silkworm-like eyebrows, phoenix eyes, a lovely lady's voice, and teeth like long flat poles. His nose, moreover, resembles a dragon. When he fights with someone, all he needs to do is to wrap his nose around his enemy. Though that person may have an iron back and a bronze body, his spirit will expire and his soul will perish!"*
+
+*"A monster-spirit,"* said Pilgrim to himself, *"with a trunk like that is not difficult to catch."*
+
+He spoke out loud once more, saying, *"What sort of abilities does the third great king possess?"*
+
+Another Little Wind Cutter said, *"Our third great king is no fiendish creature of the mortal world, for he has the name of the Roc of Ten Thousand Cloudy Miles. When
+he moves, he whips up the wind and transports the seas; he reaches the north and rules the south. On his person he also carries a treasure, called the yin-yang double-force vase. If a person is placed inside it, he will turn to liquid within one and three-quarter hours."*
+
+When he heard this, Pilgrim became alarmed, saying to himself, *"I'm not scared of the demon, but I'd better be careful about his vase."*
+
+He spoke out loud again, saying, *"You have all spoken quite accurately about the abilities of our three great kings, as accurately as I have known them to be. But do
 you know which of the great kings would like to devour the Tang Monk?"*
+
 *"Captain,"* said another Little Wind Cutter, *"do you mean that you don't know?"*
-*"Don't I know more than you?"* snapped Pilgrim. *"You are the ones who may
-not know the truth of the matter, and that's why I was sent to give you a thorough
+
+*"Don't I know more than you?"* snapped Pilgrim. *"You are the ones who may not know the truth of the matter, and that's why I was sent to give you a thorough
 interrogation."*
-The Little Wind Cutter said, *"Our great great king and the second great king
-have long resided in the Lion-Camel Cave of the Lion- Camel Ridge. Our third great
-king, however, did not live here, for his original residence was located about four
-hundred miles west of here, in a city by the name of the Lion-Camel State. Five hundred
-years ago, he devoured the entire city—the king, the civil and military officials, the
-populace, male and female, old and young—and took over the kingdom. All the
-inhabitants of that city now are fiends. I don't know which year it was that he learned
-that the Tang court in the Land of the East had commissioned a monk to go seek
-scriptures in the Western Heaven. That Tang Monk, so the saying goes, is a good man
-who has practiced austerities for ten incarnations. If anyone eats a single piece of his
-flesh, he will gain longevity and never grow old. But fearing his disciple, Pilgrim Sun,
-who is said to be exceedingly formidable, our third great king was afraid that he
-couldn't quite handle the situation all by himself. He came, therefore, to become a
-bond-brother with the two great kings at this place. The three of them are thus united in
-their determination and efforts to catch that Tang Monk."* When Pilgrim heard this, he
-was filled with anger. *"These brazen fiends are so audacious! I am protecting the Tang
-Monk so that he may attain the right fruit. How could they plan to devour my man?"*
-He was so mad that he clenched his teeth, whipped out his iron rod, and leaped
-down from the tall peak. All he had to do was to slam the rod down on the heads of the
-little fiends, and they were immediately reduced to meat patties! When he saw them like
-that, however, he was moved somewhat to pity. *"Alas,"* he said to himself, *"they were
-kind enough after all to have spilled everything about their family to me. How could I
+
+The Little Wind Cutter said, *"Our great great king and the second great king have long resided in the Lion-Camel Cave of the Lion- Camel Ridge. Our third great
+king, however, did not live here, for his original residence was located about four hundred miles west of here, in a city by the name of the Lion-Camel State. Five hundred years ago, he devoured the entire city—the king, the civil and military officials, the populace, male and female, old and young—and took over the kingdom. All the inhabitants of that city now are fiends. I don't know which year it was that he learned that the Tang court in the Land of the East had commissioned a monk to go seek scriptures in the Western Heaven. That Tang Monk, so the saying goes, is a good man who has practiced austerities for ten incarnations. If anyone eats a single piece of his flesh, he will gain longevity and never grow old. But fearing his disciple, Pilgrim Sun, who is said to be exceedingly formidable, our third great king was afraid that he couldn't quite handle the situation all by himself. He came, therefore, to become a bond-brother with the two great kings at this place. The three of them are thus united in their determination and efforts to catch that Tang Monk."*
+
+When Pilgrim heard this, he was filled with anger. *"These brazen fiends are so audacious! I am protecting the Tang Monk so that he may attain the right fruit. How could they plan to devour my man?"*
+
+He was so mad that he clenched his teeth, whipped out his iron rod, and leaped down from the tall peak. All he had to do was to slam the rod down on the heads of the
+little fiends, and they were immediately reduced to meat patties! When he saw them like that, however, he was moved somewhat to pity. *"Alas,"* he said to himself, *"they were kind enough after all to have spilled everything about their family to me. How could I
 finish them off just like that? All right! All right! What's done is done!"*
 Dear Great Sage! Because of the impediment in his master's way, he had no
 choice but to do something like this. He took down one of the nameplates and tied it to
@@ -407,15 +320,10 @@ He dashed deeply into the mountain, following the path on which he came. As
 he ran along, he suddenly heard people shouting and horses neighing. When he raised
 his eyes to look, he saw that the noise was coming from a huge mob of little fiends in
 front of the Lion-Camel Cave, all equipped with columns of scimitars, lances, spears,
-and halberds, with flags and banners. Delighted, our Great Sage said to himself, *"Long
-Life Li's words are not far off the mark!"*
-979
-979
-The way that those little fiends were arrayed, you see, had an order to it: two
-hundred and fifty of them made up one huge column, to which was assigned a tall
-colored flag. When he spotted some forty such flags, he knew that there had to be at
-least ten thousand troops right there before the cave.
-Thereupon he thought further to himself, *"Old Monkey has already changed into
+and halberds, with flags and banners. Delighted, our Great Sage said to himself, *"Long Life Li's words are not far off the mark!"*
+
+The way that those little fiends were arrayed, you see, had an order to it: two hundred and fifty of them made up one huge column, to which was assigned a tall
+colored flag. When he spotted some forty such flags, he knew that there had to be at least ten thousand troops right there before the cave. Thereupon he thought further to himself, *"Old Monkey has already changed into
 a Little Wind Cutter. Once I step inside, I would have to give some answers should
 those old demons question me on patrolling the mountain. If I am recognized because of
 some slipup in my words, how am I going to get away? Even if I want to run out the
@@ -423,55 +331,28 @@ door, how could I get out with so many of them barring the door? If I want to se
 fiendish kings inside the cave, I must get rid of these fiends before the door first."*
 How could he get rid of the fiends, you ask? Marvelous Great Sage! He thought
 some more to himself:
-*"Though those old demons have never met my face, they have already known
-the reputation of old Monkey. Let me rely on that reputation, then, and exploit its
-power; let me give some big talk to frighten them a bit, and see whether those creatures
-of Middle Land indeed have sufficient affinity to be rewarded by us taking the
-scriptures back to them. If they do, a few bravado sentences of mine will frighten the
-fiends enough to scatter them. If those creatures, however, do not have sufficient
-affinity so that we cannot acquire the true scriptures, then
-Even if I preach till the lotus flowers appear,
-I shall not dispel the spirits before the cave."*
-His mind thus questioning his mouth, and his mouth thus questioning the mind,
-he beat his rattle and shook his bell as he marched up to the entrance of the Lion-Camel
-Cave. He was immediately met by the little fiends of the forward camp who said, *"Little
-Wind Cutter, have you returned?"* Instead of answering them, Pilgrim lowered his head
-and walked on.
-At the second-level camp, he was stopped again by some more little fiends who
-said, *"Little Wind Cutter, have you returned?"*
-*"I have,"* replied Pilgrim. *"When you went on patrol this morning,"* said the
-fiends, *"did you run into Pilgrim Sun?"*
-*"I have,"* replied Pilgrim, *"he's polishing his pole at the moment."*
-A little frightened, those little fiends said, *"What does he look like? What sort of
-a pole is he polishing?"* Pilgrim said, *"He was squatting there by the side of a brook,
-and he still seemed like a trailblazing deity. If he stood up, he would have to be over a
-hundred feet tall! He had in his hands an iron rod that resembled a huge pole, so thick it
-was that it had to have the thickness of a rice bowl. As he sprinkled some water on the
-stone ledge, he rubbed his rod on it while he mumbled to himself, „O dear pole! I
-haven't taken you out for awhile to show your magic powers. Now that you have been
-taken out, may you beat to death for me all those monster-spirits, even if there are one
-hundred thousand of them! Then let me slay also those three arch-demons and offer
-them as sacrifices to you!‟ Once he has polished his rod so that it shines, he will no
-doubt slaughter first those ten thousand of you before the door."* When those little fiends
-heard these words, every one of their hearts quivered and their galls shook, as their
-souls melted and their spirits dispersed. *"Think on this, all of you,"* said Pilgrim again.
-*"The flesh of that Tang Monk doesn't amount to many pounds, you know, and I doubt
-980
-980
-if we'll ever get to receive our portions even if he were divided up. Why should we
-withstand that pole for them? Why don't we ourselves just scatter?"*
-*"You are right,"* said the various fiends. *"Let's look after our own lives and
-leave."*
-All of these fiends, you see, were no more than wolves, tigers, leopards, and the
-like. With a roar, all these beasts and fowl simply dispersed in every direction. And so,
-those few subversive sentences of the Great Sage Sun worked like the songs of Chu
-when they scattered some eight thousand troops.
-Secretly delighted, Pilgrim said to himself, *"Marvelous! Those old fiends are
-good as dead! If words will make them run, how would they dare meet me face to face?
-When I get inside, however, I‟d better repeat what I said. For if I miss saying
-something, a couple of those little fiends who have run inside just now may reveal my
-secret."* Look at him!
-He was set to approach the ancient cave;
-With boldness he walked deep inside the door.
-We do not know whether good or evil would befall him when he saw the old
-demons; let's listen to the explanation in the next chapter.
+*"Though those old demons have never met my face, they have already known the reputation of old Monkey. Let me rely on that reputation, then, and exploit its
+power; let me give some big talk to frighten them a bit, and see whether those creatures of Middle Land indeed have sufficient affinity to be rewarded by us taking the scriptures back to them. If they do, a few bravado sentences of mine will frighten the fiends enough to scatter them. If those creatures, however, do not have sufficient affinity so that we cannot acquire the true scriptures, then Even if I preach till the lotus flowers appear, I shall not dispel the spirits before the cave."*
+
+His mind thus questioning his mouth, and his mouth thus questioning the mind, he beat his rattle and shook his bell as he marched up to the entrance of the Lion-Camel Cave. He was immediately met by the little fiends of the forward camp who said, *"Little Wind Cutter, have you returned?"* Instead of answering them, Pilgrim lowered his head and walked on.
+
+At the second-level camp, he was stopped again by some more little fiends who said, *"Little Wind Cutter, have you returned?"*
+
+*"I have,"* replied Pilgrim. *"When you went on patrol this morning,"* said the fiends, *"did you run into Pilgrim Sun?"*
+
+*"I have,"* replied Pilgrim, *"he's polishing his pole at the moment."* A little frightened, those little fiends said, *"What does he look like? What sort of
+a pole is he polishing?"*
+
+Pilgrim said, *"He was squatting there by the side of a brook, and he still seemed like a trailblazing deity. If he stood up, he would have to be over a hundred feet tall! He had in his hands an iron rod that resembled a huge pole, so thick it was that it had to have the thickness of a rice bowl. As he sprinkled some water on the stone ledge, he rubbed his rod on it while he mumbled to himself, „O dear pole! I haven't taken you out for awhile to show your magic powers. Now that you have been taken out, may you beat to death for me all those monster-spirits, even if there are one hundred thousand of them! Then let me slay also those three arch-demons and offer them as sacrifices to you!‟ Once he has polished his rod so that it shines, he will no doubt slaughter first those ten thousand of you before the door."*
+
+When those little fiends heard these words, every one of their hearts quivered and their galls shook, as their souls melted and their spirits dispersed. *"Think on this, all of you,"* said Pilgrim again. *"The flesh of that Tang Monk doesn't amount to many pounds, you know, and I doubt if we'll ever get to receive our portions even if he were divided up. Why should we withstand that pole for them? Why don't we ourselves just scatter?"*
+
+*"You are right,"* said the various fiends. *"Let's look after our own lives and leave."*
+
+All of these fiends, you see, were no more than wolves, tigers, leopards, and the like. With a roar, all these beasts and fowl simply dispersed in every direction. And so, those few subversive sentences of the Great Sage Sun worked like the songs of Chu when they scattered some eight thousand troops.
+
+Secretly delighted, Pilgrim said to himself, *"Marvelous! Those old fiends are good as dead! If words will make them run, how would they dare meet me face to face? When I get inside, however, I'd better repeat what I said. For if I miss saying something, a couple of those little fiends who have run inside just now may reveal my secret."*
+
+Look at him! He was set to approach the ancient cave; With boldness he walked deep inside the door.
+
+We do not know whether good or evil would befall him when he saw the old demons; let's listen to the explanation in the next chapter.
