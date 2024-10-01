@@ -550,3 +550,37 @@ To safeguard the Way one must purge the evil-loving heart.
 We do not know, as he rises into the air, whether he will win or lose, or how he
 manages to capture the fiend and rescue the Golden Sage Palace. Let‟s listen to the
 explanation in the next chapter.
+
+# Vobs
+medicines: các loại thuốc
+
+The perverse fiend: con quỷ quái ác
+
+the inch: đơn vị đo inch
+
+the window shutter: cửa sổ chớp
+
+the palace attendant: Nữ quan
+
+pulse: mạch
+
+wrist: cổ tay
+
+hollow: rỗng
+
+anxiety: sự lo lắng
+
+
+severance: sự chia lìa, sự thôi việc
+
+
+prescribe: chỉ định
+
+Physician: thầy thuốc, 
+
+
+imperial physician: ngự y
+
+prescription: đơn thuốc
+
+obey: vâng lời
