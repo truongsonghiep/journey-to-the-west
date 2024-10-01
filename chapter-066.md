@@ -27,7 +27,7 @@ A few sprigs of plum trees just now in bloom;
 A mountain of rare grasses spreading their verdure.
 Dragons lie beneath the brooks;
 Tigers crouch by the cliffs.
-The birds sound as if they‟re talking;
+The birds sound as if they're talking;
 By people tame deer are walking.
 White cranes perch with clouds on old junipers;
 Facing the sun, blue and red phoenixes sing.
@@ -145,41 +145,26 @@ Unwittingly, his eyes became shut and he looked as if he had fallen asleep. Sudd
 
 Opening wide his eyes and leaping up, Pilgrim saw that it was the Day Sentinel. *"You clumsy deity!"*shouted Pilgrim. *"Where have you been all this time lusting after your bloody offerings? You haven't shown up to answer your roll call, and yet you dare come to disturb me today! Stick out your shanks, and let old Monkey give you a couple of strokes of my rod—just to relieve my boredom!"*
 
-Bowing hurriedly, the sentinel said, *"Great Sage, you are the joyous immortal among men. How could you be bored? By the decree of the Bodhisattva, all of us are to
-give secret protection to the Tang Monk. We thus work with the local spirits and the like, not daring to leave him at all. That's why we have not come to see you. How could you blame us instead?"*
+Bowing hurriedly, the sentinel said, *"Great Sage, you are the joyous immortal among men. How could you be bored? By the decree of the Bodhisattva, all of us are to give secret protection to the Tang Monk. We thus work with the local spirits and the like, not daring to leave him at all. That's why we have not come to see you. How could you blame us instead?"*
 
-“If you‟re giving him protection,"* said Pilgrim, *"tell me where has that monsterspirit imprisoned my master, the Constellations, the guardians, the protectors of
-monasteries, and the rest of them? What sort of suffering are they enduring now?"*
-“Your master and your brothers,"* replied the sentinel, *"are all hanging in the
-corridor by the side of the treasure hall, while the Constellations have heen herded into
-the underground cellar to suffer there. We haven‟t had any news from you for these two
-days.
-Only when we saw just now that the monster-spirit had captured some divine
-dragons, a turtle, and a snake, and sent these, too, into the cellar did we realize that they
-were warriors fetched here by the Great Sage. Your humble deity came especially to
-find you. The Great Sage must not grow weary. You must go again quickly to seek
-help."* When he heard these words, Pilgrim began to shed tears as he said to the sentinel,
-“At this moment,
+*"If you're giving him protection,"* said Pilgrim, *"tell me where has that monsterspirit imprisoned my master, the Constellations, the guardians, the protectors of monasteries, and the rest of them? What sort of suffering are they enduring now?"*
+
+*"Your master and your brothers,"* replied the sentinel, *"are all hanging in the corridor by the side of the treasure hall, while the Constellations have heen herded into the underground cellar to suffer there. We haven't had any news from you for these two days. Only when we saw just now that the monster-spirit had captured some divine dragons, a turtle, and a snake, and sent these, too, into the cellar did we realize that they were warriors fetched here by the Great Sage. Your humble deity came especially to find you. The Great Sage must not grow weary. You must go again quickly to seek help."*
+
+When he heard these words, Pilgrim began to shed tears as he said to the sentinel, *"At this moment,
 I'm ashamed to go up to Heaven,
 I'm embarrassed to go down to the seas.
 I dread the Bodhisattva's queries;
 I'm sad to see the Buddha's jade mien.
-Those who had been taken captive just now were Turtle, Snake, and the Five
-Dragon sages of Patriarch Zhenwu. I have no other place to go for help. What am I to
-do?"* Smiling, the sentinel said, *"Please do not worry, Great Sage. Your humble deity
-can think of another powerful army which, if you succeed in bringing it here, will
-certainly subdue this monster. Just now, the Great Sage went to Wudang of the South
-Jambūdvīpa Continent. Well, this army is also stationed at the same continent, in the
-city of Bincheng on the Xuyi Mountain, what is now called Sizhou. Located there is the
-Preceptor of State-King Bodhisattva, who has vast magic powers. Under his tutelage is
-a disciple of his by the name of Prince Little Zhang. He has in his service also four great
-divine warriors, who brought to submission in years past the Lady Water Mother. If you
-go there now in person and ask for his kind assistance, I am certain that the fiend will be
-captured and your master rescued."*
-Delighted, Pilgrim said, *"You go back to protect my master and Don't let him be
-harmed. Let old Monkey go for help."* Mounting his cloud somersault, Pilgrim left the
-fiend's place and headed straight for the Xuyi Mountain. He arrived there in less than a
-day. As he stared at it carefully, it was a marvelous place indeed!
+Those who had been taken captive just now were Turtle, Snake, and the Five Dragon sages of Patriarch Zhenwu. I have no other place to go for help. What am I to do?"*
+
+Smiling, the sentinel said, *"Please do not worry, Great Sage. Your humble deity can think of another powerful army which, if you succeed in bringing it here, will certainly subdue this monster. Just now, the Great Sage went to Wudang of the South Jambūdvīpa Continent. Well, this army is also stationed at the same continent, in the city of Bincheng on the Xuyi Mountain, what is now called Sizhou. Located there is the
+Preceptor of State-King Bodhisattva, who has vast magic powers. Under his tutelage is a disciple of his by the name of Prince Little Zhang. He has in his service also four great divine warriors, who brought to submission in years past the Lady Water Mother. If you go there now in person and ask for his kind assistance, I am certain that the fiend will be captured and your master rescued."*
+
+Delighted, Pilgrim said, *"You go back to protect my master and Don't let him be harmed. Let old Monkey go for help."*
+
+Mounting his cloud somersault, Pilgrim left the fiend's place and headed straight for the Xuyi Mountain. He arrived there in less than a day. As he stared at it carefully, it was a marvelous place indeed!
+
 To the south it's near river fords;
 To the north, it presses on the River Huai;
 To the east it reaches the sea coast;
@@ -187,8 +172,6 @@ To the west it connects with Fengfou.
 On the peak there are towering edifices;
 In its fold there are surging streams.
 Strange, craggy boulders;
-865
-865
 Handsome, knotty pines;
 A hundred kinds of fruits all in season and fresh;
 A thousand sprigs of flowers blooming in the sun.
@@ -220,51 +203,25 @@ Treasure bells, windblown, will make celestial chimes;
 Shell-bark pines, sun-drenched, face this Sanskrit hall.
 Spirit birds, in flight or rest, speak frequently
 When you gaze on the Huai's endless eddy.
-Enjoying the scenery as he walked along, Pilgrim went straight up to the secondlevel door. By then, the Preceptor of State-King Bodhisattva had already learned of his
-arrival and he went out of the door with Prince Little Zhang to meet his visitor. After
-they saluted each other, Pilgrim said, *"I'm accompanying the Tang Monk to go to the
-Western Heaven for scriptures. On our way we ran into The Little Thunderclap
-Monastery, where a Yellow Brow Fiend disguised himself as the Buddhist patriarch.
-Unable to distinguish the true from the false, my master immediately bowed before him
-and was caught. The fiend then had me sealed inside a pair of cymbals, but fortunately I
-was rescued by the Constellations descending from Heaven. I smashed his cymbals and
-fought with him, but he used a cloth wrap and took captive all of the gods, the
-guardians, my master, and my brothers. I went just now to the Wudang Mountain to
-seek the help of the August One of the Mysterious Heaven, who ordered the Five
-Dragons, Turtle, and Serpent to capture the fiend. But they, too, were caught by his
-wrap. Your disciple now has neither refuge nor home, and that's why he has come
-especially to see the Bodhisattva. I beg you to exercise your mighty power—the magic
-that brought the Water Mother to submission and the wondrous potency that redeemed
-the multitudes—and go with your disciple to rescue his master from this ordeal. When
-866
-866
-we succeed in acquiring the scriptures so that they may be forever implanted in China,
-we shall proclaim the wisdom of our Buddha and his everlasting perfection."*
-“Your affair today,"* said the Preceptor of State-King, *"indeed concerns the
-prosperity of our Buddhist religion, and I should go with you in person. But this is early
-summer, a time when the River Huai threatens to overflow. It was only recently that I
-brought to submission the Great Sage Water Ape.
-That fellow, however, tends to grow restless whenever he comes into contact
-with water. I fear that my departure from this place will lure him into mischief, and
-there's no other god who can bring him under control. Let me ask my young disciple
-and four other warriors under his command to go with you. They‟ll assist you in
-capturing this demon."* Pilgrim gave thanks before mounting the clouds with Prince
-Little Zhang and the four warriors to return to the Little Thunderclap Monastery.
-Prince Little Zhang used a mulberry-white lance while the four warriors all
-wielded red-steel swords. When they went forward with the Great Sage Sun to provoke
-battle, the little fiends again went inside to report. Leading the rest of the monsters, the
-fiendish king came roaring out and cried, *"Monkey! What other persons have you
-brought here this time?"* Ordering the four warriors forward, Prince Little Zhang
-shouted, *"You lawless monster-spirit! You have no flesh on your face and no pupils in
-your eyes, and that's why you can‟t recognize us."*
-“Where are you from, little warrior,"* said the fiendish king, *"that you dare come
-here to give him assistance?"*
-“I'm the disciple of the Preceptor of State-King Bodhisattva,"* replied the prince,
-“the Great Sage of Sizhou. These are the four divine warriors under my command, who
-have been ordered here to arrest you."* With a laugh, the fiendish king said, *"What sort
-of martial prowess does a little boy like you possess that you dare to be so insulting?"*
-“If you want to know about my martial prowess,"* said the prince, *"listen to my
-recital:
+
+Enjoying the scenery as he walked along, Pilgrim went straight up to the secondlevel door. By then, the Preceptor of State-King Bodhisattva had already learned of his arrival and he went out of the door with Prince Little Zhang to meet his visitor. After they saluted each other, Pilgrim said, *"I'm accompanying the Tang Monk to go to the Western Heaven for scriptures. On our way we ran into The Little Thunderclap
+Monastery, where a Yellow Brow Fiend disguised himself as the Buddhist patriarch. Unable to distinguish the true from the false, my master immediately bowed before him and was caught. The fiend then had me sealed inside a pair of cymbals, but fortunately I was rescued by the Constellations descending from Heaven. I smashed his cymbals and fought with him, but he used a cloth wrap and took captive all of the gods, the guardians, my master, and my brothers. I went just now to the Wudang Mountain to seek the help of the August One of the Mysterious Heaven, who ordered the Five Dragons, Turtle, and Serpent to capture the fiend. But they, too, were caught by his wrap. Your disciple now has neither refuge nor home, and that's why he has come especially to see the Bodhisattva. I beg you to exercise your mighty power—the magic
+that brought the Water Mother to submission and the wondrous potency that redeemed the multitudes—and go with your disciple to rescue his master from this ordeal. When we succeed in acquiring the scriptures so that they may be forever implanted in China, we shall proclaim the wisdom of our Buddha and his everlasting perfection."*
+
+*"Your affair today,"* said the Preceptor of State-King, *"indeed concerns the prosperity of our Buddhist religion, and I should go with you in person. But this is early summer, a time when the River Huai threatens to overflow. It was only recently that I brought to submission the Great Sage Water Ape. That fellow, however, tends to grow restless whenever he comes into contact with water. I fear that my departure from this place will lure him into mischief, and there's no other god who can bring him under control. Let me ask my young disciple and four other warriors under his command to go with you. They'll assist you in
+capturing this demon."*
+
+Pilgrim gave thanks before mounting the clouds with Prince Little Zhang and the four warriors to return to the Little Thunderclap Monastery. Prince Little Zhang used a mulberry-white lance while the four warriors all wielded red-steel swords. When they went forward with the Great Sage Sun to provoke battle, the little fiends again went inside to report. Leading the rest of the monsters, the fiendish king came roaring out and cried, *"Monkey! What other persons have you brought here this time?"*
+
+Ordering the four warriors forward, Prince Little Zhang shouted, *"You lawless monster-spirit! You have no flesh on your face and no pupils in your eyes, and that's why you can't recognize us."*
+
+*"Where are you from, little warrior,"* said the fiendish king, *"that you dare come here to give him assistance?"*
+
+*"I'm the disciple of the Preceptor of State-King Bodhisattva,"* replied the prince, *"the Great Sage of Sizhou. These are the four divine warriors under my command, who have been ordered here to arrest you."* 
+
+With a laugh, the fiendish king said, *"What sort of martial prowess does a little boy like you possess that you dare to be so insulting?"*
+
+*"If you want to know about my martial prowess,"* said the prince, *"listen to my recital:
 The state, Flowing Sand, was my ancestral home.
 My father was Flowing Sand Kingdom's king.
 Illness plagued me at the time of youth,
@@ -284,12 +241,9 @@ And śarī light illumed the deep, calm sea.
 My mulberry lance is quick to bind a fiend;
 My cleric sleeve can a monster subdue.
 In Bincheng now a peaceful life I lead;
-867
-867
 The earth resounds with fame of Little Zhang."*
-When the fiendish king heard what was said, he smiled scornfully, saying,
-“Prince, what method of longevity did you manage to cultivate, when you left your own
-country and followed that Preceptor of State-King Bodhisattva? Good enough, I
+
+When the fiendish king heard what was said, he smiled scornfully, saying, *"Prince, what method of longevity did you manage to cultivate, when you left your own country and followed that Preceptor of State-King Bodhisattva? Good enough, I
 suppose, to capture a water fiend of the River Huai! How could you allow those false
 and specious words of Pilgrim Sun to goad you across a thousand hills and ten thousand
 waters and into surrendering your life here? You think you still have long life without
@@ -358,7 +312,7 @@ from the East, where are you going? Your disciple has improperly barred your way
 guilty of ten thousand crimes!”
 “I came,"* replied the Buddhist patriarch, *"especially on account of the fiend in
 the Little Thunderclap."*
-“I'm grateful for the profound grace and virtue of the holy father,"* said Pilgrim.
+*"I'm grateful for the profound grace and virtue of the holy father,"* said Pilgrim.
 “May I ask from what region did that fiend originate? What sort of treasure is that wrap
 of his? I beg the holy father to reveal it to me."*
 The patriarch said, *"He happens to be a yellow-browed youth in charge of
@@ -369,7 +323,7 @@ is my fertility bag, its common name being „The Bag of Human Seed.‟ That wol
 club is the mallet for striking the sonorous stone."* On hearing this, Pilgrim raised his
 voice to a shout:
 “Dear laughing monk! You let this boy escape to give himself the false name of
-Buddhist patriarch and to ensnare old Monkey. Aren‟t you guilty of negligence in
+Buddhist patriarch and to ensnare old Monkey. Aren't you guilty of negligence in
 domestic governance?"*
 “It is my negligence in the first place,"* said Maitreya, *"but it is also because you
 and your master have yet to pass through all your mara hindrances. That is why a
@@ -377,24 +331,19 @@ hundred deities must descend to earth to inflict upon you your fated ordeals. I�
 now to bring this fiend to submission for you."*
 “But the monster-spirit,"* said Pilgrim, *"has vast magic powers. You Don't even
 have a weapon. How could you bring him to submission?"* Laughing, Maitreya said,
-“I‟ll set up below this mountain slope a grass hut and a huge melon field. You go to
+“I'll set up below this mountain slope a grass hut and a huge melon field. You go to
 provoke battle, but you are not permitted to win when you fight with him. Lure him to
-my melon field. All my melons, however, will be raw, but you yourself will change into
-869
-869
-a large, ripe melon. When he arrives, he will certainly want to eat some melon, and I‟ll
-present you for him to eat.
-When he swallows you into his stomach, you may do whatever you please with
-him. By then, I should be able to retrieve that wrap from him and take him back inside
-it."*
+my melon field. All my melons, however, will be raw, but you yourself will change into a large, ripe melon. When he arrives, he will certainly want to eat some melon, and I'll present you for him to eat.
+
+When he swallows you into his stomach, you may do whatever you please with him. By then, I should be able to retrieve that wrap from him and take him back inside it."*
 “Although this is a marvelous plan,"* said Pilgrim, *"I wonder how you would be
 able to recognize the ripe melon that will be my transformation. Moreover, how would
 he be willing to follow me here?"* Laughing again, Maitreya replied, *"I'm the Worthy
 who governs the world. How could my percipient eyes of wisdom not recognize you?
-You may change into whatever you like and I‟ll recognize you. But fearing that the
-fiend might not want to pursue you, I‟ll teach you some magic."*
+You may change into whatever you like and I'll recognize you. But fearing that the
+fiend might not want to pursue you, I'll teach you some magic."*
 “What he most certainly wants to do,"* said Pilgrim, *"is to catch me with that
-wrap of his. He won‟t chase me here! What sort of magic do you have that will make
+wrap of his. He won't chase me here! What sort of magic do you have that will make
 him come here?"* Smiling, Maitreya said, *"Stretch forth your hand."* Pilgrim stretched
 out his left palm; dipping his right index finger into his mouth, Maitreya wrote on his
 palm the word, restrain, with the divine saliva. Pilgrim was told to hold his left hand in
@@ -412,31 +361,26 @@ the fiendish king, laughing. *"He has nowhere to go to ask for help, and he has 
 to give up his life for sure."*
 After he had put on his armor properly, the fiend took his treasure and held up
 his light and soft wolf-teeth club to walk out of the door. *"Sun Wukong,"* he cried, *"you
-can‟t struggle anymore this time!”
-“Brazen fiend!"*scolded Pilgrim. *"What do you mean that I can‟t struggle
+can't struggle anymore this time!”
+“Brazen fiend!"*scolded Pilgrim. *"What do you mean that I can't struggle
 anymore?"*
 “I see that you have used up all your plans and exhausted your strength,"* said
 the fiendish king. *"You have nowhere to go for help, and you‟ve forced yourself here to
-do battle. There won‟t be any divine warriors to assist you this time, and that's why I
-say you can‟t struggle anymore."* Pilgrim said, *"This fiend doesn‟t know what's good
+do battle. There won't be any divine warriors to assist you this time, and that's why I
+say you can't struggle anymore."* Pilgrim said, *"This fiend doesn't know what's good
 for him! Stop bragging! Have a taste of my rod!"*When the fiendish king saw that he
 was wielding the rod with only one hand, he could not refrain from laughing. *"This little
 ape!"*he said. *"Look how mischievous he is! Why are you fooling around with only one
 hand?"*
-“My son,"* said Pilgrim, *"you can‟t stand up to the attack of both my hands! If
-you Don't use your wrap, even if there are three or five of you, you won‟t be able to
+“My son,"* said Pilgrim, *"you can't stand up to the attack of both my hands! If
+you Don't use your wrap, even if there are three or five of you, you won't be able to
 overcome this one hand of old Monkey."* On hearing this, the fiendish king said, *"All
-right, all right! I won‟t use my treasure. I‟ll fight in earnest with you this time, and we‟ll
+right, all right! I won't use my treasure. I'll fight in earnest with you this time, and we'll
 see who's the stronger."*
-870
-870
-Thereupon he raised his wolf-teeth club to rush into battle. Aiming directly at his
-face, Pilgrim let loose his fist before gripping the iron rod with both his hands. The
-monster-spirit was immediately bound by the spell; with no thought at all for retreat or
-for using the wrap, he only had in mind using the club to attack his opponent. After
+
+Thereupon he raised his wolf-teeth club to rush into battle. Aiming directly at his face, Pilgrim let loose his fist before gripping the iron rod with both his hands. The monster-spirit was immediately bound by the spell; with no thought at all for retreat or for using the wrap, he only had in mind using the club to attack his opponent. After
 delivering a weak blow with his rod, Pilgrim immediately retreated, and the monsterspirit chased him all the way to the west mountain slope.
-When Pilgrim saw the melon field, he rolled right into it and changed at once
-into a huge melon, both ripe and sweet. The monsterspirit stood still and glanced
+When Pilgrim saw the melon field, he rolled right into it and changed at once into a huge melon, both ripe and sweet. The monsterspirit stood still and glanced
 everywhere, but he did not know where Pilgrim had gone to. When he ran up to the
 grass hut, he cried, *"Who's the planter of these melons?"*
 Having changed himself into a melon farmer, Maitreya walked out of the hut,
@@ -456,7 +400,7 @@ Changing into his original form, Maitreya giggled loudly and said, *"Cursed
 beast! You recognize me?"* When the fiend raised his head and saw the figure before
 him, he went hurriedly to his knees. Hugging his stomach with both hands and
 pounding his head on the ground, he cried, *"My lord! Please spare my life! Please spare
-my life! I‟ll never dare do this again!"*Maitreya strode forward and grabbed the fiend.
+my life! I'll never dare do this again!"*Maitreya strode forward and grabbed the fiend.
 After he had untied the bag of fertility and taken away the mallet for striking the
 sonorous stone, he cried, *"Sun Wukong, for my sake, please spare him."* Pilgrim,
 however, was so bitter that he started punching and kicking left and right, madly
@@ -466,7 +410,7 @@ the ground.
 did Pilgrim cry, *"Open wide your mouth, and let old Monkey come out."*
 Though that fiend had been racked by sharp pains in his stomach, his heart had
 not yet been hurt. As the proverb says,
-Before the heart breaks a person can‟t die;
+Before the heart breaks a person can't die;
 Flowers fade and leaves drop when roots are dry.
 When he heard that he should open wide his mouth, he did so at once, trying
 desperately to endure the pain. Pilgrim leaped out, and, as he changed back into his
@@ -474,56 +418,28 @@ original form, he wanted immediately to strike with his rod. The monster-spirit,
 however, had already been stuffed into the wrap by the Buddhist patriarch and fastened
 to his waist. Picking up the sonorous stone mallet, the patriarch said, *"Cursed beast!
 Where are the stolen cymbals?"*
-871
-871
-Having only concern for his life, the fiend in the bag of fertility moaned, *"The
-gold cymbals were smashed by Sun Wukong."*
-“If they have been smashed,"* said the Buddhist patriarch, *"return my gold."*
+
+Having only concern for his life, the fiend in the bag of fertility moaned, *"The gold cymbals were smashed by Sun Wukong."*
+
+*"If they have been smashed,"* said the Buddhist patriarch, *"return my gold."*
+
 The fiend said, *"The gold fragments are piled on the lotus throne in the hall."*
-Holding the bag and the mallet, the Buddhist patriarch said, giggling, *"Wukong,
-I‟ll go look for my gold with you."* When Pilgrim saw this kind of dharma power, he did
-not dare tarry another moment. He had no other alternative, in fact, than to lead the
-Buddha up the mountain to return to the monastery, where they found the gates tightly
-shut. The Buddhist patriarch pointed his mallet at them and at once the gates flew open.
-When they went inside, all the little fiends were just in the process of packing and
-fleeing, having learned already that the old fiend had been captured. When Pilgrim ran
-into them, he struck them down one by one, until some seven hundred of them were
-slain. As they revealed their original forms, they were all spirits of mountains and trees,
-the monsters of beasts and fowl.
-After the Buddhist patriarch had gathered the gold fragments together, he blew
-at them a mouthful of divine breath and recited a spell.
-Immediately they changed back into their original form of a pair of gold
-cymbals. He then took leave of Pilgrim and mounted the auspicious clouds to return to
-the world of ultimate bliss.
-Thereafter our Great Sage untied the Tang Monk, Eight Rules, and Sha Monk
-from the rafters. Having been hung for several days, our Idiot was so hungry that he did
-not even bother to thank the Great Sage. His torso bent low, he dashed into the kitchen
-to try to find rice to eat. The fiend, you see, was just preparing lunch, but he was
-interrupted when Pilgrim came to provoke battle. When Idiot saw the rice, he ate half a
-pot first before taking two large bowls to his master and brother. Then they thanked
-Pilgrim and asked about the defeat of the fiend. Pilgrim gave a thorough account of how
-he went first to solicit the help of the Taoist patriarch and his two warriors, turtle and
-serpent, how he went next to see the Great Sage and the prince, and finally how
-Maitreya brought the fiend to submission.
-When Tripitaka heard this, he could not make an end of his thanksgiving for all
-the devas. *"Disciple,"* he said afterwards, *"where are these gods and sages imprisoned?"*
-“The Day Sentinel told me yesterday that they had all been sent to an
-underground cellar,"* replied Pilgrim. *"Eight Rules, you and I must go and free them."*
-After he had had some food, our Idiot had grown strong once more. Picking up
-his muckrake, he went to the rear with the Great Sage and broke open the cellar door to
-untie all the prisoners. When they came back out to the jewelled tower, Tripitaka put on
-his cassock to bow to each one of the deities to thank them. Thereafter the Great Sage
-sent the five dragons and two warriors back to Wudang, Prince Little Zhang and the
-four warriors back to Bincheng, and finally the Twenty-Eight Constellations back to
-Heaven. The guardians and the protectors of monasteries, too, were released to return to
-their stations.
-Master and disciples then rested for half a day at the monastery, where they also
-fed the white horse and tidied up the luggage before starting out again in the morning.
-As they left, they lit a fire and had all those jeweled towers, treasure thrones, tall turrets,
-and lecture halls reduced to ashes. So it was that,
-Without care or hindrance, they escaped their ordeal;
-872
-872
-Their calamity dispelled, they were free to leave.
-We do not know how long it was before they reached the Great Thunderclap;
-let's listen to the explanation in the next chapter.
+
+Holding the bag and the mallet, the Buddhist patriarch said, giggling, *"Wukong, I'll go look for my gold with you."* When Pilgrim saw this kind of dharma power, he did not dare tarry another moment. He had no other alternative, in fact, than to lead the Buddha up the mountain to return to the monastery, where they found the gates tightly shut. The Buddhist patriarch pointed his mallet at them and at once the gates flew open.
+
+When they went inside, all the little fiends were just in the process of packing and fleeing, having learned already that the old fiend had been captured. When Pilgrim ran into them, he struck them down one by one, until some seven hundred of them were slain. As they revealed their original forms, they were all spirits of mountains and trees, the monsters of beasts and fowl.
+
+After the Buddhist patriarch had gathered the gold fragments together, he blew at them a mouthful of divine breath and recited a spell. Immediately they changed back into their original form of a pair of gold
+cymbals. He then took leave of Pilgrim and mounted the auspicious clouds to return to the world of ultimate bliss.
+
+Thereafter our Great Sage untied the Tang Monk, Eight Rules, and Sha Monk from the rafters. Having been hung for several days, our Idiot was so hungry that he did not even bother to thank the Great Sage. His torso bent low, he dashed into the kitchen to try to find rice to eat. The fiend, you see, was just preparing lunch, but he was interrupted when Pilgrim came to provoke battle. When Idiot saw the rice, he ate half a pot first before taking two large bowls to his master and brother. Then they thanked Pilgrim and asked about the defeat of the fiend. Pilgrim gave a thorough account of how he went first to solicit the help of the Taoist patriarch and his two warriors, turtle and serpent, how he went next to see the Great Sage and the prince, and finally how Maitreya brought the fiend to submission.
+
+When Tripitaka heard this, he could not make an end of his thanksgiving for all the devas. *"Disciple,"* he said afterwards, *"where are these gods and sages imprisoned?"*
+
+*"the Day Sentinel told me yesterday that they had all been sent to an underground cellar,"* replied Pilgrim. *"Eight Rules, you and I must go and free them."*
+
+After he had had some food, our Idiot had grown strong once more. Picking up his muckrake, he went to the rear with the Great Sage and broke open the cellar door to untie all the prisoners. When they came back out to the jewelled tower, Tripitaka put on his cassock to bow to each one of the deities to thank them. Thereafter the Great Sage sent the five dragons and two warriors back to Wudang, Prince Little Zhang and the four warriors back to Bincheng, and finally the Twenty-Eight Constellations back to Heaven. The guardians and the protectors of monasteries, too, were released to return to their stations.
+
+Master and disciples then rested for half a day at the monastery, where they also fed the white horse and tidied up the luggage before starting out again in the morning. As they left, they lit a fire and had all those jeweled towers, treasure thrones, tall turrets, and lecture halls reduced to ashes. So it was that, Without care or hindrance, they escaped their ordeal;
+
+Their calamity dispelled, they were free to leave. We do not know how long it was before they reached the Great Thunderclap; let's listen to the explanation in the next chapter.
