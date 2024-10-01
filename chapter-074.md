@@ -356,3 +356,40 @@ Secretly delighted, Pilgrim said to himself, *"Marvelous! Those old fiends are g
 Look at him! He was set to approach the ancient cave; With boldness he walked deep inside the door.
 
 We do not know whether good or evil would befall him when he saw the old demons; let's listen to the explanation in the next chapter.
+
+# Vobs
+1. vicious: hung ác
+2. desire: lòng ham muốn
+3. feeling (n): cảm xúc
+4. leap clear of: nhảy ra khỏi, nhảy ra ngoài
+5. permeate (v): thấm vào
+6. wane (n): suy yếu
+7. assail (v): tấn công
+8. summit (n): đỉnh núi
+9. ridge (n): sống núi
+10. devour (v): nuốt chửng, ăn thịt (ăn nhanh, trùm lấy)
+11. hideous: khuôn mặt góm guốc
+12. remark (v): nhận xét
+13. put someone down: hạ thấp ai đó.
+14. exile: đi lưu vong, lưu đày.
+15. struggle up: di chuyển một cách khó khăn
+16. trembling: run lẩy bẩy
+17. shake: rùng mình
+18. archdemon: quỷ vương
+19. Lion-Camel Ridge: Sư Đà Lĩnh
+20. Pshaw: xì (khinh bỉ)
+21. fussy: cầu kỳ, kiểu cách
+22. the Gold Star Venus: thái bạch kim tinh
+23. detour: đường vòng
+24. forbit: cấm
+25. get up: lên đó
+26. creeper: dây leo
+27. dây nho: vine
+28. haul: váckh
+29. rattle (n): lục lạc
+30. suspect: nghi ngờ
+31. patrol: tuần tra
+32. dispel: xua tan
+33. Little Wind Cutter: tiểu toàn phong, wind cutter = cơn gió xoáy kiếm khí
+34. gulp (n/v): một ngụm
+35. the Roc of Ten Thousand Cloudy Miles
