@@ -409,3 +409,32 @@ the dharma vessel. As he sat in the center, he found it to be as sturdy as a lit
 When master and disciples reached solid ground again, Mokṣa descended from the auspicious clouds. As he took back his gourd, the nine skulls changed into nine curls of dark wind and vanished. Tripitaka bowed to thank Mokṣa and also gave thanks to the Bodhisattva. So it was that Mokṣa went straight back to the South Sea, while Tripitaka mounted his horse to go to the West.
 
 We do not know how long it took them to achieve the right fruit of scripture acquisition; let's listen to the explanation in the next chapter.
+
+# Vobs
+the Flowing-Sand River: sông Lưu Sa
+Wujing: Ngộ Tịnh
+delivered from: thoát khoát một tình huống nguy hiểm
+plain (n): đồng bằng
+vast level (adj): rộng lớn
+swiftly: một cách nhanh chóng
+surging and splashing: dâng trào và bắn tung tóe
+exclaim: kêu lên
+turbulent: hỗn loạn
+rough: lởm chởm, gồ ghề, khó khăn
+shore: bờ biển, bờ sông
+slab: phiến đá
+draw: tiến đến gần
+take ablack: ngạc nhiên, sững sờ (đơ ra một lúc)
+pole: cây sào
+whip out: vung ra (vũ khí)
+unleash: giả phóng (thứ gì mà đã kìm hãm bấy lâu ví dụ, sức mạnh, vũ khí...)
+in vain: trong vô ích
+loud whoop: tiếng hét lớn
+leaped about wildly: nhảy cẫng lên bừa bãi
+Marshal of the Heavenly River: thiên bồng nguyên soái
+bygone years: nhiều năm qua
+Infuriate (v): chọc giận
+blow: đòn đánh
+fib: bịa đặt, nói láo(nhưng thứ không quan trọng)
+sb + have a point: nói có lý
+you bum: đồ khốns
