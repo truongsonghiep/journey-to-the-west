@@ -133,8 +133,7 @@ The sages, destroying deviates, acquire the treasures.
 At Shrine of Sylvan Immortals Tripitaka discusses poetry .
 65. Fiends set up falsely the Small Thunderclap;
 The four pilgrims all meet a great ordeal.
-66. Many gods meet injury;
-Maitreya binds a fiend.
+66. **[Many gods meet injury;<br>Maitreya binds a fiend.](chapter-066)**
 67. Having rescued Tuoluo, Chan Nature is secure;
 Escaping filthiness, the Mind of Dao is pure.
 
