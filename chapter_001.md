@@ -138,9 +138,9 @@ Seems like a curtain hanging tall.
 All the monkeys clapped their hands in acclaim:
 “Marvelous water! Marvelous water! So this waterfall is distantly connected
 with the stream at the base of the mountain, and flows directly out, even to the great
-ocean.”
+ocean."*
 They said also, *"If any of us had the ability to penetrate the curtain and find out
-where the water comes from without hurting himself, we would honor him as king.”
+where the water comes from without hurting himself, we would honor him as king."*
 They gave the call three times, when suddenly the stone monkey leaped out from
 the crowd. He answered the challenge with a loud voice, *"I‟ll go in! I‟ll go in!” What a
 monkey! For
@@ -182,10 +182,10 @@ Beside himself with delight, the stone monkey quickly turned around to go back
 out and, closing his eyes and crouching again, leaped out of the water. “A great stroke
 of luck,” he exclaimed with two loud guffaws, *"a great stroke of luck!”
 The other monkeys surrounded him and asked, *"How is it inside? How deep is
-the water?”
+the water?"*
 The stone monkey replied, *"There isn't any water at all. There's a sheet iron
-bridge, and beyond it is a piece of Heaven-sent property.”
-“What do you mean that there's property in there?” asked the monkeys.
+bridge, and beyond it is a piece of Heaven-sent property."*
+“What do you mean that there's property in there?"* asked the monkeys.
 Laughing, the stone monkey said, *"This water splashes through a hole in the
 rock and fills the space under the bridge. Beside the bridge there is a stone mansion with
 trees and flowers. Inside are stone ovens and stoves, stone pots and pans, stone beds and
@@ -204,9 +204,9 @@ You hear no thunderclap.
 Mist and smoke are brightened,
 Warmed by a holy light—
 The pines are evergreen:
-Rare flowers, daily new.”
+Rare flowers, daily new."*
 When the monkeys heard that, they were delighted, saying, *"You go in first and
-lead the way.”
+lead the way."*
 The stone monkey closed his eyes again, crouched low, and jumped inside. “All
 of you,” he cried, *"Follow me in! Follow me in!”
 The braver of the monkeys leaped in at once, but the more timid ones stuck out
@@ -222,7 +222,7 @@ accomplish!‟ You yourselves promised just now that whoever could get in here a
 leave again without hurting himself would be honored as king. Now that I have come in
 and gone out, gone out and come in, and have found for all of you this Heavenly grotto
 in which you may reside securely and enjoy the privilege of raising a family, why don‟t
-you honor me as your king?”
+you honor me as your king?"*
 When the monkeys heard this, they all folded their hands on their breasts and
 obediently prostrated themselves. Each one of them then lined up according to rank and
 age, and, bowing reverently, they intoned, *"Long live our great king!”
@@ -239,61 +239,41 @@ In every age all persons will yield to him:
 Hailed a king, a sage, he is free to roam.
 The Handsome Monkey King thus led a flock of gibbons and baboons, some of
 whom were appointed by him as his officers and ministers. They toured the FlowerFruit Mountain in the morning, and they lived in the Water-Curtain Cave by night.
-14
-14
-Living in concord and sympathy, they did not mingle with bird or beast but enjoyed
-their independence in perfect happiness. For such were their activities:
-In the spring they gathered flowers for food and drink.
-In the summer they went in quest of fruits for sustenance.
-In the autumn they amassed taros and chestnuts to ward off time.
-In the winter they searched for yellow-sperms to live out the year.
-The Handsome Monkey King had enjoyed this insouciant existence for three or
-four hundred years when one day, while feasting with the rest of the monkeys, he
-suddenly grew sad and shed a few tears. Alarmed, the monkeys surrounding him bowed
-down and asked, *"What is disturbing the Great King?”
-The Monkey King replied, *"Though I am very happy at the moment, I am a little
-concerned about the future. Hence I‟m distressed.”
-The monkeys all laughed and said, *"The Great King indeed does not know
-contentment! Here we daily have a banquet on an immortal mountain in a blessed land,
-in an ancient cave on a divine continent. We are not subject to the unicorn or the
-phoenix, nor are we governed by the rulers of mankind. Such independence and comfort
-are immeasurable blessings. Why, then, does he worry about the future?”
-The Monkey King said, *"Though we are not subject to the laws of man today,
-nor need we be threatened by the rule of any bird or beast, old age and physical decay in
-the future will disclose the secret sovereignty of Yama, King of the Underworld. If we
-die, shall we not have lived in vain, not being able to rank forever among the Heavenly
-beings?”
-When the monkeys heard this, they all covered their faces and wept mournfully,
-each one troubled by his own impermanence. But look! From among the ranks a
-bareback monkey suddenly leaped forth and cried aloud, *"If the Great King is so
-farsighted, it may well indicate the sprouting of his religious inclination. There are,
-among the five major divisions of all living creatures, only three species that are not
-subject to Yama, King of the Underworld.”
-The Monkey King said, *"Do you know who they are?”
-The monkey said, *"They are the Buddhas, the immortals, and the holy sages;
-these three alone can avoid the Wheel of Transmigration as well as the process of birth
-and destruction, and live as long as Heaven and Earth, the mountains and the streams.”
-“Where do they live?” asked the Monkey King. The monkey said, *"They do not
-live beyond the world of the Jambūdvīpa, for they dwell within ancient caves on
-immortal mountains.” When the Monkey King heard this, he was filled with delight,
-saying, *"Tomorrow I shall take leave of you all and go down the mountain. Even if I
-have to wander with the clouds to the corners of the sea or journey to the distant edges
-of Heaven, I intend to find these three kinds of people. I will learn from them how to be
-young forever and escape the calamity inflicted by King Yama.
+
+Living in concord and sympathy, they did not mingle with bird or beast but enjoyed their independence in perfect happiness. For such were their activities:
+
+*In the spring they gathered flowers for food and drink.<br>
+In the summer they went in quest of fruits for sustenance.<br>
+In the autumn they amassed taros and chestnuts to ward off time.<br>
+In the winter they searched for yellow-sperms to live out the year.*
+
+The Handsome Monkey King had enjoyed this insouciant existence for three or four hundred years when one day, while feasting with the rest of the monkeys, he suddenly grew sad and shed a few tears. Alarmed, the monkeys surrounding him bowed down and asked, *"What is disturbing the Great King?"*
+
+The Monkey King replied, *"Though I am very happy at the moment, I am a little concerned about the future. Hence I'm distressed."*
+
+The monkeys all laughed and said, *"The Great King indeed does not know contentment! Here we daily have a banquet on an immortal mountain in a blessed land, in an ancient cave on a divine continent. We are not subject to the unicorn or the phoenix, nor are we governed by the rulers of mankind. Such independence and comfort are immeasurable blessings. Why, then, does he worry about the future?"*
+
+The Monkey King said, *"Though we are not subject to the laws of man today, nor need we be threatened by the rule of any bird or beast, old age and physical decay in the future will disclose the secret sovereignty of Yama, King of the Underworld. If we die, shall we not have lived in vain, not being able to rank forever among the Heavenly beings?"*
+
+When the monkeys heard this, they all covered their faces and wept mournfully, each one troubled by his own impermanence. But look! From among the ranks a bareback monkey suddenly leaped forth and cried aloud, *"If the Great King is so farsighted, it may well indicate the sprouting of his religious inclination. There are, among the five major divisions of all living creatures, only three species that are not subject to Yama, King of the Underworld."*
+
+The Monkey King said, *"Do you know who they are?"*
+
+The monkey said, *"They are the Buddhas, the immortals, and the holy sages; these three alone can avoid the Wheel of Transmigration as well as the process of birth and destruction, and live as long as Heaven and Earth, the mountains and the streams."*
+
+*"Where do they live?"* asked the Monkey King. The monkey said, *"They do not live beyond the world of the Jambūdvīpa, for they dwell within ancient caves on immortal mountains."*
+
+When the Monkey King heard this, he was filled with delight, saying, *"Tomorrow I shall take leave of you all and go down the mountain. Even if I have to wander with the clouds to the corners of the sea or journey to the distant edges of Heaven, I intend to find these three kinds of people. I will learn from them how to be young forever and escape the calamity inflicted by King Yama.
 Lo, this utterance at once led him
 To leap free of the Transmigration Net,
 And be the Great Sage, Equal to Heaven.
-All the monkeys clapped their hands in acclamation, saying, *"Wonderful!
-Wonderful! Tomorrow we shall scour the mountain ranges to gather plenty of fruits, so
-that we may send the Great King off with a great banquet.” Next day the monkeys duly
-15
-15
-went to gather immortal peaches, to pick rare fruits, to dig out mountain herbs, and to
-chop yellowsperms.
-They brought in an orderly manner every variety of orchids and epidendrums,
-exotic plants and strange flowers. They set out the stone chairs and stone tables,
-covering the tables with immortal wines and food. Look at the
-Golden balls and pearly pellets,
+
+All the monkeys clapped their hands in acclamation, saying, *"Wonderful! Wonderful! Tomorrow we shall scour the mountain ranges to gather plenty of fruits, so that we may send the Great King off with a great banquet."*
+
+Next day the monkeys duly went to gather immortal peaches, to pick rare fruits, to dig out mountain herbs, and to chop yellowsperms. They brought in an orderly manner every variety of orchids and epidendrums,
+exotic plants and strange flowers. They set out the stone chairs and stone tables, covering the tables with immortal wines and food. Look at the
+
+*Golden balls and pearly pellets,
 Red ripeness and yellow plumpness.
 Golden balls and pearly pellets are the cherries,
 Their colors truly luscious.
@@ -326,20 +306,12 @@ Yellow-sperms overboiled,
 The tubers minced with seeds of waterlily,
 And soup in stone pots simmers on a gentle fire.
 Mankind may boast its delicious dainties,
-But what can best the pleasure of mountain monkeys.
-The monkeys honored the Monkey King with the seat at the head of the table,
-while they sat below according to their age and rank.
-They drank for a whole day, each of the monkeys taking a turn to go forward
-and present the Monkey King with wine, flowers, and fruits. The next day the Monkey
-King rose early and gave the instruction, *"Little ones, cut me some pinewood and make
-me a raft.
-Then find me a bamboo for the pole, and gather some fruits and the like. I‟m
-about to leave.” When all was ready, he got onto the raft by himself. Pushing off with
-16
-16
-all his might, he drifted out toward the great ocean and, taking advantage of the wind,
-set sail for the border of South Jambūdvīpa Continent. Here is the consequence of this
-journey:
+But what can best the pleasure of mountain monkeys.*
+
+The monkeys honored the Monkey King with the seat at the head of the table, while they sat below according to their age and rank. They drank for a whole day, each of the monkeys taking a turn to go forward
+and present the Monkey King with wine, flowers, and fruits. The next day the Monkey King rose early and gave the instruction, *"Little ones, cut me some pinewood and make me a raft. Then find me a bamboo for the pole, and gather some fruits and the like. I'm about to leave."*
+
+When all was ready, he got onto the raft by himself. Pushing off with all his might, he drifted out toward the great ocean and, taking advantage of the wind, set sail for the border of South Jambūdvīpa Continent. Here is the consequence of this journey:
 The Heaven-born monkey, strong in magic might,
 He left the mount and rode the raft to catch fair wind:
 He drifted across the sea to seek immortals‟ way,
@@ -427,7 +399,7 @@ Those I meet,
 If not immortals, would be Daoists,
 Seated quietly to expound the Yellow Court.
 When the Handsome Monkey King heard this, he was filled with delight, saying,
-“So the immortals are hiding in this place.”
+“So the immortals are hiding in this place."*
 He leaped at once into the forest. Looking again carefully, he found a
 woodcutter chopping firewood with his ax. The man he saw was very strangely attired.
 On his head he wore a wide splint hat
@@ -445,27 +417,27 @@ A sturdy rope coiled round and round his load.
 In breaking pines or chopping trees
 Where's the man to equal him?
 The Monkey King drew near and called out:
-“Reverend immortal! Your disciple raises his hands.”
+“Reverend immortal! Your disciple raises his hands."*
 The woodcutter was so flustered that he dropped his ax as he turned to return the
 salutation. “Blasphemy! Blasphemy!” he said. “I, a foolish fellow with hardly enough
-clothes or food! How can I bear the title of immortal?”
+clothes or food! How can I bear the title of immortal?"*
 The Monkey King said, *"If you are not an immortal, how is it that you speak his
-language?”
+language?"*
 The woodcutter asked, *"What did I say that sounded like the language of an
-immortal?”
+immortal?"*
 The Monkey King explained, *"When I came just now to the forest's edge, I
 heard you singing, „Those I meet, if not immortals, would be Daoists, seated quietly to
 expound the Yellow Court.‟ The Yellow Court contains the perfected words of the Way
-and Virtue. What can you be but an immortal?” Laughing, the woodcutter said, *"I can
+and Virtue. What can you be but an immortal?"* Laughing, the woodcutter said, *"I can
 tell you this much: the tune of that lyric is named „A Court Full of Blossoms,‟ and it
 was taught to me by an immortal, a neighbor of mine. He saw that I had to struggle to
 make a living and that my days were full of worries, so he told me to recite the poem
 whenever I was troubled. This, he said, would both comfort me and rid me of my
 difficulties. It happened that I was anxious about something just now, so I sang the
-song. It didn't occur to me that I would be overheard.”
+song. It didn't occur to me that I would be overheard."*
 The Monkey King said, *"If you are a neighbor of the immortal, why don't you
 follow him in the cultivation of the Way? Wouldn't it be nice to learn from him the
-formula for eternal youth?”
+formula for eternal youth?"*
 The woodcutter replied, *"My lot has been a hard one all my life. When I was
 young, I was indebted to my parents‟ nurture until I was eight or nine. As soon as I
 began to have some understanding of human affairs, my father unfortunately died, and
@@ -475,11 +447,11 @@ old, all the more I dare not leave her. Moreover, my fields are rather barren an
 desolate, and we haven't enough food or clothing. I can't do more than chop two
 bundles of firewood to take to the market in exchange for a few pennies to buy a few
 pints of rice. I cook that myself, serving it to my mother with the tea that I make. That‟s
-why I can't practice austerities.”
+why I can't practice austerities."*
 The Monkey King said, *"According to what you have said, you are indeed a
 gentleman of filial piety, and you will certainly be rewarded in the future. I hope,
 however, that you will show me the way to the immortal's abode, so that I may
-reverently call upon him.”
+reverently call upon him."*
 19
 19
 “It's not far,” the woodcutter said. “This mountain is called the Mountain of
@@ -487,9 +459,9 @@ Mind and Heart, and in it is the Cave of Slanting Moon and Three Stars. Inside t
 is an immortal by the name of the Patriarch Subodhi, who has already sent out
 innumerable disciples. Even now there are thirty or forty persons who are practicing
 austerities with him. Follow this narrow path and travel south for about seven or eight
-miles, and you will come to his home.”
+miles, and you will come to his home."*
 Grabbing the woodcutter, the Monkey King said, *"Honored brother, go with me.
-If I receive any benefit, I will not forget the favor of your guidance.”
+If I receive any benefit, I will not forget the favor of your guidance."*
 “What a boneheaded fellow you are!” the woodcutter said. “I have just finished
 telling you these things, and you still don't understand. If I go with you, won't I be
 neglecting my livelihood? And who will take care of my mother? I must chop my
@@ -544,15 +516,15 @@ He was the mountain's ageless boy.
 Untainted even with a speck of dust,
 He feared no havoc by the seasons wrought.
 After coming through the door, the boy shouted, *"Who is causing disturbance
-here?” With a bound the Monkey King leaped down from the tree, and went up to him
+here?"* With a bound the Monkey King leaped down from the tree, and went up to him
 bowing. “Immortal boy,” he said, *"I am a seeker of the way of immortality. I would
-never dare cause any disturbance.” With a chuckle, the immortal youth asked, *"Are you
-a seeker of the Way?”
+never dare cause any disturbance."* With a chuckle, the immortal youth asked, *"Are you
+a seeker of the Way?"*
 “I am indeed,” answered the Monkey King. “My master at the house,” the boy
 said, *"has just left his couch to give a lecture on the platform. Before even announcing
 his theme, however, he told me to go out and open the door, saying, „There is someone
 outside who wants to practice austerities. You may go and receive him.‟ It must be you,
-I suppose.”
+I suppose."*
 The Monkey King said, smiling, *"It is I, most assuredly!”
 “Follow me in then,” said the boy. With solemnity the Monkey King set his
 clothes in order and followed the boy into the depths of the cave. They passed rows and
@@ -570,38 +542,38 @@ The same age as Heaven had his majestic frame.
 Fully tried and enlightened was this grand priest.
 As soon as the Handsome Monkey King saw him, he prostrated himself and
 kowtowed times without number, saying, *"Master! Master! I, your pupil, pay you my
-sincere homage.”
+sincere homage."*
 The Patriarch said, *"Where do you come from? Let's hear you state clearly your
-name and country before you kowtow again.”
+name and country before you kowtow again."*
 The Monkey King said, *"Your pupil came from the Water-Curtain Cave of the
-Flower- Fruit Mountain, in the Aolai Country of the East Pūrvavideha Continent.”
+Flower- Fruit Mountain, in the Aolai Country of the East Pūrvavideha Continent."*
 21
 21
 “Chase him out of here!” the Patriarch shouted. “He is nothing but a liar and a
-fabricator of falsehood. How can he possibly be interested in attaining enlightenment?”
+fabricator of falsehood. How can he possibly be interested in attaining enlightenment?"*
 The Monkey King hastened to kowtow unceasingly and to say, *"Your pupil‟s
-word is an honest one, without any deceit.”
+word is an honest one, without any deceit."*
 The Patriarch said, *"If you are telling the truth, how is it that you mention the
 East Pūrvavideha Continent? Separating that place and mine are two great oceans and
 the entire region of the South Jambūdvīpa Continent. How could you possibly get
-here?”
+here?"*
 Again kowtowing, the Monkey King said, *"Your pupil drifted across the oceans
-and trudged through many regions for more than ten years before finding this place.”
+and trudged through many regions for more than ten years before finding this place."*
 The Patriarch said, *"If you have come on a long journey in many stages, I‟ll let
 that pass.
-What is your surname (xing)?”
+What is your surname (xing)?"*
 The Monkey King again replied, *"I have no temper (xing). If a man rebukes me,
 I am not offended; if he hits me, I am not angered. In fact, I simply repay him with a
-ceremonial greeting and that's all. My whole life's without ill temper.”
+ceremonial greeting and that's all. My whole life's without ill temper."*
 “I‟m not speaking of your temper,” the Patriarch said. “I‟m asking after the
-name of your parents.”
+name of your parents."*
 “I have no parents either,” said the Monkey King. The Patriarch said, *"If you
-have no parents, you must have been born from a tree.”
+have no parents, you must have been born from a tree."*
 “Not from a tree,” said the Monkey King, *"but from a rock. I recall that there
 used to be an immortal stone on the Flower-Fruit Mountain. I was born the year the
-stone split open.” When the Patriarch heard this, he was secretly pleased, and said,
+stone split open."* When the Patriarch heard this, he was secretly pleased, and said,
 “Well, evidently you have been created by Heaven and Earth. Get up and show me how
-you walk.” Snapping erect, the Monkey King scurried around a couple of times. The
+you walk."* Snapping erect, the Monkey King scurried around a couple of times. The
 Patriarch laughed and said, *"Though your features are not the most attractive, you do
 resemble a pignolia-eating monkey (husun). This gives me the idea of taking a surname
 for you from your appearance. I intended to call you by the name Hu. If I drop the
@@ -614,19 +586,19 @@ means a baby, and that name exactly accords with the fundamental Doctrine of the
 Boy. So your surname will be „Sun.‟” When the Monkey King heard this, he was filled
 with delight. “Splendid! Splendid!” he cried, kowtowing, *"At last I know my surname.
 May the master be even more gracious! Since I have received the surname, let me be
-given also a personal name, so that it may facilitate your calling and commanding me.”
+given also a personal name, so that it may facilitate your calling and commanding me."*
 The Patriarch said, *"Within my tradition are twelve characters that have been
 used to name the pupils according to their divisions. You are one who belongs to the
-tenth generation.”
-“Which twelve characters are they?” asked the Monkey King. The Patriarch
+tenth generation."*
+“Which twelve characters are they?"* asked the Monkey King. The Patriarch
 replied, *"They are: wide (guang), great (da), wise (zhi), intelligence (hui), true (zhen),
 conforming (ru), nature (xing), sea (hai), sharp (ying), wake- to (wu), complete (yuan),
 22
 22
 and awakening (jue). Your rank falls precisely on the word „wake-to‟ (wu). You will
-hence be given the religious name „Wake-to-the-Void‟ (wukong). All right?”
+hence be given the religious name „Wake-to-the-Void‟ (wukong). All right?"*
 “Splendid! Splendid!” said the Monkey King, laughing. “Henceforth I shall be
-called Sun Wukong.” So it was that,
+called Sun Wukong."* So it was that,
 At nebula's parting he had no name.
 Smashing stubborn void needs Wake-to-the- Void.
 We do not know what fruit of Daoist cultivation he succeeded in attaining
