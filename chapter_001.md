@@ -1,72 +1,52 @@
 ONE
-The divine root conceives, its source revealed
-Mind and nature nurtured, the Great Dao is born
+# The divine root conceives, its source revealed <br> Mind and nature nurtured, the Great Dao is born
 The poem says:
-Ere Chaos‟s divide, with Heav‟n and Earth a mess,
-No human appeared in this murkiness.
-When Pan Gu broke the nebula apart,
-The dense and pure defined, did clearing start.
-Enfold all life supreme humaneness would
-And teach all things how become good they should.
-To know cyclic time‟s work, if that‟s your quest,
-Read Tale of Woes Dispelled on Journey West.
-We heard that, in the order of Heaven and Earth, a single period consisted of
-129,600 years. Dividing this period into twelve epochs were the twelve stems of Zi1,
-Chou2, Yin3, Mao4, Chen5, Si6, Wu7, Wei8, Shen9, Yu10, Xu11, and Hai12, with each
-epoch having 10,800 years.
-Considered as the horary circle, the sequence would be thus: the first sign of
-dawn appears in the hour of Zi1, while at Chou2 the cock crows; daybreak occurs at
-Yin3, and the sun rises at Mao4; Chen5 comes after breakfast, and by Si6 everything is
-planned; at Wu7 the sun arrives at its meridian, and it declines westward by Wei8; the
-evening meal comes during the hour of Shen9, and the sun sinks completely at Yu10;
-twilight sets in at Xu11, and people rest by the hour of Hai12. This sequence may also be
-understood macrocosmically. At the end of the epoch of Xu11, Heaven and Earth were
-obscure and all things were indistinct. With the passing of 5,400 years, the beginning of
-Hai12 was the epoch of darkness. This moment was named Chaos, because there were
-neither human beings nor the two spheres. After another 5,400 years Hai12 ended, and as
-the creative force began to work after great perseverance, the epoch of Zi1 drew near
-and again brought gradual development. Shao Kangjie said:
-When to the middle of Zi1 winter moved,
-No change by Heaven‟s mind had been approved.
-The male principle had but barely stirred,
-But the birth of all things was still deferred.
-At this point, the firmament first acquired its foundation. With another 5,400
-years came the Zi1 epoch; the ethereal and the light rose up to form the four phenomena
-of the sun, the moon, the stars, and the Heavenly bodies. Hence it is said, the Heaven
-was created at Zi1.
-This epoch came to its end in another 5,400 years, and the sky began to harden
-as the Chou2 epoch approached. The Classic of Change said:
-Great was the male principle;
-Supreme, the female!
-They made all things,
-In obedience to Heaven.
-At this point, the Earth became solidified. In another 5,400 years after the arrival
-of the Chou2 epoch, the heavy and the turbid condensed below and formed the five
-elements of water, fire, mountain, stone, and earth. Hence it is said, the Earth was
-9
-9
-created at Chou2. With the passing of another 5,400 years, the Chou2 epoch came to its
-end and all things began to grow at the beginning of the Yin3 epoch. The Book of
+
+*Ere Chaos's divide, with Heaven and Earth a mess,<br>
+No human appeared in this murkiness.<br>
+When Pan Gu broke the nebula apart,<br>
+The dense and pure defined, did clearing start.<br>
+Enfold all life supreme humaneness would<br>
+And teach all things how become good they should.<br>
+To know cyclic time's work, if that's your quest,<br>
+Read Tale of Woes Dispelled on Journey West.*
+
+We heard that, in the order of Heaven and Earth, a single period consisted of 129,600 years. Dividing this period into twelve epochs were the twelve stems of Zi1, Chou2, Yin3, Mao4, Chen5, Si6, Wu7, Wei8, Shen9, Yu10, Xu11, and Hai12, with each epoch having 10,800 years.
+
+Considered as the horary circle, the sequence would be thus: the first sign of dawn appears in the hour of Zi1, while at Chou2 the cock crows; daybreak occurs at Yin3, and the sun rises at Mao4; Chen5 comes after breakfast, and by Si6 everything is planned; at Wu7 the sun arrives at its meridian, and it declines westward by Wei8; the evening meal comes during the hour of Shen9, and the sun sinks completely at Yu10;
+twilight sets in at Xu11, and people rest by the hour of Hai12. This sequence may also be understood macrocosmically. At the end of the epoch of Xu11, Heaven and Earth were obscure and all things were indistinct. With the passing of 5,400 years, the beginning of Hai12 was the epoch of darkness.
+
+This moment was named Chaos, because there were neither human beings nor the two spheres. After another 5,400 years Hai12 ended, and as the creative force began to work after great perseverance, the epoch of Zi1 drew near and again brought gradual development. Shao Kangjie said:
+
+*When to the middle of Zi1 winter moved,<br>
+No change by Heaven's mind had been approved.<br>
+The male principle had but barely stirred,<br>
+But the birth of all things was still deferred.*
+
+At this point, the firmament first acquired its foundation. With another 5,400 years came the Zi1 epoch; the ethereal and the light rose up to form the four phenomena of the sun, the moon, the stars, and the Heavenly bodies. Hence it is said, the Heaven was created at Zi1.
+
+This epoch came to its end in another 5,400 years, and the sky began to harden as the Chou2 epoch approached. The Classic of Change said:
+
+*Great was the male principle;<br>
+Supreme, the female!<br>
+They made all things,<br>
+In obedience to Heaven.*
+
+At this point, the Earth became solidified. In another 5,400 years after the arrival of the Chou2 epoch, the heavy and the turbid condensed below and formed the five elements of water, fire, mountain, stone, and earth. Hence it is said, the Earth was created at Chou2. With the passing of another 5,400 years, the Chou2 epoch came to its end and all things began to grow at the beginning of the Yin3 epoch. The Book of
 Calendar said:
-The Heavenly aura descended;
-The earthly aura rose up.
-Heaven and Earth copulated,
-And all things were born.
-At this point, Heaven and Earth were bright and fair; the yin had intercourse
-with the yang. In another 5,400 years, during the Yin3 epoch, humans, beasts, and fowls
-came into being, and thus the so-called three forces of Heaven, Earth, and Man were
-established. Hence it is said, man was born at Yin3.
-Following Pan Gu‟s construction of the universe, the rule of the Three August
-Ones, and the ordering of the relations by the Five Thearchs, the world was divided into
-four great continents. They were: the East Pūrvavideha Continent, the West
-Aparagodānīya Continent, the South Jambūdvīpa Continent, and the North Uttarakuru
-Continent. This book is solely concerned with the East Pūrvavideha Continent.
-Beyond the ocean there was a country named Aolai. It was near a great ocean, in
-the midst of which was located the famous Flower-Fruit Mountain. This mountain,
-which constituted the chief range of the Ten Islets and formed the origin of the Three
-Islands, came into being after the creation of the world. As a testimonial to its
-magnificence, there is the following poetic rhapsody:
-Its majesty commands the wide ocean;
+
+*The Heavenly aura descended;<br>
+The earthly aura rose up.<br>
+Heaven and Earth copulated,<br>
+And all things were born.*
+
+At this point, Heaven and Earth were bright and fair; the yin had intercourse with the yang. In another 5,400 years, during the Yin3 epoch, humans, beasts, and fowls came into being, and thus the so-called three forces of Heaven, Earth, and Man were established. Hence it is said, man was born at Yin3.
+
+Following Pan Gu's construction of the universe, the rule of the Three August Ones, and the ordering of the relations by the Five Thearchs, the world was divided into four great continents. They were: the East Pūrvavideha Continent, the West Aparagodānīya Continent, the South Jambūdvīpa Continent, and the North Uttarakuru Continent. This book is solely concerned with the East Pūrvavideha Continent.
+
+Beyond the ocean there was a country named Aolai. It was near a great ocean, in the midst of which was located the famous Flower-Fruit Mountain. This mountain, which constituted the chief range of the Ten Islets and formed the origin of the Three Islands, came into being after the creation of the world. As a testimonial to its magnificence, there is the following poetic rhapsody:
+
+*Its majesty commands the wide ocean;
 Its splendor rules the jasper sea;
 Its majesty commands the wide ocean
 When, like silver mountains, the tide sweeps fishes into caves;
@@ -91,12 +71,9 @@ Lofty bamboos often detain the clouds.
 Within a single gorge the creeping vines are dense;
 The grass color of meadows all around is fresh.
 This is indeed the pillar of Heaven, where a hundred rivers meet—
-The Earth‟s great axis, in ten thousand kalpas unchanged.
-10
-10
-There was on top of that very mountain an immortal stone, which measured
-thirty-six feet and five inches in height and twenty-four feet in circumference. The
-height of thirty-six feet and five inches corresponded to the three hundred and sixty-five
+The Earth's great axis, in ten thousand kalpas unchanged.*
+
+There was on top of that very mountain an immortal stone, which measured thirty-six feet and five inches in height and twenty-four feet in circumference. The height of thirty-six feet and five inches corresponded to the three hundred and sixty-five
 cyclical degrees, while the circumference of twenty-four feet corresponded to the
 twenty-four solar terms of the calendar.
 On the stone were also nine perforations and eight holes, which corresponded to
@@ -192,8 +169,8 @@ Today his fame will spread wide.
 His fortune the time does provide.
 12
 12
-He‟s fated to live in this place,
-Sent by a king to god‟s palace.
+He's fated to live in this place,
+Sent by a king to god's palace.
 Look at him! He closed his eyes, crouched low, and with one leap he jumped
 straight through the waterfall. Opening his eyes at once and raising his head to look
 around, he saw that there was neither water nor waves inside, only a gleaming, shining
@@ -227,9 +204,9 @@ out and, closing his eyes and crouching again, leaped out of the water. “A gre
 of luck,” he exclaimed with two loud guffaws, “a great stroke of luck!”
 The other monkeys surrounded him and asked, “How is it inside? How deep is
 the water?”
-The stone monkey replied, “There isn‟t any water at all. There‟s a sheet iron
+The stone monkey replied, “There isn‟t any water at all. There's a sheet iron
 bridge, and beyond it is a piece of Heaven-sent property.”
-“What do you mean that there‟s property in there?” asked the monkeys.
+“What do you mean that there's property in there?” asked the monkeys.
 Laughing, the stone monkey said, “This water splashes through a hole in the
 rock and fills the space under the bridge. Beside the bridge there is a stone mansion with
 trees and flowers. Inside are stone ovens and stoves, stone pots and pans, stone beds and
@@ -239,7 +216,7 @@ The Cave Heaven of the Water-Curtain Cave.
 13
 13
 This is truly the place for us to settle in. It is, moreover, very spacious inside and
-can hold thousands of the young and old. Let‟s all go live in there, and spare ourselves
+can hold thousands of the young and old. Let's all go live in there, and spare ourselves
 from being subject to the whims of Heaven. For we have in there
 A retreat from the wind,
 A shelter from the rain.
@@ -388,7 +365,7 @@ The Heaven-born monkey, strong in magic might,
 He left the mount and rode the raft to catch fair wind:
 He drifted across the sea to seek immortals‟ way,
 Determined in heart and mind to achieve great things.
-It‟s his lot, his portion, to quit earthly zeals:
+It's his lot, his portion, to quit earthly zeals:
 Calm and carefree, he‟ll face a lofty sage.
 He‟d meet, I think, a true, discerning friend:
 The source disclosed, all dharma will be known.
@@ -412,9 +389,9 @@ This tyrant of early rising and retiring late?
 Riding on mules they long for noble steeds;
 By now prime ministers, they hope to be kings.
 For food and raiment they suffer stress and strain,
-Never fearing Yama‟s call to reckoning.
+Never fearing Yama's call to reckoning.
 Seeking wealth and power to give to sons of sons,
-There‟s not one ever willing to turn back.
+There's not one ever willing to turn back.
 The Monkey King searched diligently for the way of immortality, but he had no
 chance of meeting it. Going through big cities and visiting small towns, he unwittingly
 spent eight or nine years on the South Jambūdvīpa Continent before he suddenly came
@@ -427,10 +404,10 @@ wolves and lizards nor of tigers and leopards, he went straight to the top to lo
 It was indeed a magnificent mountain:
 A thousand peaks stand like rows of spears,
 Like ten thousand cubits of screen widespread.
-The sun‟s beams lightly enclose the azure mist;
+The sun's beams lightly enclose the azure mist;
 17
 17
-In darkening rain, the mount‟s color turns cool and green.
+In darkening rain, the mount's color turns cool and green.
 Dry creepers entwine old trees;
 Ancient fords edge secluded paths.
 Rare flowers and luxuriant grass.
@@ -443,17 +420,17 @@ The calls of birds hidden are near.
 The sounds of streams rushing are clear.
 Deep inside deep canyons the orchids interweave.
 On every ridge and crag sprout lichens and mosses.
-Rising and falling, the ranges show a fine dragon‟s pulse.
+Rising and falling, the ranges show a fine dragon's pulse.
 Here in reclusion must an eminent man reside.
 As he was looking about, he suddenly heard the sound of a man speaking deep
 within the woods. Hurriedly he dashed into the forest and cocked his ear to listen. It was
 someone singing, and the song went thus:
-I watch chess games, my ax handle‟s rotted.
+I watch chess games, my ax handle's rotted.
 I chop at wood, zheng zheng the sound.
-I walk slowly by the cloud‟s fringe at the valley‟s entrance.
+I walk slowly by the cloud's fringe at the valley's entrance.
 Selling my firewood to buy some wine,
 I am happy and laugh without restraint.
-When the path is frosted in autumn‟s height,
+When the path is frosted in autumn's height,
 I face the moon, my pillow the pine root.
 Sleeping till dawn
 I find my familiar woods.
@@ -466,7 +443,7 @@ With nary the slightest bickering
 Over a price so modest.
 Plots and schemes I do not know;
 Without vainglory or attaint
-My life‟s prolonged in simplicity.
+My life's prolonged in simplicity.
 Those I meet,
 If not immortals, would be Daoists,
 Seated quietly to expound the Yellow Court.
@@ -487,7 +464,7 @@ With laces rolled from withered sedge.
 In his hands he held a fine steel ax;
 A sturdy rope coiled round and round his load.
 In breaking pines or chopping trees
-Where‟s the man to equal him?
+Where's the man to equal him?
 The Monkey King drew near and called out:
 “Reverend immortal! Your disciple raises his hands.”
 The woodcutter was so flustered that he dropped his ax as he turned to return the
@@ -497,7 +474,7 @@ The Monkey King said, “If you are not an immortal, how is it that you speak hi
 language?”
 The woodcutter asked, “What did I say that sounded like the language of an
 immortal?”
-The Monkey King explained, “When I came just now to the forest‟s edge, I
+The Monkey King explained, “When I came just now to the forest's edge, I
 heard you singing, „Those I meet, if not immortals, would be Daoists, seated quietly to
 expound the Yellow Court.‟ The Yellow Court contains the perfected words of the Way
 and Virtue. What can you be but an immortal?” Laughing, the woodcutter said, “I can
@@ -522,11 +499,11 @@ pints of rice. I cook that myself, serving it to my mother with the tea that I m
 why I can‟t practice austerities.”
 The Monkey King said, “According to what you have said, you are indeed a
 gentleman of filial piety, and you will certainly be rewarded in the future. I hope,
-however, that you will show me the way to the immortal‟s abode, so that I may
+however, that you will show me the way to the immortal's abode, so that I may
 reverently call upon him.”
 19
 19
-“It‟s not far,” the woodcutter said. “This mountain is called the Mountain of
+“It's not far,” the woodcutter said. “This mountain is called the Mountain of
 Mind and Heart, and in it is the Cave of Slanting Moon and Three Stars. Inside the cave
 is an immortal by the name of the Patriarch Subodhi, who has already sent out
 innumerable disciples. Even now there are thirty or forty persons who are practicing
@@ -584,7 +561,7 @@ A wide robe with two sleeves of wind.
 His body and face seemed most distinct,
 For visage and mind were both detached.
 Long a stranger to all worldly things
-He was the mountain‟s ageless boy.
+He was the mountain's ageless boy.
 Untainted even with a speck of dust,
 He feared no havoc by the seasons wrought.
 After coming through the door, the boy shouted, “Who is causing disturbance
@@ -615,7 +592,7 @@ Fully tried and enlightened was this grand priest.
 As soon as the Handsome Monkey King saw him, he prostrated himself and
 kowtowed times without number, saying, “Master! Master! I, your pupil, pay you my
 sincere homage.”
-The Patriarch said, “Where do you come from? Let‟s hear you state clearly your
+The Patriarch said, “Where do you come from? Let's hear you state clearly your
 name and country before you kowtow again.”
 The Monkey King said, “Your pupil came from the Water-Curtain Cave of the
 Flower- Fruit Mountain, in the Aolai Country of the East Pūrvavideha Continent.”
@@ -636,7 +613,7 @@ that pass.
 What is your surname (xing)?”
 The Monkey King again replied, “I have no temper (xing). If a man rebukes me,
 I am not offended; if he hits me, I am not angered. In fact, I simply repay him with a
-ceremonial greeting and that‟s all. My whole life‟s without ill temper.”
+ceremonial greeting and that's all. My whole life's without ill temper.”
 “I‟m not speaking of your temper,” the Patriarch said. “I‟m asking after the
 name of your parents.”
 “I have no parents either,” said the Monkey King. The Patriarch said, “If you
@@ -649,7 +626,7 @@ you walk.” Snapping erect, the Monkey King scurried around a couple of times. 
 Patriarch laughed and said, “Though your features are not the most attractive, you do
 resemble a pignolia-eating monkey (husun). This gives me the idea of taking a surname
 for you from your appearance. I intended to call you by the name Hu. If I drop the
-animal radical from this word, what‟s left is a compound made up of the two characters,
+animal radical from this word, what's left is a compound made up of the two characters,
 gu and yue. Gu means aged and yue means female, but an aged female cannot
 reproduce.
 Therefore, it is better to give you the surname of Sun. If I drop the animal radical
@@ -671,7 +648,7 @@ and awakening (jue). Your rank falls precisely on the word „wake-to‟ (wu). Y
 hence be given the religious name „Wake-to-the-Void‟ (wukong). All right?”
 “Splendid! Splendid!” said the Monkey King, laughing. “Henceforth I shall be
 called Sun Wukong.” So it was that,
-At nebula‟s parting he had no name.
+At nebula's parting he had no name.
 Smashing stubborn void needs Wake-to-the- Void.
 We do not know what fruit of Daoist cultivation he succeeded in attaining
-afterward; let‟s listen to the explanation in the next chapter.
+afterward; let's listen to the explanation in the next chapter.
