@@ -142,7 +142,7 @@ ocean."*
 They said also, *"If any of us had the ability to penetrate the curtain and find out
 where the water comes from without hurting himself, we would honor him as king."*
 They gave the call three times, when suddenly the stone monkey leaped out from
-the crowd. He answered the challenge with a loud voice, *"I‟ll go in! I‟ll go in!” What a
+the crowd. He answered the challenge with a loud voice, *"I‟ll go in! I‟ll go in!"* What a
 monkey! For
 Today his fame will spread wide.
 His fortune the time does provide.
@@ -150,37 +150,32 @@ His fortune the time does provide.
 12
 He's fated to live in this place,
 Sent by a king to god's palace.
-Look at him! He closed his eyes, crouched low, and with one leap he jumped
-straight through the waterfall. Opening his eyes at once and raising his head to look
-around, he saw that there was neither water nor waves inside, only a gleaming, shining
-bridge. He paused to collect himself and looked more carefully again: it was a bridge
-made of sheet iron. The water beneath it surged through a hole in the rock to reach the
-outside, filling in all the space under the arch. With bent body he climbed on the bridge,
-looking about as he walked, and discovered a beautiful place that seemed to be some
+Look at him! He closed his eyes, crouched low, and with one leap he jumped straight through the waterfall. Opening his eyes at once and raising his head to look around, he saw that there was neither water nor waves inside, only a gleaming, shining bridge. He paused to collect himself and looked more carefully again: it was a bridge made of sheet iron. The water beneath it surged through a hole in the rock to reach the
+outside, filling in all the space under the arch. With bent body he climbed on the bridge, looking about as he walked, and discovered a beautiful place that seemed to be some
 kind of residence. Then he saw
-Fresh mosses piling up indigo,
-White clouds like jade afloat,
-And luminous sheens of mist and smoke;
-Empty windows, quiet rooms,
-And carved flowers growing smoothly on benches;
-Stalactites suspended in milky caves;
-Rare blossoms voluminous over the ground.
-Pans and stoves near the wall show traces of fire;
-Bottles and cups on the table contain left overs.
-The stone seats and beds were truly lovable;
-The stone pots and bowls were more praiseworthy.
-There were, furthermore, a stalk or two of tall bamboos,
-And three or five sprigs of plum flowers.
-With a few green pines always draped in rain,
-This whole place indeed resembled a home.
-After staring at the place for a long time, he jumped across the middle of the
-bridge and looked left and right. There in the middle was a stone tablet on which was
-inscribed in regular, large letters:
-The Blessed Land of Flower- Fruit Mountain,
-The Cave Heaven of Water-Curtain Cave.
-Beside himself with delight, the stone monkey quickly turned around to go back
-out and, closing his eyes and crouching again, leaped out of the water. “A great stroke
-of luck,” he exclaimed with two loud guffaws, *"a great stroke of luck!”
+
+*Fresh mosses piling up indigo,<br>
+White clouds like jade afloat,<br>
+And luminous sheens of mist and smoke;<br>
+Empty windows, quiet rooms,<br>
+And carved flowers growing smoothly on benches;<br>
+Stalactites suspended in milky caves;<br>
+Rare blossoms voluminous over the ground.<br>
+Pans and stoves near the wall show traces of fire;<br>
+Bottles and cups on the table contain left overs.<br>
+The stone seats and beds were truly lovable;<br>
+The stone pots and bowls were more praiseworthy.<br>
+There were, furthermore, a stalk or two of tall bamboos,<br>
+And three or five sprigs of plum flowers.<br>
+With a few green pines always draped in rain,<br>
+This whole place indeed resembled a home.*
+
+After staring at the place for a long time, he jumped across the middle of the bridge and looked left and right. There in the middle was a stone tablet on which was inscribed in regular, large letters:
+
+***The Blessed Land of Flower- Fruit Mountain,<br>
+The Cave Heaven of Water-Curtain Cave.***
+
+Beside himself with delight, the stone monkey quickly turned around to go back out and, closing his eyes and crouching again, leaped out of the water. *"A great stroke of luck,"* he exclaimed with two loud guffaws, *"a great stroke of luck!”
 The other monkeys surrounded him and asked, *"How is it inside? How deep is
 the water?"*
 The stone monkey replied, *"There isn't any water at all. There's a sheet iron
@@ -207,8 +202,8 @@ The pines are evergreen:
 Rare flowers, daily new."*
 When the monkeys heard that, they were delighted, saying, *"You go in first and
 lead the way."*
-The stone monkey closed his eyes again, crouched low, and jumped inside. “All
-of you,” he cried, *"Follow me in! Follow me in!”
+The stone monkey closed his eyes again, crouched low, and jumped inside. *"All
+of you,"* he cried, *"Follow me in! Follow me in!”
 The braver of the monkeys leaped in at once, but the more timid ones stuck out
 their heads and then drew them back, scratched their ears, rubbed their jaws, and
 chattered noisily. After milling around for some time, they too bounded inside. Jumping
@@ -419,7 +414,7 @@ Where's the man to equal him?
 The Monkey King drew near and called out:
 “Reverend immortal! Your disciple raises his hands."*
 The woodcutter was so flustered that he dropped his ax as he turned to return the
-salutation. “Blasphemy! Blasphemy!” he said. “I, a foolish fellow with hardly enough
+salutation. *"Blasphemy! Blasphemy!"* he said. *"I, a foolish fellow with hardly enough
 clothes or food! How can I bear the title of immortal?"*
 The Monkey King said, *"If you are not an immortal, how is it that you speak his
 language?"*
@@ -454,7 +449,7 @@ however, that you will show me the way to the immortal's abode, so that I may
 reverently call upon him."*
 19
 19
-“It's not far,” the woodcutter said. “This mountain is called the Mountain of
+“It's not far,"* the woodcutter said. *"This mountain is called the Mountain of
 Mind and Heart, and in it is the Cave of Slanting Moon and Three Stars. Inside the cave
 is an immortal by the name of the Patriarch Subodhi, who has already sent out
 innumerable disciples. Even now there are thirty or forty persons who are practicing
@@ -462,10 +457,10 @@ austerities with him. Follow this narrow path and travel south for about seven o
 miles, and you will come to his home."*
 Grabbing the woodcutter, the Monkey King said, *"Honored brother, go with me.
 If I receive any benefit, I will not forget the favor of your guidance."*
-“What a boneheaded fellow you are!” the woodcutter said. “I have just finished
+“What a boneheaded fellow you are!"* the woodcutter said. *"I have just finished
 telling you these things, and you still don't understand. If I go with you, won't I be
 neglecting my livelihood? And who will take care of my mother? I must chop my
-firewood. You go on by yourself!” When the Monkey King heard this, he had to take
+firewood. You go on by yourself!"* When the Monkey King heard this, he had to take
 his leave. Emerging from the deep forest, he found the path and went past the slope of a
 hill. After he had traveled seven or eight miles, a cave dwelling indeed came into sight.
 He stood up straight to take a better look at this splendid place, and this was what he
@@ -502,104 +497,91 @@ Immensely pleased, the Handsome Monkey King exclaimed, *"People here are
 truly honest. This mountain and this cave really do exist!”
 20
 20
-He stared at the place for a long time but dared not knock. Instead, he jumped
-onto the branch of a pine tree, picked a few pine seeds and ate them, and began to play.
-After a moment he heard the door of the cave open with a squeak, and an
-immortal youth walked out. His bearing was exceedingly graceful; his features were
-highly refined. This was certainly no ordinary young mortal, for he had
-His hair bound with two cords of silk,
+
+
+
+
+
+
+
+
+
+
+
+
+He stared at the place for a long time but dared not knock. Instead, he jumped onto the branch of a pine tree, picked a few pine seeds and ate them, and began to play. After a moment he heard the door of the cave open with a squeak, and an immortal youth walked out. His bearing was exceedingly graceful; his features were highly refined. This was certainly no ordinary young mortal, for he had
+
+*His hair bound with two cords of silk,
 A wide robe with two sleeves of wind.
 His body and face seemed most distinct,
 For visage and mind were both detached.
 Long a stranger to all worldly things
 He was the mountain's ageless boy.
 Untainted even with a speck of dust,
-He feared no havoc by the seasons wrought.
-After coming through the door, the boy shouted, *"Who is causing disturbance
-here?"* With a bound the Monkey King leaped down from the tree, and went up to him
-bowing. “Immortal boy,” he said, *"I am a seeker of the way of immortality. I would
-never dare cause any disturbance."* With a chuckle, the immortal youth asked, *"Are you
-a seeker of the Way?"*
-“I am indeed,” answered the Monkey King. “My master at the house,” the boy
-said, *"has just left his couch to give a lecture on the platform. Before even announcing
-his theme, however, he told me to go out and open the door, saying, „There is someone
-outside who wants to practice austerities. You may go and receive him.‟ It must be you,
-I suppose."*
-The Monkey King said, smiling, *"It is I, most assuredly!”
-“Follow me in then,” said the boy. With solemnity the Monkey King set his
-clothes in order and followed the boy into the depths of the cave. They passed rows and
-rows of lofty towers and huge alcoves, of pearly chambers and carved arches. After
-walking through innumerable quiet chambers and empty studios, they finally reached
-the base of the green jade platform. Patriarch Subodhi was seen seated solemnly on the
+He feared no havoc by the seasons wrought.*
+
+After coming through the door, the boy shouted, *"Who is causing disturbance here?"* With a bound the Monkey King leaped down from the tree, and went up to him bowing. *"Immortal boy,"* he said, *"I am a seeker of the way of immortality. I would never dare cause any disturbance."*
+
+With a chuckle, the immortal youth asked, *"Are you a seeker of the Way?"*
+
+"*I am indeed,"* answered the Monkey King.
+
+*"My master at the house,"* the boy said, *"has just left his couch to give a lecture on the platform. Before even announcing his theme, however, he told me to go out and open the door, saying, "There is someone
+outside who wants to practice austerities. You may go and receive him." It must be you, I suppose."*
+
+The Monkey King said, smiling, *"It is I, most assuredly!"*
+
+*"Follow me in then,"* said the boy. With solemnity the Monkey King set his clothes in order and followed the boy into the depths of the cave. They passed rows and rows of lofty towers and huge alcoves, of pearly chambers and carved arches. After walking through innumerable quiet chambers and empty studios, they finally reached the base of the green jade platform. Patriarch Subodhi was seen seated solemnly on the
 platform, with thirty lesser immortals standing below in rows. He was truly
-An immortal of great ken and purest mien,
-Master Subodhi, whose wondrous form of the West
-Had no end or birth by work of the Double Three.
-His whole spirit and breath were with mercy filled.
-Empty, spontaneous, it could change at will,
-His Buddha-nature able to do all things.
-The same age as Heaven had his majestic frame.
-Fully tried and enlightened was this grand priest.
-As soon as the Handsome Monkey King saw him, he prostrated himself and
-kowtowed times without number, saying, *"Master! Master! I, your pupil, pay you my
-sincere homage."*
-The Patriarch said, *"Where do you come from? Let's hear you state clearly your
-name and country before you kowtow again."*
-The Monkey King said, *"Your pupil came from the Water-Curtain Cave of the
-Flower- Fruit Mountain, in the Aolai Country of the East Pūrvavideha Continent."*
-21
-21
-“Chase him out of here!” the Patriarch shouted. “He is nothing but a liar and a
-fabricator of falsehood. How can he possibly be interested in attaining enlightenment?"*
-The Monkey King hastened to kowtow unceasingly and to say, *"Your pupil‟s
-word is an honest one, without any deceit."*
-The Patriarch said, *"If you are telling the truth, how is it that you mention the
-East Pūrvavideha Continent? Separating that place and mine are two great oceans and
-the entire region of the South Jambūdvīpa Continent. How could you possibly get
-here?"*
-Again kowtowing, the Monkey King said, *"Your pupil drifted across the oceans
-and trudged through many regions for more than ten years before finding this place."*
-The Patriarch said, *"If you have come on a long journey in many stages, I‟ll let
-that pass.
-What is your surname (xing)?"*
-The Monkey King again replied, *"I have no temper (xing). If a man rebukes me,
-I am not offended; if he hits me, I am not angered. In fact, I simply repay him with a
-ceremonial greeting and that's all. My whole life's without ill temper."*
-“I‟m not speaking of your temper,” the Patriarch said. “I‟m asking after the
-name of your parents."*
-“I have no parents either,” said the Monkey King. The Patriarch said, *"If you
-have no parents, you must have been born from a tree."*
-“Not from a tree,” said the Monkey King, *"but from a rock. I recall that there
-used to be an immortal stone on the Flower-Fruit Mountain. I was born the year the
-stone split open."* When the Patriarch heard this, he was secretly pleased, and said,
-“Well, evidently you have been created by Heaven and Earth. Get up and show me how
-you walk."* Snapping erect, the Monkey King scurried around a couple of times. The
-Patriarch laughed and said, *"Though your features are not the most attractive, you do
-resemble a pignolia-eating monkey (husun). This gives me the idea of taking a surname
-for you from your appearance. I intended to call you by the name Hu. If I drop the
-animal radical from this word, what's left is a compound made up of the two characters,
-gu and yue. Gu means aged and yue means female, but an aged female cannot
-reproduce.
-Therefore, it is better to give you the surname of Sun. If I drop the animal radical
-from this word, what we have left is the compound of zi and xi. Zi means a boy and xi
-means a baby, and that name exactly accords with the fundamental Doctrine of the Baby
-Boy. So your surname will be „Sun.‟” When the Monkey King heard this, he was filled
-with delight. “Splendid! Splendid!” he cried, kowtowing, *"At last I know my surname.
-May the master be even more gracious! Since I have received the surname, let me be
-given also a personal name, so that it may facilitate your calling and commanding me."*
-The Patriarch said, *"Within my tradition are twelve characters that have been
-used to name the pupils according to their divisions. You are one who belongs to the
-tenth generation."*
-“Which twelve characters are they?"* asked the Monkey King. The Patriarch
-replied, *"They are: wide (guang), great (da), wise (zhi), intelligence (hui), true (zhen),
-conforming (ru), nature (xing), sea (hai), sharp (ying), wake- to (wu), complete (yuan),
-22
-22
-and awakening (jue). Your rank falls precisely on the word „wake-to‟ (wu). You will
-hence be given the religious name „Wake-to-the-Void‟ (wukong). All right?"*
-“Splendid! Splendid!” said the Monkey King, laughing. “Henceforth I shall be
-called Sun Wukong."* So it was that,
-At nebula's parting he had no name.
-Smashing stubborn void needs Wake-to-the- Void.
-We do not know what fruit of Daoist cultivation he succeeded in attaining
-afterward; let's listen to the explanation in the next chapter.
+
+*An immortal of great ken and purest mien,<br>
+Master Subodhi, whose wondrous form of the West<br>
+Had no end or birth by work of the Double Three.<br>
+His whole spirit and breath were with mercy filled.<br>
+Empty, spontaneous, it could change at will,<br>
+His Buddha-nature able to do all things.<br>
+The same age as Heaven had his majestic frame.<br>
+Fully tried and enlightened was this grand priest.*
+
+As soon as the Handsome Monkey King saw him, he prostrated himself and kowtowed times without number, saying, *"Master! Master! I, your pupil, pay you my sincere homage."*
+
+The Patriarch said, *"Where do you come from? Let's hear you state clearly your name and country before you kowtow again."*
+
+The Monkey King said, *"Your pupil came from the Water-Curtain Cave of the Flower- Fruit Mountain, in the Aolai Country of the East Pūrvavideha Continent."*
+
+*"Chase him out of here!"* the Patriarch shouted. *"He is nothing but a liar and a fabricator of falsehood. How can he possibly be interested in attaining enlightenment?"*
+
+The Monkey King hastened to kowtow unceasingly and to say, *"Your pupil's word is an honest one, without any deceit."*
+
+The Patriarch said, *"If you are telling the truth, how is it that you mention the East Pūrvavideha Continent? Separating that place and mine are two great oceans and the entire region of the South Jambūdvīpa Continent. How could you possibly get here?"*
+
+Again kowtowing, the Monkey King said, *"Your pupil drifted across the oceans and trudged through many regions for more than ten years before finding this place."*
+
+The Patriarch said, *"If you have come on a long journey in many stages, I'll let that pass. What is your surname (xing)?"*
+
+The Monkey King again replied, *"I have no temper (xing). If a man rebukes me, I am not offended; if he hits me, I am not angered. In fact, I simply repay him with a ceremonial greeting and that's all. My whole life's without ill temper."*
+
+*"I'm not speaking of your temper,"* the Patriarch said. *"I'm asking after the name of your parents."*
+
+*"I have no parents either,"* said the Monkey King. The Patriarch said, *"If you have no parents, you must have been born from a tree."*
+
+*"Not from a tree,"* said the Monkey King, *"but from a rock. I recall that there used to be an immortal stone on the Flower-Fruit Mountain. I was born the year the stone split open."*
+
+When the Patriarch heard this, he was secretly pleased, and said, *"Well, evidently you have been created by Heaven and Earth. Get up and show me how you walk."*
+
+Snapping erect, the Monkey King scurried around a couple of times. The Patriarch laughed and said, *"Though your features are not the most attractive, you do resemble a pignolia-eating monkey (husun). This gives me the idea of taking a surname for you from your appearance. I intended to call you by the name Hu. If I drop the animal radical from this word, what's left is a compound made up of the two characters, gu and yue. Gu means aged and yue means female, but an aged female cannot reproduce. Therefore, it is better to give you the surname of Sun. If I drop the animal radical from this word, what we have left is the compound of zi and xi. Zi means a boy and xi means a baby, and that name exactly accords with the fundamental Doctrine of the Baby Boy. So your surname will be "Sun"."*
+
+When the Monkey King heard this, he was filled with delight. *"Splendid! Splendid!"* he cried, kowtowing, *"At last I know my surname. May the master be even more gracious! Since I have received the surname, let me be given also a personal name, so that it may facilitate your calling and commanding me."*
+
+The Patriarch said, *"Within my tradition are twelve characters that have been used to name the pupils according to their divisions. You are one who belongs to the tenth generation."*
+
+*"Which twelve characters are they?"* asked the Monkey King.
+
+The Patriarch replied, *"They are: wide (guang), great (da), wise (zhi), intelligence (hui), true (zhen), conforming (ru), nature (xing), sea (hai), sharp (ying), wake-to (wu), complete (yuan), and awakening (jue). Your rank falls precisely on the word "wake-to" (wu). You will hence be given the religious name "Wake-to-the-Void" (wukong). All right?"*
+
+*"Splendid! Splendid!"* said the Monkey King, laughing. *"Henceforth I shall be called Sun Wukong."* So it was that,
+
+*At nebula's parting he had no name.<br>
+Smashing stubborn void needs Wake-to-the- Void.*
+
+We do not know what fruit of Daoist cultivation he succeeded in attaining afterward; let's listen to the explanation in the next chapter.
