@@ -178,20 +178,17 @@ The Cave Heaven of Water-Curtain Cave.***
 Beside himself with delight, the stone monkey quickly turned around to go back out and, closing his eyes and crouching again, leaped out of the water. *"A great stroke of luck,"* he exclaimed with two loud guffaws, *"a great stroke of luck!”
 The other monkeys surrounded him and asked, *"How is it inside? How deep is
 the water?"*
-The stone monkey replied, *"There isn't any water at all. There's a sheet iron
-bridge, and beyond it is a piece of Heaven-sent property."*
+The stone monkey replied, "There isn't any water at all. There's a sheet iron bridge, and beyond it is a piece of Heaven-sent property."
+
 “What do you mean that there's property in there?"* asked the monkeys.
-Laughing, the stone monkey said, *"This water splashes through a hole in the
-rock and fills the space under the bridge. Beside the bridge there is a stone mansion with
-trees and flowers. Inside are stone ovens and stoves, stone pots and pans, stone beds and
-benches. A stone tablet in the middle has the inscription,
-The Blessed Land of the Flower- Fruit Mountain,
+
+Laughing, the stone monkey said, "This water splashes through a hole in the rock and fills the space under the bridge. Beside the bridge, there is a stone mansion with trees and flowers. Inside are stone ovens and stoves, stone pots and pans, stone beds and benches. A stone tablet in the middle has the inscription,
+
+The Blessed Land of the Flower-Fruit Mountain,
 The Cave Heaven of the Water-Curtain Cave.
-13
-13
-This is truly the place for us to settle in. It is, moreover, very spacious inside and
-can hold thousands of the young and old. Let's all go live in there, and spare ourselves
-from being subject to the whims of Heaven. For we have in there
+
+This is truly the place for us to settle in. It is, moreover, very spacious inside and can hold thousands of the young and old. Let's all go live in there, and spare ourselves from being subject to the whims of Heaven. For we have in there:
+
 A retreat from the wind,
 A shelter from the rain.
 You fear no frost or snow;
@@ -199,41 +196,31 @@ You hear no thunderclap.
 Mist and smoke are brightened,
 Warmed by a holy light—
 The pines are evergreen:
-Rare flowers, daily new."*
-When the monkeys heard that, they were delighted, saying, *"You go in first and
-lead the way."*
-The stone monkey closed his eyes again, crouched low, and jumped inside. *"All
-of you,"* he cried, *"Follow me in! Follow me in!”
-The braver of the monkeys leaped in at once, but the more timid ones stuck out
-their heads and then drew them back, scratched their ears, rubbed their jaws, and
-chattered noisily. After milling around for some time, they too bounded inside. Jumping
-across the bridge, they were all soon snatching dishes, clutching bowls, or fighting for
-stoves and beds—shoving and pushing things hither and thither. Befitting their
-stubbornly prankish nature, the monkeys could not keep still for a moment and stopped
-only when they were utterly exhausted.
+Rare flowers, daily new."
+
+When the monkeys heard that, they were delighted, saying, "You go in first and lead the way."
+
+The stone monkey closed his eyes again, crouched low, and jumped inside. "All of you," he cried, "Follow me in! Follow me in!”
+
+The braver of the monkeys leaped in at once, but the more timid ones stuck out their heads and then drew them back, scratched their ears, rubbed their jaws, and chattered noisily. After milling around for some time, they too bounded inside. Jumping across the bridge, they were all soon snatching dishes, clutching bowls, or fighting for stoves and beds—shoving and pushing things hither and thither. Befitting their stubbornly prankish nature, the monkeys could not keep still for a moment and stopped only when they were utterly exhausted.
+
 The stone monkey then solemnly took a seat above and spoke to them:
-“Gentlemen! „If a man lacks trustworthiness, it is difficult to know what he can
-accomplish!‟ You yourselves promised just now that whoever could get in here and
-leave again without hurting himself would be honored as king. Now that I have come in
-and gone out, gone out and come in, and have found for all of you this Heavenly grotto
-in which you may reside securely and enjoy the privilege of raising a family, why don‟t
-you honor me as your king?"*
-When the monkeys heard this, they all folded their hands on their breasts and
-obediently prostrated themselves. Each one of them then lined up according to rank and
-age, and, bowing reverently, they intoned, *"Long live our great king!”
-From that moment, the stone monkey ascended the throne of kingship. He did
-away with the word “stone” in his name and assumed the title, Handsome Monkey
-King. There is a testimonial poem that says:
+“Gentlemen! ‘If a man lacks trustworthiness, it is difficult to know what he can accomplish!’ You yourselves promised just now that whoever could get in here and leave again without hurting himself would be honored as king. Now that I have come in and gone out, gone out and come in, and have found for all of you this Heavenly grotto in which you may reside securely and enjoy the privilege of raising a family, why don’t you honor me as your king?"*
+
+When the monkeys heard this, they all folded their hands on their breasts and obediently prostrated themselves. Each one of them then lined up according to rank and age, and, bowing reverently, they intoned, "Long live our great king!”
+
+From that moment, the stone monkey ascended the throne of kingship. He did away with the word “stone” in his name and assumed the title, Handsome Monkey King. There is a testimonial poem that says:
+
 Triple spring mated to beget all things.
 A divine stone quickened by the sun and moon
 Changed from egg to ape to reach the Great Way.
-Loanname and surname matched elixir made.
+Loan name and surname matched elixir made.
 Formless inside he yields no image known;
 His outward guise coheres in action shown.
 In every age all persons will yield to him:
 Hailed a king, a sage, he is free to roam.
-The Handsome Monkey King thus led a flock of gibbons and baboons, some of
-whom were appointed by him as his officers and ministers. They toured the FlowerFruit Mountain in the morning, and they lived in the Water-Curtain Cave by night.
+
+The Handsome Monkey King thus led a flock of gibbons and baboons, some of whom were appointed by him as his officers and ministers. They toured the FlowerFruit Mountain in the morning, and they lived in the Water-Curtain Cave by night.
 
 Living in concord and sympathy, they did not mingle with bird or beast but enjoyed their independence in perfect happiness. For such were their activities:
 
@@ -307,101 +294,77 @@ The monkeys honored the Monkey King with the seat at the head of the table, whil
 and present the Monkey King with wine, flowers, and fruits. The next day the Monkey King rose early and gave the instruction, *"Little ones, cut me some pinewood and make me a raft. Then find me a bamboo for the pole, and gather some fruits and the like. I'm about to leave."*
 
 When all was ready, he got onto the raft by himself. Pushing off with all his might, he drifted out toward the great ocean and, taking advantage of the wind, set sail for the border of South Jambūdvīpa Continent. Here is the consequence of this journey:
-The Heaven-born monkey, strong in magic might,
+
+*The Heaven-born monkey, strong in magic might,
 He left the mount and rode the raft to catch fair wind:
 He drifted across the sea to seek immortals‟ way,
 Determined in heart and mind to achieve great things.
 It's his lot, his portion, to quit earthly zeals:
 Calm and carefree, he‟ll face a lofty sage.
 He‟d meet, I think, a true, discerning friend:
-The source disclosed, all dharma will be known.
-It was indeed his fortune that, after he boarded the wooden raft, a strong
-southeast wind (which lasted for days) sent him to the northwestern coast, the border of
-the South Jambūdvīpa Continent. He took the pole to test the water, and, finding it
-shallow one day, he abandoned the raft and jumped ashore. On the beach there were
-people fishing, hunting wild geese, digging clams, and draining salt.
-He approached them and, making a weird face and some strange antics, he
-scared them into dropping their baskets and nets and scattering in all directions. One of
-them could not run and was caught by the Monkey King, who stripped him of his
-clothes and put them on himself, aping the way humans wore them. With a swagger he
-walked through counties and prefectures, imitating human speech and human manners
-in the marketplaces. He rested by night and dined in the morning, but he was bent on
-finding the way of the Buddhas, immortals, and holy sages, on discovering the formula
-for eternal youth. He saw, however, that the people of the world were all seekers after
-profit and fame; there was not one who showed concern for his appointed end. This is
-their condition:
-When will end this quest for fortune and fame,
-This tyrant of early rising and retiring late?
-Riding on mules they long for noble steeds;
-By now prime ministers, they hope to be kings.
-For food and raiment they suffer stress and strain,
-Never fearing Yama's call to reckoning.
-Seeking wealth and power to give to sons of sons,
-There's not one ever willing to turn back.
-The Monkey King searched diligently for the way of immortality, but he had no
-chance of meeting it. Going through big cities and visiting small towns, he unwittingly
-spent eight or nine years on the South Jambūdvīpa Continent before he suddenly came
-upon the Great Western Ocean. He thought that there would certainly be immortals
-living beyond the ocean; so, having built himself a raft like the previous one, he once
-again drifted across the Western Ocean until he reached the West Aparagodānīya
-Continent. After landing, he searched for a long time, when all at once he came upon a
-tall and beautiful mountain with thick forests at its base. Since he was afraid neither of
-wolves and lizards nor of tigers and leopards, he went straight to the top to look around.
-It was indeed a magnificent mountain:
-A thousand peaks stand like rows of spears,
-Like ten thousand cubits of screen widespread.
-The sun's beams lightly enclose the azure mist;
-17
-17
-In darkening rain, the mount's color turns cool and green.
-Dry creepers entwine old trees;
-Ancient fords edge secluded paths.
-Rare flowers and luxuriant grass.
-Tall bamboos and lofty pines.
-Tall bamboos and lofty pines
-For ten thousand years grow green in this blessed land.
-Rare flowers and luxuriant grass
-In all seasons bloom as in the Isles of the Blest.
-The calls of birds hidden are near.
-The sounds of streams rushing are clear.
-Deep inside deep canyons the orchids interweave.
-On every ridge and crag sprout lichens and mosses.
-Rising and falling, the ranges show a fine dragon's pulse.
-Here in reclusion must an eminent man reside.
-As he was looking about, he suddenly heard the sound of a man speaking deep
-within the woods. Hurriedly he dashed into the forest and cocked his ear to listen. It was
-someone singing, and the song went thus:
-I watch chess games, my ax handle's rotted.
-I chop at wood, zheng zheng the sound.
-I walk slowly by the cloud's fringe at the valley's entrance.
-Selling my firewood to buy some wine,
-I am happy and laugh without restraint.
-When the path is frosted in autumn's height,
-I face the moon, my pillow the pine root.
-Sleeping till dawn
-I find my familiar woods.
-I climb the plateaus and scale the peaks
-To cut dry creepers with my ax.
-When I gather enough to make a load,
-I stroll singing through the marketplace
-And trade it for three pints of rice,
-With nary the slightest bickering
-Over a price so modest.
-Plots and schemes I do not know;
-Without vainglory or attaint
-My life's prolonged in simplicity.
-Those I meet,
-If not immortals, would be Daoists,
-Seated quietly to expound the Yellow Court.
-When the Handsome Monkey King heard this, he was filled with delight, saying,
-“So the immortals are hiding in this place."*
-He leaped at once into the forest. Looking again carefully, he found a
-woodcutter chopping firewood with his ax. The man he saw was very strangely attired.
-On his head he wore a wide splint hat
-Of seed-leaves freshly cast from new bamboos.
-On his body he wore a cloth garment
-18
-18
+The source disclosed, all dharma will be known.*
+
+It was indeed his fortune that, after he boarded the wooden raft, a strong southeast wind (which lasted for days) sent him to the northwestern coast, the border of the South Jambūdvīpa Continent. He took the pole to test the water and, finding it shallow one day, he abandoned the raft and jumped ashore. On the beach, there were people fishing, hunting wild geese, digging clams, and draining salt.
+
+He approached them and, making a weird face and some strange antics, he scared them into dropping their baskets and nets and scattering in all directions. One of them could not run and was caught by the Monkey King, who stripped him of his clothes and put them on himself, aping the way humans wore them. With a swagger, he walked through counties and prefectures, imitating human speech and human manners in the marketplaces. He rested by night and dined in the morning, but he was bent on finding the way of the Buddhas, immortals, and holy sages, on discovering the formula for eternal youth. He saw, however, that the people of the world were all seekers after profit and fame; there was not one who showed concern for his appointed end. This is their condition:
+
+> When will end this quest for fortune and fame,  
+> This tyrant of early rising and retiring late?  
+> Riding on mules they long for noble steeds;  
+> By now prime ministers, they hope to be kings.  
+> For food and raiment they suffer stress and strain,  
+> Never fearing Yama's call to reckoning.  
+> Seeking wealth and power to give to sons of sons,  
+> There's not one ever willing to turn back.
+
+The Monkey King searched diligently for the way of immortality, but he had no chance of meeting it. Going through big cities and visiting small towns, he unwittingly spent eight or nine years on the South Jambūdvīpa Continent before he suddenly came upon the Great Western Ocean. He thought that there would certainly be immortals living beyond the ocean; so, having built himself a raft like the previous one, he once again drifted across the Western Ocean until he reached the West Aparagodānīya Continent. After landing, he searched for a long time, when all at once he came upon a tall and beautiful mountain with thick forests at its base. Since he was afraid neither of wolves and lizards nor of tigers and leopards, he went straight to the top to look around. It was indeed a magnificent mountain:
+
+> A thousand peaks stand like rows of spears,  
+> Like ten thousand cubits of screen widespread.  
+> The sun's beams lightly enclose the azure mist;  
+> In darkening rain, the mount's color turns cool and green.  
+> Dry creepers entwine old trees;  
+> Ancient fords edge secluded paths.  
+> Rare flowers and luxuriant grass.  
+> Tall bamboos and lofty pines.  
+> Tall bamboos and lofty pines  
+> For ten thousand years grow green in this blessed land.  
+> Rare flowers and luxuriant grass  
+> In all seasons bloom as in the Isles of the Blest.  
+> The calls of birds hidden are near.  
+> The sounds of streams rushing are clear.  
+> Deep inside deep canyons the orchids interweave.  
+> On every ridge and crag sprout lichens and mosses.  
+> Rising and falling, the ranges show a fine dragon's pulse.  
+> Here in reclusion must an eminent man reside.
+
+As he was looking about, he suddenly heard the sound of a man speaking deep within the woods. Hurriedly he dashed into the forest and cocked his ear to listen. It was someone singing, and the song went thus:
+
+> I watch chess games, my ax handle's rotted.  
+> I chop at wood, zheng zheng the sound.  
+> I walk slowly by the cloud's fringe at the valley's entrance.  
+> Selling my firewood to buy some wine,  
+> I am happy and laugh without restraint.  
+> When the path is frosted in autumn's height,  
+> I face the moon, my pillow the pine root.  
+> Sleeping till dawn  
+> I find my familiar woods.  
+> I climb the plateaus and scale the peaks  
+> To cut dry creepers with my ax.  
+> When I gather enough to make a load,  
+> I stroll singing through the marketplace  
+> And trade it for three pints of rice,  
+> With nary the slightest bickering  
+> Over a price so modest.  
+> Plots and schemes I do not know;  
+> Without vainglory or attaint  
+> My life's prolonged in simplicity.  
+> Those I meet,  
+> If not immortals, would be Daoists,  
+> Seated quietly to expound the Yellow Court.
+
+When the Handsome Monkey King heard this, he was filled with delight, saying, *“So the immortals are hiding in this place."* He leaped at once into the forest. Looking again carefully, he found a woodcutter chopping firewood with his ax. The man he saw was very strangely attired. On his head, he wore a wide splint hat of seed-leaves freshly cast from new bamboos. On his body, he wore a cloth garment...
+
 Of gauze woven from the native cotton.
 Around his waist he tied a winding sash
 Of silk spun from an old silkworm.
@@ -411,60 +374,32 @@ In his hands he held a fine steel ax;
 A sturdy rope coiled round and round his load.
 In breaking pines or chopping trees
 Where's the man to equal him?
-The Monkey King drew near and called out:
-“Reverend immortal! Your disciple raises his hands."*
-The woodcutter was so flustered that he dropped his ax as he turned to return the
-salutation. *"Blasphemy! Blasphemy!"* he said. *"I, a foolish fellow with hardly enough
-clothes or food! How can I bear the title of immortal?"*
-The Monkey King said, *"If you are not an immortal, how is it that you speak his
-language?"*
-The woodcutter asked, *"What did I say that sounded like the language of an
-immortal?"*
-The Monkey King explained, *"When I came just now to the forest's edge, I
-heard you singing, „Those I meet, if not immortals, would be Daoists, seated quietly to
-expound the Yellow Court.‟ The Yellow Court contains the perfected words of the Way
-and Virtue. What can you be but an immortal?"* Laughing, the woodcutter said, *"I can
-tell you this much: the tune of that lyric is named „A Court Full of Blossoms,‟ and it
-was taught to me by an immortal, a neighbor of mine. He saw that I had to struggle to
-make a living and that my days were full of worries, so he told me to recite the poem
-whenever I was troubled. This, he said, would both comfort me and rid me of my
-difficulties. It happened that I was anxious about something just now, so I sang the
-song. It didn't occur to me that I would be overheard."*
-The Monkey King said, *"If you are a neighbor of the immortal, why don't you
-follow him in the cultivation of the Way? Wouldn't it be nice to learn from him the
-formula for eternal youth?"*
-The woodcutter replied, *"My lot has been a hard one all my life. When I was
-young, I was indebted to my parents‟ nurture until I was eight or nine. As soon as I
-began to have some understanding of human affairs, my father unfortunately died, and
-my mother remained a widow. I had no brothers or sisters, so there was no alternative
-but for me alone to support and care for my mother. Now that my mother is growing
-old, all the more I dare not leave her. Moreover, my fields are rather barren and
-desolate, and we haven't enough food or clothing. I can't do more than chop two
-bundles of firewood to take to the market in exchange for a few pennies to buy a few
-pints of rice. I cook that myself, serving it to my mother with the tea that I make. That‟s
-why I can't practice austerities."*
-The Monkey King said, *"According to what you have said, you are indeed a
-gentleman of filial piety, and you will certainly be rewarded in the future. I hope,
-however, that you will show me the way to the immortal's abode, so that I may
-reverently call upon him."*
-19
-19
-“It's not far,"* the woodcutter said. *"This mountain is called the Mountain of
-Mind and Heart, and in it is the Cave of Slanting Moon and Three Stars. Inside the cave
-is an immortal by the name of the Patriarch Subodhi, who has already sent out
-innumerable disciples. Even now there are thirty or forty persons who are practicing
-austerities with him. Follow this narrow path and travel south for about seven or eight
-miles, and you will come to his home."*
-Grabbing the woodcutter, the Monkey King said, *"Honored brother, go with me.
-If I receive any benefit, I will not forget the favor of your guidance."*
-“What a boneheaded fellow you are!"* the woodcutter said. *"I have just finished
-telling you these things, and you still don't understand. If I go with you, won't I be
-neglecting my livelihood? And who will take care of my mother? I must chop my
-firewood. You go on by yourself!"* When the Monkey King heard this, he had to take
-his leave. Emerging from the deep forest, he found the path and went past the slope of a
-hill. After he had traveled seven or eight miles, a cave dwelling indeed came into sight.
-He stood up straight to take a better look at this splendid place, and this was what he
-saw:
+
+The Monkey King drew near and called out:  
+“Reverend immortal! Your disciple raises his hands."*  
+
+The woodcutter was so flustered that he dropped his ax as he turned to return the salutation. *"Blasphemy! Blasphemy!"* he said. *"I, a foolish fellow with hardly enough clothes or food! How can I bear the title of immortal?"*  
+
+The Monkey King said, *"If you are not an immortal, how is it that you speak his language?"*  
+
+The woodcutter asked, *"What did I say that sounded like the language of an immortal?"*  
+
+The Monkey King explained, *"When I came just now to the forest's edge, I heard you singing, ‘Those I meet, if not immortals, would be Daoists, seated quietly to expound the Yellow Court.’ The Yellow Court contains the perfected words of the Way and Virtue. What can you be but an immortal?"* Laughing, the woodcutter said, *"I can tell you this much: the tune of that lyric is named ‘A Court Full of Blossoms,’ and it was taught to me by an immortal, a neighbor of mine. He saw that I had to struggle to make a living and that my days were full of worries, so he told me to recite the poem whenever I was troubled. This, he said, would both comfort me and rid me of my difficulties. It happened that I was anxious about something just now, so I sang the song. It didn't occur to me that I would be overheard."*  
+
+The Monkey King said, *"If you are a neighbor of the immortal, why don't you follow him in the cultivation of the Way? Wouldn't it be nice to learn from him the formula for eternal youth?"*  
+
+The woodcutter replied, *"My lot has been a hard one all my life. When I was young, I was indebted to my parents’ nurture until I was eight or nine. As soon as I began to have some understanding of human affairs, my father unfortunately died, and my mother remained a widow. I had no brothers or sisters, so there was no alternative but for me alone to support and care for my mother. Now that my mother is growing old, all the more I dare not leave her. Moreover, my fields are rather barren and desolate, and we haven't enough food or clothing. I can't do more than chop two bundles of firewood to take to the market in exchange for a few pennies to buy a few pints of rice. I cook that myself, serving it to my mother with the tea that I make. That’s why I can't practice austerities."*  
+
+The Monkey King said, *"According to what you have said, you are indeed a gentleman of filial piety, and you will certainly be rewarded in the future. I hope, however, that you will show me the way to the immortal's abode, so that I may reverently call upon him."*  
+
+“It's not far,"* the woodcutter said. *"This mountain is called the Mountain of Mind and Heart, and in it is the Cave of Slanting Moon and Three Stars. Inside the cave is an immortal by the name of the Patriarch Subodhi, who has already sent out innumerable disciples. Even now there are thirty or forty persons who are practicing austerities with him. Follow this narrow path and travel south for about seven or eight miles, and you will come to his home."*  
+
+Grabbing the woodcutter, the Monkey King said, *"Honored brother, go with me. If I receive any benefit, I will not forget the favor of your guidance."*  
+
+“What a boneheaded fellow you are!"* the woodcutter said. *"I have just finished telling you these things, and you still don't understand. If I go with you, won't I be neglecting my livelihood? And who will take care of my mother? I must chop my firewood. You go on by yourself!"* 
+
+When the Monkey King heard this, he had to take his leave. Emerging from the deep forest, he found the path and went past the slope of a hill. After he had traveled seven or eight miles, a cave dwelling indeed came into sight. He stood up straight to take a better look at this splendid place, and this was what he saw:
+
 Mist and smoke in diffusive brilliance,
 Flashing lights from the sun and moon,
 A thousand stalks of old cypress,
