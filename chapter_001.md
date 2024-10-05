@@ -520,3 +520,111 @@ The Patriarch replied, *"They are: wide (guang), great (da), wise (zhi), intelli
 Smashing stubborn void needs Wake-to-the- Void.*
 
 We do not know what fruit of Daoist cultivation he succeeded in attaining afterward; let's listen to the explanation in the next chapter.
+
+# Vobs
+The divine root: thần căn
+
+conceive (v): thụ thai
+
+era chaos: thuở hỗn mang
+
+era : thuở, thời kỳ.
+
+murkiness: sự tối tăm, âm u
+
+Pan Gu: bàn cổ
+
+nebula: tinh vân
+
+dense (n): sự dài đặc
+
+enfold: bao gọc, ôm lại
+
+supreme: tối cao
+
+cyclic <adj>: theo chu kỳ
+
+period: thời kỳ
+
+epoch: kỷ nguyên
+
+firmament: tầng trời
+
+yin/yang: âm/dương
+
+august: duy nghiêm danh giá, sự tôn trọng lớn
+
+nourish: nuôi dưỡng
+
+split: nứt ra, tách ra.
+
+limbs: tay chân
+
+glimmer: tia sáng lấp lánh
+
+intently: một cách chăm chú
+
+presently: lập tức
+
+compassionate (adj): từ bi
+
+mercy: lòng thương xót
+
+brook: dòng suối nhỏ
+
+befriended: kết bạn
+
+gibbon: vượn
+
+baboon: khỉ đầu chó
+
+kin: họ hàng
+
+
+
+
+
+insociant: vô tư, không lo nghĩ
+
+shed tears: rơi nước mắt
+
+distressed: đau khổ
+
+contenment: sự hài lòng
+
+be subject to : chịu sự chi phối của
+
+unicorn: kỳ lân
+
+govern (v): quản lý, cai trị
+
+decay: phân rã
+
+disclose: tiết lộ
+
+in vain: vô ích
+
+dwell: trú ngụ
+
+acclamation: sự tung hô
+
+scour: lùng sục
+
+plenty: nhiều
+
+duly: đúng như thỏa thuận
+
+raft: cái bè
+somebody features: nét mặt của ai đó
+
+bound: nhảy
+
+couch: ghế dài, ghế đi văng
+
+Patriarch Subodhi: bồ đề tổ sư
+
+
+chase out: đuổi đi, chase: đuổi theo
+
+pupil: đệ tử
+
