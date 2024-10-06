@@ -163,8 +163,7 @@ The proper lord of the court sees the babies.
 Mind Monkey, guarding his master, knows a monster.
 82. At Sea-Pacifying Monastery Mind Monkey knows the fiend;
 In the black pine forest three pupils search for their master.
-83. The fair girl seeks the yang;
-Primal spirit guards the Way.
+83. [The fair girl seeks the yang; <br> Primal spirit guards the Way.](chapter_083.md)
 84. Mind Monkey knows the elixir source;
 Fair girl returns to her true nature.
 85. “Priests are hard to destroy” completes great awakening;
