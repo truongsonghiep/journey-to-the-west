@@ -89,25 +89,13 @@ Dear Great Sage! He turned and leaped into the cave; not undergoing transformati
 
 Look at him! He stopped the cloudy luminosity after he reached the residence of the monster-spirit, where he found the towered gates were all shut. Without regard for good or ill, he broke through with one blow of his rod and barged in. It was completely quiet and not a trace of the inhabitants could be found. The Tang Monk was no longer seen by the east corridor; the furniture in the pavilion and the various utensils had all disappeared.
 
-There were, you see, some three hundred miles of living space inside the cave, and the monster-spirit had many residences. When she had brought the Tang Monk to
-this particular spot the time before, Pilgrim had found them. Now that she had abducted
-the Tang Monk again, she feared that Pilgrim would return to the same place, and so she
-immediately moved somewhere else. Our Pilgrim was so exasperated that he pounded
-his chest and stamped his feet, crying, *"O Master! You are a misfortune-begotten
-Tripitaka Tang, a scripture monk forged by calamity! Alas! This road is familiar enough
-to me. Why aren't you here? Where should old Monkey look for you?"*
-As he was shouting like this in great annoyance, his nose suddenly caught a
-whiff of scented breeze. Calming down all at once, he said to himself, *"This incense
-drifted out from the rear. They must be back there."*
-1093
-1093
-Gripping the iron rod, he strode in but found no movement whatever—only
-three small chambers. At the back of one of these chambers was a lacquered sacrificial
-table with openmouthed dragons carved on both sides. On the table was a huge incense
-urn of melted gold from which fragrant incense smoke curled upward. Above the urn
-was hung a large plaque with the following inscription in gold letters:
-The Tablet of Honored Father, Devarāja Li. Slightly below it to one side was
-another inscription:
+There were, you see, some three hundred miles of living space inside the cave, and the monster-spirit had many residences. When she had brought the Tang Monk to this particular spot the time before, Pilgrim had found them. Now that she had abducted the Tang Monk again, she feared that Pilgrim would return to the same place, and so she immediately moved somewhere else.
+
+Our Pilgrim was so exasperated that he pounded his chest and stamped his feet, crying, *"O Master! You are a misfortune-begotten Tripitaka Tang, a scripture monk forged by calamity! Alas! This road is familiar enough
+to me. Why aren't you here? Where should old Monkey look for you?"* As he was shouting like this in great annoyance, his nose suddenly caught a whiff of scented breeze. Calming down all at once, he said to himself, *"This incense drifted out from the rear. They must be back there."*
+
+Gripping the iron rod, he strode in but found no movement whatever—only three small chambers. At the back of one of these chambers was a lacquered sacrificial table with openmouthed dragons carved on both sides. On the table was a huge incense urn of melted gold from which fragrant incense smoke curled upward. Above the urn was hung a large plaque with the following inscription in gold letters:
+The Tablet of Honored Father, Devarāja Li. Slightly below it to one side was another inscription:
 The Tablet of Honored Brother Naṭa, the Third Prince. Filled with delight by
 what he saw, Pilgrim immediately abandoned his search for the fiend or the Tang Monk.
 He gave his iron rod a squeeze to change it back into an embroidery needle, which he
@@ -125,17 +113,13 @@ known to it?"*
 Sha Monk approached and saw the inscriptions:
 The Tablet of Honored Father Devarāja Li, and The Tablet of Honored Brother
 Naṭa, the Third Prince. *"What's the meaning of this?"* he asked.
+
 *"It's something to which the monster-spirit makes offerings,"* replied Pilgrim.
-*"When I broke into her residence, I found that both persons and things had disappeared.
-There was only this plaque. She has to be the daughter of Devarāja Li, the younger
-sister of the third prince, who has descended to the Region Below out of profane
-longings. Disguised as a fiend, she has abducted our master. If we don't demand of the
-persons whose names appear on this plaque, whom should we ask? While the two of
-you stand guard here, let old Monkey take the plaque and go up to Heaven to file
-charges before the Jade Emperor. That'll make Devarāja Li and his son return our
-master."*
-*"O Elder Brother!"* said Eight Rules. *"As the proverb says, „To charge someone
-with a mortal offense is itself a mortal offense.‟ You can't do it unless your cause is
+
+*"When I broke into her residence, I found that both persons and things had disappeared. There was only this plaque. She has to be the daughter of Devarāja Li, the younger sister of the third prince, who has descended to the Region Below out of profane longings. Disguised as a fiend, she has abducted our master. If we don't demand of the persons whose names appear on this plaque, whom should we ask? While the two of
+you stand guard here, let old Monkey take the plaque and go up to Heaven to file charges before the Jade Emperor. That'll make Devarāja Li and his son return our master."*
+
+*"O Elder Brother!"* said Eight Rules. *"As the proverb says, „To charge someone with a mortal offense is itself a mortal offense.‟ You can't do it unless your cause is
 just. Besides, do you think that filing charges before the throne is an easy thing? You‟d
 better tell me how you plan to go about it."*
 *"I have my way,"* said Pilgrim with a laugh. *"This plaque and this urn I shall use
@@ -147,56 +131,39 @@ the priest, Tripitaka Tang, who has been sent by the Tang Court in the Land of t
 in the Western Heaven. The complaint I lodge concerns the crime of abetting a monster in kidnapping a
 human. I hereby accuse Li Jing, the Pagoda-Bearer Devarāja, along with Prince Naṭa, his son, of gross
 negligence in domestic affairs, which caused his own daughter to become a runaway. At the Region
-1094
-1094
-Below she had assumed the form of monstrous perversity in the Bottomless Cave of Mount VoidEntrapping, bringing vexation and harm to countless humans. She has, at the moment, abducted my
-master into the crooked recesses of her habitation, where he cannot be found at all. I have no choice but to
-charge father and son with an act of great atrocity, for allowing the daughter to become a spirit and to
-harm people. I beg you, therefore, to sustain in your great mercy my complaint and arrest the culprits, so
-that perversity may be brought to submission, my master may be rescued, and the guilt of the offenders
-may be clearly established. In anticipation of your kind assistance, I hereby submit my complaint.
-On hearing these words, Eight Rules and Sha Monk were terribly pleased, both
-saying, *"O Elder Brother, your complaint is most reasonable! You will undoubtedly win
-the case. You‟d better go there at once, for we fear that a little delay may result in the
-monsterspirit's taking our master's life."*
-*"I'll hurry! I'll hurry!"* said Pilgrim. *"It'll take me no more than the time needed
-for boiling tea, or at most for rice to be cooked, to get back here."*
-Dear Great Sage! Holding the plaque and the urn, he leaped up to mount the
-auspicious cloud and went straight before the South Heaven Gate. When Devarājas
-Powerful and Dhṛtarāṣṭra, who were standing guard at the gate, saw him, both bent low
-to bow to him and dared not bar his way. He was permitted to go straight up to the Hall
-of Perfect Light, where he was greeted by Zhang, Ge, Xu, and Qiu, the four Celestial
-Masters. *"Why has the Great Sage come?"* they asked.
-*"I have a document here,"* replied Pilgrim, *"which I intend to file as a formal
-complaint."*
-*"This caster of blame!"* said one of the astonished masters. *"I wonder whom he
-plans to accuse."*
-They had no choice but to lead him into the Hall of Divine Mists to announce
-his arrival. He was then summoned into the presence of the Jade Emperor.
-After putting down the plaque and the urn and paying homage to the throne, he
-presented his plaint, which the Immortal Ge received and spread out on the imperial
-desk. When the Jade Emperor had read its content from beginning to end, he signed the
-document and endorsed it as an imperial decree. Then he commanded Gold Star Venus,
-Longevity of the West, to take the decree and go to the Cloud- Tower Palace to summon
-Devarāja Li, the Pagoda-Bearer, to appear before the throne.
+
+Below she had assumed the form of monstrous perversity in the Bottomless Cave of Mount VoidEntrapping, bringing vexation and harm to countless humans. She has, at the moment, abducted my master into the crooked recesses of her habitation, where he cannot be found at all. I have no choice but to charge father and son with an act of great atrocity, for allowing the daughter to become a spirit and to harm people. I beg you, therefore, to sustain in your great mercy my complaint and arrest the culprits, so that perversity may be brought to submission, my master may be rescued, and the guilt of the offenders may be clearly established. In anticipation of your kind assistance, I hereby submit my complaint.
+
+On hearing these words, Eight Rules and Sha Monk were terribly pleased, both saying, *"O Elder Brother, your complaint is most reasonable! You will undoubtedly win the case. You‟d better go there at once, for we fear that a little delay may result in the monsterspirit's taking our master's life."*
+
+*"I'll hurry! I'll hurry!"* said Pilgrim. *"It'll take me no more than the time needed for boiling tea, or at most for rice to be cooked, to get back here."*
+
+Dear Great Sage! Holding the plaque and the urn, he leaped up to mount the auspicious cloud and went straight before the South Heaven Gate. When Devarājas Powerful and Dhṛtarāṣṭra, who were standing guard at the gate, saw him, both bent low to bow to him and dared not bar his way. He was permitted to go straight up to the Hall of Perfect Light, where he was greeted by Zhang, Ge, Xu, and Qiu, the four Celestial
+Masters.
+
+*"Why has the Great Sage come?"* they asked.
+
+*"I have a document here,"* replied Pilgrim, *"which I intend to file as a formal complaint."*
+
+*"This caster of blame!"* said one of the astonished masters. *"I wonder whom he plans to accuse."*
+
+They had no choice but to lead him into the Hall of Divine Mists to announce his arrival. He was then summoned into the presence of the Jade Emperor. After putting down the plaque and the urn and paying homage to the throne, he presented his plaint, which the Immortal Ge received and spread out on the imperial desk. When the Jade Emperor had read its content from beginning to end, he signed the document and endorsed it as an imperial decree. Then he commanded Gold Star Venus, Longevity of the West, to take the decree and go to the Cloud- Tower Palace to summon Devarāja Li, the Pagoda-Bearer, to appear before the throne.
+
 *"I beg the Heaven Lord to punish him properly,"* said Pilgrim, walking forward,
+
 *"or else he may start some other trouble."*
+
 The Jade Emperor gave this order also:
 *"Let the plaintiff go along."*
 *"Should old Monkey really go along?"* asked Pilgrim.
-*"Since His Majesty has already issued the decree,"* said one of the Celestial
-Masters, *"you may go with the Gold Star."* Pilgrim indeed mounted the clouds with the
-Gold Star to reach the Cloud-Tower Palace, which was, you see, the residence of the
-devarāja. There was a divine youth standing in front of the gate who recognized the
-Gold Star. He went inside at once and announced, *"The Holy Father Gold Star Venus
-has arrived."*
-The devarāja went out to meet his guest; when he saw that the Gold Star was
-bearing an imperial decree, he asked immediately for incense to be lighted. Then he
-caught sight of Pilgrim following the Gold Star in, and the devarāja stirred with anger.
-1095
-1095
-Why was he angered, you ask? During the time when Pilgrim caused great
-disturbance at the Celestial Palace, the Jade Emperor once appointed the devarāja as the
+
+*"Since His Majesty has already issued the decree,"* said one of the Celestial Masters, *"you may go with the Gold Star."* Pilgrim indeed mounted the clouds with the Gold Star to reach the Cloud-Tower Palace, which was, you see, the residence of the devarāja. There was a divine youth standing in front of the gate who recognized the Gold Star.
+
+He went inside at once and announced, *"The Holy Father Gold Star Venus has arrived."*
+
+The devarāja went out to meet his guest; when he saw that the Gold Star was bearing an imperial decree, he asked immediately for incense to be lighted. Then he caught sight of Pilgrim following the Gold Star in, and the devarāja stirred with anger.
+
+Why was he angered, you ask? During the time when Pilgrim caused great disturbance at the Celestial Palace, the Jade Emperor once appointed the devarāja as the
 Demon-Subduing Grand Marshal and Prince Naṭa as the God of the Three Charities
 Grand Assembly. They were to lead the Heaven hosts against Pilgrim, but they could
 not prevail even after several engagements. The defeat of five hundred years ago, you
@@ -450,19 +417,10 @@ All of them responded with a resounding *"Yes!"* Look at Pilgrim and the prince!
 > Late autumn lotus and willows of spring—  
 > Such a cave-heaven's rarely seen.*
 
-In a moment, they stopped their cloudy luminosity right before the old residence
-of the monster-spirit. Noisily the celestial warriors began a door-to-door search; they
-looked everywhere, spreading out through all those three hundred miles, but neither a
-single monster-spirit nor a Tripitaka could be seen at all.
-*"This cursed beast,"* said the warriors, *"must have left the cave and removed
-herself far away."* Little did they know that there was another small cave at the dark
-southeast corner; there was a tiny door in the cave and a house built rather low,
-surrounded by a few pots of flowers and several stalks of bamboo. It was a place
-shrouded in darkness and faint fragrance. Here the old fiend had brought Tripitaka and
-wanted to force him to marry her, thinking that Pilgrim would never be able to find
-them. She did not realize, of course, that her fate was about to overtake her. As those
-little fiends crowded together inside, you see, one of the more courageous ones stuck
-out his head to take a peek outside, and he ran directly into the celestial warriors.
+In a moment, they stopped their cloudy luminosity right before the old residence of the monster-spirit. Noisily the celestial warriors began a door-to-door search; they looked everywhere, spreading out through all those three hundred miles, but neither a single monster-spirit nor a Tripitaka could be seen at all.
+
+*"This cursed beast,"* said the warriors, *"must have left the cave and removed herself far away."* Little did they know that there was another small cave at the dark southeast corner; there was a tiny door in the cave and a house built rather low, surrounded by a few pots of flowers and several stalks of bamboo. It was a place shrouded in darkness and faint fragrance. Here the old fiend had brought Tripitaka and
+wanted to force him to marry her, thinking that Pilgrim would never be able to find them. She did not realize, of course, that her fate was about to overtake her. As those little fiends crowded together inside, you see, one of the more courageous ones stuck out his head to take a peek outside, and he ran directly into the celestial warriors.
 
 *"They're here!"* they cried, and Pilgrim became so aroused that he went crashing in, his hand gripping the golden-hooped rod. The whole nest of monster-spirits was packed in that small and narrow place. When the prince and his troops surged forward, where could any of the fiends run to hide? Pilgrim soon located the Tang Monk, the luggage, and the dragon horse. When the old fiend realized that there was no way for
 her to flee, she faced Prince Naṭa and kowtowed repeatedly, begging for her life.
