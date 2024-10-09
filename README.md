@@ -5,8 +5,7 @@
 From Ninefold Darkness ten species’ names are removed.
 4. Appointed a Ban-Horse, could he be content?
 Named Equal to Heaven, he’s still not appeased.
-5. Disrupting the Peach Festival, the Great Sage steals elixir;
-With revolt in Heaven, many gods would seize the fiend.
+5. [Disrupting the Peach Festival, the Great Sage steals elixir; <br> With revolt in Heaven, many gods would seize the fiend.](chapter_005.md)
 6. Guanyin, attending the banquet, inquires into the cause;
 The Little Sage, exerting his power, subdues the Great Sage.
 7. From the Eight Trigrams Brazier the Great Sage escapes;
