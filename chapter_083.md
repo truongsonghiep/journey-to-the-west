@@ -439,3 +439,43 @@ So the devarāja and the third prince led the divine warriors and celestial sold
 > The jade lock's broken and he leaves the bird-cage.*
 
 We do not know what happens as they journey forth; let's listen to the explanation in the next chapter.
+
+# Vobs
+fair girl: cô gái xinh đẹp, kiều nữ
+
+elixir: thuốc tiên
+
+escort: hộ tống
+
+belly (n): bụng
+
+as bid/bidden: như được yêu cầu
+
+nail: cái đinh
+
+clang: tiếng vang, kêu vang
+
+manner: thái độ đó, cách đó, phương pháp đó
+
+murmur: thì thầm, lầm bầm
+
+arouse: kích động
+
+snap: nói với dọng chua cay
+
+pound: đấm liên lục
+
+chest: ngực
+
+stamp: dẫm
+
+grip: nắm chặt 
+
+stride: sải bước
+
+maneuver: điều động
+lair: hang ổ
+cubs: đàn con
+
+
+hack: chặt
