@@ -186,8 +186,7 @@ Thieves and the Dao, snares and Buddhism, quiet Ninefold-Numina.
 In Mysterious Flower Cave the Tang Monk makes a deposition.
 93. Three priests fight fiercely at Green Dragon Mountain;
 Four Stars help to capture rhinoceros fiends.
-94. At Jetavana Park he asks the aged about the cause;
-At the Kingdom of India he sees the king and meets his mate.
+94. [At Jetavana Park he asks the aged about the cause; <br> At the Kingdom of India he sees the king and meets his mate.](chapter_094.md)
 95. Four priests are feted at the royal garden;
 One fiend vainly longs for sensual joys.
 96. Falsely assuming true form, the jade hare’s caught;
