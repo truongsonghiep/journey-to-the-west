@@ -70,8 +70,8 @@ Mind Monkey, bagging treasures, conquers deviate demons.
 Smash through the side door to view the bright moon.
 37. The ghost king visits Tripitaka Tang at night;
 Wukong, through wondrous transformation, leads the child.
-38. The child queries his mother to learn of deviancy and truth;
-Metal and Wood, reaching the deep, see the false and the real.
+
+38. [The child queries his mother to learn of deviancy and truth;<br> Metal and Wood, reaching the deep, see the false and the real.](chapter_038.md)
 39. One pellet of cinnabar elixir found in Heaven;
 A king, dead three years, lives again on Earth.
 40. The child’s playful transformations confuse the Chan Mind;
