@@ -107,8 +107,7 @@ Yellow Dame brings water to end the weird fetus.
 Mind Monkey makes a plan to flee the fair sex.
 
 55. **[Deviant form makes lustful play for Tripitaka Tang; Upright nature safeguards the untainted self.](chapter-055.md)**
-56. Wild Spirit slays brutish bandits;
-Wayward Way sets loose Mind Monkey.
+56. [Wild Spirit slays brutish bandits; <br> Wayward Way sets loose Mind Monkey.](chapter-056.md)
 57. True Pilgrim lays bare his woes at Mount Potalaka;
 False Monkey King transcribes texts at Water-Curtain Cave.
 58. Two Minds cause disorder in the great cosmos;
