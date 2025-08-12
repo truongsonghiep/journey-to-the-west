@@ -1,5 +1,7 @@
 ONE
+
 # The divine root conceives, its source revealed <br> Mind and nature nurtured, the Great Dao is born
+
 The poem says:
 
 *Ere Chaos's divide, with Heaven and Earth a mess,<br>
@@ -522,13 +524,9 @@ Smashing stubborn void needs Wake-to-the- Void.*
 We do not know what fruit of Daoist cultivation he succeeded in attaining afterward; let's listen to the explanation in the next chapter.
 
 # Vobs
+
 The divine root: thần căn
 
-conceive (v): thụ thai
-
-era chaos: thuở hỗn mang
-
-era : thuở, thời kỳ.
 
 murkiness: sự tối tăm, âm u
 
@@ -621,10 +619,4 @@ bound: nhảy
 
 couch: ghế dài, ghế đi văng
 
-Patriarch Subodhi: bồ đề tổ sư
-
-
 chase out: đuổi đi, chase: đuổi theo
-
-pupil: đệ tử
-

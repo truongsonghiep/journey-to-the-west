@@ -4,6 +4,16 @@
         "definition": "A bodhisattva associated with compassion."
     },
     {
+        "word": "pupil",
+        "part_of_speech": "noun",
+        "definition": "đệ tử, học trò."
+    },
+    {
+        "word": "The Patriarch Subodhi",
+        "part_of_speech": "noun",
+        "definition": "Bồ Đề Tổ Sư."
+    },
+    {
         "word": "Potalaka Mountain",
         "definition": "A mythical mountain in Buddhist tradition, often associated with Guanyin."
     },
@@ -226,5 +236,60 @@
         "word": "encampment",
         "part_of_speech": "noun",
         "definition": "trại quân, doanh trại"
+    },
+    {
+        "word": "conceive",
+        "part_of_speech": "verb",
+        "definition": "hình thành, thụ thai."
+    },
+    {
+        "word": "era",
+        "part_of_speech": "noun",
+        "definition": "thời đại, thời kỳ, kỷ nguyên."
+    },
+    {
+        "word": "vain",
+        "part_of_speech": "adjective",
+        "definition": "vô ích, không có giá trị."
+    },
+    {
+        "word": "murkiness",
+        "part_of_speech": "noun",
+        "definition": "Sự tối tăm, u ám."
+    },
+    {
+        "word": "The divine root",
+        "part_of_speech": "noun",
+        "definition": "Căn nguyên thần thánh."
+    },
+    {
+        "word": "Pan Gu",
+        "part_of_speech": "noun",
+        "definition": "Bàn Cổ (vị thần sáng tạo trong thần thoại Trung Quốc)"
+    },
+    {
+        "word": "nebula",
+        "part_of_speech": "noun",
+        "definition": "Tinh vân (một đám mây khí và bụi trong không gian)"
+    },
+    {
+        "word": "dense",
+        "part_of_speech": "adjective",
+        "definition": "Dày đặc, đông đúc"
+    },
+    {
+        "word": "enfold",
+        "part_of_speech": "verb",
+        "definition": "Ôm ấp, bao bọc"
+    },
+    {
+        "word": "supreme",
+        "part_of_speech": "noun",
+        "definition": "Tối cao, cao nhất, tuyệt đỉnh, thượng đẳng"
+    },
+    {
+        "word": "epoch",
+        "part_of_speech": "noun",
+        "definition": "Thời kỳ, kỷ nguyên"
     }
 ]
