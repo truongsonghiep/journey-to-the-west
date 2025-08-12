@@ -291,5 +291,170 @@
         "word": "epoch",
         "part_of_speech": "noun",
         "definition": "Thời kỳ, kỷ nguyên"
+    },
+    {
+        "word": "cyclic",
+        "part_of_speech": "adjective",
+        "definition": "Có tính chu kỳ, tuần hoàn"
+    },
+    {
+        "word": "raft",
+        "part_of_speech": "noun",
+        "definition": "Cái bè"
+    },
+    {
+        "word": "duly",
+        "part_of_speech": "adverb",
+        "definition": "Đúng cách, hợp lệ"
+    },
+    {
+        "word": "plenty",
+        "part_of_speech": "noun",
+        "definition": "Sự phong phú, dồi dào"
+    },
+    {
+        "word": "scour",
+        "part_of_speech": "verb",
+        "definition": "Lùng sục, tìm kiếm kỹ lưỡng"
+    },
+    {
+        "word": "firmament",
+        "part_of_speech": "noun",
+        "definition": "Tầng trời, bầu trời"
+    },
+    {
+        "word": "yin",
+        "part_of_speech": "noun",
+        "definition": "Âm (một trong hai nguyên lý đối lập trong triết lý Trung Quốc)"
+    },
+    {
+        "word": "yang",
+        "part_of_speech": "noun",
+        "definition": "Dương (một trong hai nguyên lý đối lập trong triết lý Trung Quốc)"
+    },
+    {
+        "word": "split",
+        "part_of_speech": "verb",
+        "definition": "Chia ra, tách ra, nứt ra, phân chia"
+    },
+    {
+        "word": "brook",
+        "part_of_speech": "noun",
+        "definition": "Suối nhỏ, dòng suối nhỏ."
+    },
+    {
+        "word": "gibbon",
+        "part_of_speech": "noun",
+        "definition": "Loài vượn cáo."
+    },
+    {
+        "word": "baboon",
+        "part_of_speech": "noun",
+        "definition": "Loài khỉ đầu chó."
+    },
+    {
+        "word": "govern",
+        "part_of_speech": "verb",
+        "definition": "Quản lý, cai trị"
+    },
+    {
+        "word": "insouciant",
+        "part_of_speech": "adjective",
+        "definition": "Vô tư, không lo lắng"
+    },
+    {
+        "word": "kin",
+        "part_of_speech": "noun",
+        "definition": "Họ hàng, người thân"
+    },
+    {
+        "word": "compassionate",
+        "part_of_speech": "adjective",
+        "definition": "Thương xót, từ bi"
+    },
+    {
+        "word": "gibbon",
+        "part_of_speech": "noun",
+        "definition": "Vượn cáo"
+    },
+    {
+        "word": "mercy",
+        "part_of_speech": "noun",
+        "definition": "Lòng từ bi, lòng thương xót"
+    },
+    {
+        "word": "presently",
+        "part_of_speech": "adverb",
+        "definition": "Hiện tại, ngay lúc này"
+    },
+    {
+        "word": "intently",
+        "part_of_speech": "adverb",
+        "definition": "Một cách chăm chú, tập trung cao độ."
+    },
+    {
+        "word": "august",
+        "part_of_speech": "adjective",
+        "definition": "Uy nghi, trang nghiêm, đáng kính trọng"
+    },
+    {
+        "word": "nourish",
+        "part_of_speech": "verb",
+        "definition": "Nuôi dưỡng, bồi bổ"
+    },
+    {
+        "word": "limb",
+        "part_of_speech": "noun",
+        "definition": "Tay chân"
+    },
+    {
+        "word": "glimmer",
+        "part_of_speech": "noun",
+        "definition": "Ánh sáng le lói, ánh sáng mờ"
+    },
+    {
+        "word": "shed",
+        "part_of_speech": "verb",
+        "definition": "Rơi, rụng, lột xác"
+    },
+    {
+        "word": "befriended",
+        "part_of_speech": "verb",
+        "definition": "Kết bạn"
+    },
+    {
+        "word": "distressed",
+        "part_of_speech": "adjective",
+        "definition": "Đau khổ, buồn phiền"
+    },
+    {
+        "word": "contentment",
+        "part_of_speech": "noun",
+        "definition": "Sự hài lòng, sự thỏa mãn"
+    },
+    {
+        "word": "unicorn",
+        "part_of_speech": "noun",
+        "definition": "Kỳ lân"
+    },
+    {
+        "word": "disclose",
+        "part_of_speech": "verb",
+        "definition": "Tiết lộ"
+    },
+    {
+        "word": "dwell",
+        "part_of_speech": "verb",
+        "definition": "Cư trú, sống"
+    },
+    {
+        "word": "acclamation",
+        "part_of_speech": "noun",
+        "definition": "Sự tung hô, sự hoan nghênh nồng nhiệt, sự tán dương công khai."
+    },
+    {
+        "word": "cultivation",
+        "part_of_speech": "noun",
+        "definition": "Sự trồng trọt, sự canh tác"
     }
 ]
