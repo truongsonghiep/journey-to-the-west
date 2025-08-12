@@ -1,4 +1,4 @@
-FIVE 
+FIVE
 
 # Disrupting the Peach Festival, the Great Sage steals elixir <br> With revolt in Heaven, many gods would seize the fiend
 
@@ -191,7 +191,7 @@ Our Great Sage was just sharing the Heavenly wine with the four mighty commander
 
 Scarcely had he uttered this proverb when another group of imps came leaping and said, *"Those nine savage gods are trying to provoke battle with foul words and nasty language."*
 
-*"Don't listen to them,"* said the Great Sage, laughing. *"Let us seek today's pleasure in poetry and wine, And cease asking when we may achieve glory or fame."* 
+*"Don't listen to them,"* said the Great Sage, laughing. *"Let us seek today's pleasure in poetry and wine, And cease asking when we may achieve glory or fame."*
 
 Hardly had he finished speaking when still another flock of imps arrived to report, *"Father, those nine savage gods have broken down the door, and are about to fight their way in!"*
 
@@ -249,6 +249,7 @@ They changed at once into many thousands of Great Sages, each employing a golden
 The four mighty commanders drank a few bowls of coconut wine with the host of monkeys and went to sleep peacefully. We shall speak no more of them. When those Four Devarājas retired their troops and stopped their fighting, each one of the Heavenly commanders came to report his accomplishment. There were those who had captured lions and elephants and those who had apprehended wolves, crawling creatures, and foxes. Not a single monkey monster, however, had been seized. The camp was then secured, a great tent was pitched, and those commanders with meritorious services were rewarded. The soldiers in charge of the cosmic nets were ordered to carry bells and were given passwords. They encircled the Flower-Fruit Mountain to await the great battle of the next day, and each soldier everywhere diligently kept his watch. So this is the situation: The fiendish monkey riots through Heaven and Earth, But the net spreads open, ready night and day. We do not know what took place after the next morning; let's listen to the explanation in the next chapter.
 
 # Vobs
+
 elixir: thuốc tiên
 
 revolt: sự làm loạn, nổi dậy.
@@ -256,46 +257,36 @@ revolt: sự làm loạn, nổi dậy.
 leisure: thời gian rảnh rỗi.
 
  the Three Pure Ones: tam thanh
- 
+
  Your Reverence
- 
- 
+
  the Four Thearchs
- 
- 
+
  the Nine Luminaries
- 
- 
- 
+
  fraternal: như huynh đệ
- 
+
  the Generals of the Five Quarters, the Twenty-Eight Constellations, the Four Devarājas, the Twelve Horary Branches, the Five Elders of the Five Regions, the Star Spirits of the entire Heaven, and the numerous gods of the Milky Way
- 
+
  wander: đi lang thang
- 
- 
+
  the Daoist immortal Xu Jingyang
- 
+
  dawdle: lảng vảng, đi cà rỏng
- 
+
  chummy: thân thiết
- 
- 
+
  idleness: sự lười biếng
- 
+
  perceive (v): nhận thấy
- 
- the Buddha, the Bodhisattvas, the holy monks, and the arhats of the Western Heaven; Kuan-yin from the South Pole; the Holy Emperor of Great Mercy of the East; the Immortals of Ten Continents and Three Islands; the Dark Spirit of the North Pole; the Great Immortal of the Yellow Horn from the Imperial Center. These were the Elders from the Five Quarters. In addition, there were the Star Spirits of the Five Poles, the Three Pure Ones, the Four Deva Kings, the Heavenly Deva of the Great Monad, and the rest from the Upper Eight Caves. From the Middle Eight Caves there were the Jade Emperor, the Nine Heroes, the Immortals of the Seas and Mountains; and from the Lower Eight Caves, there were the Pope of Darkness and the Terrestrial Immortals. The gods and devas, both great and small, of every palace and mansion, will be attending this happy Festival of the Immortal Peaches."* *"Am I invited?"
- 
- 
+
+ the Buddha, the Bodhisattvas, the holy monks, and the arhats of the Western Heaven; Kuan-yin from the South Pole; the Holy Emperor of Great Mercy of the East; the Immortals of Ten Continents and Three Islands; the Dark Spirit of the North Pole; the Great Immortal of the Yellow Horn from the Imperial Center. These were the Elders from the Five Quarters. In addition, there were the Star Spirits of the Five Poles, the Three Pure Ones, the Four Deva Kings, the Heavenly Deva of the Great Monad, and the rest from the Upper Eight Caves. From the Middle Eight Caves there were the Jade Emperor, the Nine Heroes, the Immortals of the Seas and Mountains; and from the Lower Eight Caves, there were the Pope of Darkness and the Terrestrial Immortals. The gods and devas, both great and small, of every palace and mansion, will be attending this happy Festival of the Immortal Peaches."**"Am I invited?"
+
  immobilization
- 
- 
+
  the Great Immortal of Naked Feet
- 
+
  devising
- 
- 
 
 stagger: đi loạng choạng, chao đảo
 
@@ -317,5 +308,4 @@ eight dainties,
 
 The Supreme Patriarch of Dao
 
-
-He at once commanded the Four Great Devarājas to assist Devarāja Li and Prince Naṭa. Together, they called up the Twenty-Eight Constellations, the Nine Luminaries, the Twelve Horary Branches, the Fearless Guards of Five Quarters, the Four Temporal Guardians, the Stars of East and West, the Gods of North and South, the Deities of the Five Mountains and the Four Rivers, the Star Spirits of the entire Heaven, and a hundred thousand celestial soldiers 
+He at once commanded the Four Great Devarājas to assist Devarāja Li and Prince Naṭa. Together, they called up the Twenty-Eight Constellations, the Nine Luminaries, the Twelve Horary Branches, the Fearless Guards of Five Quarters, the Four Temporal Guardians, the Stars of East and West, the Gods of North and South, the Deities of the Five Mountains and the Four Rivers, the Star Spirits of the entire Heaven, and a hundred thousand celestial soldiers

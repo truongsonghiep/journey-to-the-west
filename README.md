@@ -1,10 +1,10 @@
 # Journey To The West
-1. [The divine root conceives, its source revealed; <br> Mind and nature nurtured, the Great Dao is born.](chapter_001.md)
-2. Fully awoke to Bodhi’s wondrous truths; He cuts off Māra, returns to the root, and joins Primal Spirit.
+1. [The divine root conceives, its source revealed; <br> Mind and nature nurtured, the Great Dao is born.](chapter_001.md)  
+2. Fully awoke to Bodhi's wondrous truths; He cuts off Māra, returns to the root, and joins Primal Spirit.
 3. Four Seas and a Thousand Mountains all bow to submit;
 From Ninefold Darkness ten species’ names are removed.
 4. Appointed a Ban-Horse, could he be content?
-Named Equal to Heaven, he’s still not appeased.
+Named Equal to Heaven, he's still not appeased.
 5. [Disrupting the Peach Festival, the Great Sage steals elixir; <br> With revolt in Heaven, many gods would seize the fiend.](chapter_005.md)
 6. Guanyin, attending the banquet, inquires into the cause;
 The Little Sage, exerting his power, subdues the Great Sage.
@@ -14,8 +14,8 @@ Beneath the Five Phases Mountain, Mind Monkey is still.
 Guanyin receives the decree to go up to Chang’an.
 9. Chen Guangrui, going to his post, meets disaster;
 Monk River Float, avenging his parents, repays his roots.
-10. The Old Dragon King’s foolish schemes transgress Heaven’s decrees;
-Prime Minister Wei’s letter seeks help from an official of the dead.
+10. The Old Dragon King's foolish schemes transgress Heaven's decrees;
+Prime Minister Wei's letter seeks help from an official of the dead.
 11. Having toured the Underworld, Taizong returns to life;
 Having presented melons and fruits, Liu Quan marries again.
 12. The Tang emperor, firmly sincere, convenes a Grand Mass;
@@ -37,17 +37,17 @@ At Pagoda Mountain, Tripitaka receives the Heart Sūtra.
 20. At Yellow Wind Ridge the Tang Monk meets adversity;
 In mid-mountain, Eight Rules strives to be first.
 
-21. **[The Vihārapālas prepare lodging for the Great Sage; <br> Lingji of Sumeru crushes the wind demon.](chapter-021.md)**
-22. **[Eight Rules fights fiercely at the Flowing-Sand River; <br> Mokṣa by order receives Wujing’s submission.](chapter-022.md)**
+21. [The Vihārapālas prepare lodging for the Great Sage; <br> Lingji of Sumeru crushes the wind demon.](chapter-021.md)
+22. [Eight Rules fights fiercely at the Flowing-Sand River; <br> Mokṣa by order receives Wujing's submission.](chapter-022.md)
 
-23. **[Tripitaka does not forget his origin; <br>The Four Sages test the priestly mind.](chapter-023.md)**
+23. [Tripitaka does not forget his origin; <br>The Four Sages test the priestly mind.](chapter-023.md)
 
 24. At Long Life Mountain the Great Immortal detains his old friend;
 At Five Villages Abbey, Pilgrim steals the ginseng fruit.
 25. The Zhenyuan Immortal gives chase to catch the scripture monk;
 Pilgrim Sun greatly disturbs Five Villages Abbey.
 
-26. **[Amid the Three Islands Sun Wukong seeks a cure; <br> With sweet dew Guanshiyin revives a tree.](chapter-026.md)**
+26. [Amid the Three Islands Sun Wukong seeks a cure; <br> With sweet dew Guanshiyin revives a tree.](chapter-026.md)
 27. The cadaver demon three times mocks Tripitaka Tang;
 The holy monk in spite banishes Handsome Monkey King.
 28. At Flower-Fruit Mountain a pack of fiends hold assembly;
@@ -62,7 +62,7 @@ Pilgrim Sun with wisdom defeats the monster.
 At Lotus-Flower Cave Wood Mother meets disaster.
 33. Heresy deludes the True Nature;
 Primal Spirit helps the Native Mind.
-34. The demon king’s plotting entraps Mind Monkey;
+34. The demon king's plotting entraps Mind Monkey;
 The Great Sage, ever adroit, wangles the treasures.
 35. Heresy uses power to oppress the proper Nature;
 Mind Monkey, bagging treasures, conquers deviate demons.
@@ -74,14 +74,14 @@ Wukong, through wondrous transformation, leads the child.
 38. [The child queries his mother to learn of deviancy and truth;<br> Metal and Wood, reaching the deep, see the false and the real.](chapter_038.md)
 39. One pellet of cinnabar elixir found in Heaven;
 A king, dead three years, lives again on Earth.
-40. The child’s playful transformations confuse the Chan Mind;
+40. The child's playful transformations confuse the Chan Mind;
 Ape, Horse, Spatula gone, Wood Mother, too, is lost.
 
-41. [**Mind Monkey is defeated by fire; <br> Wood Mother is captured by demons.**](chapter-041.md)
+41. [Mind Monkey is defeated by fire; <br> Wood Mother is captured by demons.](chapter-041.md)
 
-42. [**The Great Sage diligently calls at South Sea;<br>Guanyin with compassion binds the Red Boy.**](chapter-042.md)
+42. [The Great Sage diligently calls at South Sea;<br>Guanyin with compassion binds the Red Boy.](chapter-042.md)
 43. An evil demon at Black River captures the monk;
-The Western Ocean’s dragon prince catches the iguana.
+The Western Ocean's dragon prince catches the iguana.
 44. The dharma-body in primal cycle meets the force of the cart;
 The mind, righting monstrous deviates, crosses the spine-ridge pass.
 
@@ -89,7 +89,7 @@ The mind, righting monstrous deviates, crosses the spine-ridge pass.
 At the Cart Slow Kingdom the Monkey King shows his power.
 46. Heresy flaunts its strength to mock orthodoxy;
 Mind Monkey in epiphany slays the deviates.
-47. The holy monk’s blocked at night at Heaven-Reaching River;
+47. The holy monk's blocked at night at Heaven-Reaching River;
 Metal and Wood, in compassion, rescue little children.
 48. The demon, raising a cold wind, sends a great snow fall;
 The monk, intent on seeing Buddha, walks on layered ice.
@@ -106,13 +106,13 @@ Yellow Dame brings water to end the weird fetus.
 54. Dharma-nature, going west, reaches the Women State;
 Mind Monkey makes a plan to flee the fair sex.
 
-55. **[Deviant form makes lustful play for Tripitaka Tang; Upright nature safeguards the untainted self.](chapter-055.md)**
+55. [Deviant form makes lustful play for Tripitaka Tang; Upright nature safeguards the untainted self.](chapter-055.md)
 56. [Wild Spirit slays brutish bandits; <br> Wayward Way sets loose Mind Monkey.](chapter_056.md)
 57. True Pilgrim lays bare his woes at Mount Potalaka;
 False Monkey King transcribes texts at Water-Curtain Cave.
 58. Two Minds cause disorder in the great cosmos;
-It’s hard for one body to realize true Nirvāṇa.
-59. Tripitaka Tang’s path is blocked at Mountain of Flames;
+It's hard for one body to realize true Nirvāṇa.
+59. Tripitaka Tang's path is blocked at Mountain of Flames;
 Pilgrim Sun baits for the first time the palm-leaf fan.
 60. Bull Demon King stops fighting to attend a lavish feast;
 Pilgrim Sun baits for the second time the palm-leaf fan.
@@ -126,26 +126,26 @@ The sages, destroying deviates, acquire the treasures.
 At Shrine of Sylvan Immortals Tripitaka discusses poetry .
 65. Fiends set up falsely the Small Thunderclap;
 The four pilgrims all meet a great ordeal.
-66. **[Many gods meet injury;<br>Maitreya binds a fiend.](chapter-066)**
+66. [Many gods meet injury;<br>Maitreya binds a fiend.](chapter-066)
 67. Having rescued Tuoluo, Chan Nature is secure;
 Escaping filthiness, the Mind of Dao is pure.
 
-68. **[At Scarlet-Purple Kingdom the Tang Monk speaks of past eras; <br> Pilgrim Sun performs on an arm broken in three places.](chapter-068.md)**
-69. **[At night the Lord of the Mind refines medicines; <br> At a banquet the king speaks of the perverse fiend.](chapter-069.md)**
-70. The monstrous demon’s treasures release smoke, sand, and fire;
+68. [At Scarlet-Purple Kingdom the Tang Monk speaks of past eras; <br> Pilgrim Sun performs on an arm broken in three places.](chapter-068.md)
+69. [At night the Lord of the Mind refines medicines; <br> At a banquet the king speaks of the perverse fiend.](chapter-069.md)
+70. The monstrous demon's treasures release smoke, sand, and fire;
 Wukong by stratagem steals the purple-gold bells.
 71. By a false name Pilgrim defeats the fiendish wolf;
 In epiphany Guanyin subdues the monster-king.
 72. At Cobweb Cave Seven Passions delude the Origin;
 At Purgation Spring Eight Rules forgets all manners.
 
-73. **[Passions, because of old enmity, beget calamity;<br>Demon-trapped, the Mind Lord with luck breaks the light.](chapter-073.md)**
-74. **[Long Life reports how vicious the demons are;<br>Pilgrim displays his transformation power.](chapter-074.md)**
+73. [Passions, because of old enmity, beget calamity;<br>Demon-trapped, the Mind Lord with luck breaks the light.](chapter-073.md)
+74. [Long Life reports how vicious the demons are;<br>Pilgrim displays his transformation power.](chapter-074.md)
 
 75. Mind Monkey drills through the yin-yang body;
 Demon lords return to the true great Way.
 76. Mind-Spirit dwells at home, and demons revert to nature;
-Wood Mother together subdues the fiend’s true self.
+Wood Mother together subdues the fiend's true self.
 77. A horde of demons affront native Nature;
 The One Body bows to True Suchness.
 78. At Bhikṣu he pities the infants and summons the night gods;
@@ -160,7 +160,7 @@ In the black pine forest three pupils search for their master.
 83. Mind Monkey knows the elixir source;
 Fair girl returns to her true nature.
 84. “Priests are hard to destroy” completes great awakening;
-The Dharma-king attains the right, his body’s naturalized.
+The Dharma-king attains the right, his body's naturalized.
 85. Mind Monkey envies Wood Mother;
 The demon lord plots to devour Chan.
 86. Wood Mother, lending power, conquers the fiendish creature;
@@ -170,7 +170,7 @@ The Great Sage Sun advocates virtue and provides rain.
 88. Reaching Jade-Flower, Chan convenes an assembly;
 Mind Monkey, Wood, and Earth instruct disciples.
 89. The yellow lion-spirit in vain gives the Muckrake Feast;
-Gold, Wood, and Earth disturb with a scheme Mount Leopard’s Head.
+Gold, Wood, and Earth disturb with a scheme Mount Leopard's Head.
 90. Masters and lions, teachers and pupils, all return to the One;
 Thieves and the Dao, snares and Buddhism, quiet Ninefold-Numina.
 91. At Gold-Level Prefecture they watch lanterns on the fifteenth night;
@@ -179,7 +179,7 @@ In Mysterious Flower Cave the Tang Monk makes a deposition.
 Four Stars help to capture rhinoceros fiends.
 93. At Jetavana Park he asks the aged about the cause; <br> At the Kingdom of India he sees the king and meets his mate.
 94. [Four priests are feted at the royal garden; <br> One fiend vainly longs for sensual joys.](chapter_094.md)
-95. Falsely assuming true form, the jade hare’s caught;
+95. Falsely assuming true form, the jade hare's caught;
 True Yin returns to the right to join Numinous Source.
 96. Squire Kou gladly receives a noble priest;
 The elder Tang does not covet riches.
@@ -187,7 +187,7 @@ The elder Tang does not covet riches.
 The sage reveals his soul to bring restoration.
 98. Only when ape and horse are tamed will shells be cast;
 With merit and work perfected, they see the Real.
-99. Nine times nine ends the count and Māra’s all destroyed;
+99. Nine times nine ends the count and Māra's all destroyed;
 The work of three times three done, the Dao reverts to its root.
 100. They return to the Land of the East;
 Five sages become perfected.
