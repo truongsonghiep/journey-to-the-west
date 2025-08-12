@@ -2,21 +2,34 @@
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tên Sách</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Vocabulary Search</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="container">
-        <h1>Journey To The West</h1>
-        <ol>
-            <li><a href="#chuong1">Chương 1: Khởi Đầu</a></li>
-            <li><a href="#chuong2">Chương 2: Những Khám Phá Mới</a></li>
-            <li><a href="#chuong3">Chương 3: Gặp Gỡ Những Người Bạn</a></li>
-            <li><a href="#chuong4">Chương 4: Bài Học Cuộc Đời</a></li>
-            <li><a href="#chuong5">Chương 5: Hành Trình Trở Về</a></li>
-            <li><a href="#chuong6">Chương 6: Kết Thúc và Bắt Đầu Mới</a></li>
-        </ol>
+<div class="container">
+        <header class="story-header">
+            <img src="cover_img.png" alt="Ảnh bìa truyện" class="story-cover">
+            <div class="story-info">
+                <h1>Journey To The West</h1>
+                <p class="author">Author: Wu Cheng'en</p>
+                <p class="genre">Genre: Adventure, Action</p>
+                <p class="status">Status: Updating</p>
+            </div>
+        </header>
+
+        <main class="story-content">
+            <h2 class="chapter-list-title">Danh sách chương</h2>
+            <ul id="chapter-list" class="chapter-list"></ul>
+        </main>
     </div>
+
+    <button id="toggleBtn">📚 Từ điển</button>
+    <div id="sidebar">
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Nhập từ cần tìm...">
+        </div>
+        <div id="results"></div>
+    </div>
+    <script src="script.js"></script>
 </body>
 </html>
