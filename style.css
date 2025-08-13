@@ -8,12 +8,35 @@ body {
     padding: 0;
 }
 
-.container {
-    width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
+header {
+    background-color: #333;
+    /* Màu nền tối */
+    color: white;
+    /* Màu chữ sáng */
+    padding: 20px;
+    /* Khoảng cách trong header */
+    text-align: center;
+    /* Căn giữa nội dung */
+}
+
+main {
+    width: 80%;
+    /* Đặt chiều rộng là 80% của trang */
+    margin: 20px auto;
+    /* Căn giữa thẻ main và tạo lề trên/bên dưới 20px */
+    padding: 20px;
+    /* Thêm khoảng cách trong thẻ main */
+    background-color: #f4f4f4;
+    /* Màu nền nhẹ */
+    border-radius: 8px;
+    /* Bo góc thẻ main */
+}
+
+em {
+    font-style: italic;
+    padding: 2px 4px;
+    /* Thêm padding để tạo khoảng cách */
+    border-radius: 4px;
 }
 
 h1,
@@ -21,24 +44,35 @@ h2 {
     font-family: 'Poppins', sans-serif;
 }
 
-p {
-    font-size: 16px;
-    margin: 5px 0;
-}
-
 a {
     text-decoration: none;
     color: inherit;
 }
 
-/* --- Main Container & Layout --- */
+p {
+    font-family: 'Georgia', serif;
+    /* Font chữ dễ đọc cho tiểu thuyết */
+    font-size: 18px;
+    /* Kích thước chữ vừa phải */
+    line-height: 1.6;
+    /* Khoảng cách giữa các dòng giúp dễ đọc */
+    color: #333;
+    /* Màu chữ đen đậm */
+    margin-bottom: 20px;
+    /* Khoảng cách giữa các đoạn văn */
+    text-align: justify;
+    /* Căn đều hai bên cho các đoạn văn */
+    /* Lùi đầu dòng */
+    letter-spacing: 0.5px;
+    /* Khoảng cách giữa các chữ nhẹ */
+}
+
 .container {
-    max-width: 1000px;
-    margin: 20px auto;
-    background: #ffffff;
-    padding: 40px;
-    border-radius: 12px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .story-header {
