@@ -412,4 +412,4 @@ bullie (v): bắt nạt
             <div id="results"></div>
         </div>
     </div>
-    <script src="script.js"></script>
+<script src="script.js"></script>
