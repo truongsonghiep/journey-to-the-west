@@ -402,3 +402,14 @@ condemn (v): lên án, chỉ trích
 cranny (n): khe hở, góc khuất
 breastplate (n): giáp ngực
 bullie (v): bắt nạt
+
+<div>
+        <button id="toggleBtn"><span>Từ</span><br><span>Điển</span></button>
+        <div id="sidebar">
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="Nhập từ cần tìm...">
+            </div>
+            <div id="results"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
