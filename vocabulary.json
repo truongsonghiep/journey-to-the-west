@@ -170,7 +170,7 @@
     {
         "word": "baneful",
         "part_of_speech": "adjective",
-        "definition": "gây hại, độc hại"
+        "definition": "tai hại, gây hại, độc hại"
     },
     {
         "word": "offense",
@@ -576,5 +576,190 @@
         "word": "flout",
         "part_of_speech": "verb",
         "definition": "phớt lờ, xem thường, coi thường"
+    },
+    {
+        "word": "scripture",
+        "part_of_speech": "noun",
+        "definition": "Kinh (tài liệu tôn giáo)"
+    },
+    {
+        "word": "impart",
+        "part_of_speech": "verb",
+        "definition": "Truyền đạt, truyền lại."
+    },
+    {
+        "word": "ultimate",
+        "part_of_speech": "adjective",
+        "definition": "Cuối cùng, tối thượng, tuyệt đỉnh."
+    },
+    {
+        "word": "bliss",
+        "part_of_speech": "noun",
+        "definition": "hạnh phúc tột đỉnh, niềm sung sướng vô hạn, sự an lạc hoàn toàn."
+    },
+    {
+        "word": "Guanyin",
+        "part_of_speech": "noun",
+        "definition": "Quan Âm, Bồ Tát của lòng từ bi."
+    },
+    {
+        "word": "Chang'an",
+        "part_of_speech": "noun",
+        "definition": "Trường An (thủ đô của nhiều triều đại trong lịch sử Trung Quốc)"
+    },
+    {
+        "word": "meditation",
+        "part_of_speech": "noun",
+        "definition": "Sự thiền định, sự suy ngẫm."
+    },
+    {
+        "word": "hoard",
+        "part_of_speech": "verb",
+        "definition": "tích trữ."
+    },
+    {
+        "word": "foodstuff",
+        "part_of_speech": "noun",
+        "definition": "thực phẩm, đồ ăn."
+    },
+    {
+        "word": "Buddha",
+        "part_of_speech": "noun",
+        "definition": "Phật, người đã giác ngộ."
+    },
+    {
+        "word": "feather",
+        "part_of_speech": "noun",
+        "definition": "Lông vũ."
+    },
+    {
+        "word": "mustard",
+        "part_of_speech": "noun",
+        "definition": "mù tạt, hạt cải."
+    },
+    {
+        "word": "gently",
+        "part_of_speech": "adverb",
+        "definition": "Một cách nhẹ nhàng."
+    },
+    {
+        "word": "pace",
+        "part_of_speech": "noun",
+        "definition": "Tốc độ di chuyển, nhịp độ."
+    },
+    {
+        "word": "Sovereign Buddha Tathāgata",
+        "part_of_speech": "noun",
+        "definition": "Đức Như Lai Tối Cao."
+    },
+    {
+        "word": "Tathāgata",
+        "part_of_speech": "noun",
+        "definition": "Như Lai (một trong những danh hiệu của Đức Phật)."
+    },
+    {
+        "word": "Buddha of the Western Paradise",
+        "part_of_speech": "noun",
+        "definition": "Phật A Di Đà (Phật của cõi Tây Phương Cực Lạc)."
+    },
+    {
+        "word": "Jade Emperor",
+        "part_of_speech": "noun",
+        "definition": "Ngọc Đế."
+    },
+    {
+        "word": "Treasure Monastery of Thunderclap",
+        "part_of_speech": "noun",
+        "definition": "Lôi Âm Tự."
+    },
+    {
+        "word": "Arhat",
+        "part_of_speech": "noun",
+        "definition": "A La Hán (Người đã giác ngộ, đạt được sự giải thoát)."
+    },
+    {
+        "word": "temple",
+        "part_of_speech": "noun",
+        "definition": "Ngôi đền, chùa, miếu"
+    },
+    {
+        "word": "pennant",
+        "part_of_speech": "noun",
+        "definition": "Cờ hiệu, cờ phướn, cờ đuôi nheo."
+    },
+    {
+        "word": "Spirit Mountain",
+        "part_of_speech": "noun",
+        "definition": "Linh Sơn."
+    },
+    {
+        "word": "end to end",
+        "part_of_speech": "unknown",
+        "definition": "Từ đầu đến cuối, liền mạch, liên tục."
+    },
+    {
+        "word": "draw near",
+        "part_of_speech": "phrasal verb",
+        "definition": "Tiến lại gần, lại gần."
+    },
+    {
+        "word": "disturbance",
+        "part_of_speech": "noun",
+        "definition": "Sự rối loạn, sự quấy rầy."
+    },
+    {
+        "word": "Flower-Fruit Mountain",
+        "part_of_speech": "noun",
+        "definition": "Hoa Quả Sơn."
+    },
+    {
+        "word": "wickedness",
+        "part_of_speech": "noun",
+        "definition": "Sự gian ác, độc ác, xấu xa."
+    },
+    {
+        "word": "submission",
+        "part_of_speech": "noun",
+        "definition": "Sự đầu hàng, sự khuất phục, phục tùng, sự quy phục."
+    },
+    {
+        "word": "refine",
+        "part_of_speech": "verb",
+        "definition": "Tinh chế, lọc bỏ tạp chất."
+    },
+    {
+        "word": "wager",
+        "part_of_speech": "noun",
+        "definition": "Cược"
+    },
+    {
+        "word": "wily",
+        "part_of_speech": "adjective",
+        "definition": "Xảo quyệt, ranh mãnh."
+    },
+    {
+        "word": "millennium",
+        "part_of_speech": "noun",
+        "definition": "Thiên niên kỷ (một nghìn năm)."
+    },
+    {
+        "word": "various",
+        "part_of_speech": "adjective",
+        "definition": "Khác nhau, đa dạng, nhiều loại."
+    },
+    {
+        "word": "incognito",
+        "part_of_speech": "adjective",
+        "definition": "Ẩn danh, giấu mình."
+    },
+    {
+        "word": "depart",
+        "part_of_speech": "verb",
+        "definition": "Rời khỏi, khởi hành."
+    },
+    {
+        "word": "god of the soil",
+        "part_of_speech": "noun",
+        "definition": "Thổ địa."
     }
 ]
