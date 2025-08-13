@@ -403,6 +403,7 @@ cranny (n): khe hở, góc khuất
 breastplate (n): giáp ngực
 bullie (v): bắt nạt
 
+<link rel="stylesheet" href="style.css">
 <div>
         <button id="toggleBtn"><span>Từ</span><br><span>Điển</span></button>
         <div id="sidebar">
