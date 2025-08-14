@@ -1,0 +1,619 @@
+NINE
+# Chen Guangrui, going to his post, meets disaster <br> Monk River Float, avenging his parents, repays his roots
+
+We now tell you about the city of Chang'an in the great nation's Shaanxi
+Province, which was the place that kings and emperors from generation to generation
+had made their capital. Since the periods of Zhou, Qin, and Han,
+Three counties of flowers bloomed like brocade,
+And eight rivers flowed encircling the city.
+
+It was truly a land of great scenic beauty. At this time the emperor Taizong of
+the Great Tang dynasty was on the throne, and the name of his reign was Zhenguan. He
+had been ruling now for thirteen years, and the cyclical name of the year was Jisi.
+
+The whole land was at peace: people came bearing tributes from eight
+directions, and the inhabitants of the whole world called themselves his subjects.
+
+One day Taizong ascended his throne and assembled his civil and military
+officials. After they had paid him homage, the prime minister Wei Zheng left the ranks
+and came forward to memorialize to the Throne, saying, “Since the world now is at
+peace and tranquility reigns everywhere, we should follow the ancient custom and
+establish sites for civil examinations, so that we may invite worthy scholars to come
+here and select those talents who will best serve the work of administration and
+government.”
+
+“Our worthy subject has voiced a sound principle in his memorial,” said
+Taizong. He therefore issued a summons to be proclaimed throughout the empire: in
+every prefecture, county, and town, those who were learned in the Confucian classics,
+who could write with ease and lucidity, and who had passed the three sessions of
+examination, regardless of whether they were soldiers or peasants, would be invited to
+go to Chang'an to take the imperial examination.
+
+This summons reached the place Haizhou, where it was seen by a certain man
+named Chen E (with the courtesy name of Guangrui), who then went straight home to
+talk to his mother, whose maiden name was Zhang. “The court,” he said, “has sent a
+yellow summons, declaring in these southern provinces that there will be examinations
+for the selection of the worthy and the talented. Your child wishes to try out at such an
+examination, for if I manage to acquire an appointment, or even half a post, I would
+become more of a credit to my parents, magnify our name, give my wife a title, benefit
+my son, and bring glory to this house of ours. Such is the aspiration of your son:
+
+I wish to tell my mother plainly before I leave.”
+
+“My son,” said she of the Zhang family, “an educated person „learns when he is
+young, but leaves when he is grown.‟ You should indeed follow this maxim. But as you
+go to the examination, you must be careful on the way, and, when you have secured a
+post, come home quickly.” So Guangrui gave instructions for his family page to pack
+his bags, took leave of his mother, and began his journey. When he reached Chang'an,
+the examination site had just been opened, and he went straight in. He took the
+preliminary tests, passed them, and went to the court examination, where in three
+sessions on administrative policy he took first place, receiving the title “zhuangyuan,” the certificate of which was signed by the Tang emperor‟s own hand. As was the
+custom, he was led through the streets on horseback for three days.
+
+The procession at one point passed by the house of the chief minister, Yin
+Kaishan, who had a daughter named Wenjiao, nicknamed Mantangjiao (A Hall of
+Loveliness). She was not yet married, and at this time she was just about to throw down
+an embroidered ball from high up on a festooned tower in order to select her spouse. It
+happened that Chen Guangrui was passing below the tower. When the young maiden
+saw Guangrui‟s outstanding appearance and knew that he was the recent zhuangyuan of
+the examinations, she was very pleased. She threw down the embroidered ball, which
+just happened to hit the black gauze hat of Guangrui. Immediately, lively music of pipes
+and flutes could be heard throughout the area as scores of maids and serving-girls ran
+down from the tower, took hold of the bridle of Guangrui‟s horse, and led him into the
+residence of the chief minister for the wedding. The chief minister and his wife at once
+came out of their chambers, called together the guests and the master of ceremonies, and
+gave the girl to Guangrui as his bride.
+
+Together, they bowed to Heaven and Earth; then husband and wife bowed to
+each other, before bowing to the father- and mother-inlaw.
+
+The chief minister then gave a big banquet and everyone feasted merrily for a
+whole evening, after which the two of them walked hand in hand into the bridal
+chamber.
+
+At the fifth watch early next morning, Taizong took his seat in the Treasure Hall
+of Golden Chimes as civil and military officials attended the court. Taizong asked,
+“What appointment should the new zhuangyuan receive?”
+
+The prime minister Wei Zheng said, “Your subject has discovered that within
+our territory there is a vacancy at Jiangzhou. I beg my Lord to grant him this post.”
+Taizong at once made him governor of Jiangzhou and ordered him to leave
+without delay. After thanking the emperor and leaving the court, Guangrui went back to
+the house of the chief minister to inform his wife. He took leave of his father- and
+mother-in-law and proceeded with his wife to the new post at Jiangzhou.
+
+As they left Chang'an and went on their journey, the season was late spring:
+
+*A soft wind blew to green the willows;<br>
+A fine rain spotted to redden the flowers.*
+
+As his home was on the way, Guangrui returned to his house where husband and
+wife bowed together to his mother, Lady Zhang.
+
+“Congratulations, my son,” said she of the Zhang family, “you even came back
+with a wife!”
+
+“Your child,” said Guangrui, “relied on the power of your blessing and was able
+to attain the undeserved honor of zhuangyuan. By imperial command I was making a
+tour of the streets when, as I passed by the mansion of Chief Minister Yin, I was hit by
+an embroidered ball. The chief minister kindly gave his daughter to your child to be his
+wife, and His Majesty appointed him governor of Jiangzhou. I have returned to take you
+with me to the post.” She of the Zhang family was delighted and packed at once for the
+journey.
+
+They had been on the road for a few days when they came to stay at the Inn of
+Ten Thousand Flowers, kept by a certain Liu Xiaoer.
+
+She of the Zhang family suddenly became ill and said to Guangrui, “I don‟t feel
+well at all. Let‟s rest here for a day or two before we journey again.”
+
+Guangrui obeyed. Next morning there was a man outside the inn holding a
+golden carp for sale, which Guangrui bought for a string of coins. He was about to have
+it cooked for his mother when he saw that the carp was blinking its eyes vigorously.
+In astonishment, Guangrui said, “I have heard that when a fish or a snake blinks
+its eyes in this manner, that‟s the sure sign that it‟s not an ordinary creature!”
+
+He therefore asked the fisherman, “Where did you catch this fish?”
+
+“I caught it,” said the fisherman, “from the river Hong, some fifteen miles from
+this district.”
+
+Accordingly, Guangrui sent the live fish back to the river and returned to the inn
+to tell his mother about it. “It is a good deed to release living creatures from captivity,”
+said she of the Zhang family. “I am very pleased.”
+
+“We have stayed in this inn now for three days,” said Guangrui. “The imperial
+command is an urgent one. Your child intends to leave tomorrow, but he would like to
+know whether mother has fully recovered.” She of the Zhang family said, “I‟m still not
+well, and the heat on the journey at this time of year, I fear, will only add to my illness.
+Why don‟t you rent a house for me to stay here temporarily and leave me an allowance?
+The two of you can proceed to your new post. By autumn, when it‟s cool, you can come
+fetch me.”
+
+Guangrui discussed the matter with his wife; they duly rented a house for her
+and left some cash with her, after which they took leave and left.
+
+They felt the fatigue of traveling, journeying by day and resting by night, and
+they soon came to the crossing of the Hong River, where two boatmen, Liu Hong and Li
+Biao, took them into their boat. It happened that Guangrui was destined in his previous
+incarnation to meet this calamity, and so he had to come upon these fated enemies of
+his. After ordering the houseboy to put the luggage on the boat, Guangrui and his wife
+were just about to embark when Liu Hong noticed the beauty of Lady Yin, who had a
+face like a full moon, eyes like autumnal water, a small, cherrylike mouth, and a tiny,
+willowlike waist. Her features were striking enough to sink fishes and drop wild geese,
+and her complexion would cause the moon to hide and put the flowers to shame. Stirred
+at once to cruelty, he plotted with Li Biao; together they punted the boat to an isolated
+area and waited until the middle of the night. They killed the houseboy first, and then
+they beat Guangrui to death, pushing both bodies into the water. When the lady saw that
+they had killed her husband, she made a dive for the water, but Liu Hong threw his arms
+around her and caught her. “If you consent to my demand,” he said, “everything will be
+all right. If you do not, this knife will cut you in two!” Unable to think of any better
+plan, the lady had to give her consent for the time being and yielded herself to Liu
+Hong. The thief took the boat to the south bank, where he turned the boat over to the
+care of Li Biao. He himself put on Guangrui‟s cap and robe, took his credentials, and
+proceeded with the lady to the post at Jiangzhou.
+
+We should now tell you that the body of the houseboy killed by Liu Hong
+drifted away with the current. The body of Chen Guangrui, however, sank to the bottom
+of the water and stayed there. A yakṣ on patrol at the mouth of the Hong River saw it
+and rushed into the Dragon Palace. The Dragon King was just holding court when the
+yakṣ entered to report, saying, “A scholar has been beaten to death at the mouth of the
+Hong River by some unknown person, and his body is now lying at the bottom of the
+water.”
+
+The Dragon King had the corpse brought in and laid before him. He took a
+careful look at it and said, “But this man was my benefactor! How could he have been
+murdered? As the common saying goes, „Kindness should be paid by kindness.‟ I must
+save his life today so that I may repay the kindness of yesterday.”
+
+He at once issued an official dispatch, sending a yakṣ to deliver it to the
+municipal deity and local spirit of Hongzhou, and asked for the soul of the scholar so
+that his life might be saved. The municipal deity and the local spirit in turn ordered the
+little demons to hand over the soul of Chen Guangrui to the yakṣ, who led the soul back
+to the Water Crystal Palace for an audience with the Dragon King.
+
+“Scholar,” asked the Dragon King, “what is your name? Where did you come
+from? Why did you come here, and for what reason were you beaten to death?”
+
+Guangrui saluted him and said, “This lowly student is named Chen E, and my
+courtesy name is Guangrui. I am from the Hongnong district of Haizhou. As the
+unworthy zhuangyuan of the recent session of examination, I was appointed by the court
+to be governor of Jiangzhou, and I was going to my post with my wife. When I took a
+boat at the river, I did not expect the boatman, Liu Hong, to covet my wife and plot
+against me. He beat me to death and tossed out my body. I beg the Great King to save
+me.”
+
+Hearing these words, the Dragon King said, “So, that‟s it! Good sir, the golden
+carp that you released earlier was myself. You are my benefactor. You may be in dire
+difficulty at the moment, but is there any reason why I should not come to your
+assistance?”
+
+He therefore laid the body of Guangrui to one side, and put a preservative pearl
+in his mouth so that his body would not deteriorate but be reunited with his soul to
+avenge himself in the future. He also said, “Your true soul may remain temporarily in
+my Water Bureau as an officer.”
+
+Guangrui kowtowed to thank him, and the Dragon King prepared a banquet to
+entertain him, but we shall say no more about that. We now tell you that Lady Yin hated
+the bandit Liu so bitterly that she wished she could devour his flesh and sleep on his
+skin! But because she was with child and did not know whether it would be a boy or a
+girl, she had no alternative but to yield reluctantly to her captor. In a little while they
+arrived at Zhiangzhou; the clerks and the lictors all came to meet them, and all the
+subordinate officials gave a banquet for them at the governor‟s mansion. Liu Hong said,
+“Having come here, a student like me is utterly dependent on the support and assistance
+of you gentlemen.”
+
+“Your Honor,” replied the officials, “is first in the examinations and a major
+talent. You will, of course, regard your people as your children; your public declarations
+will be as simple as your settlement of litigation is fair. We subordinates are all
+dependent on your leadership, so why should you be unduly modest?” When the official
+banquet ended, the people all left.
+
+Time passed by swiftly. One day, Liu Hong went far away on official business,
+while Lady Yin at the mansion was thinking of her mother-in-law and her husband and
+sighing in the garden pavilion. Suddenly she was seized by tremendous fatigue and
+sharp pains in her belly. Falling unconscious to the ground, she gave birth to a son.
+Presently she heard someone whispering in her ear:
+
+“Mantangjiao, listen carefully to what I have to say. I am the Star Spirit of South
+Pole, who sends you this son by the express command of the Bodhisattva Guanyin. One
+day his name will be known far and wide, for he is not to be compared with an ordinary
+mortal. But when the bandit Liu returns, he will surely try to harm the child, and you
+must take care to protect him. Your husband has been rescued by the Dragon King; in
+the future both of you will meet again even as son and mother will be reunited. A day
+will come when wrongs will be redressed and crimes punished. Remember my words!
+Wake up! Wake up!”
+
+The voice ceased and departed. The lady woke up and remembered every word;
+she clasped her son tightly to her but could devise no plan to protect him. Liu Hong then
+returned and wanted to have the child killed by drowning the moment he saw him. The
+lady said, “Today it‟s late already. Allow him to live till tomorrow and then have him
+thrown into the river.” It was fortunate that Liu Hong was called away by urgent
+business the next morning. The lady thought to herself:
+
+“If this child is here when that bandit returns, his life is finished! I might as well
+abandon him now to the river, and let life or death take its own course. Perhaps Heaven,
+taking pity on him, will send someone to his rescue and to have him cared for. Then we
+may have a chance to meet again.” She was afraid, however, that future recognition
+would be difficult; so she bit her finger and wrote a letter with her blood, stating in
+detail the names of the parents, the family history, and the reason for the child‟s
+abandonment. She also bit off a little toe from the child‟s left foot to establish a mark of
+his identity. Taking one of her own inner garments she wrapped the child and took him
+out of the mansion when no one was watching. Fortunately the mansion was not far
+from the river. Reaching the bank, the lady burst into tears and wailed long and loud.
+She was about to toss the child into the river when she caught sight of a plank floating
+by the river bank. At once she prayed to Heaven, after which she placed the child on the
+plank and tied him securely to it with some rope. She fastened the letter written in blood
+to his chest, pushed the plank out into the water, and let it drift away. With tears in her
+eyes, the lady went back to the mansion, but we shall say no more of that.
+
+Now we shall tell you about the boy on the plank, which floated with the current
+until it came to a standstill just beneath the Temple of Gold Mountain. The abbot of this
+temple was called Monk Faming. In the cultivation of perfection and comprehension of
+truth, he had attained already the wondrous secret of birthlessness. He was sitting in
+meditation when all at once he heard an infant crying.
+
+Moved by this, he went quickly down to the river to have a look, and discovered
+the baby lying there on a plank at the edge of the water. The abbot quickly lifted him
+out of the water. When he read the letter in blood fastened to his chest, he learned of the
+child‟s origin. He then gave him the baby name River Float and arranged for someone
+to nurse and care for him, while he himself kept the letter written in blood safely hidden.
+Time passed by like an arrow, and the seasons like a weaver‟s shuttle; River Float soon
+reached his eighteenth year. The abbot had his hair shaved and asked him to join in the
+practice of austerities, giving him the religious name Xuanzang. Having had his head
+touched and having received the commandments, Xuanzang pursued the Way with great
+determination.
+
+One day in late spring, the various monks gathered in the shade of pine trees
+were discussing the canons of Chan and debating the fine points of the mysteries. One
+feckless monk, who happened to have been completely outwitted by Xuanzang‟s
+questions, shouted angrily, “You damnable beast! You don‟t even know your own
+name, and you are ignorant of your own parents! Why are you still hanging around here
+playing tricks on people?” When Xuanzang heard such language of rebuke, he went into
+the temple and knelt before the master, saying with tears flowing from his eyes,
+“Though a human being born into this world receives his natural endowments from the
+forces of yin and yang and from the Five Phases, he is always nurtured by his parents.
+How can there be a person in this world who has no father or mother?” Repeatedly and
+piteously he begged for the names of his parents. The abbot said, “If you truly wish to
+seek your parents, you may follow me to my cell.” Xuanzang duly followed him to his
+cell, where, from the top of a heavy crossbeam, the abbot took down a small box.
+Opening the box, he took out a letter written in blood and an inner garment and gave
+them to Xuanzang. Only after he had unfolded the letter and read it did Xuanzang learn
+the names of his parents and understand in detail the wrongs that had been done them.
+
+When Xuanzang finished reading, he fell weeping to the floor, saying, “How can
+anyone be worthy to bear the name of man if he cannot avenge the wrongs done to his
+parents? For eighteen years, I have been ignorant of my true parents, and only this day
+have I learned that I have a mother! And yet, would I have even reached this day if my
+master had not saved me and cared for me? Permit your disciple to go seek my mother.
+Thereafter, I will rebuild this temple with an incense bowl on my head, and repay the
+profound kindness of my teacher.”
+
+“If you desire to seek your mother,” said the master, “you may take this letter in
+blood and the inner garment with you. Go as a mendicant monk to the private quarters
+at the governor‟s mansion of Jiangzhou. You will then be able to meet your mother.”
+Xuanzang followed the words of his master and went to Jiangzhou as a mendicant
+monk. It happened that Liu Hong was out on business, for Heaven had planned that
+mother and child should meet. Xuanzang went straight to the door of the private
+quarters of the governor‟s mansion to beg for alms. Lady Yin, you see, had had a dream
+the night before in which she saw a waning moon become full again. She thought to
+herself, “I have no news from my mother-in-law; my husband was murdered by this
+bandit; my son was thrown into the river. If by chance someone rescued him and had
+him cared for, he must be eighteen by now. Perhaps Heaven wished us to be reunited
+today. Who can tell?”
+
+As she was pondering the matter in her heart, she suddenly heard someone
+reciting the scriptures outside her residence and crying repeatedly, “Alms! Alms!”
+
+At a convenient moment, the lady slipped out and asked him, “Where did you
+come from?”
+
+“Your poor monk,” said Xuanzang, “is the disciple of Faming, abbot of the
+Temple of Gold Mountain.”
+
+“So you are the disciple of the abbot of that temple?” she asked and invited him
+into the mansion and served him some vegetables and rice. Watching him closely, she
+noticed that in speech and manner he bore a remarkable resemblance to her husband.
+The lady sent her maid away and then asked, “Young master! Did you leave your family
+as a child or when you grew up? What are your given name and your surname? Do you
+have any parents?”
+
+“I did not leave my family when I was young,” replied Xuanzang, “nor did I do
+so when I grew up. To tell you the truth, I have a wrong to avenge great as the sky, an
+enmity deep as the sea. My father was a murder victim, and my mother was taken by
+force.
+
+My master the abbot Faming told me to seek my mother in the governor‟s
+mansion of Jiangzhou.”
+
+“What is your mother‟s surname?” asked the lady. “My mother‟s surname is
+Yin,” said Xuanzang, “and her given name is Wenjiao.
+
+My father‟s surname is Chen and his given name is Guangrui. My nickname is
+River Float, but my religious name is Xuanzang.”
+
+“I am Wenjiao,” said the lady, “but what proof have you of your identity?”
+When Xuanzang heard that she was his mother, he fell to his knees and wept most
+grievously. “If my own mother doesn‟t believe me,” he said, “you may see the proof in
+this letter written in blood and this inner garment.” Wenjiao took them in her hands, and
+one look told her that they were the real things. Mother and child embraced each other
+and wept.
+
+Lady Yin then cried, “My son, leave at once!”
+
+“For eighteen years I have not known my true parents,” said Xuanzang, “and
+I‟ve seen my mother for the first time only this morning. How could your son bear so
+swift a separation?”
+
+“My son,” said the lady, “leave at once, as if you were on fire! If that bandit Liu
+returns, he will surely take your life. I shall pretend to be ill tomorrow and say that I
+must go to your temple and fulfill a vow I made in a previous year to donate a hundred
+pairs of monk shoes. At that time I shall have more to say to you.” Xuanzang followed
+her bidding and bowed to take leave of her.
+
+We were speaking of Lady Yin, who, having seen her son, was filled with both
+anxiety and joy. The next day, under the pretext of being sick, she lay on her bed and
+would take neither tea nor rice. Liu Hong returned to the mansion and questioned her.
+“When I was young,” said Lady Yin, “I vowed to donate a hundred pairs of monk
+shoes. Five days ago, I dreamed that a monk demanded those shoes of me, holding a
+knife in his hand. From then on, I did not feel well.”
+
+“Such a small matter!” said Liu Hong. “Why didn‟t you tell me earlier?”
+
+He at once went up to the governor‟s hall and gave the order to his stewards
+Wang and Li that a hundred families of the city were each to bring in a pair of monk
+shoes within five days. The families obeyed and completed their presentations. “Now
+that we have the shoes,” said Lady Yin to Liu Hong, “what kind of temple do we have
+nearby that I can go to fulfill my vow?” Liu Hong said, “There is a Temple of Gold
+Mountain here in Jiangzhou as well as a Temple of Burned Mountain. You may go to
+whichever one you choose.”
+
+“I have long heard,” said the lady, “that the Temple of Gold Mountain is a very
+good one. I shall go there.” Liu Hong at once gave the order to his stewards Wang and
+Li to prepare a boat. Lady Yin took a trusted companion with her and boarded the boat.
+
+The boatmen poled it away from the shore and headed for the Temple of Gold
+Mountain.
+
+We now tell you about Xuanzang, who returned to the temple and told the abbot
+Faming what had happened. The next day, a young housemaid arrived to announce that
+her mistress was coming to the temple to fulfill a vow she had made. All the monks
+came out of the temple to receive her. The lady went straight inside to worship the
+Bodhisattva and to give a great vegetarian banquet. She ordered the housemaid to put
+the monk shoes and stockings in trays and have them brought into the main ceremonial
+hall. After the lady had again worshipped with extreme devoutness, she asked the abbot
+Faming to distribute the gifts to the various monks before they dispersed. When
+Xuanzang saw that all the monks had left and that there was no one else in the hall, he
+drew near and knelt down. The lady asked him to remove his shoes and stockings, and
+she saw that there was, indeed, a small toe missing from his left foot. Once again, the
+two of them embraced and wept. They also thanked the abbot for his kindness in
+fostering the youth.
+
+Faming said, “I fear that the present meeting of mother and child may become
+known to that wily bandit. You must leave speedily so that you may avoid any harm.”
+
+“My son,” the lady said, “let me give you an incense ring. Go to Hongzhou,
+about fifteen hundred miles northwest of here, where you will find the Ten Thousand
+Flowers Inn. Earlier we left an aged woman there whose maiden name is Zhang and
+who is the true mother of your father. I have also written a letter for you to take to the
+capital of the Tang emperor. To the left of the Golden Palace is the house of Chief
+Minister Yin, who is the true father of your mother. Give my letter to your maternal
+grandfather, and ask him to request the Tang emperor to dispatch men and horses to
+have this bandit arrested and executed, so that your father may be avenged. Only then
+will you be able to rescue your old mother. I dare not linger now, for I fear that knave
+may be offended by my returning late.” She went out of the temple, boarded the boat,
+and left.
+
+Xuanzang returned weeping to the temple. He told his master everything and
+bowed to take leave of him immediately. Going straight to Hongzhou, he came to the
+Ten Thousand Flowers Inn and addressed the innkeeper, Liu Xiaoer, saying, “In a
+previous year there was an honored guest here by the name of Chen whose mother
+remained at your inn. How is she now?”
+
+“Originally,” said Liu Xiaoer, “she stayed in my inn. Afterwards she went blind,
+and for three or four years did not pay me any rent. She now lives in a dilapidated
+potter‟s kiln near the Southern Gate, and every day she goes begging on the streets.
+Once that honored guest had left, he was gone for a long time, and even now there is no
+news of him whatever. I can‟t understand it.” When Xuanzang heard this, he went at
+once to the dilapidated potter‟s kiln at the Southern Gate and found his grandmother.
+The grandmother said, “Your voice sounds very much like that of my son Chen
+Guangrui.”
+
+“I‟m not Chen Guangrui,” said Xuanzang, “but only his son! Lady Wenjiao is
+my mother.”
+
+“Why didn‟t your father and mother come back?” asked the grandmother. “My
+father was beaten to death by bandits,” said Xuanzang, “and one of them forced my
+mother to be his wife.”
+
+“How did you know where to find me?” asked the grandmother. “It was my
+mother,” answered Xuanzang, “who told me to seek my grandmother. There‟s a letter
+from mother here and there‟s also an incense ring.”
+
+The grandmother took the letter and the incense ring and wept without restraint.
+“For merit and reputation,” she said, “my son came to this! I thought that he had turned
+his back on righteousness and had forgotten parental kindness. How should I know that
+he was murdered? Fortunately, Heaven remembered me at least in pity, and this day a
+grandson has come to seek me out.”
+
+“Grandmother,” asked Xuanzang, “how did you go blind?”
+
+“Because I thought so often about your father,” said the grandmother. “I waited
+for him daily, but he did not return. I wept until I was blind in both eyes.” Xuanzang
+knelt down and prayed to Heaven, saying, “Have regard of Xuanzang who, at the age of
+eighteen, has not yet avenged the wrong done to his parents. By the command of my
+mother, I came this day to find my grandmother. If Heaven would take pity on my
+sincerity, grant that the eyes of my grandmother regain their sight.” When he finished
+his petition, he licked the eyes of his grandmother with the tip of his tongue. In a
+moment, both eyes were licked open and they were as of old. When the grandmother
+saw the youthful monk, she said, “You‟re indeed my grandson! Why, you are just like
+my son Guangrui!” She felt both happy and sad. Xuanzang led his grandmother out of
+the kiln and went back to Liu Xiaoer‟s inn, where he rented a room for her to stay. He
+also gave her some money, saying, “In a little more than a month‟s time, I‟ll be back.”
+
+Taking leave of his grandmother, he went straight to the capital and found his
+way to the house of the chief minister Yin on the eastern street of the imperial city. He
+said to the porter, “This little monk is a kinsman who has come to visit the chief
+minister.”
+
+The porter made the report to the chief minister, who replied, “I‟m not related to
+any monk!”
+
+But his wife said, “I dreamed last night that my daughter Mantangjiao came
+home. Could it be that our son-in-law has sent us a letter?”
+
+The chief minister therefore had the little monk shown to the living room. When
+he saw the chief minister and his wife, he fell weeping to the floor. Taking a letter from
+within the folds of his robe, he handed it over to the chief minister. The chief minister
+opened it, read it from beginning to end, and wept without restraint. “Your Excellency,
+what is the matter?” asked his wife. “This monk,” said the chief minister, “is our
+grandson. Our son-in-law, Chen Guangrui, was murdered by bandits, and Mantangjiao
+was made the wife of the murderer by force.” When the wife heard this, she too wept
+inconsolably.
+
+“Let our lady restrain her grief,” said the chief minister. “Tomorrow morning I
+shall present a memorial to our Lord. I shall lead the troops myself to avenge our sonin-law.”
+
+The next day, the chief minister went into court to present his memorial to the
+Tang emperor, which read:
+
+The son-in-law of your subject, the zhuangyuan Chen Guangrui, was proceeding to his post at Jiangzhou
+with members of his family. He was beaten to death by the boatman Liu Hong, who then took our
+daughter by force to be his wife. He pretended to be the son-in-law of your subject and usurped his post
+for many years. This is indeed a shocking and tragic incident. I beg Your Majesty to dispatch horses and
+men at once to exterminate the bandits.
+
+The Tang emperor saw the memorial and became exceedingly angry. He
+immediately called up sixty thousand imperial soldiers and ordered the chief minister
+Yin to lead them forth. The chief minister took the decree and left the court to make the
+roll call for the troops at the barracks. They proceeded immediately toward Jiangzhou,
+journeying by day and resting by night, and they soon reached the place. Horses and
+men pitched camps on the north shore, and that very night, the chief minister summoned
+with golden tablets the Subprefect and County Judge of Jiangzhou to his camp. He
+explained to the two of them the reason for the expedition and asked for their military
+assistance. They then crossed the river and, before the sky was light, had the mansion of
+Liu Hong completely surrounded. Liu Hong was still in his dreams when at the shot of a
+single cannon and the unisonous roll of drums, the soldiers broke into the private
+quarters of the mansion. Liu Hong was seized before he could offer any resistance. The
+chief minister had him and the rest of the prisoners bound and taken to the field of
+execution, while the rest of the soldiers pitched camp outside the city.
+
+Taking a seat in the great hall of the mansion, the chief minister invited the lady
+to come out to meet him. She was about to do so but was overcome by shame at seeing
+her father again, and wanted to hang herself right there. Xuanzang learned of this and
+rushed inside to save his mother. Falling to his knees, he said to her, “Your son and his
+grandfather led the troops here to avenge father. The bandit has already been captured.
+Why does mother want to die now? If mother were dead, how could your son possibly
+remain alive?”
+
+The chief minister also went inside to offer his consolation. “I have heard,” said
+the lady, “that a woman follows her spouse to the grave.
+
+My husband was murdered by this bandit, causing me dreadful grief. How could
+I yield so shamefully to the thief? The child I was carrying—that was my sole lease on
+life that helped me bear my humiliation! Now that my son is grown and my old father
+has led troops to avenge our wrong, I who am the daughter have little face left for my
+reunion. I can only die to repay my husband!”
+
+“My child,” said the chief minister, “you did not alter your virtue according to
+prosperity or adversity. You had no choice! How can this be regarded as shame?”
+
+Father and daughter embraced, weeping; Xuanzang also could not contain his
+emotion. Wiping away his tears, the chief minister said, “The two of you must sorrow
+no more. I have already captured the culprit, and I must now dispose of him.”
+
+He got up and went to the execution site, and it happened that the Subprefect of
+Jiangzhou had also apprehended the pirate Li Biao, who was brought by sentinels to the
+same place. Highly pleased, the chief minister ordered Liu Hong and Li Biao to be
+flogged a hundred times with large canes. Each signed an affidavit, giving a thorough
+account of the murder of Chen Guangrui. First Li Biao was nailed to a wooden ass, and
+after it had been pushed to the marketplace, he was cut to pieces and his head exposed
+on a pole for all to see. Liu Hong was then taken to the crossing at the Hong River, to
+the exact spot where he had beaten Chen Guangrui to death. The chief minister, the
+lady, and Xuanzang all went to the bank of the river, and as libations they offered the
+heart and liver of Liu Hong, which had been gouged out from him live. Finally, an essay
+eulogizing the deceased was burned.
+
+Facing the river the three persons wept without restraint, and their sobs were
+heard down below in the water region. A yakṣa patrolling the waters brought the essay
+in its spirit form to the Dragon King, who read it and at once sent a turtle marshal to
+fetch Guangrui. “Sir,” said the king, “Congratulations! Congratulations! At this
+moment, your wife, your son, and your father-in-law are offering sacrifices to you at the
+bank of the river. I am now letting your soul go so that you may return to life. We are
+also presenting you with a pearl of wish fulfillment, two rolling-pan pearls, ten bales of
+mermaid silk, and a jade belt with lustrous pearls. Today you will enjoy the reunion of
+husband and wife, mother and son.”
+
+After Guangrui had given thanks repeatedly, the Dragon King ordered a yakṣa to
+escort his body to the mouth of the river and there to return his soul. The yakṣa followed
+the order and left.
+
+We tell you now about Lady Yin, who, having wept for some time for her
+husband, would have killed herself again by plunging into the water if Xuanzang had
+not desperately held on to her. They were struggling pitifully when they saw a dead
+body floating toward the river bank. The lady hurriedly went forward to look at it.
+Recognizing it as her husband‟s body, she burst into even louder wailing.
+As the other people gathered around to look, they suddenly saw Guangrui
+unclasping his fists and stretching his legs. The entire body began to stir, and in a
+moment he clambered up to the bank and sat down, to the infinite amazement of
+everyone. Guangrui opened his eyes and saw Lady Yin, the chief minister Yin, his
+father-in-law, and a youthful monk, all weeping around him. “Why are you all here?”
+said Guangrui.
+
+“It all began,” said Lady Yin, “when you were beaten to death by bandits.
+Afterwards your unworthy wife gave birth to this son, who is fortunate enough to have
+been brought up by the abbot of the Gold Mountain Temple. The abbot sent him to meet
+me, and I told him to go seek his maternal grandfather. When father heard this, he made
+it known to the court and led troops here to arrest the bandits.
+
+Just now we took out the culprit‟s liver and heart live to offer to you as libations,
+but I would like to know how my husband‟s soul is able to return to give him life.”
+
+Guangrui said, “That‟s all on account of our buying the golden carp, when you
+and I were staying at the Inn of Ten Thousand Flowers. I released that carp, not
+knowing that it was none other than the Dragon King of this place. When the bandits
+pushed me into the river afterward, he was the one who came to my rescue. Just now he
+was also the one who gave me back my soul as well as many precious gifts, which I
+have here with me. I never even knew that you had given birth to this boy, and I am
+grateful that my father-in-law has avenged me. Indeed, bitterness has passed and
+sweetness has come! What unsurpassable joy!” When the various officials heard about
+this, they all came to tender their congratulations. The chief minister then ordered a
+great banquet to thank his subordinates, after which the troops and horses on the very
+same day began their march homeward. When they came to the Inn of Ten Thousand
+Flowers, the chief minister gave order to pitch camp. Guangrui went with Xuanzang to
+the Inn of Liu to seek the grandmother, who happened to have dreamed the night before
+that a withered tree had blossomed. Magpies behind her house were chattering
+incessantly as well. She thought to herself, “Could it be that my grandson is coming?”
+
+Before she had finished talking to herself, father and son arrived together. The
+youthful monk pointed to her and said, “Isn‟t this my grandmother?” When Guangrui
+saw his aged mother, he bowed in haste; mother and son embraced and wept without
+restraint for a while. After recounting to each other what had happened, they paid the
+innkeeper his bill and set out again for the capital. When they reached the chief
+minister‟s residence, Guangrui, his wife, and his mother all went to greet the chief
+minister‟s wife, who was overjoyed. She ordered her servants to prepare a huge banquet
+to celebrate the occasion. The chief minister said, “This banquet today may be named
+the Festival of Reunion, for truly our whole family is rejoicing.”
+
+Early the next morning, the Tang emperor held court, during which time the
+chief minister Yin left the ranks to give a careful report on what had taken place. He
+also recommended that a talent like Guangrui‟s be used in some important capacity. The
+Tang emperor approved the memorial, and ordered that Chen E be promoted to
+Subchancellor of the Grand Secretariat so that he could accompany the court and carry
+out its policies. Xuanzang, determined to follow the way of Zen, was sent to practice
+austerities at the Temple of Infinite Blessing. Some time after this, Lady Yin calmly
+committed suicide after all, and Xuanzang went back to the Gold Mountain Temple to
+repay the kindness of abbot Faming. We do not know how things went thereafter; let‟s
+listen to the explanation in the next chapter.
+
+<link rel="stylesheet" href="style.css">
+<div>
+    <button id="toggleBtn"><span>Từ</span><br><span>Điển</span></button>
+    <div id="sidebar">
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Nhập từ cần tìm...">
+        </div>
+        <div id="results"></div>
+    </div>
+</div>
+<script src="script.js"></script>
