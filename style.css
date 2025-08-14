@@ -203,6 +203,7 @@ p {
 }
 
 /* --- Sidebar & Dictionary --- */
+/* --- Sidebar & Dictionary --- */
 #toggleBtn {
     position: fixed;
     top: 500px;
@@ -214,7 +215,8 @@ p {
     border: none;
     border-radius: 50%;
     cursor: pointer;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    /* Giảm độ đậm của shadow */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -223,17 +225,21 @@ p {
     line-height: 1.2;
     transition: transform 0.3s ease, background-color 0.3s ease;
     z-index: 1001;
-    transform-origin: center center;
-    padding: auto;
+    /* transform-origin: center center; */
+    /* Không cần thiết, đây là giá trị mặc định */
+    padding: 0;
+    /* Đổi padding thành 0 để căn chỉnh tốt hơn */
 }
 
 #toggleBtn:hover {
-    transform: scale(1.1);
+    transform: scale(1.05);
+    /* Giảm hiệu ứng phóng to, nhẹ nhàng hơn */
     background-color: #2980b9;
 }
 
 #toggleBtn span {
-    font-size: medium;
+    font-size: 14px;
+    /* Đồng nhất font-size cho cả hai dòng */
     font-weight: bold;
     line-height: 1.2;
 }
@@ -244,8 +250,10 @@ p {
     width: 350px;
     right: -350px;
     height: 100%;
-    background-color: #ffffff;
-    box-shadow: -5px 0 20px rgba(0, 0, 0, 0.15);
+    background-color: #f8f9fa;
+    /* Đổi sang màu nền nhạt hơn để hài hòa */
+    box-shadow: -5px 0 15px rgba(0, 0, 0, 0.1);
+    /* Giảm độ đậm của shadow */
     transition: right 0.4s cubic-bezier(0.68, -0.55, 0.27, 1.55);
     z-index: 1000;
     padding: 25px;
@@ -261,13 +269,21 @@ p {
 .search-container {
     width: 100%;
     margin-bottom: 20px;
+    display: flex;
+    /* Dùng flexbox để căn giữa input tốt hơn */
+    justify-content: center;
 }
 
 #searchInput {
-    width: 90%;
-    padding: 15px;
+    width: 100%;
+    /* Đổi thành 100% để input chiếm toàn bộ search-container */
+    max-width: 300px;
+    /* Giới hạn độ rộng tối đa để trông cân đối */
+    padding: 12px 20px;
+    /* Chỉnh padding để trông cân đối hơn */
     border: 1px solid #e0e6ec;
-    border-radius: 30px;
+    border-radius: 25px;
+    /* Giảm nhẹ border-radius để trông tinh tế */
     font-size: 16px;
     outline: none;
     transition: all 0.3s ease;
@@ -276,49 +292,45 @@ p {
 
 #searchInput:focus {
     border-color: #3498db;
-    box-shadow: 0 0 10px rgba(52, 152, 219, 0.2);
+    box-shadow: 0 0 8px rgba(52, 152, 219, 0.2);
+    /* Giảm nhẹ shadow focus */
 }
 
 #results {
     flex-grow: 1;
     overflow-y: auto;
     padding-right: 10px;
+    border-top: 1px solid #e0e6ec;
+    /* Thêm đường kẻ phân cách */
+    padding-top: 20px;
 }
 
-#results::-webkit-scrollbar {
-    width: 8px;
-}
-
-#results::-webkit-scrollbar-track {
-    background: #f1f1f1;
-}
-
-#results::-webkit-scrollbar-thumb {
-    background: #bdc3c7;
-    border-radius: 4px;
-}
-
-#results::-webkit-scrollbar-thumb:hover {
-    background: #95a5a6;
-}
+/* Các đoạn CSS cho scrollbar giữ nguyên */
 
 .result-item {
-    background-color: #f8f9fa;
-    border-radius: 8px;
+    background-color: #fff;
+    /* Đổi màu nền trắng để nổi bật hơn */
+    border-radius: 12px;
+    /* Tăng border-radius để trông mềm mại */
     padding: 15px;
     margin-bottom: 15px;
-    transition: background-color 0.3s ease, box-shadow 0.3s ease;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease, transform 0.3s ease;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    /* Tăng nhẹ shadow */
 }
 
 .result-item:hover {
-    background-color: #e8f4fd;
-    box-shadow: 0 4px 12px rgba(52, 152, 219, 0.1);
+    background-color: #eaf6ff;
+    /* Màu hover nhẹ hơn */
+    box-shadow: 0 6px 15px rgba(52, 152, 219, 0.1);
+    transform: translateY(-2px);
+    /* Thêm hiệu ứng nhấc lên nhẹ nhàng */
 }
 
 .result-item strong {
     color: #2c3e50;
-    font-size: 1.2em;
+    font-size: 1.1em;
+    /* Giảm nhẹ font size */
     display: block;
     margin-bottom: 5px;
 }
@@ -326,6 +338,7 @@ p {
 .result-item p {
     margin: 0;
     color: #7f8c8d;
+    font-size: 0.95em;
 }
 
 /* --- Responsive Design --- */

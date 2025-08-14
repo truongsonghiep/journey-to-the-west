@@ -4,6 +4,16 @@
         "definition": "A bodhisattva associated with compassion."
     },
     {
+        "word": "Three August Ones",
+        "part_of_speech": "noun",
+        "definition": "Tam Hoàng (Ba vị vua cổ đại trung quốc)."
+    },
+    {
+        "word": "Five Thearchs",
+        "part_of_speech": "noun",
+        "definition": "Ngũ Đế (Năm vị vua cổ đại trung quốc)."
+    },
+    {
         "word": "pupil",
         "part_of_speech": "noun",
         "definition": "đệ tử, học trò."
@@ -36,7 +46,7 @@
     {
         "word": "Great Sage",
         "definition": "A title referring to the character Sun Wukong, the Monkey King."
-    }, 
+    },
     {
         "word": "inquire",
         "part_of_speech": "verb",
@@ -796,5 +806,405 @@
         "word": "prefecture",
         "part_of_speech": "noun",
         "definition": "Tỉnh (tương đương province)"
+    },
+    {
+        "word": "brocade",
+        "part_of_speech": "noun",
+        "definition": "Gấm thêu."
+    },
+    {
+        "word": "ascend",
+        "part_of_speech": "verb",
+        "definition": "Lên, thăng tiến, leo lên."
+    },
+    {
+        "word": "tranquility",
+        "part_of_speech": "noun",
+        "definition": "Sự yên bình, sự tĩnh lặng, thanh bình"
+    },
+    {
+        "word": "Haizhou",
+        "part_of_speech": "noun",
+        "definition": "Hải Châu"
+    },
+    {
+        "word": "Zhuangyuan",
+        "part_of_speech": "noun",
+        "definition": "Trạng nguyên (người đỗ đầu trong kỳ thi)."
+    },
+    {
+        "word": "procession",
+        "part_of_speech": "noun",
+        "definition": "Đoàn diễu hành, đoàn rước, đám rước."
+    },
+    {
+        "word": "spouse",
+        "part_of_speech": "noun",
+        "definition": "Vợ hoặc chồng."
+    },
+    {
+        "word": "chief minister",
+        "part_of_speech": "noun",
+        "definition": "Thủ tướng, Thừa tướng (quan lại ngày xưa)."
+    },
+    {
+        "word": "merrily",
+        "part_of_speech": "adverb",
+        "definition": "Vui vẻ, hớn hở."
+    },
+    {
+        "word": "bridal",
+        "part_of_speech": "adjective",
+        "definition": "Liên quan đến cô dâu, đám cưới."
+    },
+    {
+        "word": "governor",
+        "part_of_speech": "noun",
+        "definition": "Thống đốc, Tri Châu."
+    },
+    {
+        "word": "vacancy",
+        "part_of_speech": "noun",
+        "definition": "Chức vụ bỏ trống, vị trí còn trống."
+    },
+    {
+        "word": "Jiangzhou",
+        "part_of_speech": "noun",
+        "definition": "Giang Châu"
+    },
+    {
+        "word": "astonishment",
+        "part_of_speech": "noun",
+        "definition": "Sự ngạc nhiên, kinh ngạc."
+    },
+    {
+        "word": "allowance",
+        "part_of_speech": "noun",
+        "definition": "Tiền trợ cấp, tiền tiêu vặt, tiền cấp phát định kỳ."
+    },
+    {
+        "word": "duly",
+        "part_of_speech": "adverb",
+        "definition": "Một cách đúng đắn, hợp lệ, đúng lúc."
+    },
+    {
+        "word": "mouth of the river",
+        "part_of_speech": "unknown",
+        "definition": "Cửa sông."
+    },
+    {
+        "word": "corpse",
+        "part_of_speech": "noun",
+        "definition": "Xác chết, thi thể."
+    },
+    {
+        "word": "benefactor",
+        "part_of_speech": "noun",
+        "definition": "Ân nhân, người giúp đỡ."
+    },
+    {
+        "word": "dire",
+        "part_of_speech": "adjective",
+        "definition": "Rất tồi tệ, nghiêm trọng."
+    },
+    {
+        "word": "preservative",
+        "part_of_speech": "noun",
+        "definition": "Chất bảo quản."
+    },
+    {
+        "word": "preservative pearl",
+        "part_of_speech": "noun",
+        "definition": "Định Nhan Châu."
+    },
+    {
+        "word": "mansion",
+        "part_of_speech": "noun",
+        "definition": "Dinh thự, biệt thự, lâu đài."
+    },
+    {
+        "word": "toss",
+        "part_of_speech": "verb",
+        "definition": "ném nhẹ, quăng nhẹ."
+    },
+    {
+        "word": "lift",
+        "part_of_speech": "verb",
+        "definition": "nâng lên, nhấc lên."
+    },
+    {
+        "word": "shade",
+        "part_of_speech": "noun",
+        "definition": "bóng râm, bóng mát."
+    },
+    {
+        "word": "ignorant",
+        "part_of_speech": "adjective",
+        "definition": "Không biết, thiếu kiến thức, thiếu hiểu biết."
+    },
+    {
+        "word": "wail",
+        "part_of_speech": "verb",
+        "definition": "khóc than, khóc than thảm thiết, rên rỉ"
+    },
+    {
+        "word": "Nine Constellations",
+        "part_of_speech": "noun",
+        "definition": "Cửu Diệu tinh quân (9 vị thần trong coi các vì sao)."
+    },
+    {
+        "word": "grief",
+        "part_of_speech": "noun",
+        "definition": "nỗi đau buồn, nỗi thương tiếc"
+    },
+    {
+        "word": "sorrow",
+        "part_of_speech": "noun",
+        "definition": "nỗi buồn, nỗi đau khổ"
+    },
+    {
+        "word": "exceedingly",
+        "part_of_speech": "adverb",
+        "definition": "cực kỳ, vô cùng"
+    },
+    {
+        "word": "proceed",
+        "part_of_speech": "verb",
+        "definition": "tiến hành, tiếp tục"
+    },
+    {
+        "word": "deliverance",
+        "part_of_speech": "noun",
+        "definition": "sự giải thoát, sự cứu rỗi"
+    },
+    {
+        "word": "Double-Fork Ridge",
+        "part_of_speech": "noun",
+        "definition": "Địa danh trong hành trình của Đường Tăng"
+    },
+    {
+        "word": "Boqin",
+        "part_of_speech": "noun",
+        "definition": "Một nhân vật trong hành trình của Đường Tăng"
+    },
+    {
+        "word": "detain",
+        "part_of_speech": "verb",
+        "definition": "Giữ lại, giam giữ"
+    },
+    {
+        "word": "depute",
+        "part_of_speech": "verb",
+        "definition": "Ủy quyền, giao phó"
+    },
+    {
+        "word": "trot/trotted",
+        "part_of_speech": "verb",
+        "definition": "Đi nước kiệu (nói về ngựa), Đi nhanh, đi khẩn trương (nói về người)"
+    },
+    {
+        "word": "cease",
+        "part_of_speech": "verb",
+        "definition": "Ngừng lại, dừng lại"
+    },
+    {
+        "word": "abbot",
+        "part_of_speech": "noun",
+        "definition": "Trụ trì, người đứng đầu một tu viện"
+    },
+    {
+        "word": "doctrine",
+        "part_of_speech": "noun",
+        "definition": "Học thuyết, giáo lý"
+    },
+    {
+        "word": "insists",
+        "part_of_speech": "verb",
+        "definition": "Khăng khăng"
+    },
+    {
+        "word": "commend / commended",
+        "part_of_speech": "verb",
+        "definition": "khen ngợi, ca ngợi, tán dương."
+    },
+    {
+        "word": "valiant",
+        "part_of_speech": "adjective",
+        "definition": "dũng cảm, quả cảm, can đảm."
+    },
+    {
+        "word": "praise",
+        "part_of_speech": "verb",
+        "definition": "khen ngợi, ca ngợi, tán dương."
+    },
+    {
+        "word": "Xuanzang",
+        "part_of_speech": "noun",
+        "definition": "Huyền Trang (tên gọi khác của Đường Tăng)."
+    },
+    {
+        "word": "worship",
+        "part_of_speech": "verb",
+        "definition": "thờ cúng, tôn thờ, kính trọng."
+    },
+    {
+        "word": "fleshly",
+        "part_of_speech": "adverb",
+        "definition": "thuộc về thân xác."
+    },
+    {
+        "word": "bond brother",
+        "part_of_speech": "noun",
+        "definition": "huynh đệ, bạn chí cốt."
+    },
+    {
+        "word": "commission",
+        "part_of_speech": "noun",
+        "definition": "sự ủy thác, sự giao phó."
+    },
+    {
+        "word": "receive",
+        "part_of_speech": "verb",
+        "definition": "nhận, tiếp nhận, tiếp đón."
+    },
+    {
+        "word": "reverence",
+        "part_of_speech": "noun",
+        "definition": "sự tôn kính, lòng tôn trọng."
+    },
+    {
+        "word": "anxious",
+        "part_of_speech": "adjective",
+        "definition": "lo âu, lo lắng."
+    },
+    {
+        "word": "trip",
+        "part_of_speech": "verb",
+        "definition": "vấp ngã, trượt chân."
+    },
+    {
+        "word": "tumble",
+        "part_of_speech": "verb",
+        "definition": "ngã nhào, lăn tròn."
+    },
+    {
+        "word": "pit",
+        "part_of_speech": "noun",
+        "definition": "hố, vực sâu."
+    },
+    {
+        "word": "wob",
+        "part_of_speech": "noun",
+        "definition": "đám đông, băng."
+    },
+    {
+        "word": "dine on",
+        "part_of_speech": "verb",
+        "definition": "ăn bữa tối"
+    },
+    {
+        "word": "ordeal",
+        "part_of_speech": "noun",
+        "definition": "thử thách, gian khổ"
+    },
+    {
+        "word": "gall",
+        "part_of_speech": "noun",
+        "definition": "mật"
+    },
+    {
+        "word": "unperceptive",
+        "part_of_speech": "adjective",
+        "definition": "thiếu nhạy bén, không tinh ý"
+    },
+    {
+        "word": "incense",
+        "part_of_speech": "verb",
+        "definition": "làm ai đó tức giận"
+    },
+    {
+        "word": "merciful",
+        "part_of_speech": "adjective",
+        "definition": "nhân từ, khoan dung"
+    },
+    {
+        "word": "preserved",
+        "part_of_speech": "adjective",
+        "definition": "được bảo quản, giữ gìn"
+    },
+    {
+        "word": "grieved",
+        "part_of_speech": "verb",
+        "definition": "đau buồn, thương tiếc"
+    },
+    {
+        "word": "accompanied",
+        "part_of_speech": "verb",
+        "definition": "đi cùng, hộ tống"
+    },
+    {
+        "word": "reflected",
+        "part_of_speech": "verb",
+        "definition": "phản chiếu; suy ngẫm"
+    },
+    {
+        "word": "fret",
+        "part_of_speech": "verb",
+        "definition": "lo lắng, bồn chồn"
+    },
+    {
+        "word": "indebted",
+        "part_of_speech": "adjective",
+        "definition": "mang ơn, biết ơn"
+    },
+    {
+        "word": "dumbfounded",
+        "part_of_speech": "adjective",
+        "definition": "chết lặng, sững sờ"
+    },
+    {
+        "word": "trembled",
+        "part_of_speech": "verb",
+        "definition": "run rẩy"
+    },
+    {
+        "word": "tender",
+        "part_of_speech": "adjective",
+        "definition": "dịu dàng, mềm mại"
+    },
+    {
+        "word": "sufficiently",
+        "part_of_speech": "adverb",
+        "definition": "đủ, đầy đủ"
+    },
+    {
+        "word": "accomplished",
+        "part_of_speech": "adjective",
+        "definition": "tài năng, đã hoàn thành"
+    },
+    {
+        "word": "merits",
+        "part_of_speech": "noun",
+        "definition": "công lao, giá trị xứng đáng"
+    },
+    {
+        "word": "tael",
+        "part_of_speech": "noun",
+        "definition": "lạng (đơn vị đo lường cổ của Trung Quốc/Việt Nam)"
+    },
+    {
+        "word": "penny",
+        "part_of_speech": "noun",
+        "definition": "xu (đơn vị tiền tệ nhỏ nhất ở Anh/Mỹ)"
+    },
+    {
+        "word": "earnestly",
+        "part_of_speech": "adverb",
+        "definition": "một cách nghiêm túc, tha thiết"
+    },
+    {
+        "word": "escort",
+        "part_of_speech": "verb",
+        "definition": "hộ tống, dẫn đường"
     }
 ]
