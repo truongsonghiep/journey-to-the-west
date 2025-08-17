@@ -1221,5 +1221,405 @@
         "word": "incarnate",
         "part_of_speech": "adjective",
         "definition": "đáng sợ, kinh hoàng"
+    },
+    {
+        "word": "cast out",
+        "part_of_speech": "verb",
+        "definition": "xua đuổi, đuổi ra, trục xuất."
+    },
+    {
+        "word": "cedar",
+        "part_of_speech": "noun",
+        "definition": "cây tuyết tùng"
+    },
+    {
+        "word": "epiphany",
+        "part_of_speech": "noun",
+        "definition": "sự hiển linh, sự hiện ra, sự xuất hiện"
+    },
+    {
+        "word": "pretext",
+        "part_of_speech": "noun",
+        "definition": "cái cớ, lý do không chính đáng"
+    },
+    {
+        "word": "incense",
+        "part_of_speech": "noun",
+        "definition": "cây hương, cây nhang"
+    },
+    {
+        "word": "empty",
+        "part_of_speech": "verb",
+        "definition": "làm rỗng, làm trống rỗng, dọn sạch"
+    },
+    {
+        "word": "pocket",
+        "part_of_speech": "noun",
+        "definition": "Hầu bao,cái túi nhỏ"
+    },
+    {
+        "word": "deliverance",
+        "part_of_speech": "noun",
+        "definition": "sự giải thoát, sự cứu rỗi"
+    },
+    {
+        "word": "wilderness",
+        "part_of_speech": "noun",
+        "definition": "vùng hoang dã, nơi hoang vu"
+    },
+    {
+        "word": "grip",
+        "part_of_speech": "noun",
+        "definition": "sự nắm chặt, sự giữ chặt"
+    },
+    {
+        "word": "jinx",
+        "part_of_speech": "noun",
+        "definition": "điềm rủi, sự rủi ro, điều không may"
+    },
+    {
+        "word": "grievance",
+        "part_of_speech": "noun",
+        "definition": "sự phàn nàn, sự khiếu nại"
+    },
+    {
+        "word": "pry open",
+        "part_of_speech": "verb",
+        "definition": "cạy ra, mở ra, tách ra"
+    },
+    {
+        "word": "twist",
+        "part_of_speech": "noun",
+        "definition": "sự xoắn, sự vặn"
+    },
+    {
+        "word": "clamp",
+        "part_of_speech": "verb",
+        "definition": "kẹp chặt, giữ chặt"
+    },
+    {
+        "word": "tong",
+        "part_of_speech": "noun",
+        "definition": "cái kẹp, đồ gắp"
+    },
+    {
+        "word": "Gao Village",
+        "part_of_speech": "noun",
+        "definition": "Cao Lão Trang"
+    },
+    {
+        "word": "betroth",
+        "part_of_speech": "verb",
+        "definition": "hứa hôn, đính hôn"
+    },
+    {
+        "word": "terribly",
+        "part_of_speech": "adverb",
+        "definition": "một cách khủng khiếp, một cách tồi tệ"
+    },
+    {
+        "word": "exorcist",
+        "part_of_speech": "noun",
+        "definition": "thầy trừ tà"
+    },
+    {
+        "word": "protest",
+        "part_of_speech": "noun",
+        "definition": "lời phản đối, sự phản đối"
+    },
+    {
+        "word": "vocation",
+        "part_of_speech": "noun",
+        "definition": "nghề của..., thiên phú, năng khiếu"
+    },
+    {
+        "word": "dice",
+        "part_of_speech": "noun",
+        "definition": "cái xúc xắc"
+    },
+    {
+        "word": "impotent",
+        "part_of_speech": "adjective",
+        "definition": "bất lực, không có khả năng"
+    },
+    {
+        "word": "mislead",
+        "part_of_speech": "verb",
+        "definition": "đánh lừa bằng những lời nói dụ dỗ"
+    },
+    {
+        "word": "deceive",
+        "part_of_speech": "verb",
+        "definition": "đánh lừa, lừa dối"
+    },
+    {
+        "word": "hitching post",
+        "part_of_speech": "noun",
+        "definition": "cột buộc ngựa"
+    },
+    {
+        "word": "rail",
+        "part_of_speech": "verb",
+        "definition": "chửi rủa, mắng nhiếc, chỉ trích dữ dội"
+    },
+    {
+        "word": "Your Grace",
+        "part_of_speech": "form of address",
+        "definition": "Ngài, thưa ngài (cách xưng hô tôn trọng)"
+    },
+    {
+        "word": "affably",
+        "part_of_speech": "adverb",
+        "definition": "một cách niềm nở, thân thiện"
+    },
+    {
+        "word": "priestly staff",
+        "part_of_speech": "noun",
+        "definition": "tích trượng, thiền trượng (gậy của thầy tu)"
+    },
+    {
+        "word": "whereupon",
+        "part_of_speech": "conjunction",
+        "definition": "do đó, vì thế, vì vậy."
+    },
+    {
+        "word": "decent",
+        "part_of_speech": "adjective",
+        "definition": "đứng đắn, tử tế"
+    },
+    {
+        "word": "publicly",
+        "part_of_speech": "adverb",
+        "definition": "một cách công khai, một cách công cộng"
+    },
+    {
+        "word": "intimate",
+        "part_of_speech": "adjective",
+        "definition": "thân mật, thân thiết, gần gũi"
+    },
+    {
+        "word": "annoy",
+        "part_of_speech": "verb",
+        "definition": "làm phiền, quấy rầy"
+    },
+    {
+        "word": "clutch",
+        "part_of_speech": "verb",
+        "definition": "nắm chặt, giữ chặt"
+    },
+    {
+        "word": "nowadays",
+        "part_of_speech": "adverb",
+        "definition": "ngày nay, hiện nay"
+    },
+    {
+        "word": "beloved",
+        "part_of_speech": "adjective",
+        "definition": "được yêu mến, được quý trọng"
+    },
+    {
+        "word": "pull out",
+        "part_of_speech": "verb",
+        "definition": "nhổ lên, lôi ra, kéo ra"
+    },
+    {
+        "word": "suspect",
+        "part_of_speech": "verb",
+        "definition": "nghi ngờ"
+    },
+    {
+        "word": "Cloudy Paths Cave",
+        "part_of_speech": "noun",
+        "definition": "Động Vân San"
+    },
+    {
+        "word": "Pagoda Mountain",
+        "part_of_speech": "noun",
+        "definition": "Phù Đồ Sơn"
+    },
+    {
+        "word": "Heart Sūtra",
+        "part_of_speech": "noun",
+        "definition": "Bát Nhã Tâm Kinh"
+    },
+    {
+        "word": "ridge",
+        "part_of_speech": "noun",
+        "definition": "dãy núi"
+    },
+    {
+        "word": "flee",
+        "part_of_speech": "verb",
+        "definition": "chạy trốn"
+    },
+    {
+        "word": "rosy",
+        "part_of_speech": "adjective",
+        "definition": "sắc hồng"
+    },
+    {
+        "word": "brace yourself",
+        "part_of_speech": "noun",
+        "definition": "chuẩn bị tinh thần"
+    },
+    {
+        "word": "small wonder...",
+        "part_of_speech": "adjective",
+        "definition": "không có gì ngạc nhiên"
+    },
+    {
+        "word": "lip",
+        "part_of_speech": "noun",
+        "definition": "môi, sự xấc xược"
+    },
+    {
+        "word": "tolerant",
+        "part_of_speech": "adjective",
+        "definition": "tha thứ, khoan dung"
+    },
+    {
+        "word": "gut",
+        "part_of_speech": "noun",
+        "definition": "cơn gió mạnh nhưng ngắn"
+    },
+    {
+        "word": "enigmatic",
+        "part_of_speech": "adjective",
+        "definition": "bí ẩn, khó hiểu, gây tò mò."
+    },
+    {
+        "word": "torn",
+        "part_of_speech": "adjective",
+        "definition": "bị xé, rách nát"
+    },
+    {
+        "word": "The Vihārapālas",
+        "part_of_speech": "noun",
+        "definition": "Hộ Pháp"
+    },
+    {
+        "word": "Bodhisattva Lingji",
+        "part_of_speech": "noun",
+        "definition": "Linh Cát Bồ Tát (tên gọi khác của Đại Thế Chí Bồ Tát)"
+    },
+    {
+        "word": "Lingji of Sumeru",
+        "part_of_speech": "noun",
+        "definition": "Linh Cát Bồ Tát (tên gọi khác của Đại Thế Chí Bồ Tát)"
+    },
+    {
+        "word": "diminutive",
+        "part_of_speech": "adjective",
+        "definition": "nhỏ bé"
+    },
+    {
+        "word": "Flying Dragon Staff",
+        "part_of_speech": "noun",
+        "definition": "Phi Long Trượng"
+    },
+    {
+        "word": "mink",
+        "part_of_speech": "noun",
+        "definition": "Con chồn"
+    },
+    {
+        "word": "profusely",
+        "part_of_speech": "adverb",
+        "definition": "nhiều, một cách phong phú, một cách dồi dào"
+    },
+    {
+        "word": "beseech",
+        "part_of_speech": "verb",
+        "definition": "cầu xin, van nài"
+    },
+    {
+        "word": "Flowing-Sand River",
+        "part_of_speech": "noun",
+        "definition": "Lưu Sa Hà"
+    },
+    {
+        "word": "deliver",
+        "part_of_speech": "verb",
+        "definition": "giải thoát, cứu rỗi"
+    },
+    {
+        "word": "plain",
+        "part_of_speech": "noun",
+        "definition": "đồng bằng"
+    },
+    {
+        "word": "come upon",
+        "part_of_speech": "phrasal verb",
+        "definition": "tình cờ gặp"
+    },
+    {
+        "word": "turbulent",
+        "part_of_speech": "adjective",
+        "definition": "dữ dội, hỗn loạn"
+    },
+    {
+        "word": "peer",
+        "part_of_speech": "verb",
+        "definition": "nhìn chăm chú"
+    },
+    {
+        "word": "exclaim",
+        "part_of_speech": "verb",
+        "definition": "kêu lên, thốt lên"
+    },
+    {
+        "word": "traverse",
+        "part_of_speech": "verb",
+        "definition": "đi qua, vượt qua"
+    },
+    {
+        "word": "splash",
+        "part_of_speech": "noun",
+        "definition": "tiếng văng nước"
+    },
+    {
+        "word": "midst",
+        "part_of_speech": "noun",
+        "definition": "giữa, ở giữa"
+    },
+    {
+        "word": "peer",
+        "part_of_speech": "verb",
+        "definition": "nhìn chăm chú"
+    },
+    {
+        "word": "Long Life Mountain",
+        "part_of_speech": "noun",
+        "definition": "Núi Trường Thọ"
+    },
+    {
+        "word": "Five Villages Abbey",
+        "part_of_speech": "noun",
+        "definition": "Ngũ Trang Quán"
+    },
+    {
+        "word": "continuously",
+        "part_of_speech": "adverb",
+        "definition": "liên tục"
+    },
+    {
+        "word": "scoop up",
+        "part_of_speech": "verb",
+        "definition": "múc lên"
+    },
+    {
+        "word": "stupor",
+        "part_of_speech": "noun",
+        "definition": "trạng thái ngây dại, mê man"
+    },
+    {
+        "word": "faint",
+        "part_of_speech": "noun",
+        "definition": "bất tỉnh nhân sự"
+    },
+    {
+        "word": "sensibly",
+        "part_of_speech": "adverb",
+        "definition": "một cách hợp lý"
     }
 ]
