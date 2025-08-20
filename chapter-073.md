@@ -580,8 +580,6 @@ We do not know what will happen to them as they proceed; let's listen to the exp
 15. potent <adj>: mạnh
 16. Purple Cloud Mountain <n>: Tử Vân Sơn
 17. fiend <n>: yêu quái
-18. The Old Dame of Li Mountain: Thánh Mẫu của Linh Sơn
-19. salute <v>: chào theo kiểu lễ nghi, bái kiến
 20. embroidery needle <n>: kim thêu
 21. Mão Nhật Tinh Quân
 22. underneath <v>: bên dưới

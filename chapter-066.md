@@ -1,4 +1,5 @@
 SIXTY-SIX
+
 # Many gods meet injury <br> Maitreya binds a fiend
 
 We were telling you about the Great Sage Sun, who had no alternative but to mount an auspicious cloud by means of his somersault to head directly for the Wudang

@@ -1,7 +1,8 @@
 EIGHTY-EIGHT
+
 # Reaching Jade-Flower, Chan convenes an assembly <br> Mind Monkey, Wood, and Earth instruct disciples
 
-We were telling you about the Tang Monk, who took leave of the prefect. Riding along, he spoke most amiably to Pilgrim: *"Worthy disciple, your virtuous fruit this time far surpasses even that of the occasion when you rescued the children of the Bhikṣu Kingdom. This is entirely your merit!"* 
+We were telling you about the Tang Monk, who took leave of the prefect. Riding along, he spoke most amiably to Pilgrim: *"Worthy disciple, your virtuous fruit this time far surpasses even that of the occasion when you rescued the children of the Bhikṣu Kingdom. This is entirely your merit!"*
 
 *"At the Bhikṣu Kingdom,"* said Sha Monk, *"only one thousand, one hundred and eleven young boys were saved. How can that compare with this torrential rain, which provided moisture everywhere and revived hundreds and thousands of lives? This disciple, too, has been secretly admiring Elder Brother for his great magic strength which can move Heaven and for his compassion which covers the Earth."*
 
@@ -15,24 +16,24 @@ On hearing this, the elder snapped at him, *"This Idiot! All you can think of is
 
 Not daring to utter a word, Eight Rules pouted a little; he toted the luggage and guffawed a few times as master and disciples headed down the main road. Time went by like a weaver's shuttle, and soon it was late autumn. You see
 
-> Water lines recede,   
-> Mountain rocks turn bare.   
-> Red leaves flutter about,   
-> A time of yellow blossoms.   
-> The frost glows,   
-> you feel the night lengthen;   
-> The white moon pierces   
-> the paper screens.   
-> and smoke in all households,   
-> the twilight's long;   
-> The lake surfaces a cold gleam every where.   
-> Fragrant white duckweeds,   
-> And dense red smartweeds.   
-> Oranges yellow and green,   
-> Droopy willows and handsome grains.   
-> The wild geese drop by a hamlet midst rush like snow;   
+> Water lines recede,
+> Mountain rocks turn bare.
+> Red leaves flutter about,
+> A time of yellow blossoms.
+> The frost glows,
+> you feel the night lengthen;
+> The white moon pierces
+> the paper screens.
+> and smoke in all households,
+> the twilight's long;
+> The lake surfaces a cold gleam every where.
+> Fragrant white duckweeds,
+> And dense red smartweeds.
+> Oranges yellow and green,
+> Droopy willows and handsome grains.
+> The wild geese drop by a hamlet midst rush like snow;
 > Soy beans are reaped as the inn's roosters crow.
- 
+
 After the four of them had journeyed for a long time, they again saw the shadow of city walls looming. Lifting his crop to point toward the distance, the elder called out: *"Wukong, look! There's another city over there. I wonder what sort of a place it is?"*
 
 *"You and I haven't even reached it,"* said Pilgrim. *"How could we know? Let's go up there and ask some people."*
@@ -59,15 +60,15 @@ He so frightened those people on the street that they stumbled and fell, scatter
 
 *"Idiot,"* said Pilgrim, laughing, *"hide your snout quickly. Stop being so histrionic, and watch your steps. You're about to cross a bridge."*
 
-Lowering his head, our Idiot kept giggling as they crossed the drawbridge to enter the city gates. On the big boulevards they could see many wine shops and song houses, all prospering and bustling in activities. It was indeed a capital city right out of China, for which we have a testimonial poem. The poem says: 
+Lowering his head, our Idiot kept giggling as they crossed the drawbridge to enter the city gates. On the big boulevards they could see many wine shops and song houses, all prospering and bustling in activities. It was indeed a capital city right out of China, for which we have a testimonial poem. The poem says:
 
 A royal city and fortress ever strong
-Where all things seem fresh near hills and rivers long. 
+Where all things seem fresh near hills and rivers long.
 The marts with a hundred goods the lake-boats ply;
-To sell wine a thousand shops their banners fly. 
-On each tower and terrace the people bustle; 
-In every street and lane the traders hustle. 
-This scene's as lovely as that of Chang'an's fame: 
+To sell wine a thousand shops their banners fly.
+On each tower and terrace the people bustle;
+In every street and lane the traders hustle.
+This scene's as lovely as that of Chang'an's fame:
 Roosters crow, dogs bark—they all sound the same.
 
 Secretly delighted, Tripitaka thought to himself, *"I have heard people speaking of the various barbarians in the Western Territories, but I have never been here. When I look carefully at the place, however, I find that it's no different from our Great Tang. It certainly lives up to its name of Ultimate Bliss!"*
@@ -168,21 +169,21 @@ Shouting a *"Bravo!"* down below, Eight Rules could not contain himself any long
 
 Dear Idiot! Mounting on a gust of wind, he rose also to midair and let loose his rake: three strokes up and four down, five strokes left and six strokes right, seven strokes in front and eight behind. All these bodily movements made one hear only a loud continuous swish. When the performance reached its most exciting moment, Sha Monk said to the elder, *"Master, let old Sand go also and exercise!"*
 
-Dear Monk! With one leap he, too, rose into the air and wielded his staff. Now an ardent fighter swathed in golden radiance, he used both hands to make with his staff the Scarlet Phoenix Facing the Sun and the Hungry Tiger Leaping on its Prey. A tight parry and a slow block were followed by swift turns and quick lunges. The three brothers thus made a tremendous display of their magic potency, showing off their prowess and martial ability in midair. Thus it is that The image of true Chan's no common view: 
+Dear Monk! With one leap he, too, rose into the air and wielded his staff. Now an ardent fighter swathed in golden radiance, he used both hands to make with his staff the Scarlet Phoenix Facing the Sun and the Hungry Tiger Leaping on its Prey. A tight parry and a slow block were followed by swift turns and quick lunges. The three brothers thus made a tremendous display of their magic potency, showing off their prowess and martial ability in midair. Thus it is that The image of true Chan's no common view:
 
-The Great Way's causes the cosmos imbue. 
+The Great Way's causes the cosmos imbue.
 
-In power Gold and Wood fill the dharma-sphere; 
+In power Gold and Wood fill the dharma-sphere;
 
-Tossing Spatula and Ubiquity cohere. 
+Tossing Spatula and Ubiquity cohere.
 
-At all times divine arms can their might lay bare; 
+At all times divine arms can their might lay bare;
 
-Elixir vessels are honored every where. 
+Elixir vessels are honored every where.
 
-Though India's lofty, one must nature coerce; 
+Though India's lofty, one must nature coerce;
 
-Jade- Flower princes all to the Mean reverse. 
+Jade- Flower princes all to the Mean reverse.
 
 So astounded were the three young princes that they went to their knees in the dust. Those officials, of high rank or low, around the Gauze-Drying Pavilion, the old prince in the royal residence, and the entire population of the city—whether military or civilian, male or female, Buddhist monks or nuns, Daoist clergy or laymen—all began chanting the name of Buddha and kowtowing. Each household, moreover, took up lighted incense and worshipped. Truly, Images seen redeem monks to the real, To bless the human world with peace and weal. Henceforth the fruit ripens on Bodhi's way Where all honor Chan and Buddha obey. After the three disciples had made a thorough display of their heroic ability, they lowered their auspicious clouds and put away their weapons. Going before the Tang Monk, they bowed and thanked their master for permission before taking their seats again. There we shall leave them for the moment.
 
@@ -202,43 +203,43 @@ On hearing this, Pilgrim could not refrain from laughing uproariously. *"Your Hi
 
 The prince was delighted by Pilgrim's words, and he immediately gave the order for a huge banquet to be laid out right there in the main hall of his residence. Behold! No sooner had the decree been issued than it was carried out. You see
 
-Colors aflutter, 
-Curls of fragrant smoke, 
-And gold inlaid tables festooned in bright silk 
-To dazzle one's eyes. 
-Gay lacquered chairs 
-with brocade spread out 
-Add stylishness to the seats. 
-Fresh fruits from the trees 
-And aromatic teas. 
-Four or five dishes of pastries so light and sweet; 
-One or two panfuls of breads both rich and neat. 
-More marvelous are those steamed crispies and honey-glazed; 
-The oily-dips and sugar-roasted are truly great! 
-A few bottles of fragrant glutinous rice wine 
-Which, when poured, 
-Surpasses the juice of jade; 
-Several cups of Yangxian divine tea offered, 
-Once held in hand, Its scent o‟erpowers the cassia. 
+Colors aflutter,
+Curls of fragrant smoke,
+And gold inlaid tables festooned in bright silk
+To dazzle one's eyes.
+Gay lacquered chairs
+with brocade spread out
+Add stylishness to the seats.
+Fresh fruits from the trees
+And aromatic teas.
+Four or five dishes of pastries so light and sweet;
+One or two panfuls of breads both rich and neat.
+More marvelous are those steamed crispies and honey-glazed;
+The oily-dips and sugar-roasted are truly great!
+A few bottles of fragrant glutinous rice wine
+Which, when poured,
+Surpasses the juice of jade;
+Several cups of Yangxian divine tea offered,
+Once held in hand, Its scent o‟erpowers the cassia.
 There's food of every variety— Each item is extraordinary!
 
-During this time the court entertainers were ordered to sing, to dance, and to play their woodwind and string instruments. Master and disciples spent a happy day together with the prince and his princes. When night fell, the food and wine were taken away and bedding was laid out at the Gauze-Drying Pavilion for the pilgrims to rest. By morning, the prince said, the young princes would burn incense and return with all sincerity to receive instruction in martial arts. As each person obeyed the royal command, scented liquid was prepared for the masters to bathe in before retiring. At this time The birds rest aloft and all seems at peace; He leaves the couch, the poet's chantings cease. 
+During this time the court entertainers were ordered to sing, to dance, and to play their woodwind and string instruments. Master and disciples spent a happy day together with the prince and his princes. When night fell, the food and wine were taken away and bedding was laid out at the Gauze-Drying Pavilion for the pilgrims to rest. By morning, the prince said, the young princes would burn incense and return with all sincerity to receive instruction in martial arts. As each person obeyed the royal command, scented liquid was prepared for the masters to bathe in before retiring. At this time The birds rest aloft and all seems at peace; He leaves the couch, the poet's chantings cease.
 
-The Milky Way shines as the heavens brighten; 
+The Milky Way shines as the heavens brighten;
 
-The wild path's forlorn where grasses heighten. 
+The wild path's forlorn where grasses heighten.
 
-Washing flails jangle in a yard nearby; 
+Washing flails jangle in a yard nearby;
 
-Dark, distant hills where homeward longings lie. 
+Dark, distant hills where homeward longings lie.
 
-To know one's feelings the cold cricket seems: 
+To know one's feelings the cold cricket seems:
 
-Its loud plaint by bedside would pierce your dreams! 
+Its loud plaint by bedside would pierce your dreams!
 
 The night went by, and early in the morning, the old prince and his sons arrived once more to visit. When they were received by the elder, they greeted the priests as their teachers, even though they themselves had been honored as royalty the day before. Thus the young princes kowtowed to Pilgrim, Eight Rules, and Sha Monk as they made this request: *"We beg the honorable teachers to take out their weapons and allow their disciples to look at them once more."*
 
-On hearing this, Eight Rules took out amiably his muckrake and laid it on the ground, while Sha Monk leaned his treasure staff against a wall. The second and third princes leaped up at once and tried to pick up the weapons. It was, however, as if dragonflies were pummeling pillars of rock! Though both princes struggled till their heads reddened and their faces turned scarlet, they could not budge the weapons one whit. When the eldest prince saw this, he called out: *"Brothers, stop wasting your energy! You should know that the masters' are all divine weapons, but I wonder how heavy they are."* 
+On hearing this, Eight Rules took out amiably his muckrake and laid it on the ground, while Sha Monk leaned his treasure staff against a wall. The second and third princes leaped up at once and tried to pick up the weapons. It was, however, as if dragonflies were pummeling pillars of rock! Though both princes struggled till their heads reddened and their faces turned scarlet, they could not budge the weapons one whit. When the eldest prince saw this, he called out: *"Brothers, stop wasting your energy! You should know that the masters' are all divine weapons, but I wonder how heavy they are."*
 
 With a chuckle, Eight Rules said, *"My rake's not too heavy! No more, in fact, than the weight of a single canon. Including the handle, it weighs five thousand and forty-eight pounds."*
 
@@ -273,79 +274,8 @@ One night, a monster-spirit sat up in his abode, which happened to be some seven
 *"Marvelous treasures! Marvelous treasures!"* he exclaimed. *"I wonder who uses them, and why they are placed here? Hmmmmm! This has to be my affinity! Let's take them away! Let's take them away!"* As his affection grew, he at once summoned a powerful gust and swept away all three weapons and returned to his own cave. Thus it is that
 
 *Dao can't be left for a moment;*  
-*What can be left is not the Dao.*   
-*When weapons divine are stolen,*   
+*What can be left is not the Dao.*
+*When weapons divine are stolen,*
 *The seekers have labored in vain.*
 
 In the end we don't know how those weapons will be found; let's listen to the explanation in the next chapter.
-
-# Vobs
-prefect: Quận Trưởng, Quận Hầu, Thái Thú
-amiably: một cách thân thiện
-virture (n): đức hạnh
-virtuous (adj): đức hạnh
-merit: công lao, công đức
-torrential (adj): xối xả, như trút nước.
-moisture (n): độ ẩm
-admire (v): ngưỡng một
-steps on sb: giẫm đạp lên, đối xử tệ với ai đó
-frequently (adv): một cách thường xuyên
-snap (v): trả lời một cách gay gắt và ngay lập tức.
-stuff down: nhét xuống
-pout (v): trề môi
-tote (v): mang theo thứ gì đó nặng nề
-guffaw (v): cười phá lên
-looming (adj): lờ mờ
-crop (n): cái roi da
-coil (n): xơ dừa
-belt (n): dây nịt, thắt lưng
-rampart (n): thành lũy
-exclaim(v): kêu lên
-the Jade-Flower District: châu Ngọc Hoa
-rowdy (adj): ồn ài, huyên náo
-vie (v): tranh đua nhau
-tame dragonds and subdue tigers: phục long hàng hổ
-drawbridge (n): cây cầu kéo
-prospering (adj): thịnh vượng
-bustling (adj): nhộn nhịp
-overheard (v): nghe nói
-picul (n): 1 cân đơn vị đo thời xưa
-hay (n): cỏ khô
-attire (n): trang phục, cách ăn mặc
-Elder National Preceptor: trưởng lão quốc gia
-cleric (n): tăng sĩ
-Your Highness (): Điện Hạ (xưng hô)
-maigre (n): những món ăn không có thịt và thanh đạm
-hostel: nhà trọ
-civilized (adj): văn minh
-commotion (n): sự náo động, hỗn loạn
-barge (v): xông vào
-bellow (v): gầm lên, la lên
-slightly (adv): một cách không tôn trọng
-strand (n): sợi, tia
-cramped (adj): chật chội
-the auspicious cloud of five colors: đám mây cát tường ngũ sắc
-foot/feet = bàn chân
-tread: bước lên, đặt chân lên
-pace (n): bước chân
-sport (v): giải trí bằng vận động
-the Scarlet Phoenix Facing the Sun and the Hungry Tiger Leaping on its Prey
-parry (n/v): chém, chặt
-lunge (n/v): đâm
-astound (v): kinh ngạc đến ngớ người
-population (n): dân số
-incense (n/v): cây nhang/đốt nhang
-worship (v): cúng
-anxious (adj): lo lắng
-turn sb/sth down: từ chối
-No sooner had abc than xyz: ngay khi abc thì xyz
-carry out: thực thi, thực hiện
-go/went by: trôi qua (thời gian)
-lean (v): đặt thứ gì đó dựa vào tường
-endow (v): tài trợ thứ gì đó lớn lao > give
-the grand-disciples
-Pavilion: nhà phụ
-prostrate: quỳ lạy
-secluded (adj): biệt lập
-trace out: vẽ ra, rạch ra
-the Big Dipper: chòm sao bắc đẩu

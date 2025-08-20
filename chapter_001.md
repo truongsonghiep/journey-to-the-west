@@ -525,9 +525,6 @@ We do not know what fruit of Daoist cultivation he succeeded in attaining afterw
 
 # Vobs
 
-The divine root: thần căn
-
-
 murkiness: sự tối tăm, âm u
 
 Pan Gu: bàn cổ

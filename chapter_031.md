@@ -1,13 +1,14 @@
 THIRTY-FIVE
+
 # Heresy uses power to oppress the proper Nature Mind Monkey, <br> bagging treasures, conquers deviate demons
 
 *His nature's perfect: thus he knows the Way.  
 Turning, he leaps clear of the net and snare.  
-To learn transformation's no easy thing,   
+To learn transformation's no easy thing,
 Nor is it common to achieve long life.  
 Luck changes him to things pure and impure;  
-Free of fated kalpas he moves at will.   
-For countless aeons he is fancy-free—   
+Free of fated kalpas he moves at will.
+For countless aeons he is fancy-free—
 A ray divine fixed always on the void.*
 
 The meaning of this poem, you see, subtly corresponds to the wonders of the Dao attained by the Great Sage Sun. Since he had acquired the true treasure from that demon, he concealed it in his sleeve, saying happily to himself, *"Though that lawless demon tries so hard to capture me, his efforts are no better than the attempt to fish the moon out of water. But when old Monkey wants to catch him, it's as simple as melting ice over fire!"*
@@ -32,21 +33,21 @@ The little fiend dashed inside to make the report, saying, *"Great King, there i
 
 Pilgrim said, *"So, you don't recognize me!*
 
-*I lived at Flower- Fruit Mountain.   
-My home: the Water-Curtain Cave.   
-For disturbing Heaven's Palace   
-I ceased to strive for a long time.   
-Lucky to be freed of my woes,   
-I left Dao and followed a monk    
-To reach, obedient, Thunderclap,   
-To seek scriptures and right knowledge.   
-When I meet wild, lawless demons,   
-I work with my mighty magic.   
-Return my monk of Great Tang   
-That we go West to see Buddha.   
-Our conflict will then be ended,   
-And each one can enjoy his peace.   
-Don't stir up old Monkey's ire,   
+*I lived at Flower- Fruit Mountain.
+My home: the Water-Curtain Cave.
+For disturbing Heaven's Palace
+I ceased to strive for a long time.
+Lucky to be freed of my woes,
+I left Dao and followed a monk
+To reach, obedient, Thunderclap,
+To seek scriptures and right knowledge.
+When I meet wild, lawless demons,
+I work with my mighty magic.
+Return my monk of Great Tang
+That we go West to see Buddha.
+Our conflict will then be ended,
+And each one can enjoy his peace.
+Don't stir up old Monkey's ire,
 Or your stale life will expire!"*
 
 *"You come over here for a moment"* said the demon, *"but I'm not going to fight with you. I'm about to call your name once. You dare answer me?"*
@@ -81,7 +82,7 @@ When he heard the call, the Great Sage replied in one breath eight or nine times
 
 *"Why don't you put yours away,"* said Pilgrim, laughing, *"for it's old Monkey's turn to call you."*
 
-Swiftly somersaulting into the air, he turned the gourd upside down and took aim at the demon, crying, *"Great King Silver Horn!"* 
+Swiftly somersaulting into the air, he turned the gourd upside down and took aim at the demon, crying, *"Great King Silver Horn!"*
 
 Not daring to close his mouth, the fiend made his reply, and instantly he was sucked into the gourd, which was then sealed by Pilgrim with the tape bearing the words, *"May Laozi Act Quickly According to This Command."*
 
@@ -123,19 +124,19 @@ A little fiend, who was the housekeeper, said, *"There are three treasures yet i
 
 *"That vase is useless!"* said the old demon. *"It was supposed to store up anyone who answered when his name was called, but the formula was somehow passed on to that Pilgrim Sun and now our own brother has been put away. I won't use the vase; leave it here at home. Bring me the sword and the fan, quickly."*
 
-The housekeeper handed over the two treasures to the old demon, who stuck the fan into his collar behind his neck and held the sword in his hand. He then called up about three hundred monsters, young and old, and told all of them to arm themselves with spears, clubs, ropes, and knives. The old demon himself also put on helmet and cuirass, covered with a flaming red silk cape. As the monsters rushed out the door, they lined up in battle formation, intent on catching the Great Sage Sun. Knowing by now that the second demon had been dissolved in the gourd, the Great Sage fastened the gourd to the belt around his waist while his hands held high the golden-hooped rod to prepare for combat. As red banners unfurled, the old fiend leaped out the door. How was he dressed? 
+The housekeeper handed over the two treasures to the old demon, who stuck the fan into his collar behind his neck and held the sword in his hand. He then called up about three hundred monsters, young and old, and told all of them to arm themselves with spears, clubs, ropes, and knives. The old demon himself also put on helmet and cuirass, covered with a flaming red silk cape. As the monsters rushed out the door, they lined up in battle formation, intent on catching the Great Sage Sun. Knowing by now that the second demon had been dissolved in the gourd, the Great Sage fastened the gourd to the belt around his waist while his hands held high the golden-hooped rod to prepare for combat. As red banners unfurled, the old fiend leaped out the door. How was he dressed?
 
-*His helmet's tassle shimmered on his head, 
-And from his belt fresh, radiant colors rose. 
-He wore a cuirass knit like dragon scales, 
-Topped with a long red cape like crackling flames. 
-His round eyes opened wide and lightning flashed; 
-Wiry whiskers flared up like turbid fumes. 
-His hand held lightly the seven-star sword, 
-His shoulder half-hidden by the palm-leaf fan. 
-He moved like clouds rushing past the ocean's peaks; 
-Like thunder his voice shook mountains and streams. 
-An awesome Heaven-defying warrior, 
+*His helmet's tassle shimmered on his head,
+And from his belt fresh, radiant colors rose.
+He wore a cuirass knit like dragon scales,
+Topped with a long red cape like crackling flames.
+His round eyes opened wide and lightning flashed;
+Wiry whiskers flared up like turbid fumes.
+His hand held lightly the seven-star sword,
+His shoulder half-hidden by the palm-leaf fan.
+He moved like clouds rushing past the ocean's peaks;
+Like thunder his voice shook mountains and streams.
+An awesome Heaven-defying warrior,
 Leading many monsters, he stormed out of the cave.*
 
 After ordering the little fiends to take their battle stations, the old demon shouted, *"You ape! You are utterly wretched! You murdered my brother and broke up our fraternal bond. You are truly despicable!"*
@@ -146,13 +147,13 @@ The fiend, of course, would not permit any further exchanges; lifting his treasu
 
 Those three hundred monster-spirits rushed up together and completely surrounded Pilgrim. Dear Great Sage! Not in the least afraid, he wielded his rod and lunged left and right, attacking with it in front and protecting himself in the rear. Those little fiends, however, all had some abilities; the longer they fought, the more ferocious they became—like cotton floss sticking to one's body, they tackled Pilgrim at the waist and tugged at his legs, refusing to be beaten back. Alarmed, the Great Sage resorted to the magic of the Body beyond the Body. He plucked off a handful of hairs from under his left arm, chewed them to pieces, and spat them out, crying, *"Change!"* Every piece of the hair changed into a Pilgrim. Look at all of them! The tall ones wielded rods, the short ones boxed with their fists, and the tiniest ones grabbed the monsters' shanks and began to gnaw on them. They fought till all the fiends were scattered in every direction, crying, *"Great King, we're finished! We can't fight anymore! The mountain is full of Pilgrim Suns!"*
 
-The magic of the Body beyond the Body thus sent the flock of monsters into a hasty retreat: only an old demon was left in the middle, surrounded on all sides, sorely pressed but with no way to run at all. Terribly frightened, the demon switched the treasure sword to his left hand; with his right, he reached behind his neck and pulled out the palm-leaf fan. Facing the direction of due south (which is the direction of fire), he made a sweeping motion with the fan from the left and fanned at the ground once. Flames leaped up instantly from the ground. The treasure, you see, could produce fire just like that. An unrelenting person, the fiend fanned at the ground for seven or eight more times, and a fierce fire raged everywhere. Marvelous fire! The fire was neither the fire of Heaven Nor the fire of a brazier; Neither the wild fire on the meadows Nor the fire inside an oven. It was a spark of spiritual light taken naturally from the Five Phases. The fan also was no common thing in the mortal world, Nor was it made by any human skill. It was a true treasure formed since the time chaos parted. When the fan was used to start this fire, Bright and brilliant, It was like the red bolts of lightning; Clear and ablaze, It seemed mists iridescent. There was not even a strand of blue smoke, Only a mountain full of scarlet flames. It burned till the summit pines became fire trees, And cedars changed into lanterns before the cliff. 
-The beasts of the caves, eager to live, 
-Dashed to the east and the west; 
-The birds of the woods, zealous for their feathers, 
-Flew high and retreated wide. 
-This divine, air-filling holocaust 
-Burned till rocks broke, rivers dried up, and all the ground turned red! 
+The magic of the Body beyond the Body thus sent the flock of monsters into a hasty retreat: only an old demon was left in the middle, surrounded on all sides, sorely pressed but with no way to run at all. Terribly frightened, the demon switched the treasure sword to his left hand; with his right, he reached behind his neck and pulled out the palm-leaf fan. Facing the direction of due south (which is the direction of fire), he made a sweeping motion with the fan from the left and fanned at the ground once. Flames leaped up instantly from the ground. The treasure, you see, could produce fire just like that. An unrelenting person, the fiend fanned at the ground for seven or eight more times, and a fierce fire raged everywhere. Marvelous fire! The fire was neither the fire of Heaven Nor the fire of a brazier; Neither the wild fire on the meadows Nor the fire inside an oven. It was a spark of spiritual light taken naturally from the Five Phases. The fan also was no common thing in the mortal world, Nor was it made by any human skill. It was a true treasure formed since the time chaos parted. When the fan was used to start this fire, Bright and brilliant, It was like the red bolts of lightning; Clear and ablaze, It seemed mists iridescent. There was not even a strand of blue smoke, Only a mountain full of scarlet flames. It burned till the summit pines became fire trees, And cedars changed into lanterns before the cliff.
+The beasts of the caves, eager to live,
+Dashed to the east and the west;
+The birds of the woods, zealous for their feathers,
+Flew high and retreated wide.
+This divine, air-filling holocaust
+Burned till rocks broke, rivers dried up, and all the ground turned red!
 
 When the Great Sage saw how ferocious the fire was, he, too, became quite shaken, crying, *"It's bad! I can stand it myself, but my hairs are no good. Once they fall into the fire, they will be burned up."*
 
@@ -160,19 +161,19 @@ Shaking his body once, he retrieved all his hairs except one piece, which he use
 
 After the Great Sage had finished off all the little fiends, he raced into the cave with the intent of untying his master. Just then he saw again a fiery glow inside, and he became terribly flustered, crying, *"Undone! Undone! If this fire is starting again even at the back door, old Monkey will find it hard to save Master."*
 
-As he was thus in alarm, he looked again more carefully. Ah! It was not the glow of fire, but actually a beam of golden light. Composing himself, he walked inside to have another look and found that the source of the glow was the pure mutton-jade vase. Filled with delight, he said to himself, *"What a lovely treasure! This vase was glowing also when the little fiends took it up the mountain. Then old Monkey got it, only to have it taken away again by the monster. It's hidden here and today it's still glowing."* 
+As he was thus in alarm, he looked again more carefully. Ah! It was not the glow of fire, but actually a beam of golden light. Composing himself, he walked inside to have another look and found that the source of the glow was the pure mutton-jade vase. Filled with delight, he said to himself, *"What a lovely treasure! This vase was glowing also when the little fiends took it up the mountain. Then old Monkey got it, only to have it taken away again by the monster. It's hidden here and today it's still glowing."*
 
 Look at him! He stole the vase at once and turned quickly to walk out of the cave, not even bothering to try to rescue his master. As soon as he came out the door, he ran into the demon returning from the south, holding the treasure sword and the fan. The Great Sage did not have time to hide himself, and the demon lifted his sword instantly to slash at his head. Mounting his cloud somersault, the Great Sage leaped up and vanished immediately. When the fiend arrived at his own door, he saw corpses lying everywhere, all the monster-spirits under his command. He was so stricken that he lifted his face toward Heaven and sighed loudly before bursting into tears, crying *"O misery! O what bitterness!"*
 
-For him we have a testimonial poem, and the poem says: 
+For him we have a testimonial poem, and the poem says:
 
-*Hateful are the sly ape and the froward horse!   
-The seeds divine who came to the world of dust,   
-For one erring thought of leaving Heaven,   
-Fell on this mountain and destroyed themselves.   
-What bitter grief when flocks of birds break up!   
-How tears flow when monster troops are wiped out!   
-When will the scourge end, the chastisement cease,   
+*Hateful are the sly ape and the froward horse!
+The seeds divine who came to the world of dust,
+For one erring thought of leaving Heaven,
+Fell on this mountain and destroyed themselves.
+What bitter grief when flocks of birds break up!
+How tears flow when monster troops are wiped out!
+When will the scourge end, the chastisement cease,
 That they may return to their primal forms?*
 
 Overborne by grief, the old demon wailed step by step into the cave; he saw that the furniture and other belongings remained, but not even a single person was in sight. In this total silence, he became sadder than ever: as he sat all by himself in the cave, he placed his head on a stone table, his sword he leaned against the table, and the fan he stuck back into his collar. Soon, he fell into a deep sleep, just as the proverb says: Your spirit is full when you are happy; Once dejected you tend to be sleepy!
@@ -184,18 +185,18 @@ We tell you now about the Great Sage Sun, who turned the direction of his cloud 
 The Great Sage rapped the demon: *"You don't know what's good for you! A student wants to fight old Monkey? How could an egg smash up a rock?"*
 
 The treasure sword came,  
-The iron rod moved: 
-The two would no longer cherish kindness. 
-Again and again a contest they waged; 
+The iron rod moved:
+The two would no longer cherish kindness.
+Again and again a contest they waged;
 Over and over they used their martial skill.
-Because of the scripture monk 
-Who sought at Spirit Mount a place, 
-Bringing discord to Metal and Fire, 
-The Five Phases, confused, lost their peace. 
-They showed their awe-inspiring, magic power; 
-They kicked up dust and stones to flaunt their might. 
-They fought till the sun was about to sink: 
-The demon grew weak and retreated first. 
+Because of the scripture monk
+Who sought at Spirit Mount a place,
+Bringing discord to Metal and Fire,
+The Five Phases, confused, lost their peace.
+They showed their awe-inspiring, magic power;
+They kicked up dust and stones to flaunt their might.
+They fought till the sun was about to sink:
+The demon grew weak and retreated first.
 
 The demon fought with the Great Sage for more than thirty rounds; when the sky darkened, the demon fled in defeat and headed for the southwest in the direction of the Crush-Dragon Cave. We shall speak no more of him for the moment. Lowering the direction of his cloud, the Great Sage dashed into the Lotus-Flower Cave and untied the Tang Monk, Eight Rules, and Sha Monk. After they were freed, they thanked Pilgrim while asking, *"Where did the demons go?"*
 
@@ -205,9 +206,9 @@ Profoundly grateful, the Tang Monk said, *"Disciple, you must have worked awfull
 
 *"Indeed,"* said Pilgrim, laughing, *"though all of you had to bear the pain of being hung up, old Monkey hasn't been able even to rest his legs! I had to be on the go even more frequently than the postal messenger: coming in and getting out, there was never a moment's pause. Only after having managed to steal his treasures could I defeat the demons."*
 
-*"Elder Brother,"* said Zhu Eight Rules, *"take out the gourd and let us have a look inside. The second demon, I suppose, must have been dissolved by now."* 
+*"Elder Brother,"* said Zhu Eight Rules, *"take out the gourd and let us have a look inside. The second demon, I suppose, must have been dissolved by now."*
 
-The Great Sage first untied the pure vase; he then took out the gold rope and the fan before he held the gourd in his hands. Then he said, *"Don't look! Don't look! Just now he had old Monkey stored up, and only after I deceived him into opening the lid by feigning some gargling noise did I escape. We must not, therefore, lift up the lid, for he may still pull some tricks and escape."* 
+The Great Sage first untied the pure vase; he then took out the gold rope and the fan before he held the gourd in his hands. Then he said, *"Don't look! Don't look! Just now he had old Monkey stored up, and only after I deceived him into opening the lid by feigning some gargling noise did I escape. We must not, therefore, lift up the lid, for he may still pull some tricks and escape."*
 
 Thereafter master and disciples happily searched the cave and found some of the monsters' rice, noodles, and vegetables; after heating and washing some of the pots and pans, they prepared a vegetarian meal and ate their fill. They rested in the cave for the night and soon it was morning again.
 
@@ -229,7 +230,7 @@ The Great Sage fastened the gourd and the vase to his waist, stuffed the gold ro
 
 The fiend stepped aside to dodge the blow before turning again to meet him with the halberd. The two of them fought back and forth on the mountain for three or four rounds, and the fiend grew weak already. As he fled, Pilgrim gave chase and encountered the old demon, who also fought with him for three rounds. Then the Number Seven Fox turned around and attacked once more. When Eight Rules on this side saw him, he quickly stopped him with the nine-pronged rake; so, each of the pilgrims took on a monster and they fought for a long time without reaching a decision. The old demon shouted for all the monster soldiers to join the battle also. We tell you now about the Tang Monk, who was seated in the cave when he heard earth-shaking cries coming from outside. *"Sha Monk,"* he said, *"go and see how your brothers are doing in the battle."*
 
-Lifting high his fiend-routing staff, Sha Monk gave a terrific cry as he raced outside, beating back at once many of the monsters. 
+Lifting high his fiend-routing staff, Sha Monk gave a terrific cry as he raced outside, beating back at once many of the monsters.
 
 When Number Seven saw that the tide was turning against them, he spun around and ran, only to be caught up by Eight Rules, who brought the rake down hard on his back. This one blow caused nine spots of bright red to spurt out; Pity one spirit's true nature going to the world beyond. When Eight Rules dragged him aside and stripped off his clothes, he found that the Great King, too, was a fox spirit. When the old demon saw that his maternal uncle was slain, he abandoned Pilgrim and attacked Eight Rules with the sword. Eight Rules blocked the blow with the muckrake; as they fought, Sha Monk charged near and struck with his staff. Unable to withstand the two of them, the demon mounted wind and cloud to flee toward the south with Eight Rules and Sha Monk hard on his heels. When the Great Sage saw that, he swiftly leaped into the air, untied the vase, and took aim at the old demon, crying, *"Great King Golden Horn!"*
 
@@ -237,7 +238,7 @@ The fiend thought that it was one of his defeated little demons calling him, and
 
 The sword of seven stars dropped to the ground below and it, too, became the property of Pilgrim.
 
-*"Elder Brother,"* said Eight Rules, coming up to meet Pilgrim, *"you've got the sword. But where's the monster-spirit?"* 
+*"Elder Brother,"* said Eight Rules, coming up to meet Pilgrim, *"you've got the sword. But where's the monster-spirit?"*
 
 *"Finished!"* said Pilgrim, chuckling, *"He's stored up in this vase of mine."*
 
@@ -263,14 +264,15 @@ When the Great Sage heard these words, he thought to himself, *"What a rogue is 
 
 He then said to Laozi, *"If Venerable Sir didn't show up personally, I would never have returned these things to you. But since you have made the appearance and told me the truth, you can take them away."*
 
-After receiving the five treasures, Laozi lifted the seals of the gourd and the vase and poured out two masses of divine ether. With one point of his finger he transformed the ether again into two youths, standing on his left and right. Ten thousand strands of propitious light appeared as 
+After receiving the five treasures, Laozi lifted the seals of the gourd and the vase and poured out two masses of divine ether. With one point of his finger he transformed the ether again into two youths, standing on his left and right. Ten thousand strands of propitious light appeared as
 
-*They all drifted toward the Tushita Palace;   
+*They all drifted toward the Tushita Palace;
 Freely they went straight up to Heaven's canopy.*
 
 We do not know what happens thereafter, how the Great Sun accompanies the Tang Monk, or at what time they reach the Western Heaven; let's listen to the explanation in the next chapter.
 
 # Vobs
+
 heresy (n): tà giáo, dị giáo
 eppress (v): áp bức, áp chế
 bag (v): bỏ vào túi
@@ -286,7 +288,7 @@ Supreme Primordial Old Patriarch: hồng quân lão tổ
 the turbid: sự đục
 cease to be effective: không còn hiệu quả nữa
 put away: cất đi
-Great King Silver Horn: 
+Great King Silver Horn:
 suck up/into: hút vào
 paltry: ít ỏi, không đáng giá
 dissolve (v): hòa tan

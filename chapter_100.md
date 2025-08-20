@@ -1,0 +1,507 @@
+ONE HUNDRED
+
+They return to the Land of the East  
+Five sages become perfected
+
+Let us not say anything more about how the four pilgrims departed by mounting the wind with the Vajra Guardians. We tell you instead about the multitude in the LifeSaving Monastery at the Chen Village, who rose at dawn and went at once to offer fruits and other food to their benefactors. When they arrived at the space beneath the tower, however, they found that the Tang Monk had disappeared.
+
+Thereupon all of them hunted everywhere, but without success. They were so upset that they did not quite know what to do except to wail aloud, “We have allowed a Living Buddha to walk away!”
+
+After a while, the entire household realized that they had no better alternative than to pile all the food and gifts on the altar up in the tower and offer them as sacrifices along with the burning of paper cash. Thereafter they made four great sacrifices and twenty-four smaller ones each year. Moreover, those who wanted to pray for healing, for safety on a journey, for the gift of a spouse, for wealth or children, and to make a vow appeared daily at every hour to present their offerings and incense. Truly,
+
+> The gold censer continued a thousand years’ fire;  
+> The jade chalice brightened with an eternal lamp.
+
+In that condition we shall leave them.
+
+We tell you now instead about the Eight Vajra Guardians, who employed the second gust of fragrant wind to carry the four pilgrims back to the Land of the East. In less than a day, the capital, Chang’an, gradually came into view. That Emperor Taizong, you see, had escorted the Tang Monk out of the city three days before the full moon in the ninth month of the thirteenth year of the Zhenguan reign period. By the sixteenth year, he had already asked the Bureau of Labor to erect a Scripture-Watch Tower outside the Western-Peace Pass to receive the holy books. Each year Taizong would go personally to that place for a visit. It so happened that he had gone again to the tower that day when he caught sight of a sky full of auspicious mists drifting near from the West, and he noticed at the same time strong gusts of fragrant wind.
+
+Halting in midair, the Vajra Guardians cried, “Sage Monk, this is the city Chang’an. It’s not convenient for us to go down there, for the people of this region are quite intelligent, and our true identity may become known to them. Even the Great Sage Sun and his two companions needn’t go; you yourself may go, hand over the scriptures, and return at once. We’ll wait for you in the air so that we may all go back to report to Buddha.”
+
+“What the Honored Ones say may be most appropriate,” said the Great Sage, “but how could my master tote all those scriptures? How could he lead the horse at the same time? We will have to escort him down there. May we trouble you to wait a while in the air? We dare not tarry.”
+
+“When the Bodhisattva Guanyin spoke to Tathāgata the other day,” said the Vajra Guardians, “she assured him that the whole trip should take only eight days, so that the canonical number would be fulfilled. It’s already more than four days now. We fear that Eight Rules might become so enamored of the riches down below that we will not be able to meet our appointed schedule.”
+
+“When Master attains Buddhahood,” said Eight Rules, chuckling, “I, too, will attain Buddhahood. How could I become enamored of riches down below? Stupid old ruffians! Wait for me here, all of you! As soon as we have handed over the scriptures, I’ll return with you and be canonized.” Idiot took up the pole, Sha Monk led the horse, and Pilgrim supported the sage monk. Lowering their cloud, they dropped down beside the Scripture-Watch Tower.
+
+When Taizong and his officials saw them, they all descended the tower to receive them. “Has the royal brother returned?” asked the emperor. The Tang Monk immediately prostrated himself, but he was raised by the emperor’s own hands. “Who are these three persons?” asked the emperor once more.
+
+“They are my disciples made during our journey,” replied the Tang Monk. Highly pleased, Taizong at once ordered his attendants, “Saddle one of our chariot horses for our royal brother to ride. We’ll go back to the court together.”
+
+The Tang Monk thanked him and mounted the horse, closely followed by the Great Sage wielding his golden-hooped rod and by Eight Rules and Sha Monk toting the luggage and supporting the other horse. The entire entourage thus entered together the city of Chang’an. Truly
+
+> A banquet of peace was held years ago.  
+> When lords, civil and martial, made a grand show.  
+> A priest preached the law in a great event;  
+> From Golden Chimes the king his subject sent.  
+> Tripitaka was given a royal rescript,  
+> For Five Phases matched the cause of holy script.  
+> Through bitter smelting all demons were purged.  
+> Merit done, they now on the court converged.
+
+The Tang Monk and his three disciples followed the throne into the court, and soon there was not a single person in the city of Chang’an who had not learned of the scripture seekers’ return.
+
+We tell you now about those priests, young and old, of the Temple of Great Blessing, which was also the old residence of the Tang Monk in Chang’an. That day they suddenly discovered that the branches of a few pine trees within the temple gate were pointing eastward. Astonished, they cried, “Strange! Strange! There was no strong wind to speak of last night. Why are all the tops of these trees twisted in this manner?”
+
+One of the former disciples of Tripitaka said, “Quickly, let’s get our proper clerical garb. The old master who went away to acquire scriptures must have returned.”
+
+“How do you know that?” asked the other priests.
+
+“At the time of his departure,” the old disciple said, “he made the remark that he might be away for two or three years, or for six or seven years. Whenever we noticed that these pine-tree tops were pointing to the east, it would mean that he has returned. Since my master spoke the holy words of a true Buddha, I know that the truth has been confirmed this day.”
+
+They put on their clothing hurriedly and left; by the time they reached the street to the west, people were already saying that the scripture seeker had just arrived and been received into the city by His Majesty. When they heard the news, the various monks dashed forward and ran right into the imperial chariot. Not daring to approach the emperor, they followed the entourage instead to the gate of the court. The Tang Monk dismounted and entered the court with the emperor. The dragon horse, the scripture packs, Pilgrim, Eight Rules, and Sha Monk were all placed beneath the steps of jade, while Taizong commanded the royal brother to ascend the hall and take a seat.
+
+After thanking the emperor and taking his seat, the Tang Monk asked that the scripture scrolls be brought up. Pilgrim and his companions handed them over to the imperial attendants, who presented them in turn to the emperor for inspection. “How many scrolls of scriptures are there,” asked Taizong, “and how did you acquire them?”
+
+“When your subject arrived at the Spirit Mountain and bowed to the Buddhist Patriarch,” replied Tripitaka, “he was kind enough to ask Ānanda and Kāśyapa, the two Honored Ones, to lead us to the precious tower first for a meal. Then we were brought to the treasure loft, where the scriptures were bestowed on us. Those Honored Ones asked for a gift, but we were not prepared and did not give them any. They gave us some scriptures anyway, and after thanking the Buddhist Patriarch, we headed east, but a monstrous wind snatched away the scriptures. My humble disciple fortunately had a little magic power; he gave chase at once, and the scriptures were thrown and scattered all over. When we unrolled the scrolls, we saw that they were all wordless, blank texts. Your subjects in great fear went again to bow and plead before Buddha. The Buddhist Patriarch said, ‘When these scriptures were created, some Bhikṣu sage monks left the monastery and recited some scrolls for one Elder Zhao in the Śrāvastī Kingdom. As a result, the living members of that family were granted safety and protection, while the deceased attained redemption. For such great service they only managed to ask the elder for three pecks and three pints of rice and a little gold. I told them that it was too cheap a sale, and that their descendants would have no money to spend.’ Since we learned that even the Buddhist Patriarch anticipated that the two Honored Ones would demand a gift, we had little choice but to offer them that alms-bowl of purple gold that Your Majesty had bestowed on me. Only then did they willingly turn over the true scriptures with writing to us. There are thirty-five titles of these scriptures, and several scrolls were selected from each title. Altogether, there are now five thousand and forty-eight scrolls, the number of which makes up one canonical sum.”
+
+More delighted than ever, Taizong gave this command: “Let the Court of Imperial Entertainments prepare a banquet in the East Hall so that we may thank our royal brother.” Then he happened to notice Tripitaka’s three disciples standing beneath the steps, all with extraordinary looks, and he therefore asked, “Are your noble disciples foreigners?”
+
+Prostrating himself, the elder said, “My eldest disciple has the surname of Sun, and his religious name is Wukong. Your subject also addresses him as Pilgrim Sun. He comes from the Water Curtain Cave of the Flower-Fruit Mountain, located in the Aolai Country in the East Pūrvavideha Continent. Because he caused great disturbance in the Celestial Palace, he was imprisoned in a stone box by the Buddhist Patriarch and pressed beneath the Mountain of Two Frontiers in the region of the Western barbarians. Thanks to the admonitions of the Bodhisattva Guanyin, he was converted to Buddhism and became my disciple when I freed him. Throughout my journey I relied heavily on his protection.
+
+“My second disciple has the surname of Zhu, and his religious name is Wuneng. Your subject also addresses him as Zhu Eight Rules. He comes from the Cloudy Paths Cave of Fuling Mountain. He was playing the fiend at the Old Gao Village of Qoco when the admonitions of the Bodhisattva and the power of the Pilgrim caused him to become my disciple. He made his merit on our journey by toting the luggage and helping us to ford the waters.
+
+“My third disciple has the surname of Sha, and his religious name is Wujing. Your subject also addresses him as Sha Monk. Originally he was a fiend at the Flowing-Sand River. Again the admonitions of the Bodhisattva persuaded him to take the vows of Buddhism. By the way, the horse is not the one my Lord bestowed on me.”
+
+Taizong said, “The color and the coat seem all the same. Why isn’t it the same horse?”
+
+“When your subject reached the Eagle Grief Stream in the Serpent Coil Mountain and tried to cross it,” replied Tripitaka, “the original horse was devoured by this horse. Pilgrim managed to learn from the Bodhisattva that this horse was originally the prince of the Dragon King of the Western Ocean. Convicted of a crime, he would have been executed had it not been for the intervention of the Bodhisattva, who ordered him to be the steed of your subject. It was then that he changed into a horse with exactly the same coat as that of my original mount. I am greatly indebted to him for taking me over mountains and summits and through the most treacherous passages. Whether it be carrying me on my way there or bearing the scriptures upon our return, we are much beholden to his strength.”
+
+On hearing these words, Taizong complimented him profusely before asking again, “This long trek to the Western Region, exactly how far is it?”
+
+Tripitaka said, “I recall that the Bodhisattva told us that the distance was a hundred and eight thousand miles. I did not make a careful record on the way. All I know is that we have experienced fourteen seasons of heat and cold. We encountered mountains and ridges daily; the forests we came upon were not small, and the waters we met were wide and swift. We also went through many kingdoms, whose rulers had affixed their seals and signatures on our document.” Then he called out: “Disciples, bring up the travel rescript and present it to our Lord.”
+
+It was handed over immediately. Taizong took a look and realized that the document had been issued on the third day before the full moon, in the ninth month of the thirteenth year during the Zhenguan reign period.
+
+Smiling, Taizong said, “We have caused you the trouble of taking a long journey. This is now the twenty-seventh year of the Zhenguan period!”
+
+The travel rescript bore the seals of the Precious Image Kingdom, the Black Rooster Kingdom, the Cart Slow Kingdom, the Kingdom of Women in Western Liang, the Sacrifice Kingdom, the Scarlet-Purple Kingdom, the Bhikṣu Kingdom, the Dharma-Destroying Kingdom. There were also the seals of the Phoenix-Immortal Prefecture, the Jade-Flower County, and the Gold-Level Prefecture. After reading through the document, Taizong put it away.
+
+Soon the officer in attendance to the throne arrived to invite them to the banquet. As the emperor took the hand of Tripitaka and walked down the steps of the hall, he asked once more, “Are your noble disciples familiar with the etiquette of the court?”
+
+“My humble disciples,” replied Tripitaka, “all began their careers as monsters deep in the wilds or a mountain village, and they have never been instructed in the etiquette of China’s sage court. I beg my Lord to pardon them.”
+
+Smiling, Taizong said, “We won’t blame them! We won’t blame them! Let’s all go to the feast set up in the East Hall.”
+
+Tripitaka thanked him once more before calling for his three disciples to join them. Upon their arrival at the hall, they saw that the opulence of the great nation of China was indeed different from all ordinary kingdoms. You see
+
+> The doorway o’erhung with brocade.  
+> The floor adorned with red carpets,  
+> The whirls of exotic incense,  
+> And fresh victuals most rare.  
+> The amber cups  
+> And crystal goblets  
+> Are gold-trimmed and jade-set;  
+> The gold platters  
+> And white-jade bowls  
+> Are patterned and silver-rimmed.  
+> The tubers thoroughly cooked,  
+> The taros sugar-coated;  
+> Sweet, lovely butt on mushrooms,  
+> Unusual, pure seaweeds.  
+> Bamboo shoots, ginger-spiced, are served a few times;  
+> Malva leafs, honey-drenched, are mixed several ways.  
+> Wheat-glutens fried with xiangchun leaves:  
+> Wood-ears cooked with bean-curd skins.  
+> Rock ferns and fairy plants;  
+> Fern flour and dried wei-leaves.  
+> Radishes cooked with Sichuan peppercorns;  
+> Melon strands stirred with mustard powder.  
+> These few vegetarian dishes are so-so,  
+> But the many rare fruits quite steal the show!  
+> Walnuts and persimmons,  
+> Lung-ans and lychees.  
+> The chestnuts of Yizhou and Shandong’s dates;  
+> The South’s ginko fruits and hare-head pears.  
+> Pine-seeds, lotus-seeds, and giant grapes;  
+> melon seeds, and water chestnuts.  
+> “Chinese olives” and wild apples;  
+> Crabapples and Pyrus-pears;  
+> Tender stalks and young lotus roots;  
+> plums and “Chinese strawberries.”  
+> Not one species is missing;  
+> Not one kind is wanting.  
+> There are, moreover, the steamed mille-feuilles, honeyed pastries, and fine viands;  
+> And there are also the lovely wines, fragrant teas, and strange dainties.  
+> An endless spread of one hundred flavors, true noble fare.  
+> Western barbarians with great China can never compare!
+
+Master and three disciples were grouped together with the officials, both civil and military, on both sides of the emperor Taizong, who took the seat in the middle. The dancing and the music proceeded in an orderly and solemn manner, and in this way they enjoyed themselves thoroughly for one whole day. Truly
+
+> The royal banquet rivals the sage kings’:  
+> True scriptures acquired bring excess blessings.  
+> Forever these will prosper and remain  
+> As Buddha’s light shines on the king’s domain.
+
+When it became late, the officials thanked the emperor; while Taizong withdrew into his palace, the various officials returned to their residences. The Tang Monk and his disciples, however, went to the Temple of Great Blessing, where they were met by the resident priests kowtowing. As they entered the temple gate, the priests said, “Master, the top of these trees were all suddenly pointing eastward this morning. We remembered your words and hurried out to the city to meet you. Indeed, you did arrive!”
+
+The elder could not have been more pleased as they were ushered into the abbot’s quarters. By then, Eight Rules was not clamoring at all for food or tea, nor did he indulge in any mischief. Both Pilgrim and Sha Monk behaved most properly, for they had become naturally quiet and reserved since the Dao in them had come to fruition. They rested that night.
+
+Taizong held court next morning and said to the officials, “We did not sleep the whole night when we reflected on how great and profound has been the merit of our brother, such that no compensation is quite adequate. We finally composed in our head several homely sentences as a mere token of our gratitude, but they have not yet been written down.” Calling for one of the secretaries from the Central Drafting Office, he said, “Come, let us recite our composition for you, and you write it down sentence by sentence.” The composition was as follows:
+
+> We have heard how the Dyadic Models which manifest themselves in Heaven and Earth in the production of life are represented by images, whereas the invisible powers of the four seasons bring about transformation of things through the hidden action of heat and cold. By scanning Heaven and Earth, therefore, even the most ignorant may perceive their rudimentary laws. Even the thorough understanding of yin and yang, however, has seldom enabled the worthy and wise to comprehend fully their ultimate principle. It is easy to recognize that Heaven and Earth do contain yin and yang because there are images. It is difficult to comprehend fully how yin and yang pervade Heaven and Earth because the forces themselves are invisible. That images may manifest the minute is a fact that does not perplex even the foolish, whereas forms hidden in what is invisible are what confuses even the learned.
+>
+> How much more difficult it is, therefore, to understand the way of Buddhism, which exalts the void, uses the dark, and exploits the silent in order to succor the myriad grades of living things and exercise control over the entire world. Its spiritual authority is the highest, and its divine potency has no equal. Its magnitude impregnates the entire cosmos; there is no space so tiny that it does not permeate it. Birthless and deathless, it does not age after a thousand kalpas; half-hidden and half-manifest, it brings one hundred blessings even now. A wondrous way most mysterious, those who follow it cannot know its limit. A law flowing silent and deep, those who draw on it cannot fathom its source. How, therefore, could those benighted ordinary mortals not be perplexed if they tried to plumb its depths?
+>
+> Now, this great Religion arose in the Land of the West. It soared to the court of the Han period in the form of a radiant dream, which flowed with its mercy to enlighten the Eastern territory. In antiquity, during the time when form and abstraction were clearly distinguished, the words of the Buddha, even before spreading, had already established their goodly influence. In a generation when he was both frequently active in and withdrawn from the world, the people beheld his virtue and honored it. But when he returned to Nirvāṇa and generations passed by, the golden images concealed his true form and did not reflect the light of the universe. The beautiful paintings, though unfolding lovely portraits, vainly held up the figure of thirty-two marks. Nonetheless his subtle doctrines spread far and wide to save men and beasts from the three
+
+unhappy paths, and his traditions were widely proclaimed to lead all creatures through the ten
+stages toward Buddha-hood. Moreover, the Buddha made scriptures, which could be divided into
+the Great and the Small Vehicles. He also possessed the Law, which could be transmitted either in
+the correct or in the deviant method.
+
+Our priest Xuanzang, a Master of the Law, is a leader within the Gate of Law. Devoted and
+intelligent since his youth, he realized early the merit of the three forms of emptiness. When
+grown he comprehended the principles of the spiritual, including first the practice of the four
+forms of patience. Neither the pine in the wind nor the moon mirrored in water can compare with
+his purity and radiance. Even the dew of Heaven and luminous gems cannot surpass the clarity
+and refinement of his person. His intelligence encompassed even those elements which seemingly
+had no relations, and his spirit could perceive that which had yet to take visible forms. Having
+transcended the lure of the six senses, he was such an outstanding figure that in all the past he had
+no rival. He concentrated his mind on the internal verities, mourning all the time the mutilation of
+the correct doctrines. Worrying over the mysteries, he lamented that even the most profound
+treatises had errors.
+
+He thought of revising the teachings and reviving certain arguments, so as to disseminate
+what he had received to a wider audience. He would, moreover, strike out the erroneous and
+preserve the true to enlighten the students. For this reason he longed for the Pure Land and a
+pilgrimage to the Western Territories. Risking dangers he set out on a long journey, with only his
+staff for his companion on this solitary expedition. Snow drifts in the morning would blanket his
+roadway; sand storms at dusk would blot out the horizon. Over ten thousand miles of mountains
+and streams he proceeded, pushing aside mist and smoke. Through a thousand alternations of heat
+and cold he advanced amidst frost and rain. As his zeal was great, he considered his task a light
+one, for he was determined to succeed.
+
+He toured throughout the Western World for fourteen years, going to all the foreign nations
+in quest of the proper doctrines. He led the life of an ascetic beneath twin śāla trees and by the
+eight rivers of India. At the Deer Park and on the Vulture Peak he beheld the strange and
+searched out the different. He received ultimate truths from the senior sages and was taught the
+true doctrines by the highest worthies. Penetrating into the mysteries, he mastered the most
+profound lessons. The way of the Triyāna and Six Commandments he learned by heart; a hundred
+cases of scriptures forming the canon flowed like waves from his lips.
+
+Though the countries he visited were innumerable, the scriptures he succeeded in acquiring
+had a definite number. Of those important texts of the Mahāyāna he received, there are thirty-five
+titles in altogether five thousand and forty-eight scrolls. When they are translated and spread
+through China, they will proclaim the surpassing merit of Buddhism, drawing the cloud of mercy
+from the Western extremity to shower the dharma-rain on the Eastern region. The Holy Religion,
+once incomplete, is now returned to perfection. The multitudes, once full of sins, are now brought
+back to blessing. Like that which quenches the fire in a burning house, Buddhism works to save
+humanity lost on its way to perdition. Like a golden beam shining on darkened waters, it leads the
+voyagers to ascend safely the other shore.
+
+Thus we know that the wicked will fall because of their iniquities, but the virtuous will rise
+because of their karmic affinities. The root causes of such rise and fall are all self-made by man.
+Consider the cinnamon flourishing high on the mountain, its flowers nourished by cloud and mist,
+or the lotus growing atop the green waves, its leaves unsoiled by dust. This is not because the
+lotus is by nature clean or because the cinnamon itself is chaste, but because what the cinnamon
+depends on for its existence is lofty, and thus it will not be weighed down by trivia; and because
+what the lotus relies on is pure, and thus impurity cannot stain it. Since even the vegetable
+kingdom, which is itself without intelligence, knows that excellence comes from an environment
+of excellence, how can humans who understand the great relations not search for well-being by
+following well-being?
+
+May these scriptures abide forever as the sun and moon and may the blessings they confer
+spread throughout the universe!
+
+After the secretary had finished writing this treatise, the sage monk was
+summoned. At the time, the elder was already waiting outside the gate of the court.
+When he heard the summons, he hurried inside and prostrated himself to pay homage to
+the emperor.
+
+1316
+
+Taizong asked him to ascend the hall and handed him the document. When he
+had finished reading it, the priest went to his knees again to express his gratitude. “The
+style and rhetoric of my Lord,” said the priest, “are lofty and classical, while the
+reasoning in the treatise is both profound and subtle. I would like to know, however,
+whether a title has been chosen for this composition.”
+
+“We composed it orally last night,” replied Taizong, “as a token of thanks to our
+royal brother. Will it be acceptable if I title this „Preface to the Holy Religion'?” The
+elder kowtowed and thanked him profusely. Once more Taizong said,
+
+> Our talents pale before the imperial tablets,  
+> And our words cannot match the bronze and stone inscriptions.  
+> As for the esoteric texts,  
+> Our ignorance thereof is even greater.  
+> Our treatise orally composed  
+> Is actually quite unpolished—  
+> Like mere spilled ink on tablets of gold.  
+> Or broken tiles in a forest of pearls.  
+> Writing it in self-interest,  
+> We have quite ignored even embarrassment.  
+> It is not worth your notice,  
+> And you should not thank us.
+
+All the officials present, however, congratulated the emperor and made
+arrangements immediately to promulgate the royal essay on Holy Religion inside and
+outside the capital.
+
+Taizong said, “We would like to ask the royal brother to recite the true scriptures
+for us. How about it?”
+
+“My Lord,” said the elder, “if you want me to recite the true scriptures, we must
+find the proper religious site. The treasure palace is no place for recitation.”
+
+Exceedingly pleased, Taizong asked his attendants, “Among the monasteries of
+Chang'an, which is the purest one?”
+
+From among the ranks stepped forth the Grand Secretary, Xiao Yu, who said,
+“The Wild-Goose Pagoda Temple in the city is purest of all.”
+
+At once Taizong gave this command to the various officials: “Each of you take
+several scrolls of these true scriptures and go reverently with us to the Wild-Goose
+Pagoda Temple. We want to ask our royal brother to expound the scriptures to us.”
+
+Each of the officials indeed took up several scrolls and followed the emperor's
+carriage to the temple. A lofty platform with proper appointments was then erected. As
+before, the elder told Eight Rules and Sha Monk to hold the dragon horse and mind the
+luggage, while Pilgrim was to serve him by his side. Then he said to Taizong, “If my
+Lord would like to circulate the true scriptures throughout his empire, copies should be
+made before they are dispersed. We should treasure the originals and not handle them
+lightly.”
+
+Smiling, Taizong said, “The words of our royal brother are most appropriate!
+Most appropriate!” He thereupon ordered the officials in the Hanlin Academy and the
+Central Drafting Office to make copies of the true scriptures. For them he also erected
+another temple east of the capital and named it the Temple for Imperial Transcription.
+
+1317
+
+The elder had already taken several scrolls of scriptures and mounted the
+platform. He was just about to recite them when he felt a gust of fragrant wind. In
+midair the Eight Vajra Guardians revealed themselves and cried, “Recitants, drop your
+scripture scrolls and follow us back to the West.”
+
+From below, Pilgrim and his two companions together with the white horse
+immediately rose into the air. The elder, too, abandoned the scriptures and rose from the
+platform. They all left soaring through the air. So startled were Taizong and the many
+officials that they all bowed down toward the sky. Thus it was that
+
+> Since scriptures were the sage monk's ardent quest,  
+> He went on fourteen years throughout the West  
+> A bitter journey full of trials and woes,  
+> With many streams and mountains as his foes.  
+> Nine merits more were added to eight times nine;  
+> three thousand works did on the great world shine.  
+> The wondrous texts brought back to the noble state  
+> Would in the East until now circulate.
+
+After Taizong and many officials had finished their worship, they immediately
+set about the selection of high priests so that a Grand Mass of Land and Water could be
+held right in that Wild-Goose Pagoda Temple. Furthermore, they were to read and recite
+the true scriptures from the Great Canon in order that the damned spirits would be
+delivered from nether darkness and the celebration of good works be multiplied. The
+copies of transcribed scriptures would also be promulgated throughout the empire, and
+of this we shall speak no more.
+
+We must tell you now about those Eight Great Vajra Guardians, who mounted
+the fragrant wind to lead the elder, his three disciples, and the white horse back to Spirit
+Mountain. The round trip was made precisely within a period of eight days. At that time
+the various divinities of Spirit Mountain were all assembled before Buddha to listen to
+his lecture. Ushering master and disciples before his presence, the Eight Vajra
+Guardians said, “Your disciples by your golden decree have escorted the sage monk and
+his companions back to the Tang nation. The scriptures have been handed over. We now
+return to surrender your decree.” The Tang Monk and his disciples were then told to
+approach the throne of Buddha to receive their appointments.
+
+“Sage Monk,” said Tathāgata, “in your previous incarnation you were originally
+my second disciple named Master Gold Cicada. Because you failed to listen to my
+exposition of the law and slighted my great teaching, your true spirit was banished to
+find another incarnation in the Land of the East. Happily you submitted and, by
+remaining faithful to our teaching, succeeded in acquiring the true scriptures. For such
+magnificent merit, you will receive a great promotion to become the Buddha of
+Candana Merit.
+
+“Sun Wukong, when you caused great disturbance at the Celestial Palace, I had
+to exercise enormous dharma power to have you pressed beneath the Mountain of Five
+Phases. Fortunately your Heaven-sent calamity came to an end, and you embraced the
+Buddhist religion. I am pleased even more by the fact that you were devoted to the
+scourging of evil and the exaltation of good. Throughout your journey you made great
+merit by smelting the demons and defeating the fiends. For being faithful in the end as
+you were in the beginning, I hereby give you the grand promotion and appoint you the
+Buddha Victorious in Strife.
+
+1318
+
+“Zhu Wuneng, you were originally an aquatic deity of the Heavenly River, the
+Marshal of Heavenly Reeds. For getting drunk during the Festival of Immortal Peaches
+and insulting the divine maiden, you were banished to an incarnation in the Region
+Below which would give you the body of a beast. Fortunately you still cherished and
+loved the human form, so that even when you sinned at the Cloudy Paths Cave in Fuling
+Mountain, you eventually submitted to our great religion and embraced our vows.
+Although you protected the sage monk on his way, you were still quite mischievous, for
+greed and lust were never wholly extinguished in you. For the merit of toting the
+luggage, however, I hereby grant you promotion and appoint you Janitor of the Altars.”
+
+“They have all become Buddhas!” shouted Eight Rules. “Why am I alone made
+Janitor of the Altars?”
+
+“Because you are still talkative and lazy,” replied Tathāgata, “and you retain an
+enormous appetite. Within the four great continents of the world, there are many people
+who observe our religion. Whenever there are Buddhist services, you will be asked to
+clear the altars. That's an appointment which offers you plenty of enjoyment. How
+could it be bad?
+
+“Sha Wujing, you were originally the Great Curtain-Raising Captain. Because
+you broke a crystal chalice during the Festival of Immortal Peaches, you were banished
+to the Region Below, where at the River of Flowing-Sand you sinned by devouring
+humans. Fortunately you submitted to our religion and remained firm in your faith. As
+you escorted the sage monk, you made merit by leading his horse over all those
+mountains. I hereby grant you promotion and appoint you the Golden-Bodied Arhat.”
+
+Then he said to the white horse, “You were originally the prince of Dragon King
+Guangjin of the Western Ocean. Because you disobeyed your father's command and
+committed the crime of unfiliality, you were to be executed. Fortunately you made
+submission to the Law and accepted our vows. Because you carried the sage monk daily
+on your back during his journey to the West and because you also took the holy
+scriptures back to the East, you too have made merit. I hereby grant you promotion and
+appoint you one of the dragons belonging to the Eight Classes of Supernatural Beings.”
+
+The elder, his three disciples, and the horse all kowtowed to thank the Buddha,
+who ordered some of the guardians to take the horse to the Dragon-Transforming Pool
+at the back of the Spirit Mountain. After being pushed into the pool, the horse stretched
+himself, and in a little while he shed his coat, horns began to grow on his head, golden
+scales appeared all over his body, and silver whiskers emerged on his cheeks. His whole
+body shrouded in auspicious air and his four paws wrapped in hallowed clouds, he
+soared out of the pool and circled inside the monastery gate, on top of one of the Pillars
+that Support Heaven.
+
+As the various Buddhas gave praise to the great dharma of Tathāgata, Pilgrim
+Sun said also to the Tang Monk, “Master, I've become a Buddha now, just like you. It
+can't be that I still must wear a golden fillet! And you wouldn't want to clamp my head
+still by reciting that so-called Tight-Fillet Spell, would you? Recite the Loose-Fillet
+Spell quickly and get it off my head. I'm going to smash it to pieces, so that that socalled Bodhisattva can't use it anymore to play tricks on other people.”
+
+“Because you were difficult to control previously,” said the Tang Monk, “this
+method had to be used to restrain you. Now that you have become a Buddha, naturally it
+will be gone. How could it be still on your head? Try touching your head and see.”
+
+Pilgrim raised his hand and felt along his head, and indeed the fillet had vanished. So at
+
+1319
+
+that time, Buddha Candana, Buddha Victorious in Strife, Janitor of the Altars, and
+Golden-Bodied Arhat all assumed the position of their own rightful fruition. The
+Heavenly dragon-horse too returned to immortality, and we have a testimonial poem for
+them. The poem says:
+
+> One Real Body dropped to the dusty plain  
+> Fuses with Four Signs to tend the self again.  
+> In Five Phases terms forms are dead and void;  
+> The fiends' vain names one should all avoid.  
+> Great Bodhi's the right Candana fruition;  
+> Appointments crown this rise from perdition.  
+> Gracious light of scriptures now worldwide dilates,  
+> As five sages live within Advaya's gates.
+
+At the time when these five sages assumed their positions, the various Buddhist
+Patriarchs, Bodhisattvas, sage priests, arhats, guardians, bhikṣus, upāsakas and upāsikās,
+the immortals of various mountains and caves, the grand divinities, the Gods of
+Darkness and Light, the Sentinels, the Guardians of Monasteries, and all the immortals
+and preceptors who had attained the Way all came to listen to the proclamation before
+retiring to their proper stations. Look now at
+
+> Colored mists crowding the Spirit Vulture Peak,  
+> And hallowed clouds gathered in the world of bliss.  
+> Gold dragons safely sleeping,  
+> Jade tigers resting in peace;  
+> Black hares scampering freely,  
+> Snakes and turtles circling at will.  
+> Phoenixes, red and blue, gambol pleasantly;  
+> Black apes and white deer saunter happily.  
+> Strange flowers of eight periods,  
+> Divine fruits of four seasons,  
+> Hoary pines and old junipers,  
+> Jade cypresses and aged bamboos.  
+> colored plums often blossoming and bearing fruit;  
+> Millennial peaches frequently ripening and fresh.  
+> A thousand flowers and fruits vying for beauty;  
+> A whole sky full of auspicious mists.
+
+Pressing their palms together to indicate their devotion, the holy congregation all
+chanted:
+
+```
+I submit to Dīpaṁkara, the Buddha of Antiquity.
+I submit to Bhaiṣajya-vaiḍūrya-prabhāṣa, the Physician and Buddha of Crystal Lights.
+I submit to the Buddha Śākyamuni.
+I submit to the Buddha of the Past, Present, and Future.
+I submit to the Buddha of Pure Joy.
+I submit to the Buddha Vairocana.
+I submit to the Buddha, King of the Precious Banner.
+I submit to the Maitreya, the Honored Buddha.
+I submit to the Buddha Amitābha.
+I submit to Sukhāvativyūha, the Buddha of Infinite Life.
+I submit to the Buddha who Receives and Leads to Immortality.
+I submit to the Buddha of Diamond Indestructibility.
+I submit to Sūrya, the Buddha of Precious Light.
+I submit to Mañjuśrī, the Buddha of the Race of Honorable Dragon Kings.
+I submit to the Buddha of Zealous Progress and Virtue.
+I submit to Candraprabha, the Buddha of Precious Moonlight.
+I submit to the Buddha of Presence without Ignorance.
+I submit to Varuna, the Buddha of Sky and Water. I submit to the Buddha Nārāyaṇa.
+I submit to the Buddha of Radiant Meritorious Works.
+I submit to the Buddha of Talented Meritorious Works.
+I submit to Svāgata, the Buddha of the Well-Departed.
+I submit to the Buddha of Candana Light.
+I submit to the Buddha of Jeweled Banner.
+I submit to the Buddha of the Light of Wisdom Torch.
+I submit to the Buddha of the Light of Sea-Virtue.
+I submit to the Buddha of Great Mercy Light.
+I submit to the Buddha, King of Compassion-Power.
+I submit to the Buddha, Leader of the Sages.
+I submit to the Buddha of Vast Solemnity.
+I submit to the Buddha of Golden Radiance.
+I submit to the Buddha of Luminous Gifts.
+I submit to the Buddha Victorious in Wisdom.
+I submit to the Buddha, Quiescent Light of the World.
+I submit to the Buddha, Light of the Sun and Moon.
+I submit to the Buddha, Light of the Sun-and-Moon Pearl.
+I submit to the Buddha, King of the Victorious Banner.
+I submit to the Buddha of Wondrous Tone and Sound.
+I submit to the Buddha, Banner of Permanent Light.
+I submit to the Buddha, Lamp that Scans the World.
+I submit to the Buddha, King of Surpassing Dharma.
+I submit to the Buddha of Sumeru Light.
+I submit to the Buddha, King of Great Wisdom.
+I submit to the Buddha of Golden Sea Light.
+I submit to the Buddha of Great Perfect Light.
+I submit to the Buddha of the Gift of Light.
+I submit to the Buddha of Candana Merit.
+I submit to the Buddha Victorious in Strife.
+I submit to the Bodhisattva Guanshiyin.
+I submit to the Bodhisattva, Great Power-Coming.
+I submit to the Bodhisattva Mañjuśrī.
+I submit to the Bodhisattva Viśvabhadra and other Bodhisattvas.
+I submit to the various Bodhisattvas of the Great Pure Ocean.
+I submit to the Bodhisattva, the Buddha of Lotus Pool and Ocean Assembly.
+I submit to the various Bodhisattvas in the Western Heaven of Ultimate Bliss.
+I submit to the Great Bodhisattvas, the Three Thousand Guardians.
+I submit to the Great Bodhisattvas, the Five Hundred Arhats.
+I submit to the Bodhisattva, Bhikṣu-īkṣṇi.
+I submit to the Bodhisattva of Boundless and Limitless Dharma.
+I submit to the Bodhisattva, Diamond Great Scholar-Sage.
+I submit to the Bodhisattva, Janitor of the Altars.
+I submit to the Bodhisattva, Golden-Bodied Arhat of Eight Jewels.
+I submit to the Bodhisattva of Vast Strength, the Heavenly Dragon of Eight Divisions
+of Supernatural Beings.
+```
+
+Such are these various Buddhas in all the worlds.
+
+> I wish to use these merits  
+> To adorn Buddha's pure land—  
+> To repay fourfold grace above  
+> And save those on three paths below.  
+> If there are those who see and hear,  
+> Their minds will find enlightenment.  
+> Their births with us in paradise  
+> be this body's recompense.
+
+All the Buddhas of past, present, future in all the world,
+The various Honored Bodhisattvas and Mahāsattvas,
+Mahā-prajñā-pāramitā!
+
+Here ends The Journey to the West.
