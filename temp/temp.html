@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Last Ember - Chapter 1</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="novel.css">
+</head>
+<body class="light">
+    <div class="content-container">
+        <div class="header-controls">
+            <div class="left-section">
+                <input type="range" id="fontSizeSlider" min="1" max="5" value="3">
+                <button id="darkModeToggle">
+                    <svg id="moonIcon" class="icon hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"></path></svg>
+                    <svg id="sunIcon" class="icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path></svg>
+                </button>
+            </div>
+            <h1 id="novelTitle" class="novel-title">The Last Ember</h1>
+        </div>
+        
+        <div class="top-spacer"></div>
+
+        <main class="content-wrapper">
+            <h2 id="chapterTitle" class="novel-content"></h2>
+            <p id="chapterContent" class="novel-content text-size-3"></p>
+        </main>
+
+        <div class="reader-nav-buttons">
+            <button id="prevButton" class="nav-button">
+                Previous
+            </button>
+            <button id="nextButton" class="nav-button">
+                Next
+            </button>
+        </div>
+
+    </div>
+
+    <script>
+        // Array to hold the novel chapters
+        const chapters = [
+            {
+                title: "Chapter 1: The Whispering Ruins",
+                content: `
+The world had long forgotten the hum of electricity and the glow of screens. Now, it was a tapestry of rust and creeping vines, where the only light came from the moon or the rare flicker of a fire. Elara, a girl of sixteen, moved with the ghost-like silence of one who had spent her life navigating the forgotten places. Her home was a hollowed-out husk of a skyscraper, its glassless eyes staring out over a skeletal city.
+
+Tonight, the wind carried a new sound. It wasn't the usual sighing of the ancient structures, but a low, rhythmic whisper that seemed to come from the ruins of the Old Library. Others feared that place, believing it haunted by the ghosts of a knowledge they could no longer comprehend. But Elara was different. She had always been drawn to the forbidden whispers, to the lingering echoes of a world that once was.
+
+With her worn leather satchel slung over her shoulder, she descended the winding, rusted stairs. The air grew colder, thick with the scent of damp paper and decay. The whisper grew louder, pulling her forward, a siren song for a mind that craved more than just survival. It was a promise, a secret waiting to be found. And Elara knew, in her heart, that she was the only one left to listen.
+`
+            },
+            {
+                title: "Chapter 2: The Last Page",
+                content: `
+The Library's grand entrance was choked with rubble and overgrown roots. Elara squeezed through a narrow opening, her small torch casting dancing shadows on what were once magnificent frescoes. Shelves, now nothing more than splintered wood, lay scattered across the floor, their contents reduced to dust and brittle fragments.
+
+The whisper was now a clear, distinct voice. It wasn't human, but a soft, mechanical hum that seemed to emanate from a small alcove in the main hall. Pushing aside a fallen stone pillar, Elara saw it. A single, pristine book. Unlike the others, its cover was not paper but a strange, metallic material that pulsed with a faint blue light. The whisper came from it, not as words, but as a feeling of immense longing.
+
+As she reached for it, her hand brushed against a strange symbol carved into the stone wall. It was a stylized flame, contained within a circle. An old symbol, one she had only seen in fragments of forgotten lore. She opened the book, and a soft glow filled the room. The first page was blank, but as she watched, letters began to form, not printed with ink, but etched with the very light of the page itself. It was a language she didn't know, yet she understood it with a clarity that felt both exhilarating and terrifying.
+`
+            },
+            {
+                title: "Chapter 3: The Unspoken Truth",
+                content: `
+The text on the glowing page was a message, not a story. It spoke of the "Great Silence," the event that had wiped away their world, not with a bang, but with a sudden, all-consuming hush. It described a final act of preservation, where the knowledge of a dying civilization was not stored in dusty books, but encoded into these glowing embers, scattered across the globe. The book in her hand was one of them—a "Cognitive Ember."
+
+Elara's mind reeled. The whispers weren't ghosts, but the fading echoes of a lost consciousness. The secrets of the old world were not lost; they were simply waiting for someone to find them. The book was a key, a map, and a first step. It showed her the location of the next ember, a place far beyond her city, in the treacherous, overgrown wilderness known as the "Screaming Forests."
+
+As the text faded, leaving the page blank once more, Elara felt a surge of purpose. She was no longer just a scavenger of ruins, a ghost in a forgotten world. She was a keeper of the embers, a link to the past, and a hope for the future. The world was not empty, it was simply sleeping, and she had just found the first ember of its awakening.
+`
+            }
+        ];
+
+        let currentChapterIndex = 0;
+
+        // Get references to all the elements
+        const chapterTitleEl = document.getElementById('chapterTitle');
+        const chapterContentEl = document.getElementById('chapterContent');
+        const prevButton = document.getElementById('prevButton');
+        const nextButton = document.getElementById('nextButton');
+        const fontSizeSlider = document.getElementById('fontSizeSlider');
+        const darkModeToggle = document.getElementById('darkModeToggle');
+        const moonIcon = document.getElementById('moonIcon');
+        const sunIcon = document.getElementById('sunIcon');
+        const bodyEl = document.body;
+
+        // Function to render the current chapter
+        function renderChapter() {
+            const chapter = chapters[currentChapterIndex];
+            if (chapter) {
+                chapterTitleEl.textContent = chapter.title;
+                chapterContentEl.textContent = chapter.content;
+            }
+
+            // Enable/disable navigation buttons based on chapter index
+            prevButton.disabled = currentChapterIndex === 0;
+            nextButton.disabled = currentChapterIndex === chapters.length - 1;
+        }
+
+        // Event listeners for navigation
+        nextButton.addEventListener('click', () => {
+            if (currentChapterIndex < chapters.length - 1) {
+                currentChapterIndex++;
+                renderChapter();
+                window.scrollTo({ top: 0, behavior: 'smooth' }); // Scroll to top on chapter change
+            }
+        });
+
+        prevButton.addEventListener('click', () => {
+            if (currentChapterIndex > 0) {
+                currentChapterIndex--;
+                renderChapter();
+                window.scrollTo({ top: 0, behavior: 'smooth' }); // Scroll to top on chapter change
+            }
+        });
+
+        // Event listener for font size slider
+        fontSizeSlider.addEventListener('input', (e) => {
+            // Clear existing font size classes and apply new one
+            chapterContentEl.className = 'novel-content';
+            chapterContentEl.classList.add(`text-size-${e.target.value}`);
+        });
+
+        // Dark/Light mode toggle
+        darkModeToggle.addEventListener('click', () => {
+            const isDarkMode = document.documentElement.classList.toggle('dark');
+            bodyEl.classList.toggle('dark', isDarkMode);
+            bodyEl.classList.toggle('light', !isDarkMode);
+            localStorage.setItem('theme', isDarkMode ? 'dark' : 'light');
+            updateIcons();
+        });
+
+        function updateIcons() {
+            const isDarkMode = document.documentElement.classList.contains('dark');
+            moonIcon.classList.toggle('hidden', !isDarkMode);
+            sunIcon.classList.toggle('hidden', isDarkMode);
+        }
+
+        // Check for saved theme preference on page load
+        function checkTheme() {
+            if (localStorage.getItem('theme') === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+                document.documentElement.classList.add('dark');
+                bodyEl.classList.add('dark');
+                bodyEl.classList.remove('light');
+            } else {
+                document.documentElement.classList.remove('dark');
+                bodyEl.classList.remove('dark');
+                bodyEl.classList.add('light');
+            }
+            updateIcons();
+        }
+
+        // Initial setup
+        document.addEventListener('DOMContentLoaded', () => {
+            checkTheme();
+            renderChapter();
+        });
+    </script>
+</body>
+</html>

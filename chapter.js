@@ -1,3 +1,33 @@
+async function loadTemplate() {
+    console.log("Loading template...");
+    const res = await fetch("header_controls.html");
+    const text = await res.text();
+    
+
+    // Tạo một DOM tạm để parse
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(text, "text/html");
+    const template = doc.querySelector("template");
+    console.log("Template:", template); // check thử
+
+    const container = document.getElementById("chapters");
+    console.log("Template loaded:", doc);
+    container.appendChild(template.content.cloneNode(true));
+    // Giả sử dữ liệu chương
+    // const chapters = [
+    //   { title: "Chương 1", content: "Ngày xửa ngày xưa..." },
+    //   { title: "Chương 2", content: "Cuộc hành trình bắt đầu..." }
+    // ];
+    // // console.log("Template loaded:", text);
+    // // chapters.forEach(chap => {
+    // //   const clone = template.content.cloneNode(true);
+    // //   clone.querySelector("h2").textContent = chap.title;
+    // //   clone.querySelector("p").textContent = chap.content;
+    // //   container.appendChild(clone);
+    // // });
+    // console.log("Template loaded and chapters rendered.");
+  }
+
 function loadChapters(jsonPath, listElementId) {
     fetch(jsonPath)
         .then(response => {
@@ -36,7 +66,7 @@ function loadChapters(jsonPath, listElementId) {
 
                 a.appendChild(chapterNumberContainer);
                 a.appendChild(chapterTitleContainer);
-                
+
                 li.appendChild(a);
                 listElement.appendChild(li);
             });
@@ -47,5 +77,6 @@ function loadChapters(jsonPath, listElementId) {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
+    loadTemplate();
     loadChapters('chapters.json', 'chapter-list');
 });

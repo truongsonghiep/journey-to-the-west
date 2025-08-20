@@ -20,23 +20,14 @@ header {
 }
 
 main {
-    width: 80%;
-    /* Đặt chiều rộng là 80% của trang */
     margin: 20px auto;
-    /* Căn giữa thẻ main và tạo lề trên/bên dưới 20px */
     padding: 20px;
-    /* Thêm khoảng cách trong thẻ main */
     background-color: #f4f4f4;
-    /* Màu nền nhẹ */
-    border-radius: 8px;
-    /* Bo góc thẻ main */
 }
 
 em {
     font-style: italic;
-    padding: 2px 4px;
-    /* Thêm padding để tạo khoảng cách */
-    border-radius: 4px;
+    text-align: center;
 }
 
 h1,
@@ -382,4 +373,25 @@ p {
         width: 180px;
         height: 270px;
     }
+}
+
+/* Font size classes based on slider */
+.text-size-1 {
+    font-size: calc(var(--font-size-base) * 0.9);
+}
+
+.text-size-2 {
+    font-size: var(--font-size-base);
+}
+
+.text-size-3 {
+    font-size: calc(var(--font-size-base) * 1.1);
+}
+
+.text-size-4 {
+    font-size: calc(var(--font-size-base) * 1.2);
+}
+
+.text-size-5 {
+    font-size: calc(var(--font-size-base) * 1.3);
 }

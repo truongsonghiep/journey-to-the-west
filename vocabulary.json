@@ -1993,7 +1993,6 @@
         "definition": "Nguyên Thánh Nhi (tên gọi khác của Cửu Linh Nguyên Thánh)"
     },
     {
-            {
         "word": "prefect",
         "part_of_speech": "noun",
         "definition": "Quận Trưởng, Quận Hầu, Thái Thú"
@@ -2482,5 +2481,91 @@
         "word": "Your subject",
         "part_of_speech": "",
         "definition": "Hạ thần"
+    },
+    {
+        "word": "nurture",
+        "part_of_speech": "verb",
+        "definition": "Nuôi dưỡng"
+    },
+    {
+        "word": "Zi",
+        "part_of_speech": "noun",
+        "definition": "Tý (một trong 12 địa chi, con giáp)"
+    },
+    {
+        "word": "Chou",
+        "part_of_speech": "noun",
+        "definition": "Sửu (một trong 12 địa chi, con giáp)"
+    },
+    {
+        "word": "Yin",
+        "part_of_speech": "noun",
+        "definition": "Dần (một trong 12 địa chi, con giáp)"
+    },
+    {
+        "word": "Mao",
+        "part_of_speech": "noun",
+        "definition": "Mão (một trong 12 địa chi, con giáp)"
+    },
+    {
+        "word": "Chen",
+        "part_of_speech": "noun",
+        "definition": "Thìn (một trong 12 địa chi, con giáp)"
+    },
+    {
+        "word": "horary",
+        "part_of_speech": "adjective",
+        "definition": "thuộc về giờ"
+    },
+    {
+        "word": "macrocosmically",
+        "part_of_speech": "adverb",
+        "definition": "mang tính vĩ mô, tầm mức vũ trụ, bao quát"
+    },
+    {
+        "word": "obscure",
+        "part_of_speech": "adjective",
+        "definition": "mơ hồ, không rõ ràng, khó hiểu"
+    },
+    {
+        "word": "indistinct",
+        "part_of_speech": "adjective",
+        "definition": "khó phân biệt, khó nhận biết..."
+    },
+    {
+        "word": "perseverance",
+        "part_of_speech": "noun",
+        "definition": "sự kiên trì, bền bỉ"
+    },
+    {
+        "word": "constitute",
+        "part_of_speech": "verb",
+        "definition": "hình thành, tạo thành"
+    },
+    {
+        "word": "chief",
+        "part_of_speech": "adjective",
+        "definition": "chính, chủ yếu"
+    },
+    {
+        "word": "come into being",
+        "part_of_speech": "verb",
+        "definition": "ra đời, bắt đầu tồn tại"
+    },
+    {
+        "word": "testimonial",
+        "part_of_speech": "noun",
+        "definition": "lời chứng thực, bằng chứng"
+    },
+    {
+        "word": "very",
+        "part_of_speech": "adjective",
+        "definition": "chính, đúng, ngay (nhấn mạnh sự xác định)"
+    },
+    {
+        "word": "circumference",
+        "part_of_speech": "noun",
+        "definition": "chu vi, đường kính"
     }
+    
 ]
