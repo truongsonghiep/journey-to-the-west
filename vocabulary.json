@@ -124,6 +124,11 @@
         "definition": "hoàn toàn"
     },
     {
+        "word": "utter",
+        "part_of_speech": "verb",
+        "definition": "thốt ra, phát ra"
+    },
+    {
         "word": "disarray",
         "part_of_speech": "noun",
         "definition": "hỗn loạn"
@@ -1127,6 +1132,11 @@
         "word": "preserved",
         "part_of_speech": "adjective",
         "definition": "được bảo quản, giữ gìn"
+    },
+    {
+        "word": "preserve",
+        "part_of_speech": "verb",
+        "definition": "bảo quản, giữ gìn"
     },
     {
         "word": "grieved",
@@ -2566,6 +2576,285 @@
         "word": "circumference",
         "part_of_speech": "noun",
         "definition": "chu vi, đường kính"
+    },
+    {
+        "word": "distantly",
+        "part_of_speech": "adverb",
+        "definition": "xa xôi, xa cách"
+    },
+    {
+        "word": "crouch",
+        "part_of_speech": "verb",
+        "definition": "ngồi xổm, cúi xuống"
+    },
+    {
+        "word": "wondrous",
+        "part_of_speech": "adjective",
+        "definition": "kỳ diệu, tuyệt vời"
+    },
+    {
+        "word": "truth",
+        "part_of_speech": "noun",
+        "definition": "sự thật, chân lý"
+    },
+    {
+        "word": "congregation",
+        "part_of_speech": "noun",
+        "definition": "giáo đoàn"
+    },
+    {
+        "word": "courtesy",
+        "part_of_speech": "noun",
+        "definition": "lễ phép, lịch sự, nhã nhặn"
+    },
+    {
+        "word": "corridor",
+        "part_of_speech": "noun",
+        "definition": "hành lang"
+    },
+    {
+        "word": "etiquette",
+        "part_of_speech": "noun",
+        "definition": "phép lịch sự, quy tắc ứng xử"
+    },
+    {
+        "word": "such",
+        "part_of_speech": "noun",
+        "definition": "như vậy, như thế"
+    },
+    {
+        "word": "jaw",
+        "part_of_speech": "noun",
+        "definition": "hàm, quai hàm"
+    },
+    {
+        "word": "rub",
+        "part_of_speech": "verb",
+        "definition": "cọ xát, chà xát"
+    },
+    {
+        "word": "grin",
+        "part_of_speech": "verb",
+        "definition": "cười toe toét, cười tươi"
+    },
+    {
+        "word": "on all fours",
+        "part_of_speech": "idiom",
+        "definition": "bằng cả tay chân"
+    },
+    {
+        "word": "prance",
+        "part_of_speech": "verb",
+        "definition": "nhảy múa, đi lại một cách vui vẻ"
+    },
+    {
+        "word": "unconsciously",
+        "part_of_speech": "adverb",
+        "definition": "một cách vô thức, không tự giác"
+    },
+    {
+        "word": "comprehend",
+        "part_of_speech": "verb",
+        "definition": "hiểu sâu, lĩnh hội (comprehend > understand)"
+    },
+    {
+        "word": "admonition",
+        "part_of_speech": "noun",
+        "definition": "lời khuyên răn, lời chỉ dạy"
+    },
+    {
+        "word": "division",
+        "part_of_speech": "noun",
+        "definition": "bộ, phân chia, môn"
+    },
+    {
+        "word": "Illumination",
+        "part_of_speech": "noun",
+        "definition": "sự khai sáng, sự giác ngộ"
+    },
+    {
+        "word": "decay",
+        "part_of_speech": "verb",
+        "definition": "phân hủy, suy tàn"
+    },
+    {
+        "word": "abstinence",
+        "part_of_speech": "noun",
+        "definition": "sự kiêng cữ, sự nhịn ăn"
+    },
+    {
+        "word": "fast",
+        "part_of_speech": "noun",
+        "definition": "sự nhịn ăn, sự kiêng cữ"
+    },
+    {
+        "word": "kiln",
+        "part_of_speech": "noun",
+        "definition": "lò nung, lò gạch"
+    },
+    {
+        "word": "quiescence",
+        "part_of_speech": "noun",
+        "definition": "sự yên tĩnh, sự tĩnh lặng"
+    },
+    {
+        "word": "crosslegged",
+        "part_of_speech": "adjective",
+        "definition": "ngồi khoanh chân"
+    },
+    {
+        "word": "navel",
+        "part_of_speech": "noun",
+        "definition": "rốn"
+    },
+    {
+        "word": "berate",
+        "part_of_speech": "verb",
+        "definition": "mắng nhiếc"
+    },
+    {
+        "word": "curl up",
+        "part_of_speech": "verb",
+        "definition": "cuộn tròn lại"
+    },
+    {
+        "word": "indication",
+        "part_of_speech": "noun",
+        "definition": "dấu hiệu, chỉ thị"
+    },
+    {
+        "word": "apprehend",
+        "part_of_speech": "verb",
+        "definition": "hiểu, lĩnh hội"
+    },
+    {
+        "word": "penetrate",
+        "part_of_speech": "verb",
+        "definition": "thấu hiểu, lĩnh hội"
+    },
+    {
+        "word": "substance",
+        "part_of_speech": "noun",
+        "definition": "thể chất, bản chất, thực chất"
+    },
+    {
+        "word": "invade",
+        "part_of_speech": "verb",
+        "definition": "xâm lược, xâm phạm"
+    },
+    {
+        "word": "perfect",
+        "part_of_speech": "verb",
+        "definition": "hoàn thiện"
+    },
+    {
+        "word": "countenance",
+        "part_of_speech": "verb",
+        "definition": "ủng hộ, chấp nhận"
+    },
+    {
+        "word": "appearance",
+        "part_of_speech": "noun",
+        "definition": "sự xuất hiện, diện mạo"
+    },
+    {
+        "word": "calamity",
+        "part_of_speech": "noun",
+        "definition": "thiên tai, tai ương"
+    },
+    {
+        "word": "hence",
+        "part_of_speech": "adverb",
+        "definition": "do đó, vì vậy"
+    },
+    {
+        "word": "dissolve",
+        "part_of_speech": "verb",
+        "definition": "tan ra, hoà tan"
+    },
+    {
+        "word": "disintegrate",
+        "part_of_speech": "verb",
+        "definition": "tan rã, phân hủy"
+    },
+    {
+        "word": "reverently",
+        "part_of_speech": "adverb",
+        "definition": "một cách tôn kính"
+    },
+    {
+        "word": "resemble",
+        "part_of_speech": "verb",
+        "definition": "giống như, tương tự như"
+    },
+    {
+        "word": "cheek",
+        "part_of_speech": "noun",
+        "definition": "gò má"
+    },
+    {
+        "word": "cheek pouch",
+        "part_of_speech": "noun",
+        "definition": "túi má (thường thấy ở khỉ và các loài gặm nhấm)"
+    },
+    {
+        "word": "Art of the Heavenly Ladle",
+        "part_of_speech": "noun",
+        "definition": "Phép Thiên Cang"
+    },
+    {
+        "word": "Art of the Earthly Multitude",
+        "part_of_speech": "noun",
+        "definition": "Phép Địa Sát"
+    },
+    {
+        "word": "admire",
+        "part_of_speech": "verb",
+        "definition": "chiêm ngưỡng, thưởng ngoạn"
+    },
+    {
+        "word": "profound",
+        "part_of_speech": "adjective",
+        "definition": "sâu sắc, thâm thúy"
+    },
+    {
+        "word": "uproar",
+        "part_of_speech": "noun",
+        "definition": "sự ồn ào, sự náo động"
+    },
+    {
+        "word": "bedlam",
+        "part_of_speech": "noun",
+        "definition": "sự hỗn loạn, sự ồn ào"
+    },
+    {
+        "word": "jeopardy",
+        "part_of_speech": "noun",
+        "definition": "sự nguy hiểm, sự rủi ro"
+    },
+    {
+        "word": "beseech",
+        "part_of_speech": "verb",
+        "definition": "cầu xin, van nài"
+    },
+    {
+        "word": "condemn",
+        "part_of_speech": "verb",
+        "definition": "lên án, chỉ trích, kết tội"
+    },
+    {
+        "word": "penitent",
+        "part_of_speech": "adjective",
+        "definition": "hối lỗi, ăn năn"
+    },
+    {
+        "word": "bully",
+        "part_of_speech": "verb",
+        "definition": "bắt nạt"
+    },
+    {
+        "word": "fare",
+        "part_of_speech": "verb",
+        "definition": "trải qua, xoay sở..."
     }
-    
 ]
