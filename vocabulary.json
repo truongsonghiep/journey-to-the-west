@@ -25,7 +25,7 @@
     },
     {
         "word": "Bodhisattva",
-        "definition": "A person who is on the path to Buddhahood and has taken a vow to help all sentient beings."
+        "definition": "Bồ Tát."
     },
     {
         "word": "Hui'an",
@@ -34,14 +34,6 @@
     {
         "word": "Jasper Pool",
         "definition": "A mythical place where the banquet of Immortal Peaches is held."
-    },
-    {
-        "word": "Little Sage",
-        "definition": "A title referring to the character Sun Wukong, the Monkey King."
-    },
-    {
-        "word": "Great Sage",
-        "definition": "A title referring to the character Sun Wukong, the Monkey King."
     },
     {
         "word": "inquire",
@@ -161,7 +153,7 @@
     {
         "word": "the Immortal of Naked Feet",
         "part_of_speech": "noun",
-        "definition": "Xích cước đại tiên"
+        "definition": "Xích Cước Đại Tiên"
     },
     {
         "word": "recount",
@@ -232,6 +224,11 @@
         "word": "encirclement",
         "part_of_speech": "noun",
         "definition": "sự bao vây, sự vây quanh"
+    },
+    {
+        "word": "encircle",
+        "part_of_speech": "verb",
+        "definition": "bao quanh, vây quanh"
     },
     {
         "word": "watertight",
@@ -1116,7 +1113,7 @@
     {
         "word": "gall",
         "part_of_speech": "noun",
-        "definition": "mật"
+        "definition": "mật, sự láo xược (nghĩa bóng)"
     },
     {
         "word": "unperceptive",
@@ -3176,5 +3173,205 @@
         "word": "shoulder",
         "part_of_speech": "noun",
         "definition": "vai, bả vai"
+    },
+    {
+        "word": "acquaintance",
+        "part_of_speech": "noun",
+        "definition": "người quen"
+    },
+    {
+        "word": "alliance",
+        "part_of_speech": "noun",
+        "definition": "đồng minh"
+    },
+    {
+        "word": "the Three Pure Ones",
+        "part_of_speech": "noun",
+        "definition": "Tam Thanh"
+    },
+    {
+        "word": "dawdle away",
+        "part_of_speech": "verb",
+        "definition": "lãng phí thời gian"
+    },
+    {
+        "word": "chummy",
+        "part_of_speech": "adjective",
+        "definition": "thân mật"
+    },
+    {
+        "word": "idleness",
+        "part_of_speech": "noun",
+        "definition": "sự lười biếng"
+    },
+    {
+        "word": "chummy",
+        "part_of_speech": "adjective",
+        "definition": "thân mật"
+    },
+    {
+        "word": "roguery",
+        "part_of_speech": "noun",
+        "definition": "kẻ lêu lổng, phá phách"
+    },
+    {
+        "word": "mischievous",
+        "part_of_speech": "adjective",
+        "definition": "nghịch ngợm"
+    },
+    {
+        "word": "perceive",
+        "part_of_speech": "verb",
+        "definition": "nhận thấy rằng"
+    },
+    {
+        "word": "indolent",
+        "part_of_speech": "adjective",
+        "definition": "lười biếng, rỗi rãi"
+    },
+    {
+        "word": "diligent",
+        "part_of_speech": "adjective",
+        "definition": "siêng năng, chăm chỉ"
+    },
+    {
+        "word": "withdraw",
+        "part_of_speech": "verb",
+        "definition": "rút lui, rút khỏi"
+    },
+    {
+        "word": "restrain",
+        "part_of_speech": "verb",
+        "definition": "tự kiềm chế, nhịn"
+    },
+    {
+        "word": "hoe - hoeing",
+        "part_of_speech": "verb",
+        "definition": "cày, xới đất"
+    },
+    {
+        "word": "tend - tending",
+        "part_of_speech": "verb",
+        "definition": "chăm sóc, trông nom"
+    },
+    {
+        "word": "tent",
+        "part_of_speech": "noun",
+        "definition": "lều"
+    },
+    {
+        "word": "conserve",
+        "part_of_speech": "verb",
+        "definition": "bảo tồn, gìn giữ"
+    },
+    {
+        "word": "arbor",
+        "part_of_speech": "noun",
+        "definition": "giàn cây, vòm cây"
+    },
+    {
+        "word": "peach",
+        "part_of_speech": "noun",
+        "definition": "quả đào"
+    },
+    {
+        "word": "immobilization",
+        "part_of_speech": "noun",
+        "definition": "sự bất động"
+    },
+    {
+        "word": "venerable",
+        "part_of_speech": "adjective",
+        "definition": "đáng kính"
+    },
+    {
+        "word": "reel",
+        "part_of_speech": "verb",
+        "definition": "lảo đảo, loạng choạng"
+    },
+    {
+        "word": "from side to side",
+        "part_of_speech": "",
+        "definition": "từ bên này sang bên khác"
+    },
+    {
+        "word": "stumble",
+        "part_of_speech": "verb",
+        "definition": "vấp ngã"
+    },
+    {
+        "word": "the Griefless Heaven",
+        "part_of_speech": "noun",
+        "definition": "Thiên Đường Vô Ưu"
+    },
+    {
+        "word": "Aged Buddha Dīpaṁkara",
+        "part_of_speech": "noun",
+        "definition": "Nhiên Đăng Cổ Phật"
+    },
+    {
+        "word": "gourd",
+        "part_of_speech": "noun",
+        "definition": "hồ lô"
+    },
+    {
+        "word": "recall",
+        "part_of_speech": "verb",
+        "definition": "nhớ lại, hồi tưởng"
+    },
+    {
+        "word": "concealment",
+        "part_of_speech": "noun",
+        "definition": "sự che giấu"
+    },
+    {
+        "word": "anxiety",
+        "part_of_speech": "noun",
+        "definition": "sự lo âu"
+    },
+    {
+        "word": "profoundly",
+        "part_of_speech": "adverb",
+        "definition": "một cách sâu sắc"
+    },
+    {
+        "word": "the Fearless Guards of Five Quarters",
+        "part_of_speech": "noun",
+        "definition": "Ngũ Phương Yết Đế"
+    },
+    {
+        "word": "Twenty-Eight Constellations",
+        "part_of_speech": "noun",
+        "definition": "Nhị Thập Bát Tú"
+    },
+    {
+        "word": "the Four Temporal Guardians",
+        "part_of_speech": "noun",
+        "definition": "Tứ Trực Công Tào"
+    },
+    {
+        "word": "the Deities of the Five Mountains and the Four Rivers",
+        "part_of_speech": "noun",
+        "definition": "Ngũ Nhạc Tứ Độc"
+    },
+    {
+        "word": "cordon",
+        "part_of_speech": "noun",
+        "definition": "vòng ngoài, hàng rào"
+    },
+    {
+        "word": "take place",
+        "part_of_speech": "phrasal verb",
+        "definition": "diễn ra"
+    },
+    {
+        "word": "riot",
+        "part_of_speech": "verb",
+        "definition": "nổi loạn, làm loạn"
+    },
+    {
+        "word": "accomplishment",
+        "part_of_speech": "noun",
+        "definition": "thành tựu"
     }
 ]
