@@ -1456,7 +1456,7 @@
         "definition": "dãy núi"
     },
     {
-        "word": "flee",
+        "word": "flee - fled",
         "part_of_speech": "verb",
         "definition": "chạy trốn"
     },
@@ -1589,11 +1589,6 @@
         "word": "midst",
         "part_of_speech": "noun",
         "definition": "giữa, ở giữa"
-    },
-    {
-        "word": "peer",
-        "part_of_speech": "verb",
-        "definition": "nhìn chăm chú"
     },
     {
         "word": "Long Life Mountain",
@@ -2835,11 +2830,6 @@
         "definition": "sự nguy hiểm, sự rủi ro"
     },
     {
-        "word": "beseech",
-        "part_of_speech": "verb",
-        "definition": "cầu xin, van nài"
-    },
-    {
         "word": "condemn",
         "part_of_speech": "verb",
         "definition": "lên án, chỉ trích, kết tội"
@@ -3373,5 +3363,380 @@
         "word": "accomplishment",
         "part_of_speech": "noun",
         "definition": "thành tựu"
+    },
+    {
+        "word": "radiantly",
+        "part_of_speech": "adverb",
+        "definition": "rạng rỡ, sáng ngời"
+    },
+    {
+        "word": "gilt",
+        "part_of_speech": "noun",
+        "definition": "được mạ vàng"
+    },
+    {
+        "word": "tuft",
+        "part_of_speech": "noun",
+        "definition": "chùm, nhúm, cụm nhỏ"
+    },
+    {
+        "word": "rouge",
+        "part_of_speech": "noun",
+        "definition": "sắc hồng"
+    },
+    {
+        "word": "stalk",
+        "part_of_speech": "noun",
+        "definition": "cọng, cuống"
+    },
+    {
+        "word": "the Great Compassionate Delivere",
+        "part_of_speech": "noun",
+        "definition": "Đấng Cứu Thế Từ Bi Vĩ Đại"
+    },
+    {
+        "word": "audience",
+        "part_of_speech": "noun",
+        "definition": "khán giả, bái kiến, yết kiến"
+    },
+    {
+        "word": "crowd",
+        "part_of_speech": "noun",
+        "definition": "đám đông, đám người"
+    },
+    {
+        "word": "sentry",
+        "part_of_speech": "noun",
+        "definition": "lính gác, người canh gác"
+    },
+    {
+        "word": "confront",
+        "part_of_speech": "verb",
+        "definition": "đối mặt, đối đầu"
+    },
+    {
+        "word": "grasp",
+        "part_of_speech": "verb",
+        "definition": "nắm lấy, giữ lấy"
+    },
+    {
+        "word": "nuisance",
+        "part_of_speech": "noun",
+        "definition": "sự phiền toái, điều khó chịu"
+    },
+    {
+        "word": "sore",
+        "part_of_speech": "adjective",
+        "definition": "đau, nhức"
+    },
+    {
+        "word": "numb",
+        "part_of_speech": "adjective",
+        "definition": "tê liệt, mất cảm giác"
+    },
+    {
+        "word": "futile",
+        "part_of_speech": "adjective",
+        "definition": "vô ích, không có hiệu quả"
+    },
+    {
+        "word": "ace",
+        "part_of_speech": "noun",
+        "definition": "người xuất sắc, người giỏi"
+    },
+    {
+        "word": "linger",
+        "part_of_speech": "verb",
+        "definition": "nán lại, chần chừ"
+    },
+    {
+        "word": "ponder",
+        "part_of_speech": "verb",
+        "definition": "suy nghĩ, nghĩ ngợi"
+    },
+    {
+        "word": "nephew",
+        "part_of_speech": "noun",
+        "definition": "cháu trai"
+    },
+    {
+        "word": "the Immortal Master of Illustrious Sagacity Erlang",
+        "part_of_speech": "noun",
+        "definition": "Hiển Thánh Nhị Lang Chân Quân"
+    },
+    {
+        "word": "edict",
+        "part_of_speech": "noun",
+        "definition": "sắc lệnh"
+    },
+    {
+        "word": "convey",
+        "part_of_speech": "verb",
+        "definition": "truyền đạt, chuyển giao"
+    },
+    {
+        "word": "chest",
+        "part_of_speech": "noun",
+        "definition": "ngực"
+    },
+    {
+        "word": "belly",
+        "part_of_speech": "noun",
+        "definition": "bụng"
+    },
+    {
+        "word": "snout",
+        "part_of_speech": "noun",
+        "definition": "mõm"
+    },
+    {
+        "word": "urine",
+        "part_of_speech": "noun",
+        "definition": "nước tiểu"
+    },
+    {
+        "word": "itch",
+        "part_of_speech": "noun",
+        "definition": "ngứa"
+    },
+    {
+        "word": "waist",
+        "part_of_speech": "noun",
+        "definition": "eo, thắt lưng"
+    },
+    {
+        "word": "sb be about",
+        "part_of_speech": "",
+        "definition": "chuẩn bị làm gì đó"
+    },
+    {
+        "word": "go through",
+        "part_of_speech": "",
+        "definition": "trải qua, làm điều gì đó"
+    },
+    {
+        "word": "hardly had",
+        "part_of_speech": "",
+        "definition": "vừa mới"
+    },
+    {
+        "word": "happen to be",
+        "part_of_speech": "",
+        "definition": "tình cờ"
+    },
+    {
+        "word": "turn sb/sth down",
+        "part_of_speech": "",
+        "definition": "từ chối ai/cái gì"
+    },
+    {
+        "word": "No sooner had abc than xyz",
+        "part_of_speech": "",
+        "definition": "ngay khi abc thì xyz"
+    },
+    {
+        "word": "have to do with sth",
+        "part_of_speech": "",
+        "definition": "liên quan đến cái gì"
+    },
+    {
+        "word": "kindred",
+        "part_of_speech": "noun",
+        "definition": "họ hàng, bà con"
+    },
+    {
+        "word": "bandit",
+        "part_of_speech": "noun",
+        "definition": "kẻ cướp, tên cướp"
+    },
+    {
+        "word": "beat about the bush",
+        "part_of_speech": "idiom",
+        "definition": "nói vòng vo, không đi thẳng vào vấn đề"
+    },
+    {
+        "word": "pout",
+        "part_of_speech": "verb",
+        "definition": "bĩu môi, trề môi"
+    },
+    {
+        "word": "carry out",
+        "part_of_speech": "verb",
+        "definition": "thực hiện, tiến hành"
+    },
+    {
+        "word": "basin",
+        "part_of_speech": "noun",
+        "definition": "chậu, bồn"
+    },
+    {
+        "word": "doze",
+        "part_of_speech": "verb",
+        "definition": "ngủ gà ngủ gật"
+    },
+    {
+        "word": "heresy",
+        "part_of_speech": "noun",
+        "definition": "dị giáo"
+    },
+    {
+        "word": "oppress",
+        "part_of_speech": "verb",
+        "definition": "đàn áp"
+    },
+    {
+        "word": "someone's bidding",
+        "part_of_speech": "verb",
+        "definition": "làm theo mong muốn/lệnh của ai đó"
+    },
+    {
+        "word": "retrieve",
+        "part_of_speech": "verb",
+        "definition": "lấy lại, thu lại, phục hồi"
+    },
+    {
+        "word": "hurl",
+        "part_of_speech": "verb",
+        "definition": "ném mạnh, phóng"
+    },
+    {
+        "word": "smack",
+        "part_of_speech": "verb",
+        "definition": "đánh ra tiếng bốp"
+    },
+    {
+        "word": "scheme",
+        "part_of_speech": "verb",
+        "definition": "âm mưu, mưu đồ"
+    },
+    {
+        "word": "transgress",
+        "part_of_speech": "verb",
+        "definition": "vi phạm, vượt quá, chống lại mệnh lệnh"
+    },
+    {
+        "word": "for the time being",
+        "part_of_speech": "idiom",
+        "definition": "trong thời gian hiện tại, tạm thời"
+    },
+    {
+        "word": "austerity",
+        "part_of_speech": "noun",
+        "definition": "sự khắc khổ, sự khổ hạnh"
+    },
+    {
+        "word": "worthy",
+        "part_of_speech": "noun",
+        "definition": "người có địa vị, người quan trọng, nhân vật có uy tín"
+    },
+    {
+        "word": "tipsy",
+        "part_of_speech": "adjective",
+        "definition": "say xỉn, chếnh choáng"
+    },
+    {
+        "word": "strive",
+        "part_of_speech": "verb",
+        "definition": "cố gắng, phấn đấu, nỗ lực"
+    },
+    {
+        "word": "on account of",
+        "part_of_speech": "preposition",
+        "definition": "vì, do"
+    },
+    {
+        "word": "perish",
+        "part_of_speech": "verb",
+        "definition": "diệt vong, bỏ mạng, chết một cách bi thảm"
+    },
+    {
+        "word": "carefree",
+        "part_of_speech": "adjective",
+        "definition": "vô tư, vô lo"
+    },
+    {
+        "word": "cherish",
+        "part_of_speech": "verb",
+        "definition": "trân trọng, yêu quý"
+    },
+    {
+        "word": "poverty",
+        "part_of_speech": "noun",
+        "definition": "cái nghèo đói, sự thiếu thốn"
+    },
+    {
+        "word": "contrary",
+        "part_of_speech": "adjective",
+        "definition": "trái ngược, đối lập"
+    },
+    {
+        "word": "testimony",
+        "part_of_speech": "noun",
+        "definition": "lời chứng, dẫn chứng"
+    },
+    {
+        "word": "fortune teller",
+        "part_of_speech": "noun",
+        "definition": "thầy bói"
+    },
+    {
+        "word": "pile the trade",
+        "part_of_speech": "phrasal verb",
+        "definition": "hành nghề"
+    },
+    {
+        "word": "proverb",
+        "part_of_speech": "noun",
+        "definition": "câu tục ngữ"
+    },
+    {
+        "word": "shrimp",
+        "part_of_speech": "noun",
+        "definition": "tôm"
+    },
+    {
+        "word": "perch",
+        "part_of_speech": "noun",
+        "definition": "cá rô"
+    },
+    {
+        "word": "go forth",
+        "part_of_speech": "verb",
+        "definition": "ra đi, bước ra, tiến lên, khởi hành (mang sắc thái trang trọng, trang nghiêm)."
+    },
+    {
+        "word": "prophesy",
+        "part_of_speech": "verb",
+        "definition": "tiên tri, dự đoán"
+    },
+    {
+        "word": "seduce",
+        "part_of_speech": "verb",
+        "definition": "cám dỗ, quyến rũ"
+    },
+    {
+        "word": "certainly",
+        "part_of_speech": "adverb",
+        "definition": "chắc chắn, nhất định"
+    },
+    {
+        "word": "amiably",
+        "part_of_speech": "adverb",
+        "definition": "thân thiện, hòa nhã"
+    },
+    {
+        "word": "soothsayer",
+        "part_of_speech": "noun",
+        "definition": "người tiên tri"
+    },
+    {
+        "word": "garrulous",
+        "part_of_speech": "adjective",
+        "definition": "nói nhiều, ba hoa"
+    },
+    {
+        "word": "duke",
+        "part_of_speech": "noun",
+        "definition": "công tước"
     }
 ]
