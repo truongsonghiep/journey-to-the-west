@@ -3738,5 +3738,45 @@
         "word": "duke",
         "part_of_speech": "noun",
         "definition": "công tước"
+    },
+    {
+        "word": "convene",
+        "part_of_speech": "verb",
+        "definition": "triệu tập"
+    },
+    {
+        "word": "grant mass",
+        "part_of_speech": "noun",
+        "definition": "đại lễ"
+    },
+    {
+        "word": "cicada",
+        "part_of_speech": "noun",
+        "definition": "ve sầu"
+    },
+    {
+        "word": "Liu",
+        "part_of_speech": "noun",
+        "definition": "Lưu"
+    },
+    {
+        "word": "nod",
+        "part_of_speech": "verb",
+        "definition": "gật đầu, gục đầu"
+    },
+    {
+        "word": "sigh",
+        "part_of_speech": "verb",
+        "definition": "thở dài"
+    },
+    {
+        "word": "weep",
+        "part_of_speech": "verb",
+        "definition": "khóc lóc"
+    },
+    {
+        "word": "carriage",
+        "part_of_speech": "noun",
+        "definition": "xe ngựa, toa xe"
     }
 ]
