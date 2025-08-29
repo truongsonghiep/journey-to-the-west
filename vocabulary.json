@@ -4173,5 +4173,300 @@
         "word": "trail",
         "part_of_speech": "verb",
         "definition": "kéo lê, thả lết phía sau"
+    },
+    {
+        "word": "horde",
+        "part_of_speech": "noun",
+        "definition": "đám đông, bầy, lũ"
+    },
+    {
+        "word": "affront",
+        "part_of_speech": "verb",
+        "definition": "xúc phạm, làm nhục"
+    },
+    {
+        "word": "native",
+        "part_of_speech": "adjective",
+        "definition": "bản địa, tự nhiên"
+    },
+    {
+        "word": "restless",
+        "part_of_speech": "adjective",
+        "definition": "không yên, lo âu, bồn chồn"
+    },
+    {
+        "word": "naught",
+        "part_of_speech": "noun",
+        "definition": "bằng không, không có giá trị"
+    },
+    {
+        "word": "interior",
+        "part_of_speech": "adjective",
+        "definition": "phía trong, bên trong, nội bộ"
+    },
+    {
+        "word": "court",
+        "part_of_speech": "noun",
+        "definition": "cung điện, triều đình"
+    },
+    {
+        "word": "pavilion",
+        "part_of_speech": "noun",
+        "definition": "gian nhà, trướng (kiến trúc có mái nhưng không có tường tách biệt với nhà chính)"
+    },
+    {
+        "word": "wedge",
+        "part_of_speech": "verb",
+        "definition": "chèn vào, kê vào"
+    },
+    {
+        "word": "halo",
+        "part_of_speech": "noun",
+        "definition": "vầng hào quang, vầng sáng"
+    },
+    {
+        "word": "roc",
+        "part_of_speech": "noun",
+        "definition": "chim đại bàng khổng lồ trong truyền thuyết"
+    },
+    {
+        "word": "wretched",
+        "part_of_speech": "adjective",
+        "definition": "khốn khổ, khổ sở, bất hạnh"
+    },
+    {
+        "word": "sentinel",
+        "part_of_speech": "noun",
+        "definition": "lính canh"
+    },
+    {
+        "word": "put out",
+        "part_of_speech": "verb",
+        "definition": "dập tăt, làm cho ngừng hoạt động / bị vô hiệu hóa"
+    },
+    {
+        "word": "confusedly",
+        "part_of_speech": "adverb",
+        "definition": "một cách bối rối, không rõ ràng"
+    },
+    {
+        "word": "strew",
+        "part_of_speech": "verb",
+        "definition": "rải, rắc, vãi"
+    },
+    {
+        "word": "snore away",
+        "part_of_speech": "verb",
+        "definition": "ngủ và ngáy một cách say sưa, không để ý gì đến xung quanh"
+    },
+    {
+        "word": "hubbub",
+        "part_of_speech": "noun",
+        "definition": "tiếng ồn ào, huyên náo"
+    },
+    {
+        "word": "hubbub",
+        "part_of_speech": "noun",
+        "definition": "tiếng ồn ào, huyên náo"
+    },
+    {
+        "word": "mutter",
+        "part_of_speech": "verb",
+        "definition": "lẩm bẩm, lầu bầu, thì thầm một cách khó chịu hoặc không rõ ràng."
+    },
+    {
+        "word": "take out",
+        "part_of_speech": "verb",
+        "definition": "lấy đi, mất đi"
+    },
+    {
+        "word": "snake",
+        "part_of_speech": "verb",
+        "definition": "lén lút, lẻn, đi rón rén"
+    },
+    {
+        "word": "a sob",
+        "part_of_speech": "noun",
+        "definition": "tiếng nức nở, tiếng khóc nấc"
+    },
+    {
+        "word": "solemnly",
+        "part_of_speech": "adverb",
+        "definition": "một cách trang nghiêm, nghiêm túc"
+    },
+    {
+        "word": "usher",
+        "part_of_speech": "verb",
+        "definition": "dẫn đường, chỉ huy"
+    },
+    {
+        "word": "intone",
+        "part_of_speech": "verb",
+        "definition": "đọc hoặc nói ra một cách chậm rãi, đều đều, thường mang vẻ trang trọng hoặc buồn buồn."
+    },
+    {
+        "word": "pound",
+        "part_of_speech": "verb",
+        "definition": "vỗ liên tục, đánh liên tục"
+    },
+    {
+        "word": "dharma",
+        "part_of_speech": "noun",
+        "definition": "pháp"
+    },
+    {
+        "word": "wit",
+        "part_of_speech": "noun",
+        "definition": "sự thông minh, tài ứng biến, óc hài hước, khả năng nói dí dỏm"
+    },
+    {
+        "word": "ancestral",
+        "part_of_speech": "adjective",
+        "definition": "thuộc về tổ tiên, liên quan đến tổ tiên, truyền lại từ đời trước"
+    },
+    {
+        "word": "vault",
+        "part_of_speech": "verb",
+        "definition": "Nhảy qua, phóng qua (bằng sức bật)"
+    },
+    {
+        "word": "shield",
+        "part_of_speech": "verb",
+        "definition": "che chở, che chắn, bảo vệ"
+    },
+    {
+        "word": "grumble",
+        "part_of_speech": "verb",
+        "definition": "càu nhàu, cằn nhằn"
+    },
+    {
+        "word": "steadily",
+        "part_of_speech": "adverb",
+        "definition": "một cách đều đặn, vững vàng"
+    },
+    {
+        "word": "pant",
+        "part_of_speech": "verb",
+        "definition": "thở hổn hển, thở gấp"
+    },
+    {
+        "word": "padlock",
+        "part_of_speech": "verb",
+        "definition": "khoá lại bằng ổ khoá móc"
+    },
+    {
+        "word": "the Eight Vajra Guardians",
+        "part_of_speech": "noun",
+        "definition": "Bát Bộ Kim Cang (8 vị hộ pháp trong phật giáo)"
+    },
+    {
+        "word": "halt",
+        "part_of_speech": "verb",
+        "definition": "dừng lại"
+    },
+    {
+        "word": "disposition",
+        "part_of_speech": "noun",
+        "definition": "tính khí, tâm trạng, thái độ"
+    },
+    {
+        "word": "devotion",
+        "part_of_speech": "noun",
+        "definition": "Sự tận tâm, hết lòng"
+    },
+    {
+        "word": "determination",
+        "part_of_speech": "noun",
+        "definition": "Sự quyết tâm, kiên định"
+    },
+    {
+        "word": "genuine",
+        "part_of_speech": "adjective",
+        "definition": "thật, không giả tạo, chân thành"
+    },
+    {
+        "word": "undergo",
+        "part_of_speech": "verb",
+        "definition": "trải qua, chịu đựng, phải qua một quá trình nào đó (thường là điều khó khăn, thử thách hoặc sự thay đổi)"
+    },
+    {
+        "word": "bear - borne",
+        "part_of_speech": "verb",
+        "definition": "mang, gánh vác, chịu đựng"
+    },
+    {
+        "word": "aloft",
+        "part_of_speech": "adverb",
+        "definition": "trên cao, ở trên"
+    },
+    {
+        "word": "profane",
+        "part_of_speech": "adjective",
+        "definition": "không thiêng liêng, trần tục, ô uế"
+    },
+    {
+        "word": "preoccupy",
+        "part_of_speech": "verb",
+        "definition": "bận tâm, lo lắng"
+    },
+    {
+        "word": "banish",
+        "part_of_speech": "verb",
+        "definition": "trục xuất, loại bỏ, xua tan"
+    },
+    {
+        "word": "gale",
+        "part_of_speech": "noun",
+        "definition": "cơn gió mạnh dữ dội"
+    },
+    {
+        "word": "grit",
+        "part_of_speech": "noun",
+        "definition": "sạn"
+    },
+    {
+        "word": "cling - clung",
+        "part_of_speech": "verb",
+        "definition": "bám chặt, dính chặt"
+    },
+    {
+        "word": "snatch",
+        "part_of_speech": "verb",
+        "definition": "giật, chộp lấy, lấy nhanh"
+    },
+    {
+        "word": "last",
+        "part_of_speech": "verb",
+        "definition": "kéo dài, tồn tại được"
+    },
+    {
+        "word": "come about",
+        "part_of_speech": "verb",
+        "definition": "xảy ra, diễn ra"
+    },
+    {
+        "word": "incur",
+        "part_of_speech": "verb",
+        "definition": "phát sinh, gánh chịu, phải chịu"
+    },
+    {
+        "word": "envy",
+        "part_of_speech": "verb",
+        "definition": "ghen tị, đố kỵ"
+    },
+    {
+        "word": "jealousy",
+        "part_of_speech": "noun",
+        "definition": "sự ghen tị, sự đố kỵ"
+    },
+    {
+        "word": "the Chen Village",
+        "part_of_speech": "noun",
+        "definition": "Trần Gia Trang"
+    },
+    {
+        "word": "canal",
+        "part_of_speech": "noun",
+        "definition": "kênh, mương"
     }
 ]
