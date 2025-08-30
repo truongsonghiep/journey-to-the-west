@@ -2325,11 +2325,6 @@
         "definition": "nhà phụ"
     },
     {
-        "word": "prostrate",
-        "part_of_speech": "verb",
-        "definition": "quỳ lạy"
-    },
-    {
         "word": "secluded",
         "part_of_speech": "adjective",
         "definition": "biệt lập"
@@ -2482,7 +2477,7 @@
     {
         "word": "prostrate",
         "part_of_speech": "verb",
-        "definition": "quỳ lạy, quỳ rạp xuống"
+        "definition": "nằm sấp, quỳ gối hoặc sụp lạy (thường để tỏ lòng tôn kính hoặc phục tùng)"
     },
     {
         "word": "Your subject",
@@ -4468,5 +4463,95 @@
         "word": "canal",
         "part_of_speech": "noun",
         "definition": "kênh, mương"
+    },
+    {
+        "word": "Ānanda",
+        "part_of_speech": "noun",
+        "definition": "A nan"
+    },
+    {
+        "word": "Kāśyapa",
+        "part_of_speech": "noun",
+        "definition": "Ca diếp"
+    },
+    {
+        "word": "Honored Ones",
+        "part_of_speech": "noun",
+        "definition": "Tôn giả, vị đáng kính"
+    },
+    {
+        "word": "companion",
+        "part_of_speech": "noun",
+        "definition": "Bạn đồng hành"
+    },
+    {
+        "word": "tether",
+        "part_of_speech": "verb",
+        "definition": "buộc chặt, cột chặt lại"
+    },
+    {
+        "word": "efficacy",
+        "part_of_speech": "noun",
+        "definition": "hiệu quả, tác dụng"
+    },
+    {
+        "word": "surrender",
+        "part_of_speech": "verb",
+        "definition": "đầu hàng, giao nộp"
+    },
+    {
+        "word": "lofty",
+        "part_of_speech": "adjective",
+        "definition": "trên cao"
+    },
+    {
+        "word": "tame",
+        "part_of_speech": "verb",
+        "definition": " hàng phục, thuần hóa, thuần phục"
+    },
+    {
+        "word": "Buddhist",
+        "part_of_speech": "noun",
+        "definition": "phật tử"
+    },
+    {
+        "word": "Daoist",
+        "part_of_speech": "noun",
+        "definition": "đạo sĩ"
+    },
+    {
+        "word": "the Great Immortal of the Golden Head",
+        "part_of_speech": "noun",
+        "definition": "Kim Đính Đại Tiên"
+    },
+    {
+        "word": "the Jade Perfection Daoist Abbey",
+        "part_of_speech": "noun",
+        "definition": "quán Ngọc Chân"
+    },
+    {
+        "word": "set out",
+        "part_of_speech": "verb",
+        "definition": "khởi hành, bắt đầu một hành trình"
+    },
+    {
+        "word": "chant",
+        "part_of_speech": "verb",
+        "definition": "niệm, tụng kinh"
+    },
+    {
+        "word": "unison",
+        "part_of_speech": "noun",
+        "definition": "sự đồng thanh, đồng lòng, hòa hợp"
+    },
+    {
+        "word": "punt",
+        "part_of_speech": "verb",
+        "definition": "đẩy, chèo thuyền"
+    },
+    {
+        "word": "in no time at all",
+        "part_of_speech": "idiom",
+        "definition": "Rất nhanh, ngay lập tức, chẳng mất chút thời gian nào."
     }
 ]
