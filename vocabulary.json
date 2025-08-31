@@ -4553,5 +4553,180 @@
         "word": "in no time at all",
         "part_of_speech": "idiom",
         "definition": "Rất nhanh, ngay lập tức, chẳng mất chút thời gian nào."
+    },
+    {
+        "word": "foam",
+        "part_of_speech": "noun",
+        "definition": "Bọt, bọt biển"
+    },
+    {
+        "word": "froth",
+        "part_of_speech": "noun",
+        "definition": "lớp bọt"
+    },
+    {
+        "word": "drift",
+        "part_of_speech": "verb",
+        "definition": "trôi dạt"
+    },
+    {
+        "word":"blur",
+        "part_of_speech": "verb",
+        "definition": "mờ đi"
+
+    },
+    {
+        "word": "neglect",
+        "part_of_speech": "verb",
+        "definition": "bỏ mặc, sao nhãng, lơ là"
+    },
+    {
+        "word": "file suit",
+        "part_of_speech": "verb",
+        "definition": "khởi kiện"
+    },
+    {
+        "word": "Wei Zheng",
+        "part_of_speech": "noun",
+        "definition": "Nguỵ Trung"
+    },
+    {
+        "word": "threat",
+        "part_of_speech": "verb",
+        "definition": "đe dọa"
+    },
+    {
+        "word": "tinkling",
+        "part_of_speech": "noun",
+        "definition": "tiếng leng keng"
+    },
+    {
+        "word": "King Qinguang",
+        "part_of_speech": "noun",
+        "definition": "Tần Quảng Vương"
+    },
+    {
+        "word": "King of the Beginning River",
+        "part_of_speech": "noun",
+        "definition": "Sở Giang Vương"
+    },
+    {
+        "word": "King of the Song Emperor",
+        "part_of_speech": "noun",
+        "definition": "Tống Đế Vương"
+    },
+    {
+        "word": "King of Avenging Ministers",
+        "part_of_speech": "noun",
+        "definition": "Ngọ Quan Vương"
+    },
+    {
+        "word": "King Yama",
+        "part_of_speech": "noun",
+        "definition": "Diêm La Vương"
+    },
+    {
+        "word": "King Yama, King of Equal Ranks",
+        "part_of_speech": "noun",
+        "definition": "Bình Đăng Vương"
+    },
+    {
+        "word": "King of the Tai Mountain",
+        "part_of_speech": "noun",
+        "definition": "Thái Sơn Vương"
+    },
+    {
+        "word": "King of Complete Change",
+        "part_of_speech": "noun",
+        "definition": "Biện Thành Vương"
+    },
+    {
+        "word": "King of the Turning Wheel",
+        "part_of_speech": "noun",
+        "definition": "Chuyển Luân Vương"
+    },
+    {
+        "word": "modesty",
+        "part_of_speech": "noun",
+        "definition": "sự kiêm tốn"
+    },
+    {
+        "word": "feigning",
+        "part_of_speech": "adjective",
+        "definition": "giả vờ"
+    },
+    {
+        "word": "decline",
+        "part_of_speech": "verb",
+        "definition": "khước từ, từ chối một cách lịch sự"
+    },
+    {
+        "word": "accuse",
+        "part_of_speech": "verb",
+        "definition": "buộc tội, tố cáo"
+    },
+    {
+        "word": "appeal",
+        "part_of_speech": "verb",
+        "definition": "kêu gọi, thỉnh cầu, khẩn cầu"
+    },
+    {
+        "word": "dip",
+        "part_of_speech": "verb",
+        "definition": "nhúng"
+    },
+    {
+        "word": "of one's word",
+        "part_of_speech": "idiom",
+        "definition": "người biết giữ lời hứa"
+    },
+    {
+        "word": "chide",
+        "part_of_speech": "verb",
+        "definition": "mắng, trách mắng mang tính nhắc nhở hơn là nặng nề"
+    },
+    {
+        "word": "indiscretion",
+        "part_of_speech": "noun",
+        "definition": "sự thiếu thận trọng, sự khinh suất"
+    },
+    {
+        "word": "flaunt",
+        "part_of_speech": "verb",
+        "definition": "sự phô trương, khoe khoang"
+    },
+    {
+        "word": "piteously",
+        "part_of_speech": "adverb",
+        "definition": "một cách đáng thương, thảm thương"
+    },
+    {
+        "word": "token of sth",
+        "part_of_speech": "collocation",
+        "definition": "món quà nhỏ, quà đáp lễ"
+    },{
+        "word": "quake",
+        "part_of_speech": "verb",
+        "definition": "run rẩy"
+    },
+    {
+        "word": "airy",
+        "part_of_speech": "adjective",
+        "definition": "nhẹ như không khí"
+    },
+    {
+        "word": "spill",
+        "part_of_speech": "verb",
+        "definition": "làm tràn ra, làm đổ ra"
+    },
+    {
+        "word": "coffin",
+        "part_of_speech": "noun",
+        "definition": "quan tài"
+    },
+    {
+        "word": "drown",
+        "part_of_speech": "verb",
+        "definition": "chìm, đắm, đuối"
     }
 ]
