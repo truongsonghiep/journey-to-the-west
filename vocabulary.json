@@ -4728,5 +4728,135 @@
         "word": "drown",
         "part_of_speech": "verb",
         "definition": "chìm, đắm, đuối"
+    },
+    {
+        "word": "undeniably",
+        "part_of_speech": "adverb",
+        "definition": "không thể phủ nhận"
+    },
+    {
+        "word": "chin",
+        "part_of_speech": "noun",
+        "definition": "cằm"
+    },
+    {
+        "word": "disobedience",
+        "part_of_speech": "noun",
+        "definition": "sự không vâng lời"
+    },
+    {
+        "word": "a certain + N",
+        "part_of_speech": "noun",
+        "definition": "một cái gì đó, một người nào đó (lời giới thiệu trong văn nói ngày xưa)"
+    },
+    {
+        "word": "drill",
+        "part_of_speech": "noun",
+        "definition": "cái khoan"
+    },
+    {
+        "word": "bag",
+        "part_of_speech": "verb",
+        "definition": "săn được, bắn hạ, cho vào túi, chiếm được, giành được"
+    },
+    {
+        "word": "stride",
+        "part_of_speech": "verb",
+        "definition": "sải bước"
+    },
+    {
+        "word": "right up",
+        "part_of_speech": "verb",
+        "definition": "ngay, sát, tới tận, thẳng đến (tùy ngữ cảnh)"
+    },
+    {
+        "word": "lay prone",
+        "part_of_speech": "verb",
+        "definition": "nằm sấp"
+    },
+    {
+        "word": "burst (out)",
+        "part_of_speech": "verb",
+        "definition": "vỡ từng mảnh, bùng nổ, nổ tung"
+    },
+    {
+        "word": "petal",
+        "part_of_speech": "noun",
+        "definition": "cánh hoa"
+    },
+    {
+        "word": "pulp",
+        "part_of_speech": "noun",
+        "definition": "bột"
+    },
+    {
+        "word": "strip",
+        "part_of_speech": "verb",
+        "definition": "cởi bỏ, lột sạch"
+    },
+    {
+        "word": "start off",
+        "part_of_speech": "verb",
+        "definition": "khởi đầu (một hành trình, giai đoạn, quá trình)"
+    },
+    {
+        "word": "strand of",
+        "part_of_speech": "noun",
+        "definition": "sợi, mảnh"
+    },
+    {
+        "word": "slit",
+        "part_of_speech": "verb",
+        "definition": "rạch, cắt thành khe hẹp"
+    },
+    {
+        "word": "rip",
+        "part_of_speech": "verb",
+        "definition": "xé, rách"
+    },
+    {
+        "word": "squeeze",
+        "part_of_speech": "verb",
+        "definition": "bóp, nắm, vặn, siết chặt"
+    },
+    {
+        "word": "motionless",
+        "part_of_speech": "adjective",
+        "definition": "bất động"
+    },
+    {
+        "word": "let alone",
+        "part_of_speech": "verb",
+        "definition": "huống chi là / nói gì đến (dùng trong cấu trúc [mệnh đề phủ định/khó xảy ra] + let alone + [điều còn khó hơn])"
+    },
+    {
+        "word": "move along",
+        "part_of_speech": "verb",
+        "definition": "tiến lên, tiếp tục di chuyển"
+    },
+    {
+        "word": "nasty",
+        "part_of_speech": "adjective",
+        "definition": "Khó chịu, bẩn thỉu, kinh tởm, xấu xa, hiểm độc, tệ hại, nguy hiểm, khó chịu"
+    },
+    {
+        "word": "go by (name)",
+        "part_of_speech": "verb",
+        "definition": "được gọi là, có tên là"
+    },
+    {
+        "word": "clan",
+        "part_of_speech": "noun",
+        "definition": "bộ lạc, gia tộc, đảng phái "
+    },
+    {
+        "word": "clamor",
+        "part_of_speech": "noun",
+        "definition": "tiếng kêu la, tiếng ồn ào"
+    },
+    {
+        "word": "unruly",
+        "part_of_speech": "adjective",
+        "definition": "ngỗ nghịch, khó dạy bảo"
     }
 ]
