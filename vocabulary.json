@@ -3200,11 +3200,6 @@
         "definition": "kẻ lêu lổng, phá phách"
     },
     {
-        "word": "mischievous",
-        "part_of_speech": "adjective",
-        "definition": "nghịch ngợm"
-    },
-    {
         "word": "perceive",
         "part_of_speech": "verb",
         "definition": "nhận thấy rằng"
@@ -4983,5 +4978,295 @@
         "word": "incomparably",
         "part_of_speech": "adverb",
         "definition": "không thể so sánh được"
+    },
+    {
+        "word": "the Brocade Fragrance Pavilion",
+        "part_of_speech": "noun",
+        "definition": "Cẩm Hương Đình"
+    },
+    {
+        "word": "scores of",
+        "part_of_speech": "noun",
+        "definition": "nhiều"
+    },
+    {
+        "word": "recline",
+        "part_of_speech": "verb",
+        "definition": "tựa lưng nghỉ ngơi"
+    },
+    {
+        "word": "carved",
+        "part_of_speech": "adjective",
+        "definition": "được chạm khắc"
+    },
+    {
+        "word": "railing",
+        "part_of_speech": "noun",
+        "definition": "lan can"
+    },
+    {
+        "word": "earnest",
+        "part_of_speech": "adjective",
+        "definition": "chân thành, nghiêm túc, tha thiết"
+    },
+    {
+        "word": "lance",
+        "part_of_speech": "noun",
+        "definition": "cây thương"
+    },
+    {
+        "word": "ultimate bliss world",
+        "part_of_speech": "noun",
+        "definition": "thế giới cực lạc"
+    },
+    {
+        "word": "cellar",
+        "part_of_speech": "noun",
+        "definition": "hầm rượu, hầm chứa"
+    },
+    {
+        "word": "unwittingly",
+        "part_of_speech": "adverb",
+        "definition": "một cách vô tình, không biết"
+    },
+    {
+        "word": "whereupon",
+        "part_of_speech": "conjunction",
+        "definition": "do đó, ngay sau đó (thường dùng trong văn viết trang trọng)"
+    },
+    {
+        "word": "extirpate",
+        "part_of_speech": "verb",
+        "definition": "diệt trừ, tiêu diệt tận gốc, nhổ tận rễ (không để sót lại)."
+    },
+    {
+        "word": "the Palace of Grand Harmony",
+        "part_of_speech": "noun",
+        "definition": "Cung Đại Hợp"
+    },
+    {
+        "word": "the Demon Conquering Celestial Worthy",
+        "part_of_speech": "noun",
+        "definition": "Phục Ma Chân Quân"
+    },
+    {
+        "word": "revolt",
+        "part_of_speech": "verb",
+        "definition": "nổi dậy, chống lại, khởi nghĩa"
+    },
+    {
+        "word": "dawdle away",
+        "part_of_speech": "verb",
+        "definition": "lãng phí"
+    },
+    {
+        "word": "send for sb",
+        "part_of_speech": "verb",
+        "definition": "mời/gọi ai đó"
+    },
+    {
+        "word": "Your Reverence",
+        "part_of_speech": "verb",
+        "definition": "Đại Đức"
+    },
+    {
+        "word": "have been authorized by",
+        "part_of_speech": "verb",
+        "definition": "được ủy quyền bởi"
+    },
+    {
+        "word": "assume",
+        "part_of_speech": "verb",
+        "definition": "đảm nhận, gánh vác"
+    },
+    {
+        "word": "mob",
+        "part_of_speech": "noun",
+        "definition": "bọn côn đồ, đám đông hỗn loạn, mất kiểm soát, hung hãn (sắc thái tiêu cực)"
+    },
+    {
+        "word": "inscription",
+        "part_of_speech": "noun",
+        "definition": "chữ khắc, dòng chữ, bia ký (viết/khắc lên đá, kim loại, gỗ, tiền xu, bia mộ, tượng…)"
+    },
+    {
+        "word": "concrete",
+        "part_of_speech": "verb",
+        "definition": "cụ thể hóa, làm rõ"
+    },
+    {
+        "word": "pick up",
+        "part_of_speech": "verb",
+        "definition": "nhặt lên"
+    },
+    {
+        "word": "put away",
+        "part_of_speech": "verb",
+        "definition": "cất về vị trí cũ"
+    },
+    {
+        "word": "suspend",
+        "part_of_speech": "verb",
+        "definition": "tạm dừng, đình chỉ"
+    },
+    {
+        "word": "adhere to",
+        "part_of_speech": "verb",
+        "definition": "tuân thủ, bám sát"
+    },
+    {
+        "word": "entitle",
+        "part_of_speech": "verb",
+        "definition": "cho ai đó quyền làm gì"
+    },
+    {
+        "word": "sponsor",
+        "part_of_speech": "noun",
+        "definition": "người tài trợ, nhà tài trợ"
+    },
+    {
+        "word": "familiarize",
+        "part_of_speech": "verb",
+        "definition": "làm quen"
+    },
+    {
+        "word": "kowtow",
+        "part_of_speech": "verb",
+        "definition": "quỳ lạy, khom người cúi đầu chạm đất (trong văn hóa Trung Quốc xưa, thể hiện sự tôn kính với vua hoặc người có quyền)"
+    },
+    {
+        "word": "it's up to you",
+        "part_of_speech": "idiom",
+        "definition": "tùy bạn, do bạn quyết định"
+    },
+    {
+        "word": "swallow",
+        "part_of_speech": "verb",
+        "definition": "nuốt, nuốt chửng"
+    },
+    {
+        "word": "sew",
+        "part_of_speech": "verb",
+        "definition": "may, khâu"
+    },
+    {
+        "word": "fiercely",
+        "part_of_speech": "adverb",
+        "definition": "một cách dữ dội, mãnh liệt"
+    },
+    {
+        "word": "moan",
+        "part_of_speech": "verb",
+        "definition": "rên rỉ, than vãn"
+    },
+    {
+        "word": "hospitality",
+        "part_of_speech": "noun",
+        "definition": "lòng hiếu khách, sự tiếp đón nồng hậu"
+    },
+    {
+        "word": "portion",
+        "part_of_speech": "verb",
+        "definition": "chia phần, phân chia"
+    },
+    {
+        "word": "attendant",
+        "part_of_speech": "noun",
+        "definition": "người phục vụ, người tham dự, tuỳ tùng"
+    },
+    {
+        "word": "lame",
+        "part_of_speech": "adjective",
+        "definition": "kém cỏi, tệ, chán"
+    },
+    {
+        "word": "paw",
+        "part_of_speech": "noun",
+        "definition": "chân của loài thú"
+    },
+    {
+        "word": "faithfully",
+        "part_of_speech": "adverb",
+        "definition": "một cách trung thành, một cách đáng tin cậy"
+    },
+    {
+        "word": "advance toward",
+        "part_of_speech": "verb",
+        "definition": "tiến về phía trước"
+    },
+    {
+        "word": "these days",
+        "part_of_speech": "noun",
+        "definition": "thời gian gần đây"
+    },
+    {
+        "word": "resemble",
+        "part_of_speech": "verb",
+        "definition": "giống với, tương tự như (thường dùng trong văn nói)"
+    },
+    {
+        "word": "growl",
+        "part_of_speech": "verb",
+        "definition": "gầm gừ, rống lên (thường dùng để chỉ âm thanh của động vật)"
+    },
+    {
+        "word": "Guanyin Hall",
+        "part_of_speech": "noun",
+        "definition": "Đại sảnh Quán Thế Âm"
+    },
+    {
+        "word": "turret",
+        "part_of_speech": "noun",
+        "definition": "Tháp canh, lầu vọng cảnh (thường dùng trong kiến trúc)"
+    },
+    {
+        "word": "rows of ...",
+        "part_of_speech": "noun",
+        "definition": "Các hàng, các dãy..."
+    },
+    {
+        "word": "softly",
+        "part_of_speech": "adverb",
+        "definition": "nhỏ tiếng, một cách nhẹ nhàng, êm ái"
+    },
+    {
+        "word": "shiver",
+        "part_of_speech": "noun",
+        "definition": "Sự run rẩy, sự rùng mình"
+    },
+    {
+        "word": "grace",
+        "part_of_speech": "noun",
+        "definition": "ân sủng, ân huệ"
+    },
+    {
+        "word": "flatten",
+        "part_of_speech": "verb",
+        "definition": "duỗi thẳng, làm phẳng, làm cho bằng phẳng"
+    },
+    {
+        "word": "strike",
+        "part_of_speech": "verb",
+        "definition": "đánh"
+    },
+    {
+        "word": "persist",
+        "part_of_speech": "verb",
+        "definition": "kiên trì, bền bỉ"
+    },
+    {
+        "word": "amuse",
+        "part_of_speech": "verb",
+        "definition": "làm cho vui, giải trí"
+    },
+    {
+        "word": "courteously",
+        "part_of_speech": "verb",
+        "definition": "lịch sự, nhã nhặn"
+    },
+    {
+        "word": "reassure",
+        "part_of_speech": "verb",
+        "definition": "trấn an, làm yên lòng"
     }
 ]
