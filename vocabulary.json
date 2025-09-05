@@ -5268,5 +5268,133 @@
         "word": "reassure",
         "part_of_speech": "verb",
         "definition": "trấn an, làm yên lòng"
+    },
+    {
+        "word": "carcass",
+        "part_of_speech": "noun",
+        "definition": "xác chết, thi thể"
+    },
+    {
+        "word": "temper",
+        "part_of_speech": "noun",
+        "definition": "tính khí, tâm trạng"
+    },
+    {
+        "word": "meadow",
+        "part_of_speech": "noun",
+        "definition": "đồng cỏ"
+    },
+    {
+        "word": "swarthy",
+        "part_of_speech": "adjective",
+        "definition": "sẫm màu, ngăm đen"
+    },
+    {
+        "word": "knead",
+        "part_of_speech": "verb",
+        "definition": "nhào nặn"
+    },{
+        "word": "cinnabar",
+        "part_of_speech": "noun",
+        "definition": "chu sa"
+    },{
+        "word": "mercury",
+        "part_of_speech": "noun",
+        "definition": "thủy ngân"
+    },
+    {
+        "word": "brocaded",
+        "part_of_speech": "adjective",
+        "definition": "thêu kim tuyến, dệt gấm"
+    },
+    {
+        "word": "larcenous",
+        "part_of_speech": "adjective",
+        "definition": "trộm cắp, ăn cắp"
+    },
+    {
+        "word": "panic",
+        "part_of_speech": "verb",
+        "definition": "hoảng loạn, hoảng sợ"
+    },
+    {
+        "word": "rustic",
+        "part_of_speech": "adjective",
+        "definition": "mộc mạc, thô sơ"
+    },
+    {
+        "word": "plainly",
+        "part_of_speech": "adverb",
+        "definition": "một cách rõ ràng, minh bạch"
+    },
+    {
+        "word": "arrogant",
+        "part_of_speech": "adjective",
+        "definition": "kiêu ngạo, ngạo mạn"
+    },
+    {
+        "word": "tassel",
+        "part_of_speech": "noun",
+        "definition": "chùm tua"
+    },
+    {
+        "word": "glare",
+        "part_of_speech": "verb",
+        "definition": "trừng mắt, lườm"
+    },
+    {
+        "word": "bonze",
+        "part_of_speech": "noun",
+        "definition": "thầy tu, nhà sư (trong Phật giáo)"
+    },
+    {
+        "word": "audacious",
+        "part_of_speech": "adjective",
+        "definition": "táo bạo, cả gan"
+    },
+    {
+        "word": "rogue",
+        "part_of_speech": "noun",
+        "definition": "kẻ vô lại"
+    },
+    {
+        "word": "draw",
+        "part_of_speech": "noun",
+        "definition": "hoà"
+    },
+    {
+        "word": "feeble",
+        "part_of_speech": "adjective",
+        "definition": "yếu ớt, không có sức mạnh"
+    },
+    {
+        "word": "thrust",
+        "part_of_speech": "noun",
+        "definition": "lực đẩy"
+    },
+    {
+        "word": "culprit",
+        "part_of_speech": "noun",
+        "definition": "thủ phạm"
+    },
+    {
+        "word": "maze",
+        "part_of_speech": "noun",
+        "definition": "mê cung"
+    },
+    {
+        "word": "succor",
+        "part_of_speech": "verb",
+        "definition": "cứu giúp, cứu tế (dùng trong văn viết trang trọng)"
+    },
+    {
+        "word": "mankind",
+        "part_of_speech": "noun",
+        "definition": "nhân loại"
+    },
+    {
+        "word": "see [someone] back",
+        "part_of_speech": "idiom",
+        "definition": "hộ tống, đi cùng ai đó về"
     }
 ]
