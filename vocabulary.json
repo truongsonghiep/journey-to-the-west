@@ -2817,7 +2817,7 @@
     {
         "word": "bedlam",
         "part_of_speech": "noun",
-        "definition": "sự hỗn loạn, sự ồn ào"
+        "definition": "Cảnh hỗn loạn, cảnh náo loạn, cảnh điên cuồng"
     },
     {
         "word": "jeopardy",
@@ -5396,5 +5396,30 @@
         "word": "see [someone] back",
         "part_of_speech": "idiom",
         "definition": "hộ tống, đi cùng ai đó về"
+    },
+    {
+        "word": "turmoil",
+        "part_of_speech": "noun",
+        "definition": "hỗn loạn, rối ren, bất ổn, xáo trộn"
+    },
+    {
+        "word": "miserable",
+        "part_of_speech": "adjective",
+        "definition": "khổ sở, đáng thương"
+    },
+    {
+        "word": "incarnation",
+        "part_of_speech": "noun",
+        "definition": "sự hiện thân, sự hóa thân"
+    },
+    {
+        "word": "shafts",
+        "part_of_speech": "noun",
+        "definition": "trục, cột, chùm sáng"
+    },
+    {
+        "word": "assure",
+        "part_of_speech": "verb",
+        "definition": "đảm bảo, cam đoan"
     }
 ]
