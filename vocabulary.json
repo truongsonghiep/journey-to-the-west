@@ -1775,11 +1775,6 @@
         "definition": "sự ảo tưởng ma quỷ"
     },
     {
-        "word": "anxious",
-        "part_of_speech": "adjective",
-        "definition": "sự lo âu, lo lắng"
-    },
-    {
         "word": "impulsive",
         "part_of_speech": "adjective",
         "definition": "bốc đồng, hấp tấp"
@@ -2278,11 +2273,6 @@
         "word": "worship",
         "part_of_speech": "verb",
         "definition": "cúng"
-    },
-    {
-        "word": "anxious",
-        "part_of_speech": "adjective",
-        "definition": "lo lắng"
     },
     {
         "word": "turn sb/sth down",
@@ -5421,5 +5411,250 @@
         "word": "assure",
         "part_of_speech": "verb",
         "definition": "đảm bảo, cam đoan"
+    },
+    {
+        "word": "innermost",
+        "part_of_speech": "adjective",
+        "definition": "tận đáy lòng, ở bên trong cùng, sâu thẳm"
+    },
+    {
+        "word": "orb",
+        "part_of_speech": "noun",
+        "definition": "hình cầu, quả cầu, đốm sáng hình cầu"
+    },
+    {
+        "word": "regain",
+        "part_of_speech": "verb",
+        "definition": "lấy lại, giành lại"
+    },
+    {
+        "word": "abode",
+        "part_of_speech": "noun",
+        "definition": "Nơi ở, nơi cư trú (giống home hoặc residence nhưng trang trọng hơn)"
+    },
+    {
+        "word": "shelter",
+        "part_of_speech": "noun",
+        "definition": "nơi trú tạm, nơi ẩn náu"
+    },
+    {
+        "word": "flustered",
+        "part_of_speech": "adjective",
+        "definition": "bối rối"
+    },
+    {
+        "word": "embarrassed",
+        "part_of_speech": "adjective",
+        "definition": "ngượng ngùng, xấu hổ"
+    },
+    {
+        "word": "intimidate",
+        "part_of_speech": "verb",
+        "definition": "hăm doạ, đe dọa"
+    },
+    {
+        "word": "boast",
+        "part_of_speech": "verb",
+        "definition": "khoe khoang, khoác lác"
+    },
+    {
+        "word": "passable",
+        "part_of_speech": "adjective",
+        "definition": "khá, tạm được, chấp nhận được, không quá tệ"
+    },
+    {
+        "word": "treacherous",
+        "part_of_speech": "noun",
+        "definition": "sự nguy hiểm, hiểm trở (thường dùng để chỉ địa hình, thời tiết)"
+    },
+    {
+        "word": "alms",
+        "part_of_speech": "noun",
+        "definition": "của bố thí"
+    },
+    {
+        "word": "talkative",
+        "part_of_speech": "noun",
+        "definition": "người nói nhiều, người ba hoa"
+    },
+    {
+        "word": "thatched",
+        "part_of_speech": "adjective",
+        "definition": "lợp tranh"
+    },
+    {
+        "word": "mistaken",
+        "part_of_speech": "adjective",
+        "definition": "nhầm lẫn, lú lẫn"
+    },
+    {
+        "word": "grain",
+        "part_of_speech": "noun",
+        "definition": "hạt, ngũ cốc"
+    },
+    {
+        "word": "flap",
+        "part_of_speech": "verb",
+        "definition": "bay phấp phới, vỗ (cánh)"
+    },
+    {
+        "word": "bosom",
+        "part_of_speech": "noun",
+        "definition": "ngực, lòng"
+    },
+    {
+        "word": "stick",
+        "part_of_speech": "verb",
+        "definition": "dán, gắn, dính"
+    },
+    {
+        "word": "patron",
+        "part_of_speech": "noun",
+        "definition": "thí chủ, người bảo trợ"
+    },
+    {
+        "word": "servant",
+        "part_of_speech": "noun",
+        "definition": "người hầu, người phục vụ"
+    },
+    {
+        "word": "hazard",
+        "part_of_speech": "noun",
+        "definition": "mối nguy hiểm, rủi ro"
+    },
+    {
+        "word": "infest",
+        "part_of_speech": "verb",
+        "definition": "xâm chiếm, quấy rối"
+    },
+    {
+        "word": "saddle",
+        "part_of_speech": "verb",
+        "definition": "đặt yên lên ngựa"
+    },
+    {
+        "word": "mishap",
+        "part_of_speech": "noun",
+        "definition": "tai nạn, rủi ro"
+    },
+    {
+        "word": "retrace",
+        "part_of_speech": "verb",
+        "definition": "quay lại"
+    },
+    {
+        "word": "rugged",
+        "part_of_speech": "adjective",
+        "definition": "gồ ghề, xù xì"
+    },
+    {
+        "word": "whirlwind",
+        "part_of_speech": "noun",
+        "definition": "cơn lốc, cơn gió mạnh"
+    },
+    {
+        "word": "fib",
+        "part_of_speech": "verb",
+        "definition": "nói xạo, nói dối (thường là những lời nói dối vô hại, không nghiêm trọng)"
+    },
+    {
+        "word": "sniff",
+        "part_of_speech": "verb",
+        "definition": "ngửi, hít (khói, mùi...); khịt mũi"
+    },
+    {
+        "word": "fetid",
+        "part_of_speech": "adjective",
+        "definition": "hôi thối, bốc mùi (mùi rất tệ)"
+    },
+    {
+        "word": "striped",
+        "part_of_speech": "adjective",
+        "definition": "có sọc, có vằn"
+    },
+    {
+        "word": "lunge forward",
+        "part_of_speech": "verb",
+        "definition": "xông tới, lao tới"
+    },
+    {
+        "word": "hind leg",
+        "part_of_speech": "noun",
+        "definition": "chân sau (của động vật)"
+    },
+    {
+        "word": "foreleg",
+        "part_of_speech": "noun",
+        "definition": "chân trước (của động vật)"
+    },
+    {
+        "word": "puncture",
+        "part_of_speech": "verb",
+        "definition": "đâm thủng, chọc thủng"
+    },
+    {
+        "word": "jab",
+        "part_of_speech": "noun",
+        "definition": "cú đâm, cú thọc"
+    },
+    {
+        "word": "abominable",
+        "part_of_speech": "adjective",
+        "definition": "ghê tởm, kinh tởm"
+    },
+    {
+        "word": "hors d'oeuvre",
+        "part_of_speech": "noun",
+        "definition": "món khai vị"
+    },
+    {
+        "word": "claw - clawed",
+        "part_of_speech": "verb",
+        "definition": "cào"
+    },
+    {
+        "word": "heel",
+        "part_of_speech": "noun",
+        "definition": "gót chân"
+    },
+    {
+        "word": "hard on someone's heels",
+        "part_of_speech": "idiom",
+        "definition": "Rất sát phía sau ai đó"
+    },
+    {
+        "word": "culinary",
+        "part_of_speech": "adjective",
+        "definition": "thuộc về ẩm thực"
+    },
+    {
+        "word": "foresight",
+        "part_of_speech": "noun",
+        "definition": "sự nhìn xa trông rộng"
+    },
+    {
+        "word": "misery",
+        "part_of_speech": "noun",
+        "definition": "nỗi khổ, sự đau khổ"
+    },
+    {
+        "word": "beheld",
+        "part_of_speech": "verb",
+        "definition": "nhìn thấy, chứng kiến"
+    },
+    {
+        "word": "relentlessly",
+        "part_of_speech": "adverb",
+        "definition": "một cách không ngừng nghỉ, một cách liên tục"
+    },
+    {
+        "word": "bring down",
+        "part_of_speech": "verb",
+        "definition": "giáng xuống, bổ xuống"
+    },
+    {
+        "word": "spine",
+        "part_of_speech": "noun",
+        "definition": "xương sống"
     }
 ]
