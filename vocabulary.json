@@ -4862,7 +4862,7 @@
     {
         "word": "impudent",
         "part_of_speech": "adjective",
-        "definition": "trơ tráo, trơ trẽn"
+        "definition": "xáo xược, xấc láo, thiếu tôn trọng"
     },
     {
         "word": "through",
@@ -5656,5 +5656,235 @@
         "word": "spine",
         "part_of_speech": "noun",
         "definition": "xương sống"
+    },
+    {
+        "word": "deliberation",
+        "part_of_speech": "noun",
+        "definition": "sự cân nhắc, sự thận trọng"
+    },
+    {
+        "word": "sallow",
+        "part_of_speech": "adjective",
+        "definition": "vàng nhợt, vàng vọt (da mặt)"
+    },
+    {
+        "word": "reckless",
+        "part_of_speech": "adjective",
+        "definition": "không cẩn thận, liều lĩnh"
+    },
+    {
+        "word": "intrude",
+        "part_of_speech": "verb",
+        "definition": "xâm nhập, xâm phạm"
+    },
+    {
+        "word": "outskirts",
+        "part_of_speech": "noun",
+        "definition": "vùng ngoại ô, rìa thành phố"
+    },
+    {
+        "word": "foolishly",
+        "part_of_speech": "adverb",
+        "definition": "một cách ngu ngốc, dại dột"
+    },
+    {
+        "word": "threatening",
+        "part_of_speech": "adjective",
+        "definition": "mang tính đe dọa, uy hiếp"
+    },
+    {
+        "word": "sinister",
+        "part_of_speech": "adjective",
+        "definition": "điều ác độc, điều xấu xa"
+    },
+    {
+        "word": "presumption",
+        "part_of_speech": "noun",
+        "definition": "giả định, suy đoán"
+    },
+    {
+        "word": "instant",
+        "part_of_speech": "adjective",
+        "definition": "ngay lập tức, tức thì"
+    },
+    {
+        "word": "instant",
+        "part_of_speech": "noun",
+        "definition": "khoảnh khắc, chốc lát"
+    },
+    {
+        "word": "steward",
+        "part_of_speech": "noun",
+        "definition": "người quản lý, người phụ trách"
+    },
+    {
+        "word": "as light as air",
+        "part_of_speech": "idiom",
+        "definition": "nhẹ như không"
+    },
+    {
+        "word": "semblance",
+        "part_of_speech": "noun",
+        "definition": "sự tương tự, vẻ ngoài"
+    },
+    {
+        "word": "   ",
+        "part_of_speech": "adverb",
+        "definition": "một cách nghiêm khắc"
+    },
+    {
+        "word": "brashness",
+        "part_of_speech": "noun",
+        "definition": "tính táo bạo, thiếu tế nhị, hoặc hỗn xược"
+    },
+    {
+        "word": "cleric",
+        "part_of_speech": "noun",
+        "definition": "người làm việc trong tôn giáo, thường là linh mục, thầy tu hoặc giáo sĩ."
+    },
+    {
+        "word": "snicker",
+        "part_of_speech": "verb",
+        "definition": "cười khúc khích, cười thầm"
+    },
+    {
+        "word": "brilliant",
+        "part_of_speech": "adjective",
+        "definition": "xuất sắc, tài giỏi, rực rỡ"
+    },
+    {
+        "word": "err",
+        "part_of_speech": "verb",
+        "definition": "phạm sai lầm, sai sót"
+    },
+    {
+        "word": "blunder",
+        "part_of_speech": "noun",
+        "definition": "sai lầm ngớ ngẩn, sai lầm do bất cẩn hoặc thiếu hiểu biết"
+    },
+    {
+        "word": "mendicant",
+        "part_of_speech": "noun",
+        "definition": "người ăn xin, người khất thực"
+    },
+    {
+        "word": "profound",
+        "part_of_speech": "adjective",
+        "definition": "sâu sắc, thâm thúy"
+    },
+    {
+        "word": "sacrifice",
+        "part_of_speech": "verb",
+        "definition": "hy sinh, cống hiến"
+    },
+    {
+        "word": "just now",
+        "part_of_speech": "adverb",
+        "definition": "vừa mới đây, ngay lúc nãy"
+    },
+    {
+        "word": "afloat",
+        "part_of_speech": "adjective",
+        "definition": "nổi, trôi nổi"
+    },
+    {
+        "word": "spring/sprang out (of)",
+        "part_of_speech": "verb",
+        "definition": "nhảy ra, bật ra"
+    },
+    {
+        "word": "savage",
+        "part_of_speech": "adjective",
+        "definition": "hung dữ, man rợ, dã man"
+    },
+    {
+        "word": "be taken aback (by sth)",
+        "part_of_speech": "idiom",
+        "definition": "bị bất ngờ, bị sốc (vì điều gì đó)"
+    },
+    {
+        "word": "emerge",
+        "part_of_speech": "verb",
+        "definition": "nổi lên, hiện ra, xuất hiện, dần được tiết lộ rõ"
+    },
+    {
+        "word": "arouse / aroused",
+        "part_of_speech": "verb",
+        "definition": "gợi lên, khơi dậy (cảm xúc, phản ứng)"
+    },
+    {
+        "word": "vehemently",
+        "part_of_speech": "adverb",
+        "definition": "một cách dữ dội, mãnh liệt"
+    },
+    {
+        "word": "whoop",
+        "part_of_speech": "noun",
+        "definition": "tiếng hò reo, tiếng la hét vui mừng"
+    },
+    {
+        "word": "brag about",
+        "part_of_speech": "verb",
+        "definition": "khoe khoang, khoác lác"
+    },
+    {
+        "word": "match wits",
+        "part_of_speech": "idiom",
+        "definition": "đấu trí"
+    },
+    {
+        "word": "marshal",
+        "part_of_speech": "noun",
+        "definition": "nguyên soái, thống chế"
+    },
+    {
+        "word": "naval",
+        "part_of_speech": "noun",
+        "definition": "thuộc về hải quân"
+    },
+    {
+        "word": "tarry",
+        "part_of_speech": "verb",
+        "definition": "chần chừ, nán lại"
+    },
+    {
+        "word": "feign",
+        "part_of_speech": "verb",
+        "definition": "giả vờ, giả bộ"
+    },
+    {
+        "word": "entice",
+        "part_of_speech": "verb",
+        "definition": "khiêu khích, dụ"
+    },
+    {
+        "word": "Right you are",
+        "part_of_speech": "verb",
+        "definition": "Đúng vậy, bạn nói đúng"
+    },
+    {
+        "word": "infuriated",
+        "part_of_speech": "adjective",
+        "definition": "cực kỳ tức giận"
+    },
+    {
+        "word": "brazen",
+        "part_of_speech": "adjective",
+        "definition": "trơ tráo, mặt dày, vô liêm sĩ"
+    },
+    {
+        "word": "tempting",
+        "part_of_speech": "adjective",
+        "definition": "hấp dẫn, lôi cuốn"
+    },
+    {
+        "word": "make someone's mouth water",
+        "part_of_speech": "idiom",
+        "definition": "làm cho ai đó cảm thấy thèm thuồng"
+    },
+    {
+        "word": "reed",
+        "part_of_speech": "noun",
+        "definition": "cây lau, cây sậy"
     }
 ]
