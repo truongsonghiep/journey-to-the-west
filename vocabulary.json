@@ -1654,7 +1654,8 @@
         "word": "whiff",
         "part_of_speech": "noun",
         "definition": "hơi"
-    },{
+    },
+    {
         "word": "The Long-Life Grass of Reverted Cinnabar",
         "part_of_speech": "noun",
         "definition": "Vạn Thọ thảo hoàn đơn"
@@ -2144,7 +2145,7 @@
         "part_of_speech": "noun",
         "definition": "1 cân đơn vị đo thời xưa"
     },
-        {
+    {
         "word": "hay",
         "part_of_speech": "noun",
         "definition": "cỏ khô"
@@ -4555,10 +4556,9 @@
         "definition": "trôi dạt"
     },
     {
-        "word":"blur",
+        "word": "blur",
         "part_of_speech": "verb",
         "definition": "mờ đi"
-
     },
     {
         "word": "neglect",
@@ -4689,7 +4689,8 @@
         "word": "token of sth",
         "part_of_speech": "collocation",
         "definition": "món quà nhỏ, quà đáp lễ"
-    },{
+    },
+    {
         "word": "quake",
         "part_of_speech": "verb",
         "definition": "run rẩy"
@@ -5283,11 +5284,13 @@
         "word": "knead",
         "part_of_speech": "verb",
         "definition": "nhào nặn"
-    },{
+    },
+    {
         "word": "cinnabar",
         "part_of_speech": "noun",
         "definition": "chu sa"
-    },{
+    },
+    {
         "word": "mercury",
         "part_of_speech": "noun",
         "definition": "thủy ngân"
@@ -5886,5 +5889,55 @@
         "word": "reed",
         "part_of_speech": "noun",
         "definition": "cây lau, cây sậy"
+    },
+    {
+        "word": "vessel",
+        "part_of_speech": "noun",
+        "definition": "con thuyền lớn, vật đựng nước"
+    },
+    {
+        "word": "origin",
+        "part_of_speech": "noun",
+        "definition": "Cội nguồn, nguồn gốc"
+    },
+    {
+        "word": "priestly mind",
+        "part_of_speech": "noun",
+        "definition": "tâm trí của người tu hành"
+    },
+    {
+        "word": "suchness",
+        "part_of_speech": "noun",
+        "definition": "tính chất như vậy, thực tại như vậy"
+    },
+    {
+        "word": "break free / broke free",
+        "part_of_speech": "verb",
+        "definition": "thoát khỏi, giải thoát"
+    },
+    {
+        "word": "fetter",
+        "part_of_speech": "noun",
+        "definition": "xiềng xích, trói buộc"
+    },
+    {
+        "word": "the fetters of dust",
+        "part_of_speech": "idiom",
+        "definition": "xiềng xích trần gian, ràng buộc trần thế"
+    },
+    {
+        "word": "hindrance",
+        "part_of_speech": "noun",
+        "definition": "sự cản trở, trở ngại"
+    },
+    {
+        "word": "westward",
+        "part_of_speech": "noun",
+        "definition": "Hướng Tây"
+    },
+    {
+        "word": "untended",
+        "part_of_speech": "adjective",
+        "definition": "bỏ mặc, không được chăm sóc"
     }
 ]
