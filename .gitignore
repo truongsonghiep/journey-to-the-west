@@ -1,0 +1,34 @@
+# Temporary files
+*.tmp
+*.temp
+temp/
+temp.*
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Node modules (if using Node.js)
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Backup files
+*.bak
+*.backup
+
+# Empty files
+*.empty
+
+

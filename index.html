@@ -3,35 +3,138 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Journey To The West</title>
-    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tây Du Ký</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Merriweather:wght@400;700&display=swap"
+        rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        serif: ['Merriweather', 'serif'],
+                    },
+                    colors: {
+                        'accent': '#f59e0b', // Màu Cam Nhấn
+                        'ui-dark': '#1e1e1e', // Nền UI Tối (dùng cho thanh toolbar)
+                    }
+                }
+            }
+        }
+    </script>
 </head>
 
-<body>
-    <div class="container">
-        <header class="story-header">
-            <img src="cover_img.png" alt="Ảnh bìa truyện" class="story-cover">
-            <div class="story-info">
-                <h1>Journey To The West</h1>
-                <p class="author">Author: Wu Cheng'en</p>
-                <p class="genre">Genre: Adventure, Action</p>
-                <p class="status">Status: Updating</p>
-            </div>
-        </header>
-
-        <main class="story-content">
-            <h2 class="chapter-list-title">Danh sách chương</h2>
-            <ul id="chapter-list" class="chapter-list"></ul>
-        </main>
+<body class="dark-mode"> 
+    <!-- Danh sách chương (hiển thị ban đầu nếu không có ?chapter=...) -->
+    <div id="chapters" class="min-h-screen p-6">
+        <div class="max-w-4xl mx-auto">  
+            <h2 class="text-2xl font-bold mb-4 text-gray-200">Danh sách chương</h2>
+            <ul id="chapter-list" class="grid grid-cols-1 sm:grid-cols-2 gap-4"></ul>
+        </div>
     </div>
 
-    <button id="toggleBtn"><span>Từ</span><br><span>điển</span></button>
-    <div id="sidebar">
-        <input type="text" id="searchInput" placeholder="Nhập từ cần tìm...">
-        <div id="results"></div>
+    <!-- Khung chính cho giao diện đọc truyện (ẩn mặc định, sẽ hiện khi mở 1 chương) -->
+    <div id="chapter-reader"
+        class="hidden fixed inset-0 z-50 flex flex-col px-2 sm:px-4 md:px-8 lg:px-16 xl:px-32 2xl:px-64">
+
+        <!-- Thanh công cụ trên cùng -->
+        <div id="top-reader-toolbar"
+            class="fixed top-0 left-0 right-0 p-2 sm:p-3 md:p-4 backdrop-blur-md z-50 shadow-xl transition-opacity duration-500">
+            <div
+                class="container mx-auto flex flex-col sm:flex-row items-center justify-between space-y-2 sm:space-y-0 sm:space-x-2 md:space-x-4">
+                <!-- Nút Trang Chủ (về danh sách chương nội bộ) -->
+                <button onclick="navigateHome()"
+                    class="bg-gray-700 hover:bg-gray-600 text-white font-bold py-1.5 px-3 sm:py-2 sm:px-4 rounded-full transition-colors text-sm sm:text-base">
+                    Trang Chủ
+                </button>
+                <div class="flex items-center space-x-2 sm:space-x-4">
+                    <span class="text-white text-sm sm:text-base font-medium hidden sm:inline">Chế độ</span>
+                    <label class="relative inline-flex items-center cursor-pointer">
+                        <input type="checkbox" id="modeToggle" class="sr-only peer" onchange="toggleMode()" />
+                        <div class="w-14 h-8 bg-gray-700 rounded-full peer peer-checked:bg-yellow-500 transition-all">
+                        </div>
+                        <div
+                            class="absolute left-1 top-1 w-6 h-6 bg-white rounded-full transition-all peer-checked:translate-x-6">
+                        </div>
+                    </label>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tiêu đề chương, luôn hiển thị -->
+        <div class="flex-shrink-0 pt-16 sm:pt-20 md:pt-24 pb-2 sm:pb-4 mx-auto max-w-3xl w-full px-2 mb-10">
+            <h2 id="chapter-title" class="text-xl sm:text-2xl md:text-3xl font-bold text-center font-['Merriweather']">
+                Loading...</h2>
+        </div>
+
+        <!-- Khối nội dung truyện có thể cuộn -->
+        <div id="chapter-content"
+            class="story-content flex-1 overflow-y-auto mx-auto max-w-3xl pb-24 sm:pb-28 no-scrollbar px-2">
+            <div class="text-sm sm:text-base md:text-lg" id="story-text">
+                <div class="loading-spinner"></div>
+                <p class="text-center text-sm sm:text-base">Đang tải chương...</p>
+            </div>
+        </div>
+
+        <!-- Thanh điều hướng chương ở dưới cùng (footer) -->
+        <nav
+            class="fixed bottom-0 left-0 right-0 p-2 sm:p-3 md:p-4 backdrop-blur-md z-50 shadow-xl transition-opacity duration-500">
+            <div class="container mx-auto flex items-center justify-between">
+                <button id="prev-chapter-btn"
+                    class="bg-gray-700 opacity-50 cursor-not-allowed text-white font-bold py-1.5 px-3 sm:py-2 sm:px-4 rounded-full transition-colors text-sm sm:text-base"
+                    onclick="navigateChapter(-1)" disabled>
+                    < Trước </button>
+                        <span id="chapter-info"
+                            class="text-white font-semibold text-sm sm:text-base whitespace-nowrap">Chương ?</span>
+                        <button id="next-chapter-btn"
+                            class="bg-orange-500 hover:bg-orange-600 text-white font-bold py-1.5 px-3 sm:py-2 sm:px-4 rounded-full transition-colors text-sm sm:text-base"
+                            onclick="navigateChapter(1)">
+                            Tiếp >
+                        </button>
+            </div>
+        </nav>
+    </div>
+
+    <!-- Nút Từ điển nổi -->
+    <button id="dictionary-button"
+        class="fixed top-1/2 right-2 sm:right-4 -translate-y-1/2 p-2 sm:p-3 md:p-4 bg-blue-500 text-white rounded-full shadow-2xl transition-transform duration-200 hover:scale-110 flex items-center justify-center space-x-1 sm:space-x-2 z-50">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none"
+            viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+        </svg>
+        <span class="text-xs sm:text-sm md:text-base hidden sm:inline">Từ điển</span>
+    </button>
+
+    <!-- Cửa sổ pop-up từ điển -->
+    <div id="dictionary-popup"
+        class="fixed inset-0 z-50 flex items-center justify-center bg-black/80 backdrop-blur-sm hidden p-2 sm:p-4">
+        <div
+            class="bg-gray-800 p-4 sm:p-6 rounded-xl shadow-2xl max-w-sm sm:max-w-lg w-full mx-2 sm:mx-4 border-2 border-accent-color max-h-[90vh] overflow-hidden flex flex-col">
+            <div class="flex justify-between items-center mb-3 sm:mb-4">
+                <h4 class="text-base sm:text-lg font-bold text-accent-color">Tìm từ vựng</h4>
+                <button class="text-white hover:text-gray-400 transition-colors" onclick="toggleDictionaryPopup()">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 sm:h-6 sm:w-6" fill="none"
+                        viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M6 18L18 6M6 6l12 12" />
+                    </svg>
+                </button>
+            </div>
+            <input type="text" id="vocabulary-search" placeholder="Nhập từ cần tìm..."
+                class="w-full p-2 sm:p-3 rounded-lg bg-gray-700 text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-accent-color text-sm sm:text-base">
+            <div id="vocabulary-results" class="mt-3 sm:mt-4 flex-1 overflow-y-auto no-scrollbar">
+                <p class="text-gray-400 text-center py-3 sm:py-4 text-sm sm:text-base">Kết quả tìm kiếm sẽ hiển thị tại
+                    đây.</p>
+            </div>
+        </div>
     </div>
     <script src="script.js"></script>
-    <script src="chapter.js"></script>
 </body>
-
 </html>

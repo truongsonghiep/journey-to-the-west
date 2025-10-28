@@ -1,0 +1,503 @@
+[
+    {
+        "number": "Chapter 001",
+        "title": "The divine root conceives, its source revealed; Mind and nature nurtured, the Great Dao is born.",
+        "link": "chapters/markdown/chapter_001.md"
+    },
+    {
+        "number": "Chapter 002",
+        "title": "Fully awoke to Bodhi’s wondrous truths; He cuts off Māra, returns to the root, and joins Primal Spirit.",
+        "link": "chapters/markdown/chapter_002.md"
+    },
+    {
+        "number": "Chapter 003",
+        "title": "Four Seas and a Thousand Mountains all bow to submit; From Ninefold Darkness ten species’ names are removed.",
+        "link": "chapters/markdown/chapter_003.md"
+    },
+    {
+        "number": "Chapter 004",
+        "title": "Appointed a Ban-Horse, could he be content? Named Equal to Heaven, he’s still not appeased.",
+        "link": "chapters/markdown/chapter_004.md"
+    },
+    {
+        "number": "Chapter 005",
+        "title": "Disrupting the Peach Festival, the Great Sage steals elixir; With revolt in Heaven, many gods would seize the fiend.",
+        "link": "chapters/markdown/chapter_005.md"
+    },
+    {
+        "number": "Chapter 006",
+        "title": "Guanyin, attending the banquet, inquires into the cause; The Little Sage, exerting his power, subdues the Great Sage.",
+        "link": "chapters/markdown/chapter_006.md"
+    },
+    {
+        "number": "Chapter 007",
+        "title": "From the Eight Trigrams Brazier the Great Sage escapes; Beneath the Five Phases Mountain, Mind Monkey is still.",
+        "link": "chapters/markdown/chapter_007.md"
+    },
+    {
+        "number": "Chapter 008",
+        "title": "Our Buddha makes scriptures to impart ultimate bliss; Guanyin receives the decree to go up to Chang’an.",
+        "link": "chapters/markdown/chapter_008.md"
+    },
+    {
+        "number": "Chapter 009",
+        "title": "Chen Guangrui, going to his post, meets disaster; Monk River Float, avenging his parents, repays his roots.",
+        "link": "chapters/markdown/chapter_009.md"
+    },
+    {
+        "number": "Chapter 010",
+        "title": "The Old Dragon King’s foolish schemes transgress Heaven’s decrees; Prime Minister Wei’s letter seeks help from an official of the dead.",
+        "link": "chapters/markdown/chapter_010.md"
+    },
+    {
+        "number": "Chapter 011",
+        "title": "Having toured the Underworld, Taizong returns to life; Having presented melons and fruits, Liu Quan marries again.",
+        "link": "chapters/markdown/chapter_011.md"
+    },
+    {
+        "number": "Chapter 012",
+        "title": "The Tang emperor, firmly sincere, convenes a Grand Mass; Guanyin, in epiphany, converts Gold Cicada.",
+        "link": "chapters/markdown/chapter_012.md"
+    },
+    {
+        "number": "Chapter 013",
+        "title": "In the den of tigers, the Gold Star brings deliverance; At Double-Fork Ridge, Boqin detains the monk.",
+        "link": "chapters/markdown/chapter_013.md"
+    },
+    {
+        "number": "Chapter 014",
+        "title": "Mind Monkey returns to the Right; The Six Robbers vanish from sight.",
+        "link": "chapters/markdown/chapter_014.md"
+    },
+    {
+        "number": "Chapter 015",
+        "title": "At Serpent Coil Mountain, the gods give secret protection; At Eagle Grief Stream, the Horse of the Will is reined.",
+        "link": "chapters/markdown/chapter_015.md"
+    },
+    {
+        "number": "Chapter 016",
+        "title": "At Guanyin Hall the monks plot for the treasure; At Black Wind Mountain a monster steals the cassock.",
+        "link": "chapters/markdown/chapter_016.md"
+    },
+    {
+        "number": "Chapter 017",
+        "title": "Pilgrim Sun greatly disturbs the Black Wind Mountain; Guanshiyin brings to submission the bear monster.",
+        "link": "chapters/markdown/chapter_017.md"
+    },
+    {
+        "number": "Chapter 018",
+        "title": "At Guanyin Hall the Tang Monk leaves his ordeal; At Gao Village the Great Sage casts out the monster.",
+        "link": "chapters/markdown/chapter_018.md"
+    },
+    {
+        "number": "Chapter 019",
+        "title": "At Cloudy Paths Cave, Wukong takes in Eight Rules; At Pagoda Mountain, Tripitaka receives the Heart Sūtra.",
+        "link": "chapters/markdown/chapter_019.md"
+    },
+    {
+        "number": "Chapter 020",
+        "title": "At Yellow Wind Ridge the Tang Monk meets adversity; In mid-mountain, Eight Rules strives to be first.",
+        "link": "chapters/markdown/chapter_020.md"
+    },
+    {
+        "number": "Chapter 021",
+        "title": "The Vihārapālas prepare lodging for the Great Sage; Lingji of Sumeru crushes the wind demon.",
+        "link": "chapters/markdown/chapter_021.md"
+    },
+    {
+        "number": "Chapter 022",
+        "title": "Eight Rules fights fiercely at the Flowing-Sand River; Mokṣa by order receives Wujing’s submission.",
+        "link": "chapters/markdown/chapter_022.md"
+    },
+    {
+        "number": "Chapter 023",
+        "title": "Tripitaka does not forget his origin; The Four Sages test the priestly mind.",
+        "link": "chapters/markdown/chapter_023.md"
+    },
+    {
+        "number": "Chapter 024",
+        "title": "At Long Life Mountain the Great Immortal detains his old friend; At Five Villages Abbey, Pilgrim steals the ginseng fruit.",
+        "link": "chapters/markdown/chapter_024.md"
+    },
+    {
+        "number": "Chapter 025",
+        "title": "The Zhenyuan Immortal gives chase to catch the scripture monk; Pilgrim Sun greatly disturbs Five Villages Abbey.",
+        "link": "chapters/markdown/chapter_025.md"
+    },
+    {
+        "id": 26,
+        "number": "Chapter 026",
+        "title": "Amid the Three Islands Sun Wukong seeks a cure; With sweet dew Guanshiyin revives a tree.",
+        "link": "chapter-reader.html?chapter=26"
+    },
+    {
+        "number": "Chapter 027",
+        "title": "The cadaver demon three times mocks Tripitaka Tang; The holy monk in spite banishes Handsome Monkey King.",
+        "link": "chapter-reader.html?chapter=27"
+    },
+    {
+        "number": "Chapter 028",
+        "title": "At Flower-Fruit Mountain a pack of fiends hold assembly; At the Black Pine Forest Tripitaka meets demons.",
+        "link": "chapter-reader.html?chapter=28"
+    },
+    {
+        "number": "Chapter 029",
+        "title": "Free of his peril, River Float arrives at the kingdom; Receiving favor, Eight Rules invades the forest.",
+        "link": "chapter-reader.html?chapter=29"
+    },
+    {
+        "number": "Chapter 030",
+        "title": "A deviant demon attacks the true Dharma; The Horse of the Will recalls Mind Monkey.",
+        "link": "chapter-reader.html?chapter=30"
+    },
+    {
+        "number": "Chapter 031",
+        "title": "Zhu Eight Rules provokes the Monkey King to chivalry; Pilgrim Sun with wisdom defeats the monster.",
+        "link": "chapter-reader.html?chapter=31"
+    },
+    {
+        "number": "Chapter 032",
+        "title": "On Level-Top Mountain the sentinel brings a message; At Lotus-Flower Cave Wood Mother meets disaster.",
+        "link": "chapter-reader.html?chapter=32"
+    },
+    {
+        "number": "Chapter 033",
+        "title": "Heresy deludes the True Nature; Primal Spirit helps the Native Mind.",
+        "link": "chapter-reader.html?chapter=33"
+    },
+    {
+        "number": "Chapter 034",
+        "title": "The demon king’s plotting entraps Mind Monkey; The Great Sage, ever adroit, wangles the treasures.",
+        "link": "chapter-reader.html?chapter=34"
+    },
+    {
+        "number": "Chapter 035",
+        "title": "Heresy uses power to oppress the proper Nature; Mind Monkey, bagging treasures, conquers deviate demons.",
+        "link": "chapter-reader.html?chapter=35"
+    },
+    {
+        "number": "Chapter 036",
+        "title": "When Mind Monkey is rectified, the nidānas cease; Smash through the side door to view the bright moon.",
+        "link": "chapter-reader.html?chapter=36"
+    },
+    {
+        "number": "Chapter 037",
+        "title": "The ghost king visits Tripitaka Tang at night; Wukong, through wondrous transformation, leads the child.",
+        "link": "chapter-reader.html?chapter=37"
+    },
+    {
+        "number": "Chapter 038",
+        "title": "The child queries his mother to learn of deviancy and truth; Metal and Wood, reaching the deep, see the false and the real.",
+        "link": "chapter-reader.html?chapter=38"
+    },
+    {
+        "number": "Chapter 039",
+        "title": "One pellet of cinnabar elixir found in Heaven; A king, dead three years, lives again on Earth.",
+        "link": "chapter-reader.html?chapter=39"
+    },
+    {
+        "number": "Chapter 040",
+        "title": "The child’s playful transformations confuse the Chan Mind; Ape, Horse, Spatula gone, Wood Mother, too, is lost.",
+        "link": "chapter-reader.html?chapter=40"
+    },
+    {
+        "number": "Chapter 041",
+        "title": "Mind Monkey is defeated by fire; Wood Mother is captured by demons.",
+        "link": "chapter-reader.html?chapter=41"
+    },
+    {
+        "number": "Chapter 042",
+        "title": "The Great Sage diligently calls at South Sea; Guanyin with compassion binds the Red Boy.",
+        "link": "chapter-reader.html?chapter=42"
+    },
+    {
+        "number": "Chapter 043",
+        "title": "An evil demon at Black River captures the monk; The Western Ocean’s dragon prince catches the iguana.",
+        "link": "chapter-reader.html?chapter=43"
+    },
+    {
+        "number": "Chapter 044",
+        "title": "The dharma-body in primal cycle meets the force of the cart; The mind, righting monstrous deviates, crosses the spine-ridge pass.",
+        "link": "chapter-reader.html?chapter=44"
+    },
+    {
+        "number": "Chapter 045",
+        "title": "At the Three Pure Ones Abbey the Great Sage leaves his name; At the Cart Slow Kingdom the Monkey King shows his power.",
+        "link": "chapter-reader.html?chapter=45"
+    },
+    {
+        "number": "Chapter 046",
+        "title": "Heresy flaunts its strength to mock orthodoxy; Mind Monkey in epiphany slays the deviates.",
+        "link": "chapter-reader.html?chapter=46"
+    },
+    {
+        "number": "Chapter 047",
+        "title": "The holy monk’s blocked at night at Heaven-Reaching River; Metal and Wood, in compassion, rescue little children.",
+        "link": "chapter-reader.html?chapter=47"
+    },
+    {
+        "number": "Chapter 048",
+        "title": "The demon, raising a cold wind, sends a great snow fall; The monk, intent on seeing Buddha, walks on layered ice.",
+        "link": "chapter-reader.html?chapter=48"
+    },
+    {
+        "number": "Chapter 049",
+        "title": "Tripitaka meets disaster and sinks to a water home; To bring salvation, Guanyin reveals a fish basket.",
+        "link": "chapter-reader.html?chapter=49"
+    },
+    {
+        "number": "Chapter 050",
+        "title": "Nature follows confused feelings through lust and desire; Faint spirit and moved mind meet a demon chief.",
+        "link": "chapter-reader.html?chapter=50"
+    },
+    {
+        "number": "Chapter 051",
+        "title": "Mind Monkey in vain uses a thousand tricks; Futile water and fire makes it hard to smelt demons.",
+        "link": "chapter-reader.html?chapter=51"
+    },
+    {
+        "number": "Chapter 052",
+        "title": "Wukong greatly disturbed the Golden Helmet Cave; Tathāgata reveals in secret the true master.",
+        "link": "chapter-reader.html?chapter=52"
+    },
+    {
+        "number": "Chapter 053",
+        "title": "Imbibing, the Chan Lord conceives a ghostly child; Yellow Dame brings water to end the weird fetus.",
+        "link": "chapter-reader.html?chapter=53"
+    },
+    {
+        "number": "Chapter 054",
+        "title": "Dharma-nature, going west, reaches the Women State; Mind Monkey makes a plan to flee the fair sex.",
+        "link": "chapter-reader.html?chapter=54"
+    },
+    {
+        "number": "Chapter 055",
+        "title": "Deviant form makes lustful play for Tripitaka Tang; Upright nature safeguards the untainted self.",
+        "link": "chapter-reader.html?chapter=55"
+    },
+    {
+        "number": "Chapter 056",
+        "title": "Wild Spirit slays brutish bandits; Wayward Way sets loose Mind Monkey.",
+        "link": "chapter-reader.html?chapter=56"
+    },
+    {
+        "number": "Chapter 057",
+        "title": "True Pilgrim lays bare his woes at Mount Potalaka; False Monkey King transcribes texts at Water-Curtain Cave.",
+        "link": "chapter-reader.html?chapter=57"
+    },
+    {
+        "number": "Chapter 058",
+        "title": "Two Minds cause disorder in the great cosmos; It’s hard for one body to realize true Nirvāṇa.",
+        "link": "chapter-reader.html?chapter=58"
+    },
+    {
+        "number": "Chapter 059",
+        "title": "Tripitaka Tang’s path is blocked at Mountain of Flames; Pilgrim Sun baits for the first time the palm-leaf fan.",
+        "link": "chapter-reader.html?chapter=59"
+    },
+    {
+        "number": "Chapter 060",
+        "title": "Bull Demon King stops fighting to attend a lavish feast; Pilgrim Sun baits for the second time the palm-leaf fan.",
+        "link": "chapter-reader.html?chapter=60"
+    },
+    {
+        "number": "Chapter 061",
+        "title": "Zhu Eight Rules assists in defeating the demon king; Pilgrim Sun baits for the third time the palm-leaf fan.",
+        "link": "chapter-reader.html?chapter=61"
+    },
+    {
+        "number": "Chapter 062",
+        "title": "To wash off filth, to bathe the mind, just sweep a pagoda; To bind demons and return to the lord is self-cultivation.",
+        "link": "chapter-reader.html?chapter=62"
+    },
+    {
+        "number": "Chapter 063",
+        "title": "Two monks, quelling fiends, disturb the dragon palace; The sages, destroying deviates, acquire the treasures.",
+        "link": "chapter-reader.html?chapter=63"
+    },
+    {
+        "number": "Chapter 064",
+        "title": "At Bramble Ridge Wuneng exerted great effort; At Shrine of Sylvan Immortals Tripitaka discusses poetry.",
+        "link": "chapter-reader.html?chapter=64"
+    },
+    {
+        "number": "Chapter 065",
+        "title": "Fiends set up falsely the Small Thunderclap; The four pilgrims all meet a great ordeal.",
+        "link": "chapter-reader.html?chapter=65"
+    },
+    {
+        "number": "Chapter 066",
+        "title": "Many gods meet injury; Maitreya binds a fiend.",
+        "link": "chapter-reader.html?chapter=66"
+    },
+    {
+        "number": "Chapter 067",
+        "title": "Having rescued Tuoluo, Chan Nature is secure; Escaping filthiness, the Mind of Dao is pure.",
+        "link": "chapter-reader.html?chapter=67"
+    },
+    {
+        "number": "Chapter 068",
+        "title": "At Scarlet-Purple Kingdom the Tang Monk speaks of past eras; Pilgrim Sun performs on an arm broken in three places.",
+        "link": "chapter-reader.html?chapter=68"
+    },
+    {
+        "number": "Chapter 069",
+        "title": "At night the Lord of the Mind refines medicines; At a banquet the king speaks of the perverse fiend.",
+        "link": "chapter-reader.html?chapter=69"
+    },
+    {
+        "number": "Chapter 070",
+        "title": "The monstrous demon’s treasures release smoke, sand, and fire; Wukong by stratagem steals the purple-gold bells.",
+        "link": "chapter-reader.html?chapter=70"
+    },
+    {
+        "number": "Chapter 071",
+        "title": "By a false name Pilgrim defeats the fiendish wolf; In epiphany Guanyin subdues the monster-king.",
+        "link": "chapter-reader.html?chapter=71"
+    },
+    {
+        "number": "Chapter 072",
+        "title": "At Cobweb Cave Seven Passions delude the Origin; At Purgation Spring Eight Rules forgets all manners.",
+        "link": "chapter-reader.html?chapter=72"
+    },
+    {
+        "number": "Chapter 073",
+        "title": "Passions, because of old enmity, beget calamity; Demon-trapped, the Mind Lord with luck breaks the light.",
+        "link": "chapters/markdown/chapter_073.md"
+    },
+    {
+        "number": "Chapter 074",
+        "title": "Long Life reports how vicious the demons are; Pilgrim displays his transformation power.",
+        "link": "chapter-reader.html?chapter=74"
+    },
+    {
+        "number": "Chapter 075",
+        "title": "Mind Monkey drills through the yin-yang body; Demon lords return to the true great Way.",
+        "link": "chapter-reader.html?chapter=75"
+    },
+    {
+        "number": "Chapter 076",
+        "title": "Mind-Spirit dwells at home, and demons revert to nature; Wood Mother together subdues the fiend’s true self.",
+        "link": "chapter-reader.html?chapter=76"
+    },
+    {
+        "number": "Chapter 077",
+        "title": "A horde of demons affront native Nature; The One Body bows to True Suchness.",
+        "link": "chapter-reader.html?chapter=77"
+    },
+    {
+        "number": "Chapter 078",
+        "title": "At Bhikṣu he pities the infants and summons the night gods; In the golden hall he knows the demon speaking on the way and virtue.",
+        "link": "chapter-reader.html?chapter=78"
+    },
+    {
+        "number": "Chapter 079",
+        "title": "Searching the cave for the fiend he meets Long Life; The proper lord of the court sees the babies.",
+        "link": "chapter-reader.html?chapter=79"
+    },
+    {
+        "number": "Chapter 080",
+        "title": "The fair girl, nursing the yang, seeks a mate; Mind Monkey, guarding his master, knows a monster.",
+        "link": "chapter-reader.html?chapter=80"
+    },
+    {
+        "number": "Chapter 081",
+        "title": "At Sea-Pacifying Monastery Mind Monkey knows the fiend; In the black pine forest three pupils search for their master.",
+        "link": "chapter-reader.html?chapter=81"
+    },
+    {
+        "number": "Chapter 082",
+        "title": "The fair girl seeks the yang; Primal spirit guards the Way.",
+        "link": "chapter-reader.html?chapter=82"
+    },
+    {
+        "number": "Chapter 083",
+        "title": "Mind Monkey knows the elixir source; Fair girl returns to her true nature.",
+        "link": "chapter-reader.html?chapter=83"
+    },
+    {
+        "number": "Chapter 084",
+        "title": "“Priests are hard to destroy” completes great awakening; The Dharma-king attains the right, his body’s naturalized.",
+        "link": "chapter-reader.html?chapter=84"
+    },
+    {
+        "number": "Chapter 085",
+        "title": "Mind Monkey envies Wood Mother; The demon lord plots to devour Chan.",
+        "link": "chapter-reader.html?chapter=85"
+    },
+    {
+        "number": "Chapter 086",
+        "title": "Wood Mother, lending power, conquers the fiendish creature; Metal Squire, using his magic, extirpates the deviates.",
+        "link": "chapter-reader.html?chapter=86"
+    },
+    {
+        "number": "Chapter 087",
+        "title": "The Phoenix-Immortal Prefecture offends Heaven and suffers drought; The Great Sage Sun advocates virtue and provides rain.",
+        "link": "chapter-reader.html?chapter=87"
+    },
+    {
+        "number": "Chapter 088",
+        "title": "Reaching Jade-Flower, Chan convenes an assembly; Mind Monkey, Wood, and Earth instruct disciples.",
+        "link": "chapter-reader.html?chapter=88"
+    },
+    {
+        "number": "Chapter 089",
+        "title": "The yellow lion-spirit in vain gives the Muckrake Feast; Gold, Wood, and Earth disturb with a scheme Mount Leopard’s Head.",
+        "link": "chapter-reader.html?chapter=89"
+    },
+    {
+        "number": "Chapter 090",
+        "title": "Masters and lions, teachers and pupils, all return to the One; Thieves and the Dao, snares and Buddhism, quiet Ninefold-Numina.",
+        "link": "chapter-reader.html?chapter=90"
+    },
+    {
+        "number": "Chapter 091",
+        "title": "At Gold-Level Prefecture they watch lanterns on the fifteenth night; In Mysterious Flower Cave the Tang Monk makes a deposition.",
+        "link": "chapter-reader.html?chapter=91"
+    },
+    {
+        "number": "Chapter 092",
+        "title": "Three priests fight fiercely at Green Dragon Mountain; Four Stars help to capture rhinoceros fiends.",
+        "link": "chapter-reader.html?chapter=92"
+    },
+    {
+        "number": "Chapter 093",
+        "title": "At Jetavana Park he asks the aged about the cause; At the Kingdom of India he sees the king and meets his mate.",
+        "link": "chapter-reader.html?chapter=93"
+    },
+    {
+        "number": "Chapter 094",
+        "title": "Four priests are feted at the royal garden; One fiend vainly longs for sensual joys.",
+        "link": "chapter-reader.html?chapter=94"
+    },
+    {
+        "number": "Chapter 095",
+        "title": "Falsely assuming true form, the jade hare’s caught; True Yin returns to the right to join Numinous Source.",
+        "link": "chapter-reader.html?chapter=95"
+    },
+    {
+        "number": "Chapter 096",
+        "title": "Squire Kou gladly receives a noble priest; The elder Tang does not covet riches.",
+        "link": "chapter-reader.html?chapter=96"
+    },
+    {
+        "number": "Chapter 097",
+        "title": "Gold-dispensing external aid meets demonic harm; The sage reveals his soul to bring restoration.",
+        "link": "chapter-reader.html?chapter=97"
+    },
+    {
+        "number": "Chapter 098",
+        "title": "Only when ape and horse are tamed will shells be cast; With merit and work perfected, they see the Real.",
+        "link": "chapter-reader.html?chapter=98"
+    },
+    {
+        "number": "Chapter 099",
+        "title": "Nine times nine ends the count and Māra’s all destroyed; The work of three times three done, the Dao reverts to its root.",
+        "link": "chapter-reader.html?chapter=99"
+    },
+    {
+        "number": "Chapter 100",
+        "title": "They return to the Land of the East; Five sages become perfected.",
+        "link": "chapter-reader.html?chapter=100"
+    }
+]
