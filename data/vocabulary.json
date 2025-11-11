@@ -1943,7 +1943,7 @@
     {
         "word": "tremendous",
         "part_of_speech": "adjective",
-        "definition": "ghê sợ, to lớn"
+        "definition": "ghê sợ, to lớn, dữ dội, khủng khiếp"
     },
     {
         "word": "again and again",
@@ -2454,11 +2454,6 @@
         "word": "residence",
         "part_of_speech": "noun",
         "definition": "nơi ở, nơi cư trú"
-    },
-    {
-        "word": "errect",
-        "part_of_speech": "verb",
-        "definition": "dựng nên"
     },
     {
         "word": "mount",
@@ -4049,6 +4044,11 @@
         "word": "lustful",
         "part_of_speech": "adjective",
         "definition": "Đầy dâm dục, ham muốn xác thịt"
+    },
+    {
+        "word": "lust",
+        "part_of_speech": "noun",
+        "definition": "sự ham muốn, dục vọng"
     },
     {
         "word": "shout",
@@ -6639,5 +6639,310 @@
         "word": "barbarian",
         "part_of_speech": "noun",
         "definition": "kẻ man rợ, người dã man"
+    },
+    {
+        "word": "turbid",
+        "part_of_speech": "adjective",
+        "definition": "đục, bẩn (nước)"
+    },
+    {
+        "word": "the arrival of ...",
+        "part_of_speech": "",
+        "definition": "sự xuất hiện của..."
+    },
+    {
+        "word": "other + time",
+        "part_of_speech": "",
+        "definition": "thêm xxx sau"
+    },
+    {
+        "word": "intercourse",
+        "part_of_speech": "noun",
+        "definition": "sự giao hợp"
+    },
+    {
+        "word": "fowl",
+        "part_of_speech": "noun",
+        "definition": "chim, gia cầm"
+    },
+    {
+        "word": "correspond to",
+        "part_of_speech": "verb",
+        "definition": "tương ứng với"
+    },
+    {
+        "word": "upon + N/Ving",
+        "part_of_speech": "",
+        "definition": "ngay khi, ngay sau khi"
+    },
+    {
+        "word": "V + about",
+        "part_of_speech": "verb",
+        "definition": "xung quanh, quanh quẩn, khắp nơi"
+    },
+    {
+        "word": "shrub",
+        "part_of_speech": "noun",
+        "definition": "cây bụi"
+    },
+    {
+        "word": "feed on sth",
+        "part_of_speech": "verb",
+        "definition": "ăn / sống nhờ vào / tiêu thụ (một loại thức ăn cụ thể)"
+    },
+    {
+        "word": "afterward",
+        "part_of_speech": "adverb",
+        "definition": "sau đó"
+    },
+    {
+        "word": "splendid",
+        "part_of_speech": "adjective",
+        "definition": "tuyệt vời, lộng lẫy"
+    },
+    {
+        "word": "henceforth",
+        "part_of_speech": "adverb",
+        "definition": "từ nay về sau"
+    },
+    {
+        "word": "stubborn",
+        "part_of_speech": "adjective",
+        "definition": "bướng bỉnh, ngoan cố"
+    },
+    {
+        "word": "radical",
+        "part_of_speech": "adjective",
+        "definition": "căn bản, triệt để"
+    },
+    {
+        "word": "erect",
+        "part_of_speech": "verb",
+        "definition": "dựng lên"
+    },
+    {
+        "word": "snap",
+        "part_of_speech": "verb",
+        "definition": "búng"
+    },
+    {
+        "word": "scurry",
+        "part_of_speech": "verb",
+        "definition": "chạy vụt qua, chạy nhanh, chạy quanh"
+    },
+    {
+        "word": "boneheader",
+        "part_of_speech": "adjective",
+        "definition": "ngu ngốc, khờ dại"
+    },
+    {
+        "word": "someone's lot/the lot of someone",
+        "part_of_speech": "phrase",
+        "definition": "cuộc đời/số phận của ai đó"
+    },
+    {
+        "word": "run rampant",
+        "part_of_speech": "idiom",
+        "definition": "tràn lan, hoành hành"
+    },
+    {
+        "word": "unite",
+        "part_of_speech": "verb",
+        "definition": "hợp nhất, đoàn kết"
+    },
+    {
+        "word": "disperse",
+        "part_of_speech": "verb",
+        "definition": "phân tán, giải tán"
+    },
+    {
+        "word": "brave",
+        "part_of_speech": "verb",
+        "definition": "đương đầu với, bất chấp"
+    },
+    {
+        "word": "take heed of",
+        "part_of_speech": "verb",
+        "definition": "chú ý đến, lưu ý đến"
+    },
+    {
+        "word": "swish",
+        "part_of_speech": "noun",
+        "definition": "tiếng ào ào, tiếng vù vù"
+    },
+    {
+        "word": "covet/coveting/coveted",
+        "part_of_speech": "verb",
+        "definition": "thèm muốn, khao khát"
+    },
+    {
+        "word": "bravado",
+        "part_of_speech": "noun",
+        "definition": "sự khoe khoang, sự tự phụ"
+    },
+    {
+        "word": "kilt",
+        "part_of_speech": "noun",
+        "definition": "váy nam"
+    },
+    {
+        "word": "laxity of mind",
+        "part_of_speech": "noun",
+        "definition": "sự lơ là, lơ đãng"
+    },
+    {
+        "word": "florid",
+        "part_of_speech": "adjective",
+        "definition": "hồng hào, tươi như hoa"
+    },
+    {
+        "word": "eloquent",
+        "part_of_speech": "adjective",
+        "definition": "hùng hồn, có khả năng hùng biện  "
+    },
+    {
+        "word": "Sacrifice Kingdom",
+        "part_of_speech": "noun",
+        "definition": "Nước Tế Trại (tên nước)"
+    },
+    {
+        "word": "glide",
+        "part_of_speech": "verb",
+        "definition": "lướt đi, trượt đi"
+    },
+    {
+        "word": "fog",
+        "part_of_speech": "noun",
+        "definition": "sương mù"
+    },
+    {
+        "word": "will to fight",
+        "part_of_speech": "noun",
+        "definition": "ý chí chiến đấu"
+    },
+    {
+        "word": "wreckage",
+        "part_of_speech": "noun",
+        "definition": "đống đổ nát"
+    },
+    {
+        "word": "fight one's way",
+        "part_of_speech": "verb",
+        "definition": "chiến đấu để mở đường, chiến đấu để tiến lên"
+    },
+    {
+        "word": "unboundedly",
+        "part_of_speech": "adverb",
+        "definition": "một cách không giới hạn"
+    },
+    {
+        "word": "lagoon",
+        "part_of_speech": "noun",
+        "definition": "đầm phá"
+    },
+    {
+        "word": "yield",
+        "part_of_speech": "verb",
+        "definition": "nhường nhịn, chịu thua"
+    },
+    {
+        "word": "plunge",
+        "part_of_speech": "verb",
+        "definition": "nhấn chìm, lao xuống"
+    },
+    {
+        "word": "collect oneself",
+        "part_of_speech": "verb",
+        "definition": "lấy lại bình tĩnh, lấy lại sự tự chủ"
+    },
+    {
+        "word": "fracture",
+        "part_of_speech": "verb",
+        "definition": "làm gãy, làm nứt"
+    },
+    {
+        "word": "This Solitary One",
+        "part_of_speech": "noun",
+        "definition": "Quả nhân"
+    },
+    {
+        "word": "astride",
+        "part_of_speech": "verb",
+        "definition": "cưỡi trên, ngồi chễm chệ trên"
+    },
+    {
+        "word": "razor",
+        "part_of_speech": "noun",
+        "definition": "dao cạo"
+    },
+    {
+        "word": "wag / wagging / wagged",
+        "part_of_speech": "verb",
+        "definition": "vẫy đuôi"
+    },
+    {
+        "word": "throng",
+        "part_of_speech": "noun",
+        "definition": "đám đông, đám người"
+    },
+    {
+        "word": "hound",
+        "part_of_speech": "noun",
+        "definition": "chó săn"
+    },
+    {
+        "word": "ample",
+        "part_of_speech": "adjective",
+        "definition": "rộng rãi, phong phú"
+    },
+    {
+        "word": "cherish",
+        "part_of_speech": "verb",
+        "definition": "yêu thương, trân trọng"
+    },
+    {
+        "word": "smite",
+        "part_of_speech": "verb",
+        "definition": "đánh mạnh, đập mạnh, trừng phạt"
+    },
+    {
+        "word": "exterminate",
+        "part_of_speech": "verb",
+        "definition": "tận diệt"
+    },
+    {
+        "word": "posterity",
+        "part_of_speech": "noun",
+        "definition": "hậu thế, thế hệ mai sau"
+    },
+    {
+        "word": "steadfastly",
+        "part_of_speech": "adverb",
+        "definition": "kiên định, vững vàng"
+    },
+    {
+        "word": "wangle",
+        "part_of_speech": "verb",
+        "definition": "sử dụng mánh khoé để đạt được cái gì đó"
+    },
+    {
+        "word": "relic",
+        "part_of_speech": "noun",
+        "definition": "di vật, cổ vật"
+    },
+    {
+        "word": "therewith",
+        "part_of_speech": "adverb",
+        "definition": "cùng với điều đó"
+    },
+    {
+        "word": "agaric",
+        "part_of_speech": "noun",
+        "definition": "nấm agaric (một loại nấm dược liệu)"
+    },
+    {
+        "word": "perpetual",
+        "part_of_speech": "adjective",
+        "definition": "vĩnh viễn, mãi mãi, không ngừng"
     }
 ]

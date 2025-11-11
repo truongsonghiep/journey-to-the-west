@@ -12,8 +12,7 @@ We were telling you about the Zhenyuan Great Immortal, who grabbed Pilgrim and s
 
 “Dear Sir!” said Pilgrim, laughing. “How petty you are! If you want the tree revived, there's no problem. If you had said so in the first place, we would have been spared this conflict.”
 
-“No conflict!” said the Great Immortal.  
- “You think I would let you get away with what you have done?”
+“No conflict!” said the Great Immortal. “You think I would let you get away with what you have done?”
 
 “Untie my master,” said Pilgrim,  
  “and I'll give you back a living tree. How's that?”

@@ -1,6 +1,3 @@
-SIXTY-FOUR
-At Bramble Ridge Wuneng exerted great effort
-At Shrine of Sylvan Immortals Tripitaka discusses poetry
 We were telling you about the king of the Sacrifice Kingdom, who expressed his
 thanks to Tripitaka Tang and his disciples for recovering the treasure and capturing the
 fiends by offerings of jade and gold to them, which they refused to accept. The king

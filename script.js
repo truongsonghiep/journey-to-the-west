@@ -119,13 +119,13 @@ async function loadChapter(chapterNumber) {
         if (!md.trim()) throw new Error('Empty content');
         const html = markdownParser.parse(md);
         const title = await loadChapterTitle(chapterNumber);
-        document.getElementById('chapter-title').innerHTML = title;
+        document.getElementById('chapter-title').innerHTML = title.replace(';', '<br>');
         if (storyEl) storyEl.innerHTML = html;
         const info = document.getElementById('chapter-info'); if (info) info.textContent = `Chương ${chapterNumber}`;
         document.title = `Chương ${chapterNumber} - Tây Du Ký`;
         const url = new URL(window.location); url.searchParams.set('chapter', chapterNumber); window.history.pushState({}, '', url);
     } catch (err) {
-        if (storyEl) storyEl.innerHTML = `<div class="error-message"><h3>❌ Không thể tải chương ${chapterNumber}</h3><p>${err.message}</p><p><button onclick="showChapterView(${chapterNumber})" class="mt-2 px-3 py-1 bg-blue-600 text-white rounded">Thử lại</button></p></div>`;
+        if (storyEl) storyEl.innerHTML = `<div class="error-message"><h3>Không thể tải chương ${chapterNumber}</h3><p>${err.message}</p><p><button onclick="showChapterView(${chapterNumber})" class="mt-2 px-3 py-1 bg-blue-600 text-white rounded">Thử lại</button></p></div>`;
         console.error(err);
     } finally {
         hideLoadingState();
